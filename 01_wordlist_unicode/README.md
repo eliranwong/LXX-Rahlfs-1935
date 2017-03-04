@@ -8,8 +8,8 @@ KoineGreek.ttf - font file to work with file "text_koine.csv"<br />
 <br />
 Remarks on aligning data with Open Scriptures Septuagint Project:<br />
 <br />
-Total number lines of Greek words in original LXXM: 623685<br />
-Total number lines of keys in Open Scriptures Septuagint Project: 623693<br />
+Total number of Greek words (each on a single line) in original LXXM: 623685<br />
+Total number of keys (each on a single line) in Open Scriptures Septuagint Project: 623693<br />
 <br />
 The difference is due to splitting of several words in Open Scriptures Septuagint Project.<br />
 Data in this repository are arranged in alignment with Open Scriptures Septuagint Project.<br />
