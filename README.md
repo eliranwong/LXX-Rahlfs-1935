@@ -6,7 +6,7 @@
 03. generate a dictionary file to describe morphological codes in LXXM<br />
 04. generate a dataset on modern Greek pronunciation for the whole text<br />
 05. generate a dataset on interlinear English gloss for the whole text<br />
-- work out differences between LXX and KJV versifications<br />
+06. work out differences between LXX and KJV versifications<br />
 - relate CATSS data with ETCBC data on Hebrew bible<br />
 - generate a sqlite database<br />
 - create end-users file for use in bible software(s) / application(s)<br />
