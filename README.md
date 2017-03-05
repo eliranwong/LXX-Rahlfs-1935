@@ -3,7 +3,7 @@
 <b>Objectives:</b><br />
 01. generate word lists of LXX (Rahlfs, 1935) in unicode characters (accented and unaccented)<br />
 02. integrate data available at Open Scripture Septuagint Project; check and correct data if necessary<br />
-03. generate a dictionary file to describe morphological codes in LXXM<br />
+03. generate a dictionary file to describe morphological codes in LXXM; integrate James Tauber's work <a href='https://github.com/jtauber/greek-inflexion'>HERE</a><br />
 04. generate a dataset on modern Greek pronunciation for the whole text<br />
 05. generate a dataset on interlinear English gloss for the whole text<br />
 06. work out differences between LXX and KJV versifications<br />
