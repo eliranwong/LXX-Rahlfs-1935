@@ -4,21 +4,21 @@ s/$/ /g
 # convert diaeresis
 s/[ϊΐῒϋΰῢ]/＊/g
 # alphabet
-s/[αΑἀἈἄἌᾄἂἆἎἁἉἅἍᾅἃἋάᾴὰᾶᾷᾳ]/a/g
+s/[αΑἀἈἄἌᾄἂἆἎᾆᾀάάᾴὰᾶᾷᾳἁἉἅἍᾅἃἋ]/a/g
 s/[βΒ]/v/g
 s/[γΓ]/g/g
 s/[δΔ]/ð/g
-s/[εΕἐἘἔἜἑἙἕἝἓἛέὲ]/e/g
+s/[εΕἐἘἔἜέέὲἑἙἕἝἓἛ]/e/g
 s/[ζΖ]/z/g
-s/[ηΗἠἨἤἬᾔἢἪἦἮᾖᾐἡἩἥἭἣἧᾗᾑήῄὴῆῇῃ]/iy/g
+s/[ηΗἠἨἤἬᾔἢἪἦἮᾖᾐήήῄὴῆῇῃἡἩἥἭἣἧᾗᾑ]/iy/g
 s/[θΘ]/θ/g
-s/[ΙιἰἸἴἼἶἱἹἵἽἳἷίὶῖ]/iy/g
+s/[ιΙἰἸἴἼἶίίὶῖἱἹἵἽἳἷ]/iy/g
 s/[κΚ]/k/g
 s/[λΛ]/l/g
 s/[μΜ]/m/g
 s/[νΝ]/n/g
 s/[ξΞ]/ks/g
-s/[οΟὀὈὄὌὂὁὉὅὍὃὋόὸ]/o/g
+s/[οΟὀὈὄὌὂόόὸὁὉὅὍὃὋ]/o/g
 s/[πΠ]/p/g
 s/[ρΡῥῬ]/r/g
 s/	r/	rh/g
@@ -28,11 +28,11 @@ s/s([vgðmnr])/z\1/g
 # s/s ([vgðmnr])/z \1/g
 # check the word at the end of a line and the word at the beginning of next line, if necessary
 s/[τΤ]/t/g
-s/[υΥὐὔὒὖὑὙὕὝὓὗὟύὺῦ]/IY/g
+s/[υΥὐὔὒὖύύὺῦὑὙὕὝὓὗὟ]/IY/g
 s/[φΦ]/f/g
 s/[χΧ]/kh/g
 s/[ψΨ]/ps/g
-s/[ΩωὠὤὬὢὦὮᾠὡὩὥὭὧὯᾧώῴὼῶῷῳ]/o/g
+s/[ωΩὠὨὤὬᾤὢὦὮᾠώώῴὼῶῷῳὡὩὥὭὣὧὯᾧ]/o/g
 # diphthongs
 s/aiy/e/g
 s/eiy/iy/g
