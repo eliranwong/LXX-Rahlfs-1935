@@ -1,5 +1,7 @@
 # LXX-Rahlfs-1935
 
+<b>All work HERE is for NON-COMMERCIAL PURPOSE ONLY</b><br />
+<br />
 <b>Objectives:</b><br />
 01. generate word lists of LXX (Rahlfs, 1935) in unicode characters (accented, unaccented & koine)<br />
 02. integrate data available at Open Scripture Septuagint Project<br />
@@ -18,8 +20,8 @@
 <b>License:</b><br />
 main text used in this project is a derivative work sourced from website below:<br /> http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/<br />
 <br />
-As a measure to control access of data related to CCAT materials, users must agree to send CCAT user declarations before downloading any data from this repository.
-<br />
+As a measure to control access of data related to CCAT materials, users have to agree sending CCAT user declaration before downloading any data from this repository.  Please do not download if you do not agree.
+<br /><br />
 Due to the restrictive nature of the CCAT license, the original text
 of the Septuagint (in betacode format) may be downloaded from the CCAT website
 [here](http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/).<br />
