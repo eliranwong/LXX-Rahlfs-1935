@@ -1270,7 +1270,7 @@ s/『αντιπολιτευομαι』/to be a political opponent/g
 s/『αντιπρασσω』/to act against,<br>seek to counteract/g
 s/『αντιπροσωπος』/face to face/g
 s/『αντιπτωμα』/accident,<br>conflict/g
-s/『αντιρρησις』/「ἀντίρρησις｜N",<br>"src": "αντι/g
+s/『αντιρρησις』/controversy/g
 s/『αντιρρητορευω』/to speak against,<br>to answer/g
 s/『αντιστηριγμα』/support;<br>support/g
 s/『αντιστηριζω』/to lean for support upon/g
@@ -4156,7 +4156,7 @@ s/『εκβολος』/cast out of/g
 s/『εκβραζω』/to throw out/g
 s/『εκβρασμος』/trembling,<br>shaking/g
 s/『εκγελαω』/to laugh out,<br>laugh loud/g
-s/『εκγενναω』/「ἐκγεννάω｜V",<br>"src": "εκ/g
+s/『εκγενναω』/to beget,<br>bringforth/g
 s/『εκγονος』/a descendant/g
 s/『εκγραφω』/to write out/g
 s/『εκδανειζω』/to lend at interest/g
@@ -5284,7 +5284,7 @@ s/『επισυνεχω』/to take to oneself/g
 s/『επισυνιστημι』/to bring upon;<br>to conspire against/g
 s/『επισυστασις』/awareness,<br>an insurrection/g
 s/『επισυστρεφω』/to collect together/g
-s/『επισφαλλω』/「ἐπισφάλλω｜V",<br>"src": "επι/g
+s/『επισφαλλω』/dangerous,<br>risky/g
 s/『επισφαλως』/unstable/g
 s/『επισφραγιζω』/to put a seal on,<br>to confirm/g
 s/『επισχυω』/to force on/g
@@ -10320,7 +10320,7 @@ s/『περιθεμα』/cover,<br>wrapping/g
 s/『περιιπταμαι』/to fly over and around,<br>to flutter around/g
 s/『περιιστημι』/to stand around,<br>stand clear/g
 s/『περικαθαιρω』/「περικαθαίρω」/g
-s/『περικαθαριζω』/「περικαθαρίζω｜V",<br>"src": "περι/g
+s/『περικαθαριζω』/to cleanse,<br>to purge away/g
 s/『περικαθαρμα』/scum/g
 s/『περικαθημαι』/to be seated/g
 s/『περικαθιζω』/「περικαθίζω」/g
