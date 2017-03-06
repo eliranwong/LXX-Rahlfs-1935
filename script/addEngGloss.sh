@@ -1,5 +1,5 @@
 #!/usr/bin/sed -E -i .bak -f
-s/『α\.1』/ah,<br>alas!/g
+s/『α\.1』/ah;<br>alas!/g
 s/『αʹ』/[M]/g
 s/『ααλαφ』/[NP]/g
 s/『ααρα』/[NP]/g
@@ -10,7 +10,7 @@ s/『αβαδιας』/[NP]/g
 s/『αβαδων』/[NP]/g
 s/『αβαιαν』/[NP]/g
 s/『αβαισαν』/[NP]/g
-s/『αβακ』/the byssus,<br>fine white linen/g
+s/『αβακ』/byssus;<br>fine white linen/g
 s/『αβαλ』/[NP]/g
 s/『αβαμα』/[NP]/g
 s/『αβανα』/[NP]/g
@@ -21,8 +21,8 @@ s/『αβαριν』/[NP]/g
 s/『αβαρκηνιν』/he thorn bushes/g
 s/『αβασιλευτος』/not ruled by a king/g
 s/『αβαταζα』/[NP]/g
-s/『αβατος』/untrodden,<br>impassable/g
-s/『αβατοω』/untrodden,<br>inaccessible/g
+s/『αβατος』/untrodden;<br>impassable/g
+s/『αβατοω』/untrodden;<br>inaccessible/g
 s/『αββα』/[NP]/g
 s/『αβδεδομ』/[NP]/g
 s/『αβδεμελεχ』/[NP]/g
@@ -37,7 +37,7 @@ s/『αβδων』/[NP]/g
 s/『αβεδ』/[NP]/g
 s/『αβεδδαρα』/[NP]/g
 s/『αβεδδαραμ』/[NP]/g
-s/『αβεδηριν』/the words,<br>records/g
+s/『αβεδηριν』/words;<br>records/g
 s/『αβελ』/[NP]/g
 s/『αβελβαιθαμααχα』/[NP]/g
 s/『αβελμαα』/[NP]/g
@@ -71,7 +71,7 @@ s/『αβινεεμ』/[NP]/g
 s/『αβιου』/[NP]/g
 s/『αβιουδ』/[NP]/g
 s/『αβιρα』/[NP]/g
-s/『αβιρα\.1』/the fortified town,<br>the citadel/g
+s/『αβιρα\.1』/fortified town;<br>citadel/g
 s/『αβιρων』/[NP]/g
 s/『αβισακ』/[NP]/g
 s/『αβισου』/[NP]/g
@@ -85,135 +85,135 @@ s/『αβοηθησια』/helplessness/g
 s/『αβοηθητος』/helpless/g
 s/『αβου』/[NP]/g
 s/『αβουβος』/[NP]/g
-s/『αβουλευτως』/ill-advised,<br>inconsiderate/g
-s/『αβουλεω』/to be unwilling/g
-s/『αβουλια』/want of counsel,<br>thoughtlessness/g
-s/『αβρα』/a favorite slave/g
+s/『αβουλευτως』/ill-advised;<br>inconsiderate/g
+s/『αβουλεω』/unwilling/g
+s/『αβουλια』/want of counsel;<br>thoughtlessness/g
+s/『αβρα』/favorite slave/g
 s/『αβρααμ』/[NP]/g
 s/『αβρααμιτις』/[NP]/g
 s/『αβραμ』/[NP]/g
 s/『αβραμιαιος』/「Αβραμιαῖος」/g
-s/『αβροχια』/want of rain,<br>drought/g
+s/『αβροχια』/want of rain;<br>drought/g
 s/『αβρωνα』/[NP]/g
-s/『αβρωτος』/uneatable,<br>not good for food/g
+s/『αβρωτος』/uneatable;<br>not good for food/g
 s/『αβυσσος』/abyss/g
 s/『αβωμεουλα』/[NP]/g
 s/『αβωρ』/[NP]/g
 s/『αγαβ』/[NP]/g
 s/『αγαβα』/[NP]/g
 s/『αγαγ』/[NP]/g
-s/『αγαθοποιεω』/to do good/g
+s/『αγαθοποιεω』/do good/g
 s/『αγαθοποιος』/doing good/g
 s/『αγαθος』/good/g
 s/『αγαθοτης』/goodness/g
 s/『αγαθοω』/do good to/g
-s/『αγαθυνω』/to cheer,<br>make good/g
+s/『αγαθυνω』/cheer;<br>make good/g
 s/『αγαθως』/good/g
 s/『αγαθωσυνη』/goodness/g
-s/『αγαλλιαμα』/joy,<br>rejoicing/g
-s/『αγαλλιασις』/exultation,<br>joyfulness/g
-s/『αγαλλιαω』/to jump for joy/g
+s/『αγαλλιαμα』/joy;<br>rejoicing/g
+s/『αγαλλιασις』/exultation;<br>joyfulness/g
+s/『αγαλλιαω』/jump for joy/g
 s/『αγαλλιμ』/[NP]/g
-s/『αγαλμα』/a glory,<br>delight/g
+s/『αγαλμα』/glory;<br>delight/g
 s/『αγαμος』/unmarried/g
-s/『αγαν』/very,<br>much/g
-s/『αγανακτεω』/to be indignant/g
-s/『αγαπαω』/to love/g
+s/『αγαν』/very;<br>much/g
+s/『αγανακτεω』/indignant/g
+s/『αγαπαω』/love/g
 s/『αγαπεω』/greet with affection/g
 s/『αγαπη』/love/g
 s/『αγαπησις』/loving/g
-s/『αγαπητος』/loved,<br>beloved/g
+s/『αγαπητος』/loved;<br>beloved/g
 s/『αγαρ』/[NP]/g
 s/『αγαραιος』/[NP]/g
 s/『αγαρηνος』/[NP]/g
 s/『αγαρι』/[NP]/g
 s/『αγαριτης』/[NP]/g
 s/『αγαρμι』/[NP]/g
-s/『αγαυριαμα』/pride,<br>boastfulness/g
+s/『αγαυριαμα』/pride;<br>boastfulness/g
 s/『αγαυριαω』/「ἀγαυριάω」/g
 s/『αγγαβα』/[NP]/g
 s/『αγγαι』/[NP]/g
 s/『αγγαιας』/[NP]/g
 s/『αγγαιος』/[NP]/g
 s/『αγγαιου』/[NP]/g
-s/『αγγειον』/a container/g
+s/『αγγειον』/container/g
 s/『αγγελια』/message/g
 s/『αγγελος』/messenger/g
 s/『αγγι』/[NP]/g
 s/『αγγια』/[NP]/g
 s/『αγγιθ』/[NP]/g
 s/『αγγις』/[NP]/g
-s/『αγγος』/a pail/g
+s/『αγγος』/pail/g
 s/『αγεαδδαιρ』/[NP]/g
-s/『αγελαιος』/belonging to a herd,<br>feeding at large/g
-s/『αγελη』/a herd/g
+s/『αγελαιος』/belonging to a herd;<br>feeding at large/g
+s/『αγελη』/herd/g
 s/『αγεληδον』/in herds/g
 s/『αγερωχια』/arrogance/g
-s/『αγερωχος』/high-minded,<br>lordly/g
+s/『αγερωχος』/high-minded;<br>lordly/g
 s/『αγια』/[NP]/g
-s/『αγιαζω』/to hallow/g
-s/『αγιασμα』/a sanctuary/g
+s/『αγιαζω』/hallow/g
+s/『αγιασμα』/sanctuary/g
 s/『αγιασμος』/hallowing/g
-s/『αγιαστηριον』/holy place,<br>sanctuary/g
-s/『αγιαστια』/ritual,<br>service/g
+s/『αγιαστηριον』/holy place;<br>sanctuary/g
+s/『αγιαστια』/ritual;<br>service/g
 s/『αγιν』/[NP]/g
 s/『αγιος』/holy/g
 s/『αγιοτης』/holiness/g
 s/『αγιωσυνη』/holiness/g
-s/『αγκαλη』/the arm/g
+s/『αγκαλη』/arm/g
 s/『αγκαλις』/arm/g
-s/『αγκιστρον』/a hook/g
-s/『αγκυλη』/a loop/g
-s/『αγκων』/the bend of the arm,<br>the elbow/g
-s/『αγκωνισκος』/anything which is bent or curved;<br>joint/g
+s/『αγκιστρον』/hook/g
+s/『αγκυλη』/loop/g
+s/『αγκων』/bend of the arm;<br>elbow/g
+s/『αγκωνισκος』/anything which is curved;<br>joint/g
 s/『αγλα』/[NP]/g
 s/『αγλαθ-σαλισια』/[NP]/g
 s/『αγλων』/[NP]/g
 s/『αγνεια』/purity/g
-s/『αγνιζω』/to purify/g
-s/『αγνισμα』/a purification,<br>expiation/g
+s/『αγνιζω』/purify/g
+s/『αγνισμα』/purification;<br>expiation/g
 s/『αγνισμος』/purification/g
-s/『αγνοεω』/to be ignorant,<br>ignore/g
-s/『αγνοημα』/a mistake/g
+s/『αγνοεω』/ignorant;<br>ignore/g
+s/『αγνοημα』/mistake/g
 s/『αγνοια』/ignorance/g
 s/『αγνος』/pure/g
-s/『αγνος\.1』/a willow-like tree/g
+s/『αγνος\.1』/willow-like tree/g
 s/『αγνωσια』/ignorance/g
 s/『αγνωστος』/unknown/g
 s/『αγονος』/unborn/g
 s/『αγορα』/marketplace/g
-s/『αγοραζω』/to buy/g
+s/『αγοραζω』/buy/g
 s/『αγορανομια』/office of the clerk of the market/g
-s/『αγορασμος』/a purchase/g
-s/『αγοραστης』/the slave who bought provisions for the house,<br>the purveyor/g
-s/『αγρευω』/to catch/g
+s/『αγορασμος』/purchase/g
+s/『αγοραστης』/slave who bought provisions for the house;<br>purveyor/g
+s/『αγρευω』/catch/g
 s/『αγριανω』/「ἀγριάνω」/g
 s/『αγριομυρικη』/tamarisk/g
 s/『αγριος』/wild/g
-s/『αγριοτης』/wildness,<br>savageness/g
-s/『αγριοω』/to make wild/g
+s/『αγριοτης』/wildness;<br>savageness/g
+s/『αγριοω』/make wild/g
 s/『αγριως』/cruelly/g
 s/『αγροικος』/rustic/g
-s/『αγρος』/a field/g
-s/『αγρυπνεω』/to be slumberless,<br>be sleepless/g
+s/『αγρος』/field/g
+s/『αγρυπνεω』/slumberless;<br>sleepless/g
 s/『αγρυπνια』/slumberlessness/g
-s/『αγρωστις』/a grass that mules fed on/g
-s/『αγυια』/a street,<br>highway/g
+s/『αγρωστις』/grass that mules fed on/g
+s/『αγυια』/street;<br>highway/g
 s/『αγχις』/[NP]/g
 s/『αγχιστεια』/right of kin/g
-s/『αγχιστευς』/a next of kin/g
-s/『αγχιστευτης』/a next of kin/g
-s/『αγχιστευω』/to be next of kin/g
+s/『αγχιστευς』/next of kin/g
+s/『αγχιστευτης』/next of kin/g
+s/『αγχιστευω』/next of kin/g
 s/『αγχους』/[NP]/g
-s/『αγχω』/to compress,<br>press tight/g
+s/『αγχω』/compress;<br>press tight/g
 s/『αγχωχ』/[NP]/g
-s/『αγω』/to lead,<br>pass/g
+s/『αγω』/lead;<br>pass/g
 s/『αγωγη』/leading/g
-s/『αγων』/contest,<br>contention/g
-s/『αγωνια』/contention,<br>agony/g
-s/『αγωνιαω』/to contend eagerly,<br>struggle/g
-s/『αγωνιζομαι』/to contend,<br>fight/g
-s/『αγωνιστης』/a rival/g
+s/『αγων』/contest;<br>contention/g
+s/『αγωνια』/contention;<br>agony/g
+s/『αγωνιαω』/contend eagerly;<br>struggle/g
+s/『αγωνιζομαι』/contend;<br>fight/g
+s/『αγωνιστης』/rival/g
 s/『αδα』/[NP]/g
 s/『αδαδ』/[NP]/g
 s/『αδαδα』/[NP]/g
@@ -223,7 +223,7 @@ s/『αδαιας』/[NP]/g
 s/『αδαμ』/[NP]/g
 s/『αδαμα』/[NP]/g
 s/『αδαμαντινος』/adamantine/g
-s/『αδαμας』/the untamed,<br>unconquerable/g
+s/『αδαμας』/untamed;<br>unconquerable/g
 s/『αδαμαστος』/inflexible/g
 s/『αδαμι』/[NP]/g
 s/『αδαν』/[NP]/g
@@ -242,62 +242,62 @@ s/『αδδους』/[NP]/g
 s/『αδδω』/[NP]/g
 s/『αδεια』/freedom from fear/g
 s/『αδειπνος』/supperless/g
-s/『αδελφη』/a sister/g
-s/『αδελφιδος』/nephew,<br>brother’s son/g
+s/『αδελφη』/sister/g
+s/『αδελφιδος』/nephew;<br>brother’s son/g
 s/『αδελφικως』/brotherly/g
 s/『αδελφοκτονος』/murdering a brother/g
 s/『αδελφοπρεπως』/as befits a brother/g
-s/『αδελφος』/a brother/g
+s/『αδελφος』/brother/g
 s/『αδελφοτης』/brotherhood/g
 s/『αδενικαμ』/[NP]/g
 s/『αδερ』/[NP]/g
 s/『αδεως』/without fear/g
-s/『αδηλος』/unclear,<br>unseen/g
+s/『αδηλος』/unclear;<br>unseen/g
 s/『αδης』/Hades/g
 s/『αδι』/[NP]/g
 s/『αδια』/[NP]/g
 s/『αδιαθαιμ』/[NP]/g
 s/『αδιακριτος』/non-discriminatory/g
 s/『αδιαλειπτως』/unceasingly/g
-s/『αδιαλυτος』/undissolved,<br>indissoluble/g
+s/『αδιαλυτος』/undissolved;<br>indissoluble/g
 s/『αδιαπτωτος』/infallible/g
-s/『αδιαστροφος』/unswerving,<br>undeterred/g
+s/『αδιαστροφος』/unswerving;<br>undeterred/g
 s/『αδιατρεπτος』/headstrong/g
 s/『αδιδ』/[NP]/g
 s/『αδιδα』/[NP]/g
-s/『αδιεξεταστος』/that will not stand up to examination,<br>unconsidered/g
+s/『αδιεξεταστος』/that will not stand up to examination;<br>unconsidered/g
 s/『αδιηλ』/[NP]/g
-s/『αδικεω』/to injure,<br>be unjust to/g
-s/『αδικημα』/a crime/g
-s/『αδικια』/injury,<br>injustice/g
-s/『αδικος』/injurious,<br>unjust/g
-s/『αδικως』/injuriously,<br>unjustly/g
+s/『αδικεω』/injure;<br>unjust to/g
+s/『αδικημα』/crime/g
+s/『αδικια』/injury;<br>injustice/g
+s/『αδικος』/injurious;<br>unjust/g
+s/『αδικως』/injuriously;<br>unjustly/g
 s/『αδιν』/[NP]/g
 s/『αδινα』/[NP]/g
 s/『αδινων』/[NP]/g
 s/『αδλι』/[NP]/g
 s/『αδνας』/[NP]/g
 s/『αδοκητος』/unexpected/g
-s/『αδοκιμος』/failed,<br>disreputable/g
-s/『αδολεσχεω』/to meditate/g
-s/『αδολεσχια』/garrulity,<br>idle talk/g
-s/『αδολως』/guilelessly,<br>honestly/g
-s/『αδοξεω』/to be held in no esteem,<br>to stand in ill repute/g
-s/『αδοξια』/ill-repute,<br>disgrace/g
-s/『αδοξος』/inglorious,<br>disreputable/g
+s/『αδοκιμος』/failed;<br>disreputable/g
+s/『αδολεσχεω』/meditate/g
+s/『αδολεσχια』/garrulity;<br>idle talk/g
+s/『αδολως』/guilelessly;<br>honestly/g
+s/『αδοξεω』/held in no esteem;<br>stand in ill repute/g
+s/『αδοξια』/ill-repute;<br>disgrace/g
+s/『αδοξος』/inglorious;<br>disreputable/g
 s/『αδουηλ』/[NP]/g
 s/『αδρααζαρ』/[NP]/g
 s/『αδραζαρ』/[NP]/g
 s/『αδραμελεχ』/[NP]/g
-s/『αδρανης』/inactive,<br>powerless/g
+s/『αδρανης』/inactive;<br>powerless/g
 s/『αδρος』/thick/g
-s/『αδρυνω』/to ripen/g
-s/『αδυναμεω』/to be incapable/g
+s/『αδρυνω』/ripen/g
+s/『αδυναμεω』/incapable/g
 s/『αδυναμια』/want of strength/g
-s/『αδυνατεω』/to be impossible/g
-s/『αδυνατος』/impossible,<br>disabled/g
+s/『αδυνατεω』/impossible/g
+s/『αδυνατος』/impossible;<br>disabled/g
 s/『αδυναω』/「ἀδυνάω」/g
-s/『αδω』/to sing/g
+s/『αδω』/sing/g
 s/『αδων』/Lord/g
 s/『αδωναι』/[NP]/g
 s/『αδωναιε』/[NP]/g
@@ -314,9 +314,9 @@ s/『αεμε』/[NP]/g
 s/『αεναος』/ever-flowing/g
 s/『αενδωρ』/[NP]/g
 s/『αερ』/[NP]/g
-s/『αεργος』/not-working,<br>idle/g
+s/『αεργος』/not-working;<br>idle/g
 s/『αερμων』/[NP]/g
-s/『αετος』/an eagle/g
+s/『αετος』/eagle/g
 s/『αζαβουχ』/[NP]/g
 s/『αζαηλ』/[NP]/g
 s/『αζαηλος』/[NP]/g
@@ -343,53 +343,53 @@ s/『αζοβ』/[NP]/g
 s/『αζουβα』/[NP]/g
 s/『αζουρ』/[NP]/g
 s/『αζουρου』/[NP]/g
-s/『αζυμος』/unleavened,<br>the Feast of Unleavened Bread/g
+s/『αζυμος』/unleavened;<br>Feast of Unleavened Bread/g
 s/『αζωβαι』/[NP]/g
 s/『αζωρ』/[NP]/g
 s/『αζωτια』/[NP]/g
 s/『αζωτιος』/[NP]/g
 s/『αζωτιστι』/[NP]/g
 s/『αζωτος』/[NP]/g
-s/『αηδια』/unpleasantness,<br>nauseousness/g
+s/『αηδια』/unpleasantness;<br>nauseousness/g
 s/『αηδις』/[NP]/g
 s/『αηρ』/air/g
 s/『αθαθ』/[NP]/g
 s/『αθαια』/[NP]/g
 s/『αθανασια』/immortality/g
-s/『αθανατος』/undying,<br>immortal/g
+s/『αθανατος』/undying;<br>immortal/g
 s/『αθανι』/[NP]/g
 s/『αθανιν』/[NP]/g
 s/『αθαριν』/[NP]/g
 s/『αθελια』/[NP]/g
-s/『αθεμιτος』/unfounded,<br>unlawful/g
+s/『αθεμιτος』/unfounded;<br>unlawful/g
 s/『αθερ』/[NP]/g
 s/『αθερσαθα』/[NP]/g
 s/『αθεσια』/faithlessness/g
 s/『αθεσμος』/unprincipled/g
 s/『αθεσμως』/unlawfully/g
-s/『αθετεω』/to displace,<br>put off/g
-s/『αθετημα』/a breach of faith,<br>transgression/g
-s/『αθετησις』/displacement,<br>rejection/g
+s/『αθετεω』/displace;<br>put off/g
+s/『αθετημα』/breach of faith;<br>transgression/g
+s/『αθετησις』/displacement;<br>rejection/g
 s/『αθεωρητος』/without observation/g
 s/『αθηναιος』/[NP]/g
 s/『αθηνοβιος』/[NP]/g
 s/『αθιν』/[NP]/g
-s/『αθλητης』/a prizefighter/g
+s/『αθλητης』/prizefighter/g
 s/『αθλιος』/gaining the prize/g
-s/『αθλοθετεω』/to offer a prize,<br>to offer rewards/g
-s/『αθλον』/the prize of contest/g
-s/『αθλοφορος』/bearing away the prize,<br>victorious/g
+s/『αθλοθετεω』/offer a prize;<br>offer rewards/g
+s/『αθλον』/prize of contest/g
+s/『αθλοφορος』/bearing away the prize;<br>victorious/g
 s/『αθουκιιν』/ancient/g
 s/『αθουρ』/[NP]/g
 s/『αθουριας』/[NP]/g
-s/『αθροιζω』/to gather round/g
-s/『αθροισμα』/a gathering/g
+s/『αθροιζω』/gather round/g
+s/『αθροισμα』/gathering/g
 s/『αθροος』/in crowds/g
-s/『αθυμεω』/to be despondent/g
-s/『αθυμια』/want of heart,<br>faintheartedness/g
+s/『αθυμεω』/despondent/g
+s/『αθυμια』/want of heart;<br>faintheartedness/g
 s/『αθυτος』/not offered/g
 s/『αθωος』/guiltless/g
-s/『αθωοω』/to hold guiltless/g
+s/『αθωοω』/hold guiltless/g
 s/『αια』/[NP]/g
 s/『αιαλων』/[NP]/g
 s/『αιγγαδοις』/[NP]/g
@@ -402,11 +402,11 @@ s/『αιγυπτιος』/Egyptian/g
 s/『αιγυπτος』/[NP]/g
 s/『αιδαδ』/shouting in harvest/g
 s/『αιδαν』/[NP]/g
-s/『αιδεομαι』/to be ashamed to do/g
-s/『αιδημων』/bashful,<br>modest/g
+s/『αιδεομαι』/ashamed to do/g
+s/『αιδημων』/bashful;<br>modest/g
 s/『αιδιος』/perpetual/g
 s/『αιδιοτης』/eternity/g
-s/『αιδοιος』/regarded with reverence,<br>august/g
+s/『αιδοιος』/regarded with reverence;<br>august/g
 s/『αιδως』/decency/g
 s/『αιε』/[NP]/g
 s/『αιζηλ』/[NP]/g
@@ -419,12 +419,12 @@ s/『αιθι』/[NP]/g
 s/『αιθιηλ』/[NP]/g
 s/『αιθιοπια』/[NP]/g
 s/『αιθιοψ』/[NP]/g
-s/『αιθριος』/clear,<br>bright/g
+s/『αιθριος』/clear;<br>bright/g
 s/『αιιν』/[NP]/g
 s/『αικαρεν』/[NP]/g
-s/『αικια』/injurious treatment,<br>an affront/g
-s/『αικιζομαι』/to maltreat,<br>to torture/g
-s/『αικιζω』/to treat injuriously,<br>to plague/g
+s/『αικια』/injurious treatment;<br>affront/g
+s/『αικιζομαι』/maltreat;<br>torture/g
+s/『αικιζω』/treat injuriously;<br>plague/g
 s/『αικισμος』/discomfort/g
 s/『αιλ』/doorpost/g
 s/『αιλαθ』/[NP]/g
@@ -435,20 +435,20 @@ s/『αιλαμιτης』/[NP]/g
 s/『αιλαμμω』/its porch/g
 s/『αιλευ』/its doorpost/g
 s/『αιλιμ』/[NP]/g
-s/『αιλουρος』/a cat/g
+s/『αιλουρος』/cat/g
 s/『αιλους』/[NP]/g
 s/『αιλωθ』/[NP]/g
 s/『αιλωμ』/[NP]/g
 s/『αιλων』/[NP]/g
-s/『αιμα』/blood,<br>bloodstreams/g
+s/『αιμα』/blood;<br>bloodstreams/g
 s/『αιμαθ』/[NP]/g
 s/『αιμαν』/[NP]/g
 s/『αιμανι』/[NP]/g
 s/『αιμαρεκ』/[NP]/g
-s/『αιμασσω』/to make bloody stain with blood/g
-s/『αιμοβορος』/blood-sucking,<br>greedy of blood/g
-s/『αιμορροεω』/to hemorrhage/g
-s/『αιμωδιαω』/to become dumb or tingly/g
+s/『αιμασσω』/make bloody stain with blood/g
+s/『αιμοβορος』/blood-sucking;<br>greedy of blood/g
+s/『αιμορροεω』/hemorrhage/g
+s/『αιμωδιαω』/become dumb;<br>become tingly/g
 s/『αιν』/[NP]/g
 s/『αιν\.1』/spring/g
 s/『αιναγαλιμ』/[NP]/g
@@ -457,69 +457,69 @@ s/『αιναν』/[NP]/g
 s/『αινγαδιν』/[NP]/g
 s/『αινεσις』/singing praise/g
 s/『αινετος』/praiseworthy/g
-s/『αινεω』/to sing praise/g
-s/『αινιγμα』/an enigma/g
+s/『αινεω』/sing praise/g
+s/『αινιγμα』/enigma/g
 s/『αινιγματιστης』/one who speaks riddles/g
-s/『αινος』/a story/g
+s/『αινος』/story/g
 s/『αινων』/[NP]/g
-s/『αιξ』/a goat/g
-s/『αιπολιον』/a herd of goats/g
-s/『αιπολος』/a goatherd/g
+s/『αιξ』/goat/g
+s/『αιπολιον』/herd of goats/g
+s/『αιπολος』/goatherd/g
 s/『αιρεμ』/[NP]/g
-s/『αιρεσις』/a section,<br>sect/g
-s/『αιρετιζω』/to choose/g
+s/『αιρεσις』/section;<br>sect/g
+s/『αιρετιζω』/choose/g
 s/『αιρετις』/「αἱρετίς」/g
 s/『αιρετος』/that may be taken/g
-s/『αιρεω』/to choose/g
-s/『αιρω』/to lift,<br>remove/g
+s/『αιρεω』/choose/g
+s/『αιρω』/lift;<br>remove/g
 s/『αισαμ』/[NP]/g
 s/『αισαν』/[NP]/g
-s/『αισθανομαι』/to sense,<br>perceive/g
-s/『αισθησις』/sensation,<br>perception/g
+s/『αισθανομαι』/sense;<br>perceive/g
+s/『αισθησις』/sensation;<br>perception/g
 s/『αισθητηριον』/sense/g
 s/『αισθητικη』/「αἰσθητική」/g
 s/『αισιμωθ』/[NP]/g
-s/『αισχρος』/sordid,<br>shameful/g
+s/『αισχρος』/sordid;<br>shameful/g
 s/『αισχρως』/shamefully/g
 s/『αισχυνη』/shame/g
-s/『αισχυντηρος』/modest,<br>shamefaced/g
-s/『αισχυνω』/to shame,<br>be ashamed/g
+s/『αισχυντηρος』/modest;<br>shamefaced/g
+s/『αισχυνω』/shame;<br>ashamed/g
 s/『αισωρα』/[NP]/g
 s/『αιταμ』/[NP]/g
 s/『αιταν』/[NP]/g
-s/『αιτεω』/to ask/g
-s/『αιτημα』/an item,<br>request/g
-s/『αιτησις』/a request,<br>demand/g
-s/『αιτια』/fault,<br>case/g
-s/『αιτιαομαι』/to charge,<br>accuse/g
+s/『αιτεω』/ask/g
+s/『αιτημα』/item;<br>request/g
+s/『αιτησις』/request;<br>demand/g
+s/『αιτια』/fault;<br>case/g
+s/『αιτιαομαι』/charge;<br>accuse/g
 s/『αιτιος』/cause/g
 s/『αιτωβ』/[NP]/g
 s/『αιφνιδιος』/unexpected/g
 s/『αιφνιδιως』/suddenly/g
 s/『αιχιοζα』/[NP]/g
 s/『αιχμαλωσια』/captivity/g
-s/『αιχμαλωτευω』/to capture/g
-s/『αιχμαλωτιζω』/to take captive/g
+s/『αιχμαλωτευω』/capture/g
+s/『αιχμαλωτιζω』/take captive/g
 s/『αιχμαλωτις』/captive/g
-s/『αιχμαλωτος』/a captive/g
-s/『αιων』/age,<br>-ever/g
-s/『αιωνιος』/eternal,<br>of ages/g
+s/『αιχμαλωτος』/captive/g
+s/『αιων』/age;<br>-ever/g
+s/『αιωνιος』/eternal;<br>of ages/g
 s/『ακαβωθ』/[NP]/g
 s/『ακαθαρσια』/uncleanness/g
 s/『ακαθαρτος』/unclean/g
-s/『ακαιρος』/ill-timed,<br>unseasonable/g
+s/『ακαιρος』/ill-timed;<br>unseasonable/g
 s/『ακαιρως』/inopportunely/g
 s/『ακακια』/guilelessness/g
 s/『ακακος』/blameless/g
-s/『ακαλυπτος』/uncovered,<br>unveiled/g
-s/『ακαλυπτως』/unveiled,<br>in an unveiled manner/g
+s/『ακαλυπτος』/uncovered;<br>unveiled/g
+s/『ακαλυπτως』/unveiled;<br>in an unveiled manner/g
 s/『ακαν』/thistle/g
 s/『ακανα』/「ακανα」/g
-s/『ακανθα』/a brier/g
+s/『ακανθα』/brier/g
 s/『ακανθινος』/thorny/g
 s/『ακαρδιος』/wanting the heart/g
-s/『ακαριαιος』/momentary,<br>brief/g
-s/『ακαρπια』/unfruitfulness,<br>barrenness/g
+s/『ακαριαιος』/momentary;<br>brief/g
+s/『ακαρπια』/unfruitfulness;<br>barrenness/g
 s/『ακαρπος』/fruitless/g
 s/『ακαταγνωστος』/irreproachable/g
 s/『ακατακαλυπτος』/unveiled/g
@@ -532,119 +532,119 @@ s/『ακαταστασια』/upheaval/g
 s/『ακαταστατεω』/「ἀκαταστατέω」/g
 s/『ακαταστατος』/unsettled/g
 s/『ακατασχετος』/untameable/g
-s/『ακατεργαστος』/not worked up,<br>unformed/g
+s/『ακατεργαστος』/not worked up;<br>unformed/g
 s/『ακαυστος』/unburnt/g
-s/『ακεραιος』/ingenuous,<br>uncontaminated/g
-s/『ακηδια』/apathy,<br>indifference/g
+s/『ακεραιος』/ingenuous;<br>uncontaminated/g
+s/『ακηδια』/apathy;<br>indifference/g
 s/『ακηδιαζω』/「ἀκηδιάζω」/g
-s/『ακηδιαω』/to be exhausted,<br>to be weary/g
+s/『ακηδιαω』/exhausted;<br>weary/g
 s/『ακηλιδωτος』/spotless/g
 s/『ακιδωτον』/「ἀκιδωτόν」/g
 s/『ακιεζι』/[NP]/g
 s/『ακιμ』/[NP]/g
-s/『ακινακης』/a short straight sword/g
-s/『ακινητος』/unmoved,<br>motionless/g
-s/『ακις』/a point,<br>the barb/g
+s/『ακινακης』/short straight sword/g
+s/『ακινητος』/unmoved;<br>motionless/g
+s/『ακις』/point;<br>barb/g
 s/『ακιφα』/[NP]/g
 s/『ακκαριωθ』/[NP]/g
 s/『ακκαρων』/[NP]/g
 s/『ακκαρωνιτης』/[NP]/g
 s/『ακκως』/[NP]/g
-s/『ακλεης』/without fame,<br>inglorious/g
+s/『ακλεης』/without fame;<br>inglorious/g
 s/『ακλεως』/ingloriously/g
-s/『ακληρεω』/to be unfortunate/g
-s/『ακλητος』/uncalled,<br>unbidden/g
+s/『ακληρεω』/unfortunate/g
+s/『ακλητος』/uncalled;<br>unbidden/g
 s/『ακλινης』/unswerving/g
-s/『ακμαζω』/to ripen/g
-s/『ακμαιος』/in full bloom,<br>at the prime/g
-s/『ακμη』/a point,<br>edge/g
-s/『ακμων』/a thunderbolt/g
-s/『ακοη』/a hearing,<br>report/g
+s/『ακμαζω』/ripen/g
+s/『ακμαιος』/in full bloom;<br>at the prime/g
+s/『ακμη』/point;<br>edge/g
+s/『ακμων』/thunderbolt/g
+s/『ακοη』/hearing;<br>report/g
 s/『ακοιμητος』/sleepless/g
 s/『ακοινωνητος』/not shared with/g
-s/『ακολασια』/licentiousness,<br>intemperance/g
-s/『ακολαστος』/licentious,<br>intemperate/g
-s/『ακολουθεω』/to follow/g
-s/『ακολουθια』/a following,<br>train/g
-s/『ακολουθος』/following,<br>attending on/g
+s/『ακολασια』/licentiousness;<br>intemperance/g
+s/『ακολαστος』/licentious;<br>intemperate/g
+s/『ακολουθεω』/follow/g
+s/『ακολουθια』/following;<br>train/g
+s/『ακολουθος』/following;<br>attending on/g
 s/『ακολουθως』/according to;<br>accordingly/g
-s/『ακοναω』/to sharpen,<br>whet/g
-s/『ακοντιζω』/to hurl a javelin/g
-s/『ακοντιστης』/a darter,<br>javelin-man/g
+s/『ακοναω』/sharpen;<br>whet/g
+s/『ακοντιζω』/hurl a javelin/g
+s/『ακοντιστης』/darter;<br>javelin-man/g
 s/『ακοπιαστως』/「ἀκοπιάστως」/g
 s/『ακορ』/[NP]/g
-s/『ακοσμος』/without order,<br>disorderly/g
+s/『ακοσμος』/without order;<br>disorderly/g
 s/『ακοσμως』/in dishonour/g
 s/『ακουβ』/[NP]/g
 s/『ακουδ』/[NP]/g
 s/『ακουν』/[NP]/g
 s/『ακους』/[NP]/g
 s/『ακουσιαζω』/「ἀκουσιάζω」/g
-s/『ακουσιος』/against the will,<br>involuntary/g
+s/『ακουσιος』/against the will;<br>involuntary/g
 s/『ακουσιως』/involuntarily/g
 s/『ακουστος』/heard/g
 s/『ακουτιζω』/「ἀκουτίζω」/g
 s/『ακουφ』/[NP]/g
-s/『ακουω』/to hear/g
-s/『ακρα』/a headland,<br>foreland/g
+s/『ακουω』/hear/g
+s/『ακρα』/headland;<br>foreland/g
 s/『ακραβαττηνη』/[NP]/g
 s/『ακραβιν』/[NP]/g
 s/『ακρασια』/self-indulgence/g
 s/『ακρατης』/self-indulgent/g
 s/『ακρατος』/unmixed/g
 s/『ακριβαζω』/「ἀκριβάζω」/g
-s/『ακριβασμος』/careful investigation of sth,<br>commandment/g
+s/『ακριβασμος』/careful investigation of sth;<br>commandment/g
 s/『ακριβεια』/accuracy/g
-s/『ακριβης』/exact,<br>accurate/g
+s/『ακριβης』/exact;<br>accurate/g
 s/『ακριβως』/accurately/g
-s/『ακρις』/a locust,<br>grasshopper/g
-s/『ακριτως』/without trial,<br>unjustly/g
+s/『ακρις』/locust;<br>grasshopper/g
+s/『ακριτως』/without trial;<br>unjustly/g
 s/『ακροαμα』/anything heard with pleasure/g
-s/『ακροαομαι』/to hearken to,<br>listen to/g
-s/『ακροασις』/a hearing/g
-s/『ακροατης』/an auditor,<br>hearer/g
-s/『ακροβυστια』/the foreskin,<br>the uncircumcised/g
-s/『ακρογωνιαιος』/pinnacle,<br>apex/g
+s/『ακροαομαι』/hearken to;<br>listen to/g
+s/『ακροασις』/hearing/g
+s/『ακροατης』/auditor;<br>hearer/g
+s/『ακροβυστια』/foreskin;<br>uncircumcised/g
+s/『ακρογωνιαιος』/pinnacle;<br>apex/g
 s/『ακροδρυα』/fruit-trees/g
-s/『ακρον』/the top,<br>the tip/g
-s/『ακροπολις』/the upper city/g
+s/『ακρον』/top;<br>tip/g
+s/『ακροπολις』/upper city/g
 s/『ακρος』/at the furthest point/g
-s/『ακροτομος』/cut off sharp,<br>abrupt/g
-s/『ακροφυλαξ』/governor of the citadel,<br>guardian/g
-s/『ακρωτηριαζω』/to cut off the extremities,<br>mutilate/g
+s/『ακροτομος』/cut off sharp;<br>abrupt/g
+s/『ακροφυλαξ』/governor of the citadel;<br>guardian/g
+s/『ακρωτηριαζω』/cut off the extremities;<br>mutilate/g
 s/『ακρωτηριον』/any prominent part/g
-s/『ακτις』/a ray,<br>beam/g
-s/『ακυματος』/waveless,<br>calm/g
+s/『ακτις』/ray;<br>beam/g
+s/『ακυματος』/waveless;<br>calm/g
 s/『ακυρος』/without authority/g
-s/『ακυροω』/to negate/g
+s/『ακυροω』/negate/g
 s/『ακχοβωρ』/[NP]/g
 s/『ακχω』/[NP]/g
 s/『ακωλυτος』/unhindered/g
 s/『ακων』/unwillingly/g
 s/『ακως』/[NP]/g
 s/『αλα』/[NP]/g
-s/『αλαβαστρον』/an alabaster box/g
+s/『αλαβαστρον』/alabaster box/g
 s/『αλαε』/[NP]/g
-s/『αλαζονεια』/ostentation,<br>pretension/g
-s/『αλαζονευομαι』/to make false pretensions/g
-s/『αλαζων』/a braggart/g
+s/『αλαζονεια』/ostentation;<br>pretension/g
+s/『αλαζονευομαι』/make false pretensions/g
+s/『αλαζων』/braggart/g
 s/『αλαιμωθ』/unidentified musical instruments/g
 s/『αλαλαγμος』/shouting/g
-s/『αλαλαζω』/to clang,<br>cry/g
-s/『αλαλος』/speechless,<br>dumb/g
+s/『αλαλαζω』/clang;<br>cry/g
+s/『αλαλος』/speechless;<br>dumb/g
 s/『αλας』/salt/g
 s/『αλασσω』/「ἀλάσσω」/g
-s/『αλαστωρ』/the avenging deity,<br>destroying angel/g
+s/『αλαστωρ』/avenging deity;<br>destroying angel/g
 s/『αλαωθ』/[NP]/g
-s/『αλγεω』/to feel bodily pain,<br>suffer/g
-s/『αλγηδων』/a sense of pain,<br>pain/g
-s/『αλγημα』/pain,<br>suffering/g
+s/『αλγεω』/feel bodily pain;<br>suffer/g
+s/『αλγηδων』/sense of pain;<br>pain/g
+s/『αλγημα』/pain;<br>suffering/g
 s/『αλγηρος』/painful/g
 s/『αλγος』/pain/g
-s/『αλειμμα』/anything used for anointing,<br>unguent/g
-s/『αλειφω』/to rub/g
-s/『αλεκτρυων』/a cock/g
-s/『αλεκτωρ』/a rooster/g
+s/『αλειμμα』/anything used for anointing;<br>unguent/g
+s/『αλειφω』/rub/g
+s/『αλεκτρυων』/cock/g
+s/『αλεκτωρ』/rooster/g
 s/『αλεμα』/[NP]/g
 s/『αλεμοι』/[NP]/g
 s/『αλεμωνι』/[NP]/g
@@ -653,25 +653,25 @@ s/『αλεξανδρευς』/[NP]/g
 s/『αλεξανδρος』/[NP]/g
 s/『αλευρον』/flour/g
 s/『αλεφ』/[NP]/g
-s/『αλεω』/to grind,<br>bruise/g
+s/『αλεω』/grind;<br>bruise/g
 s/『αληθεια』/truth/g
-s/『αληθευω』/to be true,<br>tell the truth/g
+s/『αληθευω』/true;<br>tell the truth/g
 s/『αληθης』/true/g
-s/『αληθινος』/truthful,<br>true/g
-s/『αληθινως』/truly,<br>really/g
-s/『αληθω』/to grind/g
+s/『αληθινος』/truthful;<br>true/g
+s/『αληθινως』/truly;<br>really/g
+s/『αληθω』/grind/g
 s/『αληθως』/truly/g
 s/『αληκτος』/unceasing/g
-s/『αλιαετος』/the sea-eagle,<br>osprey/g
-s/『αλιευς』/a fisherman/g
-s/『αλιευω』/to fish/g
-s/『αλιζω』/to salt/g
+s/『αλιαετος』/sea-eagle;<br>osprey/g
+s/『αλιευς』/fisherman/g
+s/『αλιευω』/fish/g
+s/『αλιζω』/salt/g
 s/『αλιηλ』/[NP]/g
 s/『αλικαρνασσος』/[NP]/g
 s/『αλιμαζονις』/[NP]/g
 s/『αλιμον』/「ἄλιμον」/g
-s/『αλισγεω』/to pollute/g
-s/『αλισκω』/to be taken/g
+s/『αλισγεω』/pollute/g
+s/『αλισκω』/taken/g
 s/『αλιτηριος』/sinning/g
 s/『αλιφαλατ』/[NP]/g
 s/『αλιφαλεθ』/[NP]/g
@@ -679,10 +679,10 @@ s/『αλκαθα』/[NP]/g
 s/『αλκη』/strength/g
 s/『αλκιμος』/[NP]/g
 s/『αλλα』/but/g
-s/『αλλαγη』/a change/g
+s/『αλλαγη』/change/g
 s/『αλλαγμα』/that which is given/g
-s/『αλλασσω』/to change/g
-s/『αλλαχη』/elsewhere,<br>in another place/g
+s/『αλλασσω』/change/g
+s/『αλλαχη』/elsewhere;<br>in another place/g
 s/『αλλαχοθεν』/from somewhere else/g
 s/『αλληλ』/[NP]/g
 s/『αλληλι』/[NP]/g
@@ -690,60 +690,60 @@ s/『αλληλουια』/haleluyah/g
 s/『αλληλων』/one another/g
 s/『αλλογενης』/of another family/g
 s/『αλλογλωσσος』/using a strange tongue/g
-s/『αλλοεθνης』/of a foreign nation,<br>outlandish/g
+s/『αλλοεθνης』/of a foreign nation;<br>outlandish/g
 s/『αλλοθεν』/from another place/g
-s/『αλλοιοω』/to make different,<br>to change/g
-s/『αλλοιωσις』/a change,<br>alteration/g
-s/『αλλομαι』/to spring,<br>leap/g
-s/『αλλος』/another,<br>else/g
-s/『αλλοτε』/at another time,<br>at other times/g
-s/『αλλοτριος』/another's,<br>a stranger/g
-s/『αλλοτριοτης』/alienation,<br>estrangement/g
-s/『αλλοτριοω』/to stay estranged/g
-s/『αλλοτριως』/strangely,<br>hostilely/g
+s/『αλλοιοω』/make different;<br>change/g
+s/『αλλοιωσις』/change;<br>alteration/g
+s/『αλλομαι』/spring;<br>leap/g
+s/『αλλος』/another;<br>else/g
+s/『αλλοτε』/at another time;<br>at other times/g
+s/『αλλοτριος』/another's;<br>stranger/g
+s/『αλλοτριοτης』/alienation;<br>estrangement/g
+s/『αλλοτριοω』/stay estranged/g
+s/『αλλοτριως』/strangely;<br>hostilely/g
 s/『αλλοτριωσις』/estrangement/g
-s/『αλλοφυλεω』/to adopt foreign customs/g
-s/『αλλοφυλισμος』/to adopt foreign customs/g
-s/『αλλοφυλος』/a foreigner/g
+s/『αλλοφυλεω』/adopt foreign customs/g
+s/『αλλοφυλισμος』/adopt foreign customs/g
+s/『αλλοφυλος』/foreigner/g
 s/『αλλοφωνος』/speaking a foreign language/g
 s/『αλλωης』/[NP]/g
 s/『αλλων』/[NP]/g
 s/『αλλωνι』/[NP]/g
 s/『αλλως』/otherwise/g
-s/『αλμα』/a spring,<br>leap/g
-s/『αλμη』/sea-water,<br>brine/g
+s/『αλμα』/spring;<br>leap/g
+s/『αλμη』/sea-water;<br>brine/g
 s/『αλμυρις』/salt land/g
-s/『αλμυρος』/salt,<br>briny/g
-s/『αλοαω』/to thresh/g
-s/『αλογεω』/to pay no regard to/g
-s/『αλογιστια』/thoughtlessness,<br>rashness/g
-s/『αλογιστος』/unreasoning,<br>inconsiderate/g
+s/『αλμυρος』/salt;<br>briny/g
+s/『αλοαω』/thresh/g
+s/『αλογεω』/pay no regard to/g
+s/『αλογιστια』/thoughtlessness;<br>rashness/g
+s/『αλογιστος』/unreasoning;<br>inconsiderate/g
 s/『αλογιστως』/unreasonably/g
-s/『αλογος』/absurd,<br>unreasoning/g
+s/『αλογος』/absurd;<br>unreasoning/g
 s/『αλογως』/unreasonably/g
 s/『αλοηλ』/[NP]/g
-s/『αλοητος』/a threshing/g
-s/『αλοιφη』/anything used for anointing,<br>hog's-lard/g
+s/『αλοητος』/threshing/g
+s/『αλοιφη』/anything used for anointing;<br>hog's-lard/g
 s/『αλουα』/[NP]/g
 s/『αλουλ』/[NP]/g
 s/『αλς』/salt/g
-s/『αλσος』/a glade/g
+s/『αλσος』/glade/g
 s/『αλσωδης』/like a grove/g
 s/『αλσωρηχ』/[NP]/g
 s/『αλυκος』/salty/g
 s/『αλυσιδωτος』/wrought in chain manner/g
-s/『αλυσις』/a shackle,<br>chains/g
+s/『αλυσις』/shackle;<br>chains/g
 s/『αλφ』/「αλφ」/g
 s/『αλφααλ』/[NP]/g
 s/『αλφιτον』/meal/g
 s/『αλφος』/whiteness: white leprosy/g
 s/『αλωης』/[NP]/g
 s/『αλωθ』/aloes/g
-s/『αλων』/a threshing floor/g
+s/『αλων』/threshing floor/g
 s/『αλωναμ』/[NP]/g
-s/『αλωπηξ』/a fox/g
+s/『αλωπηξ』/fox/g
 s/『αλωσις』/capture/g
-s/『αμα』/at once,<br>together/g
+s/『αμα』/at once;<br>together/g
 s/『αμαδ』/[NP]/g
 s/『αμαδα』/[NP]/g
 s/『αμαδαθος』/[NP]/g
@@ -764,62 +764,62 @@ s/『αμαλθεια』/[NP]/g
 s/『αμαμ』/[NP]/g
 s/『αμαν』/[NP]/g
 s/『αμανιτος』/[NP]/g
-s/『αμαξα』/a carriage/g
+s/『αμαξα』/carriage/g
 s/『αμαρ』/[NP]/g
 s/『αμαραντος』/unfading/g
 s/『αμαρι』/[NP]/g
 s/『αμαρια』/[NP]/g
 s/『αμαρια\.1』/「ἁμαρία」/g
 s/『αμαριας』/[NP]/g
-s/『αμαρτανω』/to sin/g
+s/『αμαρτανω』/sin/g
 s/『αμαρτημα』/sinfulness/g
-s/『αμαρτια』/sin,<br>fault/g
+s/『αμαρτια』/sin;<br>fault/g
 s/『αμαρτωλος』/sinful/g
 s/『αμαρφαλ』/[NP]/g
 s/『αμασαι』/[NP]/g
-s/『αμασενιθ』/the sheminith,<br>the eighth/g
+s/『αμασενιθ』/sheminith;<br>eighth/g
 s/『αμασητος』/unchewed/g
 s/『αμασι』/[NP]/g
 s/『αμασια』/[NP]/g
 s/『αμασιαν』/[NP]/g
 s/『αμασιας』/[NP]/g
-s/『αματταρι』/marks,<br>targets/g
-s/『αμαυρος』/dimly seen,<br>dim/g
-s/『αμαυροω』/to make dim,<br>faint/g
-s/『αμαφεθ』/the threshold/g
-s/『αμαω』/to mow/g
+s/『αματταρι』/marks;<br>targets/g
+s/『αμαυρος』/dimly seen;<br>dim/g
+s/『αμαυροω』/make dim;<br>faint/g
+s/『αμαφεθ』/threshold/g
+s/『αμαω』/mow/g
 s/『αμβακουμ』/[NP]/g
-s/『αμβλακημα』/error,<br>fault/g
-s/『αμβλυνω』/to become dull/g
-s/『αμβλυωπεω』/to be dim-sighted/g
+s/『αμβλακημα』/error;<br>fault/g
+s/『αμβλυνω』/become dull/g
+s/『αμβλυωπεω』/dim-sighted/g
 s/『αμβραμ』/[NP]/g
 s/『αμβρι』/[NP]/g
 s/『αμβροσιος』/immortal/g
 s/『αμεθυστος』/amethyst/g
 s/『αμειδητος』/gloomy/g
-s/『αμειξια』/social or political disturbance,<br>state of war/g
+s/『αμειξια』/social disturbance;<br>state of war/g
 s/『αμεκασις』/[NP]/g
 s/『αμεκκασις』/[NP]/g
-s/『αμελγω』/to milk/g
-s/『αμελεω』/to be unconcerned,<br>be negligent/g
+s/『αμελγω』/milk/g
+s/『αμελεω』/unconcerned;<br>negligent/g
 s/『αμελξις』/milking/g
 s/『αμελσαδ』/[NP]/g
 s/『αμελως』/carelessly/g
 s/『αμεμπτος』/faultless/g
 s/『αμεμπτως』/faultlessly/g
-s/『αμερης』/without parts,<br>indivisible/g
+s/『αμερης』/without parts;<br>indivisible/g
 s/『αμεριμνος』/carefree/g
 s/『αμεσσα』/[NP]/g
 s/『αμεσσαι』/[NP]/g
 s/『αμεσσια』/[NP]/g
 s/『αμεσσιας』/[NP]/g
-s/『αμεταθετος』/non-transferable,<br>unalterable/g
-s/『αμετρητος』/unmeasured,<br>immeasurable/g
+s/『αμεταθετος』/non-transferable;<br>unalterable/g
+s/『αμετρητος』/unmeasured;<br>immeasurable/g
 s/『αμηαχι』/[NP]/g
 s/『αμην』/amen/g
 s/『αμητος』/reaping/g
 s/『αμηχανος』/without means/g
-s/『αμιαντος』/untainted,<br>undefiled/g
+s/『αμιαντος』/untainted;<br>undefiled/g
 s/『αμιζαβαθ』/[NP]/g
 s/『αμιηλ』/[NP]/g
 s/『αμιναδαβ』/[NP]/g
@@ -847,11 +847,11 @@ s/『αμμος』/sand/g
 s/『αμμωδης』/sandy/g
 s/『αμμων』/[NP]/g
 s/『αμμωνι』/[NP]/g
-s/『αμνας』/a lamb/g
-s/『αμνημονεω』/to be unmindful/g
-s/『αμνησια』/forgetting,<br>forgetfulness/g
+s/『αμνας』/lamb/g
+s/『αμνημονεω』/unmindful/g
+s/『αμνησια』/forgetting;<br>forgetfulness/g
 s/『αμνησικακια』/forgivingness/g
-s/『αμνηστευτος』/not yet engaged,<br>not yet betrothed/g
+s/『αμνηστευτος』/not yet engaged;<br>not yet betrothed/g
 s/『αμνηστια』/forgetfulness of wrong: an amnesty/g
 s/『αμνος』/lamb/g
 s/『αμνων』/[NP]/g
@@ -861,31 +861,31 @@ s/『αμορι』/[NP]/g
 s/『αμορια』/[NP]/g
 s/『αμορις』/[NP]/g
 s/『αμοριτη』/「ἀμορίτη」/g
-s/『αμορος』/unlucky,<br>wretched/g
+s/『αμορος』/unlucky;<br>wretched/g
 s/『αμορραια』/[NP]/g
 s/『αμορραιος』/[NP]/g
 s/『αμορρι』/[NP]/g
-s/『αμορφος』/misshapen,<br>unsightly/g
+s/『αμορφος』/misshapen;<br>unsightly/g
 s/『αμουηλ』/[NP]/g
 s/『αμουκ』/[NP]/g
-s/『αμπελος』/a vine/g
-s/『αμπελουργος』/a vine worker/g
-s/『αμπελων』/a vineyard/g
-s/『αμπλακια』/error,<br>fault/g
+s/『αμπελος』/vine/g
+s/『αμπελουργος』/vine worker/g
+s/『αμπελων』/vineyard/g
+s/『αμπλακια』/error;<br>fault/g
 s/『αμραμ』/[NP]/g
 s/『αμραμις』/[NP]/g
 s/『αμρι』/[NP]/g
 s/『αμυγδαλον』/almond tree/g
-s/『αμυθητος』/unspeakable,<br>unspeakably many/g
-s/『αμυνα』/vengeance on,<br>revenge on/g
-s/『αμυνω』/to assist/g
-s/『αμφιαζω』/to clothe/g
-s/『αμφιασις』/garment,<br>clothing/g
-s/『αμφιβαλλω』/to cast nets/g
-s/『αμφιβληστρον』/a net/g
-s/『αμφιβολευς』/fisherman,<br>angler/g
-s/『αμφιεννυμι』/to dress/g
-s/『αμφιλαφης』/taking in on all sides,<br>widespreading/g
+s/『αμυθητος』/unspeakable;<br>unspeakably many/g
+s/『αμυνα』/vengeance on;<br>revenge on/g
+s/『αμυνω』/assist/g
+s/『αμφιαζω』/clothe/g
+s/『αμφιασις』/garment;<br>clothing/g
+s/『αμφιβαλλω』/cast nets/g
+s/『αμφιβληστρον』/net/g
+s/『αμφιβολευς』/fisherman;<br>angler/g
+s/『αμφιεννυμι』/dress/g
+s/『αμφιλαφης』/taking in on all sides;<br>widespreading/g
 s/『αμφιν』/[NP]/g
 s/『αμφιταπος』/double-sided rug;<br>tapestry/g
 s/『αμφοδον』/intersection/g
@@ -893,64 +893,64 @@ s/『αμφοτεροδεξιος』/ambidextrous/g
 s/『αμφοτερος』/both/g
 s/『αμωθ』/[NP]/g
 s/『αμωκη』/[NP]/g
-s/『αμωμος』/flawless,<br>blameless/g
+s/『αμωμος』/flawless;<br>blameless/g
 s/『αμων』/[NP]/g
 s/『αμωρα』/[NP]/g
 s/『αμως』/[NP]/g
 s/『αμωσα』/[NP]/g
-s/『αν』/perhaps,<br>ever/g
+s/『αν』/perhaps;<br>ever/g
 s/『ανα』/[NP]/g
-s/『ανα\.1』/up,<br>each/g
-s/『αναβαθμις』/step,<br>stair/g
+s/『ανα\.1』/up;<br>each/g
+s/『αναβαθμις』/step;<br>stair/g
 s/『αναβαθμος』/ascent/g
-s/『αναβαινω』/to step up,<br>ascend/g
-s/『αναβαλλω』/to defer,<br>adjourn/g
-s/『αναβασις』/a going up,<br>mounting/g
-s/『αναβασταζω』/to raise/g
-s/『αναβατης』/a rider/g
-s/『αναβιβαζω』/to pull up,<br>mount/g
-s/『αναβιοω』/to come to life again,<br>return to life/g
-s/『αναβλαστανω』/to shoot up,<br>grow up again/g
-s/『αναβλεπω』/to look up,<br>see again/g
+s/『αναβαινω』/step up;<br>ascend/g
+s/『αναβαλλω』/defer;<br>adjourn/g
+s/『αναβασις』/going up;<br>mounting/g
+s/『αναβασταζω』/raise/g
+s/『αναβατης』/rider/g
+s/『αναβιβαζω』/pull up;<br>mount/g
+s/『αναβιοω』/come to life again;<br>return to life/g
+s/『αναβλαστανω』/shoot up;<br>grow up again/g
+s/『αναβλεπω』/look up;<br>see again/g
 s/『αναβλεψις』/seeing again/g
-s/『αναβοαω』/to scream out/g
+s/『αναβοαω』/scream out/g
 s/『αναβολη』/delay/g
 s/『αναβραζω』/「ἀναβράζω」/g
-s/『αναβρασσω』/to boil well,<br>seethe/g
+s/『αναβρασσω』/boil well;<br>seethe/g
 s/『αναβωθ』/[NP]/g
 s/『αναγ』/[NP]/g
-s/『αναγγελλω』/to announce/g
-s/『αναγινωσκω』/to read/g
-s/『αναγκαζω』/to compel/g
-s/『αναγκαιος』/compulsory,<br>indispensable/g
-s/『αναγκη』/a compulsion,<br>necessity/g
+s/『αναγγελλω』/announce/g
+s/『αναγινωσκω』/read/g
+s/『αναγκαζω』/compel/g
+s/『αναγκαιος』/compulsory;<br>indispensable/g
+s/『αναγκη』/compulsion;<br>necessity/g
 s/『αναγνεια』/abominable wickedness/g
-s/『αναγνωριζω』/to make known again/g
+s/『αναγνωριζω』/make known again/g
 s/『αναγνωσις』/reading/g
-s/『αναγνωστης』/a reader,<br>a slave trained to read/g
-s/『αναγορευω』/to proclaim publicly/g
-s/『αναγραφη』/a registering/g
-s/『αναγραφω』/to engrave and set up/g
-s/『αναγω』/to lead up,<br>head up/g
-s/『αναγωγως』/in an ill-bred manner,<br>rudely/g
-s/『αναδεικνυμι』/to indicate,<br>appoint/g
-s/『αναδειξις』/indication,<br>appointment/g
+s/『αναγνωστης』/reader;<br>slave trained to read/g
+s/『αναγορευω』/proclaim publicly/g
+s/『αναγραφη』/registering/g
+s/『αναγραφω』/engrave and set up/g
+s/『αναγω』/lead up;<br>head up/g
+s/『αναγωγως』/in an ill-bred manner;<br>rudely/g
+s/『αναδεικνυμι』/indicate;<br>appoint/g
+s/『αναδειξις』/indication;<br>appointment/g
 s/『αναδενδρας』/tree limbs/g
-s/『αναδεχομαι』/to accept in turn/g
-s/『αναδιδωμι』/to give up/g
-s/『αναδυσις』/a drawing back,<br>retreat/g
+s/『αναδεχομαι』/accept in turn/g
+s/『αναδιδωμι』/give up/g
+s/『αναδυσις』/drawing back;<br>retreat/g
 s/『αναζευγνυω』/「ἀναζευγνύω」/g
-s/『αναζεω』/to boil up/g
-s/『αναζητεω』/to seek again/g
-s/『αναζυγη』/breaking up one’s quarters,<br>marching forth/g
-s/『αναζωννυμι』/to gird up/g
-s/『αναζωπυρεω』/to rekindle/g
+s/『αναζεω』/boil up/g
+s/『αναζητεω』/seek again/g
+s/『αναζυγη』/breaking up one’s quarters;<br>marching forth/g
+s/『αναζωννυμι』/gird up/g
+s/『αναζωπυρεω』/rekindle/g
 s/『αναηλ』/[NP]/g
 s/『αναθ』/[NP]/g
-s/『αναθαλλω』/to bloom\/flourish again/g
+s/『αναθαλλω』/bloom\/flourish again/g
 s/『αναθεμα』/accursed/g
-s/『αναθεματιζω』/to curse/g
-s/『αναθημα』/a votive offering/g
+s/『αναθεματιζω』/curse/g
+s/『αναθημα』/votive offering/g
 s/『αναθωθ』/[NP]/g
 s/『αναθωθι』/[NP]/g
 s/『αναθωθια』/[NP]/g
@@ -958,220 +958,220 @@ s/『αναθωθιτης』/[NP]/g
 s/『αναια』/[NP]/g
 s/『αναιδεια』/effrontery/g
 s/『αναιδης』/shameless/g
-s/『αναιδως』/impudently,<br>ungodly/g
-s/『αναιρεσις』/eradication,<br>execution/g
-s/『αναιρεω』/to eliminate,<br>take up/g
+s/『αναιδως』/impudently;<br>ungodly/g
+s/『αναιρεσις』/eradication;<br>execution/g
+s/『αναιρεω』/eliminate;<br>take up/g
 s/『αναιτιος』/faultless/g
 s/『αναιτιως』/having no cause/g
-s/『ανακαινιζω』/to renew/g
-s/『ανακαιω』/to light up/g
-s/『ανακαλεω』/to call up the dead/g
-s/『ανακαλυπτω』/to uncover/g
-s/『ανακαμπτω』/to bend back,<br>revert/g
-s/『ανακειμαι』/to recline/g
-s/『ανακηρυσσω』/to proclaim by voice of herald,<br>publish abroad/g
-s/『ανακλαω』/to bend back/g
-s/『ανακλινω』/to recline,<br>lay/g
-s/『ανακλισις』/lying or leaning back/g
-s/『ανακλιτον』/sth to recline on,<br>back of a chair/g
-s/『ανακοινοω』/to communicate/g
-s/『ανακομιζω』/to carry up/g
-s/『ανακοπτω』/to impede/g
-s/『ανακραζω』/to cry out/g
-s/『ανακρινω』/to examine/g
-s/『ανακρισις』/an examination/g
-s/『ανακρουω』/to push back,<br>stop short/g
-s/『ανακυπτω』/to straighten up/g
-s/『αναλαμβανω』/to take up,<br>take along/g
-s/『αναλαμπω』/to flare up/g
+s/『ανακαινιζω』/renew/g
+s/『ανακαιω』/light up/g
+s/『ανακαλεω』/call up the dead/g
+s/『ανακαλυπτω』/uncover/g
+s/『ανακαμπτω』/bend back;<br>revert/g
+s/『ανακειμαι』/recline/g
+s/『ανακηρυσσω』/proclaim by voice of herald;<br>publish abroad/g
+s/『ανακλαω』/bend back/g
+s/『ανακλινω』/recline;<br>lay/g
+s/『ανακλισις』/lying;<br>leaning back/g
+s/『ανακλιτον』/sth to recline on;<br>back of a chair/g
+s/『ανακοινοω』/communicate/g
+s/『ανακομιζω』/carry up/g
+s/『ανακοπτω』/impede/g
+s/『ανακραζω』/cry out/g
+s/『ανακρινω』/examine/g
+s/『ανακρισις』/examination/g
+s/『ανακρουω』/push back;<br>stop short/g
+s/『ανακυπτω』/straighten up/g
+s/『αναλαμβανω』/take up;<br>take along/g
+s/『αναλαμπω』/flare up/g
 s/『αναλγητος』/without pain/g
-s/『αναλεγω』/to pick up,<br>gather up/g
-s/『αναλημμα』/fortified wall,<br>fortification/g
-s/『αναλημπτεος』/must be taken up,<br>must be brought/g
-s/『αναλημπτηρ』/bucket,<br>ladle/g
+s/『αναλεγω』/pick up;<br>gather up/g
+s/『αναλημμα』/fortified wall;<br>fortification/g
+s/『αναλημπτεος』/must be taken up;<br>must be brought/g
+s/『αναλημπτηρ』/bucket;<br>ladle/g
 s/『αναληψις』/resumption/g
-s/『αναλισκω』/to waste,<br>consume/g
-s/『αναλογιζομαι』/to recount,<br>consider/g
+s/『αναλισκω』/waste;<br>consume/g
+s/『αναλογιζομαι』/recount;<br>consider/g
 s/『αναλογως』/proportionally/g
-s/『αναλυω』/to slip away/g
-s/『αναλωσις』/outlay,<br>expenditure/g
+s/『αναλυω』/slip away/g
+s/『αναλωσις』/outlay;<br>expenditure/g
 s/『αναμ』/[NP]/g
 s/『αναμαρτητος』/sinless/g
 s/『αναμεηλ』/[NP]/g
-s/『αναμενω』/to stay up for,<br>wait for/g
-s/『αναμιγνυμι』/to mix up,<br>mix together/g
-s/『αναμιμνησκω』/to remind,<br>recall/g
+s/『αναμενω』/stay up for;<br>wait for/g
+s/『αναμιγνυμι』/mix up;<br>mix together/g
+s/『αναμιμνησκω』/remind;<br>recall/g
 s/『αναμιξις』/intercourse/g
 s/『αναμνησις』/remembrance/g
-s/『αναμοχλευω』/to raise by a lever,<br>to force open/g
-s/『αναμφισβητητως』/without further question,<br>indisputably/g
+s/『αναμοχλευω』/raise by a lever;<br>force open/g
+s/『αναμφισβητητως』/without further question;<br>indisputably/g
 s/『αναν』/[NP]/g
 s/『ανανδρος』/husbandless/g
-s/『ανανεαζω』/to renew one's youth/g
+s/『ανανεαζω』/renew one's youth/g
 s/『ανανεηλ』/[NP]/g
-s/『ανανεοω』/to renew/g
-s/『ανανευσις』/rejection,<br>refusal/g
-s/『ανανευω』/to throw the head back/g
-s/『ανανεωσις』/a renewal/g
+s/『ανανεοω』/renew/g
+s/『ανανευσις』/rejection;<br>refusal/g
+s/『ανανευω』/throw the head back/g
+s/『ανανεωσις』/renewal/g
 s/『ανανι』/[NP]/g
 s/『ανανιας』/[NP]/g
 s/『ανανιηλ』/[NP]/g
 s/『αναντια』/「ἀναντία」/g
 s/『αναντλεω』/「ἀναντλέω」/g
-s/『αναξηραινω』/to dry up/g
+s/『αναξηραινω』/dry up/g
 s/『αναξιος』/unworthy/g
-s/『αναξις』/bringing up,<br>raising up/g
+s/『αναξις』/bringing up;<br>raising up/g
 s/『αναξιως』/unworthily/g
 s/『αναπαλιν』/back again/g
-s/『αναπαυμα』/a repose,<br>rest/g
-s/『αναπαυσις』/respite,<br>relief/g
-s/『αναπαυω』/to have respite,<br>give relief/g
-s/『αναπειθω』/to re-persuade,<br>seduce/g
-s/『αναπειρω』/to pierce through,<br>fix on a spit/g
-s/『αναπεταννυμι』/to spread out,<br>unfold/g
-s/『αναπηδαω』/to leap up,<br>start up/g
+s/『αναπαυμα』/repose;<br>rest/g
+s/『αναπαυσις』/respite;<br>relief/g
+s/『αναπαυω』/have respite;<br>give relief/g
+s/『αναπειθω』/re-persuade;<br>seduce/g
+s/『αναπειρω』/pierce through;<br>fix on a spit/g
+s/『αναπεταννυμι』/spread out;<br>unfold/g
+s/『αναπηδαω』/leap up;<br>start up/g
 s/『αναπηρος』/crippled/g
-s/『αναπιπτω』/to lie down/g
-s/『αναπλασσω』/to form anew,<br>remodel/g
-s/『αναπληροω』/to fill up,<br>fulfill/g
-s/『αναπληρωσις』/a filling up/g
-s/『αναπνεω』/to breathe again,<br>take breath/g
-s/『αναποδιζω』/to make to step back,<br>call back/g
+s/『αναπιπτω』/lie down/g
+s/『αναπλασσω』/form anew;<br>remodel/g
+s/『αναπληροω』/fill up;<br>fulfill/g
+s/『αναπληρωσις』/filling up/g
+s/『αναπνεω』/breathe again;<br>take breath/g
+s/『αναποδιζω』/make to step back;<br>call back/g
 s/『αναποδισμος』/return/g
-s/『αναποιεω』/to make up,<br>to prepare/g
-s/『αναπτεροω』/to raise its feathers/g
+s/『αναποιεω』/make up;<br>prepare/g
+s/『αναπτεροω』/raise its feathers/g
 s/『αναπτερωσις』/clamour/g
-s/『αναπτυσσω』/to unfold,<br>unroll/g
-s/『αναπτω』/to kindle/g
+s/『αναπτυσσω』/unfold;<br>unroll/g
+s/『αναπτω』/kindle/g
 s/『αναρ』/[NP]/g
 s/『αναρεθ』/[NP]/g
 s/『αναριθμητος』/innumerable/g
-s/『αναρπαζω』/to snatch up/g
-s/『αναρρηγνυμι』/to break up/g
+s/『αναρπαζω』/snatch up/g
+s/『αναρρηγνυμι』/break up/g
 s/『ανασιβ』/[NP]/g
-s/『ανασκαπτω』/to dig up,<br>to dig up ground/g
-s/『ανασπαω』/to draw up/g
+s/『ανασκαπτω』/dig up;<br>dig up ground/g
+s/『ανασπαω』/draw up/g
 s/『ανασσα』/[NP]/g
 s/『αναστασις』/resurrection/g
-s/『αναστατοω』/to unsettle/g
-s/『αναστελλω』/to raise up/g
-s/『αναστεναζω』/to groan out/g
-s/『αναστημα』/a structure/g
-s/『αναστρατοπεδευω』/to move camp,<br>to move one’s camp/g
-s/『αναστρεφω』/to overturn,<br>turn up\/back/g
+s/『αναστατοω』/unsettle/g
+s/『αναστελλω』/raise up/g
+s/『αναστεναζω』/groan out/g
+s/『αναστημα』/structure/g
+s/『αναστρατοπεδευω』/move camp;<br>move one’s camp/g
+s/『αναστρεφω』/overturn;<br>turn up\/back/g
 s/『αναστροφη』/conduct/g
-s/『ανασυρω』/to expose,<br>to lay bare/g
-s/『ανασχιζω』/to rip up/g
-s/『ανασωζω』/to return safely,<br>recover/g
-s/『ανατεινω』/to stretch up,<br>hold up/g
-s/『ανατελλω』/to spring up,<br>rise/g
-s/『ανατεμνω』/to cut open/g
-s/『ανατιθημι』/to relate/g
-s/『ανατικτω』/to bring forth again/g
+s/『ανασυρω』/expose;<br>lay bare/g
+s/『ανασχιζω』/rip up/g
+s/『ανασωζω』/return safely;<br>recover/g
+s/『ανατεινω』/stretch up;<br>hold up/g
+s/『ανατελλω』/spring up;<br>rise/g
+s/『ανατεμνω』/cut open/g
+s/『ανατιθημι』/relate/g
+s/『ανατικτω』/bring forth again/g
 s/『ανατιναγμος』/shaking violently/g
-s/『ανατολη』/a springing up,<br>the east/g
+s/『ανατολη』/springing up;<br>east/g
 s/『ανατολη\.1』/[NP]/g
-s/『ανατρεπω』/to subvert/g
-s/『ανατρεφω』/to nurture,<br>bring up/g
-s/『ανατρεχω』/to run back/g
+s/『ανατρεπω』/subvert/g
+s/『ανατρεφω』/nurture;<br>bring up/g
+s/『ανατρεχω』/run back/g
 s/『ανατροπη』/outpouring/g
-s/『ανατροφη』/education,<br>rearing/g
-s/『ανατυποω』/to impress again/g
+s/『ανατροφη』/education;<br>rearing/g
+s/『ανατυποω』/impress again/g
 s/『αναφαθι』/[NP]/g
-s/『αναφαινω』/to shine up,<br>sight/g
+s/『αναφαινω』/shine up;<br>sight/g
 s/『αναφαλαντος』/bald on the forehead/g
 s/『αναφαλαντωμα』/baldness on the forehead/g
-s/『αναφερω』/to bring up,<br>carry up/g
+s/『αναφερω』/bring up;<br>carry up/g
 s/『αναφθανω』/「ἀναφθάνω」/g
 s/『αναφορα』/offering/g
-s/『αναφορευς』/bearer,<br>carrying pole/g
+s/『αναφορευς』/bearer;<br>carrying pole/g
 s/『αναφρασσω』/「ἀναφράσσω」/g
-s/『αναφυω』/to sprout up/g
-s/『αναφωνεω』/to call out/g
-s/『αναχασκω』/to open the mouth,<br>gape wide/g
+s/『αναφυω』/sprout up/g
+s/『αναφωνεω』/call out/g
+s/『αναχασκω』/open the mouth;<br>gape wide/g
 s/『αναχερεθ』/[NP]/g
-s/『αναχωρεω』/to depart,<br>go away/g
+s/『αναχωρεω』/depart;<br>go away/g
 s/『αναψυξις』/refreshing/g
-s/『αναψυχη』/a cooling,<br>refreshing: relief/g
-s/『αναψυχω』/to refresh/g
+s/『αναψυχη』/cooling;<br>refreshing: relief/g
+s/『αναψυχω』/refresh/g
 s/『ανδραγαθαεω』/「ἀνδραγαθαέω」/g
 s/『ανδραγαθεω』/brave deeds/g
-s/『ανδραγαθια』/bravery,<br>manly virtue/g
-s/『ανδραποδον』/one taken in war and sold as a slave,<br>a captive/g
-s/『ανδρεια』/manliness,<br>manhood/g
+s/『ανδραγαθια』/bravery;<br>manly virtue/g
+s/『ανδραποδον』/one taken in war and sold as a slave;<br>captive/g
+s/『ανδρεια』/manliness;<br>manhood/g
 s/『ανδρειος』/for a man/g
-s/『ανδρειοω』/to fill with courage/g
+s/『ανδρειοω』/fill with courage/g
 s/『ανδρειως』/「ἀνδρείως」/g
-s/『ανδριζομαι』/to be a man,<br>be valiant/g
+s/『ανδριζομαι』/a man;<br>valiant/g
 s/『ανδρογυναιος』/like an effeminate man/g
-s/『ανδρογυνος』/a man-woman,<br>hermaphrodite/g
+s/『ανδρογυνος』/man-woman;<br>hermaphrodite/g
 s/『ανδρολογειον』/「ἀνδρολογεῖον」/g
 s/『ανδρονικος』/[NP]/g
-s/『ανδροφονεω』/to murder/g
-s/『ανδροφονος』/a husband murderer/g
-s/『ανδροω』/to rear up into manhood/g
+s/『ανδροφονεω』/murder/g
+s/『ανδροφονος』/husband murderer/g
+s/『ανδροω』/rear up into manhood/g
 s/『ανδρωδως』/manly/g
-s/『ανεγειρω』/to wake up,<br>rouse/g
-s/『ανεγκλητος』/unindicted,<br>without accusation/g
+s/『ανεγειρω』/wake up;<br>rouse/g
+s/『ανεγκλητος』/unindicted;<br>without accusation/g
 s/『ανεικαστος』/immense/g
-s/『ανειλεω』/to roll up together/g
-s/『ανειμι』/to go up/g
+s/『ανειλεω』/roll up together/g
+s/『ανειμι』/go up/g
 s/『ανεκλιπης』/unfailing/g
-s/『ανελεημονως』/mercilessly,<br>ruthlessly/g
+s/『ανελεημονως』/mercilessly;<br>ruthlessly/g
 s/『ανελεημων』/merciless/g
-s/『ανελπιστος』/unhoped for,<br>unlooked for/g
+s/『ανελπιστος』/unhoped for;<br>unlooked for/g
 s/『ανελπιστως』/unexpectedly/g
-s/『ανεμος』/a gale/g
+s/『ανεμος』/gale/g
 s/『ανεμοφθορια』/wind-blast/g
 s/『ανεμοφθορος』/blasted by gales/g
 s/『ανεμποδιστος』/unembarrassed/g
-s/『ανεξελεγκτος』/unquestioned,<br>impossible to be questioned/g
-s/『ανεξικακια』/forbearance,<br>patient endurance/g
-s/『ανεξιχνιαστος』/untraceable,<br>unfathomable/g
-s/『ανεπιεικης』/unreasonable,<br>unfair/g
-s/『ανεπιστρεπτως』/without turning round,<br>indifferently/g
-s/『ανερευναω』/to examine closely,<br>investigate/g
-s/『ανερχομαι』/to go up/g
-s/『ανεσις』/relaxation,<br>relief/g
-s/『ανεταζω』/to examine/g
+s/『ανεξελεγκτος』/unquestioned;<br>impossible to be questioned/g
+s/『ανεξικακια』/forbearance;<br>patient endurance/g
+s/『ανεξιχνιαστος』/untraceable;<br>unfathomable/g
+s/『ανεπιεικης』/unreasonable;<br>unfair/g
+s/『ανεπιστρεπτως』/without turning round;<br>indifferently/g
+s/『ανερευναω』/examine closely;<br>investigate/g
+s/『ανερχομαι』/go up/g
+s/『ανεσις』/relaxation;<br>relief/g
+s/『ανεταζω』/examine/g
 s/『ανετλην』/「ἀνέτλην」/g
 s/『ανευ』/without/g
-s/『ανευρισκω』/to discover/g
-s/『ανεφικτος』/out of reach,<br>unattainable/g
-s/『ανεχω』/to put up with,<br>bear up/g
-s/『ανεψιος』/a cousin/g
-s/『ανηβος』/not yet come to man's estate,<br>beardless/g
-s/『ανηκεστος』/not to be healed,<br>incurable/g
+s/『ανευρισκω』/discover/g
+s/『ανεφικτος』/out of reach;<br>unattainable/g
+s/『ανεχω』/put up with;<br>bear up/g
+s/『ανεψιος』/cousin/g
+s/『ανηβος』/not yet come to man's estate;<br>beardless/g
+s/『ανηκεστος』/not to be healed;<br>incurable/g
 s/『ανηκοος』/without hearing/g
-s/『ανηκω』/to be appropriate/g
-s/『ανηλατος』/not malleable,<br>not struck with a hammer/g
-s/『ανηλεης』/without pity,<br>unmerciful/g
+s/『ανηκω』/appropriate/g
+s/『ανηλατος』/not malleable;<br>not struck with a hammer/g
+s/『ανηλεης』/without pity;<br>unmerciful/g
 s/『ανημελεχ』/[NP]/g
 s/『ανηνυτος』/endless/g
-s/『ανηρ』/man,<br>husband/g
+s/『ανηρ』/man;<br>husband/g
 s/『ανθεμιον』/with flowers/g
-s/『ανθεω』/to blossom,<br>bloom/g
-s/『ανθινος』/like flowers,<br>blooming/g
-s/『ανθιστημι』/to resist/g
-s/『ανθομολογεομαι』/to acknowledge in turn/g
+s/『ανθεω』/blossom;<br>bloom/g
+s/『ανθινος』/like flowers;<br>blooming/g
+s/『ανθιστημι』/resist/g
+s/『ανθομολογεομαι』/acknowledge in turn/g
 s/『ανθομολογησις』/thanksgiving/g
-s/『ανθος』/a flower/g
-s/『ανθρακια』/a heap of live coals/g
+s/『ανθος』/flower/g
+s/『ανθρακια』/heap of live coals/g
 s/『ανθρακινος』/of carbuncle/g
-s/『ανθραξ』/a live coal/g
-s/『ανθρωπαρεσκος』/a people-pleaser/g
-s/『ανθρωπινος』/human,<br>humanely/g
-s/『ανθρωπος』/person,<br>human/g
-s/『ανθυφαιρεω』/to be taken in return,<br>to be deducted/g
+s/『ανθραξ』/live coal/g
+s/『ανθρωπαρεσκος』/people-pleaser/g
+s/『ανθρωπινος』/human;<br>humanely/g
+s/『ανθρωπος』/person;<br>human/g
+s/『ανθυφαιρεω』/taken in return;<br>deducted/g
 s/『ανιαμ』/[NP]/g
 s/『ανιατος』/incurable/g
-s/『ανιεροω』/to dedicate,<br>devote/g
+s/『ανιεροω』/dedicate;<br>devote/g
 s/『ανιηλ』/[NP]/g
-s/『ανιημι』/to be remiss,<br>relax/g
-s/『ανικητος』/unconquered,<br>unconquerable/g
+s/『ανιημι』/remiss;<br>relax/g
+s/『ανικητος』/unconquered;<br>unconquerable/g
 s/『ανιμ』/[NP]/g
 s/『ανιπταμαι』/「ἀνίπταμαι」/g
-s/『ανιστημι』/to stand up,<br>resurrect/g
+s/『ανιστημι』/stand up;<br>resurrect/g
 s/『ανισχυς』/without strength/g
 s/『ανκαδης』/[NP]/g
 s/『αννα』/[NP]/g
@@ -1182,74 +1182,74 @@ s/『αννιουθ』/[NP]/g
 s/『αννουα』/[NP]/g
 s/『αννουνος』/[NP]/g
 s/『αννων』/[NP]/g
-s/『ανοητος』/imperceptive,<br>unintelligent/g
-s/『ανοια』/mindlessness,<br>witlessness/g
-s/『ανοιγω』/to open up/g
-s/『ανοικοδομεω』/to rebuild/g
-s/『ανοικτος』/pitiless,<br>ruthless/g
-s/『ανομβρεω』/to gush out,<br>to pour forth/g
-s/『ανομεω』/to act lawlessly/g
-s/『ανομημα』/transgression of the law,<br>iniquity/g
+s/『ανοητος』/imperceptive;<br>unintelligent/g
+s/『ανοια』/mindlessness;<br>witlessness/g
+s/『ανοιγω』/open up/g
+s/『ανοικοδομεω』/rebuild/g
+s/『ανοικτος』/pitiless;<br>ruthless/g
+s/『ανομβρεω』/gush out;<br>pour forth/g
+s/『ανομεω』/act lawlessly/g
+s/『ανομημα』/transgression of the law;<br>iniquity/g
 s/『ανομια』/lawlessness/g
-s/『ανομοιος』/unlike,<br>dissimilar/g
+s/『ανομοιος』/unlike;<br>dissimilar/g
 s/『ανομος』/lawless/g
 s/『ανομως』/lawlessly/g
-s/『ανονητος』/unprofitable,<br>useless/g
-s/『ανορθοω』/to straighten up/g
-s/『ανορυσσω』/to dig up/g
+s/『ανονητος』/unprofitable;<br>useless/g
+s/『ανορθοω』/straighten up/g
+s/『ανορυσσω』/dig up/g
 s/『ανοσιος』/irresponsible/g
 s/『ανοσιως』/in an unholy manner/g
 s/『ανουμ』/[NP]/g
 s/『ανουν』/[NP]/g
-s/『ανους』/without understanding,<br>senseless/g
+s/『ανους』/without understanding;<br>senseless/g
 s/『ανοχη』/tolerance/g
-s/『ανταγωνιζομαι』/to be in conflict/g
-s/『ανταγωνιστης』/an opponent,<br>competitor/g
-s/『ανταιρω』/to raise against/g
-s/『αντακουω』/to hear in turn/g
+s/『ανταγωνιζομαι』/in conflict/g
+s/『ανταγωνιστης』/opponent;<br>competitor/g
+s/『ανταιρω』/raise against/g
+s/『αντακουω』/hear in turn/g
 s/『ανταλλαγμα』/in exchange/g
-s/『ανταλλασσω』/to exchange/g
-s/『ανταμειψις』/exchanging,<br>requital/g
-s/『ανταναιρεω』/to take away from the opposite sides of an account,<br>to cancel/g
+s/『ανταλλασσω』/exchange/g
+s/『ανταμειψις』/exchanging;<br>requital/g
+s/『ανταναιρεω』/take away from the opposite sides of an account;<br>cancel/g
 s/『αντανακλαω』/「ἀντανακλάω」/g
-s/『αντανιστημι』/to set up against/g
-s/『ανταποδιδωμι』/to repay/g
-s/『ανταποδομα』/a repayment/g
-s/『ανταποδοσις』/recompense,<br>rendering/g
+s/『αντανιστημι』/set up against/g
+s/『ανταποδιδωμι』/repay/g
+s/『ανταποδομα』/repayment/g
+s/『ανταποδοσις』/recompense;<br>rendering/g
 s/『ανταποθνησκω』/「ἀνταποθνήσκω」/g
-s/『ανταποκρινομαι』/to respond against/g
+s/『ανταποκρινομαι』/respond against/g
 s/『ανταποκρισις』/answer/g
-s/『ανταποστελλω』/to send back/g
-s/『ανταποτινω』/to requite to,<br>to repay to/g
-s/『αντεπω』/to speak against/g
-s/『αντερειδω』/to set firmly against/g
-s/『αντεχω』/to hold close\/onto,<br>reach/g
-s/『αντηχεω』/to sound/g
-s/『αντι』/against,<br>instead of/g
-s/『αντιβαλλω』/to interject,<br>exchange/g
-s/『αντιγραφον』/a transcript/g
-s/『αντιγραφω』/to write against/g
-s/『αντιδιδωμι』/to give in return,<br>repay/g
-s/『αντιδικεω』/to dispute,<br>go to law/g
-s/『αντιδικος』/an opponent/g
+s/『ανταποστελλω』/send back/g
+s/『ανταποτινω』/requite to;<br>repay to/g
+s/『αντεπω』/speak against/g
+s/『αντερειδω』/set firmly against/g
+s/『αντεχω』/hold close\/onto;<br>reach/g
+s/『αντηχεω』/sound/g
+s/『αντι』/against;<br>instead of/g
+s/『αντιβαλλω』/interject;<br>exchange/g
+s/『αντιγραφον』/transcript/g
+s/『αντιγραφω』/write against/g
+s/『αντιδιδωμι』/give in return;<br>repay/g
+s/『αντιδικεω』/dispute;<br>go to law/g
+s/『αντιδικος』/opponent/g
 s/『αντιδοκεω』/「ἀντιδοκέω」/g
-s/『αντιζηλος』/rival,<br>adversary/g
-s/『αντιθετος』/opposed,<br>antithetic/g
-s/『αντικαθιζομαι』/to sit/g
-s/『αντικαθιστημι』/to resist/g
-s/『αντικαταλλασσομαι』/to exchange/g
-s/『αντικειμαι』/to oppose/g
+s/『αντιζηλος』/rival;<br>adversary/g
+s/『αντιθετος』/opposed;<br>antithetic/g
+s/『αντικαθιζομαι』/sit/g
+s/『αντικαθιστημι』/resist/g
+s/『αντικαταλλασσομαι』/exchange/g
+s/『αντικειμαι』/oppose/g
 s/『αντικρινω』/「ἀντικρίνω」/g
 s/『αντικρυ』/opposite/g
-s/『αντιλαμβανω』/to relieve,<br>lay hold of/g
-s/『αντιλαμπω』/to kindle a light in turn/g
-s/『αντιλεγω』/to denounce,<br>contradict/g
+s/『αντιλαμβανω』/relieve;<br>lay hold of/g
+s/『αντιλαμπω』/kindle a light in turn/g
+s/『αντιλεγω』/denounce;<br>contradict/g
 s/『αντιληπτωρ』/「ἀντιλήπτωρ」/g
 s/『αντιληψις』/relief/g
 s/『αντιλιβανος』/[NP]/g
 s/『αντιλογια』/controversy/g
-s/『αντιμετρεω』/to measure against/g
-s/『αντιον』/upper crossbeam of the loom,<br>heddle-rod/g
+s/『αντιμετρεω』/measure against/g
+s/『αντιον』/upper crossbeam of the loom;<br>heddle-rod/g
 s/『αντιοχεια』/[NP]/g
 s/『αντιοχευς』/[NP]/g
 s/『αντιοχις』/[NP]/g
@@ -1257,417 +1257,417 @@ s/『αντιοχον』/[NP]/g
 s/『αντιοχος』/「ἀντίοχος」/g
 s/『αντιοχος\.1』/[NP]/g
 s/『αντιπαλος』/wrestling against/g
-s/『αντιπαραβαλλω』/to hold side by side,<br>to compare/g
-s/『αντιπαραγω』/to lead the army against,<br>advance to meet the enemy/g
-s/『αντιπαραγωγη』/opposition,<br>hostility/g
-s/『αντιπαρατασσομαι』/to stand in array against/g
-s/『αντιπαρερχομαι』/to pass by instead/g
+s/『αντιπαραβαλλω』/hold side by side;<br>compare/g
+s/『αντιπαραγω』/lead the army against;<br>advance to meet the enemy/g
+s/『αντιπαραγωγη』/opposition;<br>hostility/g
+s/『αντιπαρατασσομαι』/stand in array against/g
+s/『αντιπαρερχομαι』/pass by instead/g
 s/『αντιπατρος』/[NP]/g
-s/『αντιπιπτω』/to fall against,<br>resist/g
-s/『αντιποιεω』/to do in return/g
-s/『αντιπολεμεω』/to urge war against/g
-s/『αντιπολιτευομαι』/to be a political opponent/g
-s/『αντιπρασσω』/to act against,<br>seek to counteract/g
+s/『αντιπιπτω』/fall against;<br>resist/g
+s/『αντιποιεω』/do in return/g
+s/『αντιπολεμεω』/urge war against/g
+s/『αντιπολιτευομαι』/a political opponent/g
+s/『αντιπρασσω』/act against;<br>seek to counteract/g
 s/『αντιπροσωπος』/face to face/g
-s/『αντιπτωμα』/accident,<br>conflict/g
+s/『αντιπτωμα』/accident;<br>conflict/g
 s/『αντιρρησις』/controversy/g
-s/『αντιρρητορευω』/to speak against,<br>to answer/g
+s/『αντιρρητορευω』/speak against;<br>answer/g
 s/『αντιστηριγμα』/support;<br>support/g
-s/『αντιστηριζω』/to lean for support upon/g
-s/『αντιτασσω』/to range against,<br>oppose/g
-s/『αντιτιθημι』/to set against,<br>oppose/g
-s/『αντιφιλοσοφεω』/to hold contrary tenets/g
-s/『αντιφωνεω』/to sound in answer,<br>reply/g
+s/『αντιστηριζω』/lean for support upon/g
+s/『αντιτασσω』/range against;<br>oppose/g
+s/『αντιτιθημι』/set against;<br>oppose/g
+s/『αντιφιλοσοφεω』/hold contrary tenets/g
+s/『αντιφωνεω』/sound in answer;<br>reply/g
 s/『αντιψυχος』/giving one’s life in recompense for another’s/g
-s/『αντλεω』/to draw out/g
-s/『αντοφθαλμεω』/to come eye to eye/g
+s/『αντλεω』/draw out/g
+s/『αντοφθαλμεω』/come eye to eye/g
 s/『αντρον』/cave/g
 s/『αντρωδης』/full of caves/g
 s/『ανυδρος』/waterless/g
 s/『ανυπερβλητος』/not to be surpassed/g
-s/『ανυπερθετως』/forthwith,<br>without delay/g
+s/『ανυπερθετως』/forthwith;<br>without delay/g
 s/『ανυποδετος』/barefoot/g
 s/『ανυποκριτος』/not\/without play-acting/g
 s/『ανυπομονητος』/unbearable/g
 s/『ανυπονοητος』/unsuspected/g
-s/『ανυποστατος』/not to be withstood,<br>irresistible/g
-s/『ανυψοω』/to raise up,<br>exalt/g
-s/『ανυω』/to effect,<br>achieve/g
+s/『ανυποστατος』/not to be withstood;<br>irresistible/g
+s/『ανυψοω』/raise up;<br>exalt/g
+s/『ανυω』/effect;<br>achieve/g
 s/『ανω』/[NP]/g
-s/『ανω\.1』/upward,<br>above/g
+s/『ανω\.1』/upward;<br>above/g
 s/『ανωβ』/[NP]/g
-s/『ανωθεν』/from above,<br>from upward/g
+s/『ανωθεν』/from above;<br>from upward/g
 s/『ανων』/[NP]/g
-s/『ανωνυμος』/without name,<br>nameless/g
+s/『ανωνυμος』/without name;<br>nameless/g
 s/『ανως』/[NP]/g
-s/『ανωτερος』/above,<br>upper/g
+s/『ανωτερος』/above;<br>upper/g
 s/『ανωφελης』/useless/g
 s/『ανωχ』/[NP]/g
-s/『αξια』/the worth/g
-s/『αξινη』/an axe/g
+s/『αξια』/worth/g
+s/『αξινη』/axe/g
 s/『αξιοπιστος』/trustworthy/g
-s/『αξιος』/worthy,<br>deserving/g
-s/『αξιοω』/to deem worthy,<br>consider worthwhile/g
-s/『αξιωμα』/that of which one is thought worthy,<br>an honour/g
+s/『αξιος』/worthy;<br>deserving/g
+s/『αξιοω』/deem worthy;<br>consider worthwhile/g
+s/『αξιωμα』/that of which one is thought worthy;<br>honour/g
 s/『αξιως』/worthily/g
-s/『αξων』/an axle/g
+s/『αξων』/axle/g
 s/『αοζα』/[NP]/g
-s/『αοιδιμος』/sung of,<br>famous in song/g
+s/『αοιδιμος』/sung of;<br>famous in song/g
 s/『αοικητος』/uninhabited/g
-s/『αοκνος』/without hesitation,<br>untiring/g
+s/『αοκνος』/without hesitation;<br>untiring/g
 s/『αορασια』/inability to see/g
 s/『αορατος』/invisible/g
 s/『αουε』/[NP]/g
-s/『απαγγελια』/a report/g
-s/『απαγγελλω』/to report/g
-s/『απαγορευω』/to forbid/g
-s/『απαγχω』/to hang/g
-s/『απαγω』/to lead off,<br>lead away/g
-s/『απαγωγη』/a leading away/g
-s/『απαδικεω』/to withhold wrongfully/g
+s/『απαγγελια』/report/g
+s/『απαγγελλω』/report/g
+s/『απαγορευω』/forbid/g
+s/『απαγχω』/hang/g
+s/『απαγω』/lead off;<br>lead away/g
+s/『απαγωγη』/leading away/g
+s/『απαδικεω』/withhold wrongfully/g
 s/『απαιδευσια』/want of education/g
 s/『απαιδευτος』/undisciplined/g
-s/『απαιρω』/to remove,<br>take away/g
-s/『απαιτεω』/to demand back/g
-s/『απαιτησις』/a demanding back/g
-s/『απαλειφω』/to wipe out/g
-s/『απαλλασσω』/to discharge,<br>deliver/g
-s/『απαλλοτριοω』/to estrange/g
+s/『απαιρω』/remove;<br>take away/g
+s/『απαιτεω』/demand back/g
+s/『απαιτησις』/demanding back/g
+s/『απαλειφω』/wipe out/g
+s/『απαλλασσω』/discharge;<br>deliver/g
+s/『απαλλοτριοω』/estrange/g
 s/『απαλλοτριωσις』/alienation/g
 s/『απαλος』/tender/g
 s/『απαλοτης』/softness/g
-s/『απαλυνω』/to soften/g
+s/『απαλυνω』/soften/g
 s/『απαμαυροω』/「ἀπαμαυρόω」/g
 s/『απαμη』/[NP]/g
-s/『απαμυνω』/to keep off,<br>ward off/g
-s/『απαναινομαι』/to disown,<br>reject/g
-s/『απαναισχυντεω』/to have the effrontery to do/g
-s/『απανιστημι』/to make rise up and depart,<br>send away/g
-s/『απανταω』/to meet,<br>plead/g
+s/『απαμυνω』/keep off;<br>ward off/g
+s/『απαναινομαι』/disown;<br>reject/g
+s/『απαναισχυντεω』/have the effrontery to do/g
+s/『απανιστημι』/make rise up and depart;<br>send away/g
+s/『απανταω』/meet;<br>plead/g
 s/『απαντη』/meeting with/g
-s/『απαντημα』/a meeting/g
-s/『απαντησις』/an encounter,<br>escort/g
-s/『απανωθεν』/from above,<br>from the top/g
+s/『απαντημα』/meeting/g
+s/『απαντησις』/encounter;<br>escort/g
+s/『απανωθεν』/from above;<br>from the top/g
 s/『απαξ』/once/g
-s/『απαραιτητος』/not to be moved by prayer,<br>inexorable/g
+s/『απαραιτητος』/not to be moved by prayer;<br>inexorable/g
 s/『απαραλλακτως』/unchangeably/g
-s/『απαραποδιστος』/free from interference,<br>uninterrupted/g
-s/『απαρασημαντος』/unnoticed,<br>without solemnity/g
-s/『απαρεσκω』/to be disagreeable to/g
-s/『απαρνεομαι』/to disown,<br>refuse/g
-s/『απαρσις』/setting out,<br>departure/g
-s/『απαρτια』/what is moved,<br>baggage/g
+s/『απαραποδιστος』/free from interference;<br>uninterrupted/g
+s/『απαρασημαντος』/unnoticed;<br>without solemnity/g
+s/『απαρεσκω』/disagreeable to/g
+s/『απαρνεομαι』/disown;<br>refuse/g
+s/『απαρσις』/setting out;<br>departure/g
+s/『απαρτια』/what is moved;<br>baggage/g
 s/『απαρχη』/firstfruit/g
 s/『απαρχος』/commander/g
 s/『απαρχω』/「ἀπάρχω」/g
-s/『απας』/all at once,<br>everything/g
+s/『απας』/all at once;<br>everything/g
 s/『απασπαζομαι』/「ἀπασπάζομαι」/g
-s/『απαταω』/to delude,<br>deceive/g
-s/『απατη』/delusion,<br>deceit/g
-s/『απατησις』/beguiling,<br>allurement/g
+s/『απαταω』/delude;<br>deceive/g
+s/『απατη』/delusion;<br>deceit/g
+s/『απατησις』/beguiling;<br>allurement/g
 s/『απαυγασμα』/brilliance/g
-s/『απαυτομολεω』/to go of one's own accord,<br>desert/g
+s/『απαυτομολεω』/go of one's own accord;<br>desert/g
 s/『απειθεια』/obstinacy/g
-s/『απειθεω』/to be obstinate/g
+s/『απειθεω』/obstinate/g
 s/『απειθης』/obstinate/g
-s/『απεικαζω』/to form from a model,<br>to express/g
-s/『απεικασμα』/representation,<br>likeness/g
-s/『απειλεω』/to threaten/g
-s/『απειλη』/a threat/g
-s/『απειμι』/to be absent/g
-s/『απειμι\.1』/to go off/g
-s/『απειπον』/to renounce/g
-s/『απειραγαθος』/unacquainted with goodness,<br>foolish/g
-s/『απειργω』/to keep away from,<br>debar from/g
-s/『απειρος』/untried,<br>unacquainted with/g
-s/『απεκδιδωμι』/to be given in marriage to/g
+s/『απεικαζω』/form from a model;<br>express/g
+s/『απεικασμα』/representation;<br>likeness/g
+s/『απειλεω』/threaten/g
+s/『απειλη』/threat/g
+s/『απειμι』/absent/g
+s/『απειμι\.1』/go off/g
+s/『απειπον』/renounce/g
+s/『απειραγαθος』/unacquainted with goodness;<br>foolish/g
+s/『απειργω』/keep away from;<br>debar from/g
+s/『απειρος』/untried;<br>unacquainted with/g
+s/『απεκδιδωμι』/given in marriage to/g
 s/『απεκτασις』/spreading out/g
-s/『απελαυνω』/to drive away/g
-s/『απελεγχω』/to refute thoroughly/g
-s/『απελεκητος』/unhewn,<br>unwrought/g
-s/『απελευθεροω』/to emancipate/g
-s/『απελπιζω』/to not hope/g
-s/『απεναντι』/before,<br>contrary/g
-s/『απεναντιον』/the opposite/g
-s/『απενεοομαι』/to become mute/g
+s/『απελαυνω』/drive away/g
+s/『απελεγχω』/refute thoroughly/g
+s/『απελεκητος』/unhewn;<br>unwrought/g
+s/『απελευθεροω』/emancipate/g
+s/『απελπιζω』/not hope/g
+s/『απεναντι』/before;<br>contrary/g
+s/『απεναντιον』/opposite/g
+s/『απενεοομαι』/become mute/g
 s/『απενθητος』/unlamented/g
 s/『απεραντος』/interminable/g
-s/『απερειδω』/to rest,<br>fix/g
-s/『απερικαθαρτος』/unpurified,<br>impure/g
-s/『απερισπαστος』/not diawn hither and thither,<br>not distracted/g
+s/『απερειδω』/rest;<br>fix/g
+s/『απερικαθαρτος』/unpurified;<br>impure/g
+s/『απερισπαστος』/not diawn hither and thither;<br>not distracted/g
 s/『απεριτμητος』/uncircumcised/g
-s/『απερχομαι』/to go off,<br>go away/g
-s/『απευθανατιζω』/to die well or happily/g
-s/『απεχθανομαι』/to be hated,<br>incur hatred/g
+s/『απερχομαι』/go off;<br>go away/g
+s/『απευθανατιζω』/die well/g
+s/『απεχθανομαι』/hated;<br>incur hatred/g
 s/『απεχθεια』/hatred/g
-s/『απεχθης』/hateful,<br>hostile/g
+s/『απεχθης』/hateful;<br>hostile/g
 s/『απεχθως』/hatefully/g
-s/『απεχομαι』/to abstain/g
-s/『απεχω』/to hold off,<br>have in full/g
-s/『απηλιωτης』/the wind that comes from the rising sun,<br>the east wind/g
-s/『απημαντος』/unharmed,<br>unhurt/g
-s/『απηνης』/ungentle,<br>harsh/g
+s/『απεχομαι』/abstain/g
+s/『απεχω』/hold off;<br>have in full/g
+s/『απηλιωτης』/wind that comes from the rising sun;<br>east wind/g
+s/『απημαντος』/unharmed;<br>unhurt/g
+s/『απηνης』/ungentle;<br>harsh/g
 s/『απιος』/pear tree/g
 s/『απις』/[NP]/g
-s/『απιστεω』/to be unfaithful,<br>incredulous/g
+s/『απιστεω』/unfaithful;<br>incredulous/g
 s/『απιστια』/unbelief/g
-s/『απιστος』/unfaithful,<br>unbelievable/g
+s/『απιστος』/unfaithful;<br>unbelievable/g
 s/『απλαστος』/unaffected/g
-s/『απλατος』/unapproachable,<br>terrible/g
-s/『απληστευομαι』/to be insatiable;<br>to be insatiable in/g
-s/『απληστια』/insatiate desire,<br>greediness/g
-s/『απληστος』/not to be filled,<br>insatiate/g
-s/『απλοσυνη』/simplicity,<br>frankness/g
+s/『απλατος』/unapproachable;<br>terrible/g
+s/『απληστευομαι』/insatiable;<br>insatiable in/g
+s/『απληστια』/insatiate desire;<br>greediness/g
+s/『απληστος』/not to be filled;<br>insatiate/g
+s/『απλοσυνη』/simplicity;<br>frankness/g
 s/『απλοτης』/simplicity/g
 s/『απλους』/simple/g
-s/『απλοω』/to make single,<br>to unfold/g
+s/『απλοω』/make single;<br>unfold/g
 s/『απλως』/simply/g
-s/『απνοος』/without breath,<br>lifeless/g
-s/『απο』/from,<br>away/g
-s/『αποβαινω』/to step off,<br>step away/g
-s/『αποβαλλω』/to reject,<br>relinquish/g
-s/『αποβαπτω』/to dip quite/g
-s/『αποβιαζομαι』/to force away/g
-s/『αποβλεπω』/to look off\/forward/g
-s/『αποβλημα』/anything cast away,<br>refuse/g
-s/『απογαλακτιζω』/to wean/g
-s/『απογευω』/to give/g
+s/『απνοος』/without breath;<br>lifeless/g
+s/『απο』/from;<br>away/g
+s/『αποβαινω』/step off;<br>step away/g
+s/『αποβαλλω』/reject;<br>relinquish/g
+s/『αποβαπτω』/dip quite/g
+s/『αποβιαζομαι』/force away/g
+s/『αποβλεπω』/look off\/forward/g
+s/『αποβλημα』/anything cast away;<br>refuse/g
+s/『απογαλακτιζω』/wean/g
+s/『απογευω』/give/g
 s/『απογινωσκω』/「ἀπογινώσκω」/g
 s/『απογονος』/born/g
 s/『απογραφη』/registration/g
-s/『απογραφω』/to register/g
-s/『αποδεικνυμι』/to show off,<br>demonstrate/g
+s/『απογραφω』/register/g
+s/『αποδεικνυμι』/show off;<br>demonstrate/g
 s/『αποδειξις』/demonstration/g
-s/『αποδειροτομεω』/to slaughter by cutting off the head/g
-s/『αποδεκατιζω』/to pay a tithe of/g
-s/『αποδεκατοω』/to tithe/g
-s/『αποδεσμευω』/to bind/g
-s/『αποδεσμος』/a breastband,<br>girdle/g
-s/『αποδεχομαι』/to accept,<br>appreciate/g
-s/『αποδεω』/to bind;<br>to patch/g
-s/『αποδιαστελλω』/to divide;<br>to be set apart/g
-s/『αποδιδρασκω』/to run away/g
-s/『αποδιδωμι』/to render,<br>surrender/g
-s/『αποδιωκω』/to chase away/g
-s/『αποδοκιμαζω』/to reject/g
-s/『αποδομα』/gift,<br>offering/g
-s/『αποδοσις』/a giving back,<br>restitution/g
-s/『αποδοχειον』/storehouse,<br>granary/g
-s/『αποδυρομαι』/to lament bitterly/g
-s/『αποθαυμαζω』/to marvel much at a/g
-s/『αποθεριζω』/to cut off/g
-s/『αποθηκη』/a storehouse/g
-s/『αποθησαυριζω』/to treasure\/store away/g
-s/『αποθλιβω』/to press from behind/g
-s/『αποθνησκω』/to die/g
-s/『αποικεσια』/captivity,<br>exile/g
-s/『αποικια』/a settlement far from home,<br>a colony settlement/g
-s/『αποικιζω』/to send away from home/g
-s/『αποικισμος』/the settlement of a colony/g
-s/『αποιχομαι』/to depart/g
-s/『αποκαθαιρω』/to cleanse/g
-s/『αποκαθαριζω』/to cleanse,<br>to purge/g
-s/『αποκαθημαι』/to sit apart/g
-s/『αποκαθιστημι』/to restore,<br>pay/g
-s/『αποκαιω』/to burn off/g
-s/『αποκακεω』/to sink under a weight of misery,<br>to succumb to misfortune/g
+s/『αποδειροτομεω』/slaughter by cutting off the head/g
+s/『αποδεκατιζω』/pay a tithe of/g
+s/『αποδεκατοω』/tithe/g
+s/『αποδεσμευω』/bind/g
+s/『αποδεσμος』/breastband;<br>girdle/g
+s/『αποδεχομαι』/accept;<br>appreciate/g
+s/『αποδεω』/bind;<br>patch/g
+s/『αποδιαστελλω』/divide;<br>set apart/g
+s/『αποδιδρασκω』/run away/g
+s/『αποδιδωμι』/render;<br>surrender/g
+s/『αποδιωκω』/chase away/g
+s/『αποδοκιμαζω』/reject/g
+s/『αποδομα』/gift;<br>offering/g
+s/『αποδοσις』/giving back;<br>restitution/g
+s/『αποδοχειον』/storehouse;<br>granary/g
+s/『αποδυρομαι』/lament bitterly/g
+s/『αποθαυμαζω』/marvel much at a/g
+s/『αποθεριζω』/cut off/g
+s/『αποθηκη』/storehouse/g
+s/『αποθησαυριζω』/treasure\/store away/g
+s/『αποθλιβω』/press from behind/g
+s/『αποθνησκω』/die/g
+s/『αποικεσια』/captivity;<br>exile/g
+s/『αποικια』/settlement far from home;<br>colony settlement/g
+s/『αποικιζω』/send away from home/g
+s/『αποικισμος』/settlement of a colony/g
+s/『αποιχομαι』/depart/g
+s/『αποκαθαιρω』/cleanse/g
+s/『αποκαθαριζω』/cleanse;<br>purge/g
+s/『αποκαθημαι』/sit apart/g
+s/『αποκαθιστημι』/restore;<br>pay/g
+s/『αποκαιω』/burn off/g
+s/『αποκακεω』/sink under a weight of misery;<br>succumb to misfortune/g
 s/『αποκαλυμμα』/uncovering/g
-s/『αποκαλυπτω』/to reveal,<br>uncover/g
+s/『αποκαλυπτω』/reveal;<br>uncover/g
 s/『αποκαλυψις』/revelation/g
-s/『αποκειμαι』/to be laid away,<br>reserved/g
-s/『αποκενοω』/to exhaust/g
-s/『αποκεντεω』/to pierce through/g
+s/『αποκειμαι』/laid away;<br>reserved/g
+s/『αποκενοω』/exhaust/g
+s/『αποκεντεω』/pierce through/g
 s/『αποκεντησις』/piercing/g
-s/『αποκεφαλιζω』/to behead/g
-s/『αποκιδαροω』/to take off the turban or tiara/g
-s/『αποκλαιω』/to weep aloud/g
-s/『αποκλεισμα』/guardhouse,<br>jail/g
-s/『αποκλειω』/to shut up/g
-s/『αποκλινω』/to turn off/g
-s/『αποκλυζω』/to wash away/g
-s/『αποκνιζω』/to nip off/g
-s/『αποκομιζω』/to carry away,<br>escort/g
-s/『αποκοπτω』/to cut off/g
-s/『αποκοσμεω』/to restore order by clearing away,<br>to clear away/g
-s/『αποκρημνος』/broken sheer off,<br>precipitous/g
-s/『αποκρινομαι』/to respond/g
-s/『αποκρισις』/a response/g
-s/『αποκρυβη』/concealment,<br>covering/g
-s/『αποκρυπτω』/to hide away/g
+s/『αποκεφαλιζω』/behead/g
+s/『αποκιδαροω』/take off turban;<br>take off tiara/g
+s/『αποκλαιω』/weep aloud/g
+s/『αποκλεισμα』/guardhouse;<br>jail/g
+s/『αποκλειω』/shut up/g
+s/『αποκλινω』/turn off/g
+s/『αποκλυζω』/wash away/g
+s/『αποκνιζω』/nip off/g
+s/『αποκομιζω』/carry away;<br>escort/g
+s/『αποκοπτω』/cut off/g
+s/『αποκοσμεω』/restore order by clearing away;<br>clear away/g
+s/『αποκρημνος』/broken sheer off;<br>precipitous/g
+s/『αποκρινομαι』/respond/g
+s/『αποκρισις』/response/g
+s/『αποκρυβη』/concealment;<br>covering/g
+s/『αποκρυπτω』/hide away/g
 s/『αποκρυφη』/hiding place/g
 s/『αποκρυφος』/hidden away/g
-s/『αποκτεινω』/to kill/g
-s/『αποκυεω』/to engender/g
-s/『αποκυλιω』/to roll away/g
-s/『αποκωλυω』/to hinder/g
-s/『αποκωφοομαι』/to become deaf/g
-s/『απολακτιζω』/to kick off/g
-s/『απολαμβανω』/to take away,<br>receive/g
+s/『αποκτεινω』/kill/g
+s/『αποκυεω』/engender/g
+s/『αποκυλιω』/roll away/g
+s/『αποκωλυω』/hinder/g
+s/『αποκωφοομαι』/become deaf/g
+s/『απολακτιζω』/kick off/g
+s/『απολαμβανω』/take away;<br>receive/g
 s/『απολαυσις』/enjoyment/g
-s/『απολαυω』/to have enjoyment of/g
-s/『απολεγω』/to renounce/g
-s/『απολειπω』/to leave behind/g
-s/『απολεπιζω』/to peel/g
-s/『αποληγω』/to leave off,<br>desist from/g
-s/『απολιθοω』/to become petrified/g
+s/『απολαυω』/have enjoyment of/g
+s/『απολεγω』/renounce/g
+s/『απολειπω』/leave behind/g
+s/『απολεπιζω』/peel/g
+s/『αποληγω』/leave off;<br>desist from/g
+s/『απολιθοω』/become petrified/g
 s/『απολλοφανης』/[NP]/g
-s/『απολλυμι』/to destroy,<br>lose/g
-s/『απολλω』/to destroy,<br>to kill/g
+s/『απολλυμι』/destroy;<br>lose/g
+s/『απολλω』/destroy;<br>kill/g
 s/『απολλωνιος』/[NP]/g
-s/『απολογεομαι』/to defend,<br>make a defense/g
-s/『απολογημα』/a plea alleged in defence/g
-s/『απολογια』/a defense/g
+s/『απολογεομαι』/defend;<br>make a defense/g
+s/『απολογημα』/plea alleged in defence/g
+s/『απολογια』/defense/g
 s/『απολοιπος』/「ἀπόλοιπος」/g
-s/『απολουω』/to bathe off/g
-s/『απολυσις』/release,<br>deliverance from/g
-s/『απολυτροω』/to release on payment of ransom/g
+s/『απολουω』/bathe off/g
+s/『απολυσις』/release;<br>deliverance from/g
+s/『απολυτροω』/release on payment of ransom/g
 s/『απολυτρωσις』/redemption/g
-s/『απολυω』/to release,<br>dismiss/g
-s/『απομαινομαι』/to rave,<br>rage to the uttermost/g
-s/『απομαρτυρεω』/to testify/g
-s/『απομασσω』/to wipe off/g
-s/『απομαχομαι』/to fight from/g
-s/『απομεμφομαι』/to rebuke,<br>to blame/g
-s/『απομεριζω』/to part/g
+s/『απολυω』/release;<br>dismiss/g
+s/『απομαινομαι』/rave;<br>rage to the uttermost/g
+s/『απομαρτυρεω』/testify/g
+s/『απομασσω』/wipe off/g
+s/『απομαχομαι』/fight from/g
+s/『απομεμφομαι』/rebuke;<br>blame/g
+s/『απομεριζω』/part/g
 s/『απομοιρα』/portion/g
-s/『απονεμω』/to attribute/g
-s/『απονιπτω』/to wash off/g
-s/『απονοεομαι』/to have lost all sense/g
+s/『απονεμω』/attribute/g
+s/『απονιπτω』/wash off/g
+s/『απονοεομαι』/have lost all sense/g
 s/『απονοια』/loss of all sense/g
 s/『απονος』/without toil/g
-s/『αποξαινω』/to tear,<br>to strip off/g
-s/『αποξενοω』/to drive from house and home,<br>banish/g
-s/『αποξηραινω』/to dry up/g
-s/『αποξυω』/to strip off/g
+s/『αποξαινω』/tear;<br>strip off/g
+s/『αποξενοω』/drive from house and home;<br>banish/g
+s/『αποξηραινω』/dry up/g
+s/『αποξυω』/strip off/g
 s/『αποπαρθενευομαι』/「ἀποπαρθενεύομαι」/g
-s/『αποπειραομαι』/to make trial,<br>essay/g
-s/『αποπεμπτοω』/to give a fifth part/g
-s/『αποπηδαω』/to leap off from/g
+s/『αποπειραομαι』/make trial;<br>essay/g
+s/『αποπεμπτοω』/give a fifth part/g
+s/『αποπηδαω』/leap off from/g
 s/『αποπιεζω』/「ἀποπιέζω」/g
-s/『αποπιπτω』/to fall from/g
-s/『αποπλαναω』/to lead astray/g
-s/『αποπλανησις』/wandering,<br>error/g
-s/『αποπλυνω』/to launder off/g
-s/『αποπνεω』/to breathe forth/g
-s/『αποπνιγω』/to choke,<br>drown/g
-s/『αποποιεω』/to reject from oneself;<br>to cast off from oneself/g
+s/『αποπιπτω』/fall from/g
+s/『αποπλαναω』/lead astray/g
+s/『αποπλανησις』/wandering;<br>error/g
+s/『αποπλυνω』/launder off/g
+s/『αποπνεω』/breathe forth/g
+s/『αποπνιγω』/choke;<br>drown/g
+s/『αποποιεω』/reject from oneself;<br>cast off from oneself/g
 s/『αποπομπαιος』/carrying away/g
-s/『αποπομπη』/a sending away: getting rid/g
-s/『αποπρατιζομαι』/to sell/g
-s/『αποπτυω』/to spit out/g
+s/『αποπομπη』/sending away: getting rid/g
+s/『αποπρατιζομαι』/sell/g
+s/『αποπτυω』/spit out/g
 s/『αποπτωμα』/error/g
-s/『αποργιζομαι』/to be angry/g
-s/『απορεω』/to perplex/g
+s/『αποργιζομαι』/angry/g
+s/『απορεω』/perplex/g
 s/『απορια』/perplexity/g
 s/『απορρησσω』/「ἀπορρήσσω」/g
 s/『απορρητος』/forbidden/g
-s/『απορριπτω』/to toss away/g
-s/『απορροια』/effluence,<br>emanation/g
-s/『απορρωξ』/broken off,<br>abrupt/g
-s/『αποσαττω』/to unload/g
-s/『αποσβεννυμι』/to put out,<br>extinguish/g
-s/『αποσειω』/to shake off/g
-s/『αποσιωπαω』/to cease speaking,<br>maintain silence/g
+s/『απορριπτω』/toss away/g
+s/『απορροια』/effluence;<br>emanation/g
+s/『απορρωξ』/broken off;<br>abrupt/g
+s/『αποσαττω』/unload/g
+s/『αποσβεννυμι』/put out;<br>extinguish/g
+s/『αποσειω』/shake off/g
+s/『αποσιωπαω』/cease speaking;<br>maintain silence/g
 s/『αποσκαριξω』/「ἀποσκαρίξω」/g
-s/『αποσκεδαννυμι』/to scatter abroad,<br>disperse/g
-s/『αποσκευαζω』/to pack/g
+s/『αποσκεδαννυμι』/scatter abroad;<br>disperse/g
+s/『αποσκευαζω』/pack/g
 s/『αποσκευη』/baggage/g
-s/『αποσκηνοω』/to take down a tent/g
-s/『αποσκληρυνω』/to deal cruelly with/g
-s/『αποσκοπευω』/to look at;<br>to keep watch/g
-s/『αποσκοπεω』/to be on the lookout/g
-s/『αποσκορακιζω』/to dismiss/g
-s/『αποσκορακισμος』/abjuration,<br>renunciation/g
-s/『αποσκυθιζω』/to strip off the scalp in Scythian fashion/g
-s/『αποσοβεω』/to scare away/g
-s/『αποσπασμα』/that which is torn off,<br>a piece/g
-s/『αποσπαω』/to draw out/g
-s/『αποσταζω』/to let fall drop by drop,<br>distil/g
-s/『αποσταλαζω』/to drip/g
-s/『αποστασια』/distancing,<br>departure/g
-s/『αποστασιον』/a divorce/g
-s/『αποστασις』/a standing away from/g
-s/『αποστατεω』/to stand aloof from,<br>depart from/g
-s/『αποστατης』/a runaway slave: a deserter,<br>rebel/g
+s/『αποσκηνοω』/take down a tent/g
+s/『αποσκληρυνω』/deal cruelly with/g
+s/『αποσκοπευω』/look at;<br>keep watch/g
+s/『αποσκοπεω』/on the lookout/g
+s/『αποσκορακιζω』/dismiss/g
+s/『αποσκορακισμος』/abjuration;<br>renunciation/g
+s/『αποσκυθιζω』/strip off the scalp in Scythian fashion/g
+s/『αποσοβεω』/scare away/g
+s/『αποσπασμα』/that which is torn off;<br>piece/g
+s/『αποσπαω』/draw out/g
+s/『αποσταζω』/let fall drop by drop;<br>distil/g
+s/『αποσταλαζω』/drip/g
+s/『αποστασια』/distancing;<br>departure/g
+s/『αποστασιον』/divorce/g
+s/『αποστασις』/standing away from/g
+s/『αποστατεω』/stand aloof from;<br>depart from/g
+s/『αποστατης』/runaway slave: a deserter;<br>rebel/g
 s/『αποστατις』/rebel/g
-s/『αποστελλω』/to send off\/away/g
-s/『αποστενοω』/to straiten,<br>block up/g
-s/『αποστεργω』/to love no more/g
-s/『αποστερεω』/to deprive/g
-s/『αποστολη』/a mission/g
+s/『αποστελλω』/send off\/away/g
+s/『αποστενοω』/straiten;<br>block up/g
+s/『αποστεργω』/love no more/g
+s/『αποστερεω』/deprive/g
+s/『αποστολη』/mission/g
 s/『αποστρεβαλοομαι』/「ἀποστρεβαλόομαι」/g
-s/『αποστρεφω』/to turn away,<br>alienate/g
+s/『αποστρεφω』/turn away;<br>alienate/g
 s/『αποστροφη』/recourse/g
-s/『αποστυφω』/to draw up,<br>contract/g
-s/『αποσυναγω』/to recover from,<br>to cure/g
-s/『αποσυριζω』/to whistle aloud/g
-s/『αποσυρω』/to tear away/g
-s/『αποσφαζω』/to cut the throat of/g
-s/『αποσφενδοναω』/to be slung,<br>to be cast/g
-s/『αποσφραγισμα』/seal,<br>signet/g
-s/『αποσχιζω』/to split/g
-s/『αποτασσω』/to arrange to leave,<br>say goodbye/g
-s/『αποτεινω』/to stretch out,<br>extend/g
-s/『αποτελεω』/to finish off/g
-s/『αποτεμνω』/to cut off,<br>sever/g
-s/『αποτηγανιζω』/to broil,<br>to cook/g
-s/『αποτιθημι』/to put away,<br>put off/g
+s/『αποστυφω』/draw up;<br>contract/g
+s/『αποσυναγω』/recover from;<br>cure/g
+s/『αποσυριζω』/whistle aloud/g
+s/『αποσυρω』/tear away/g
+s/『αποσφαζω』/cut the throat of/g
+s/『αποσφενδοναω』/slung;<br>cast/g
+s/『αποσφραγισμα』/seal;<br>signet/g
+s/『αποσχιζω』/split/g
+s/『αποτασσω』/arrange to leave;<br>say goodbye/g
+s/『αποτεινω』/stretch out;<br>extend/g
+s/『αποτελεω』/finish off/g
+s/『αποτεμνω』/cut off;<br>sever/g
+s/『αποτηγανιζω』/broil;<br>cook/g
+s/『αποτιθημι』/put away;<br>put off/g
 s/『αποτικτω』/「ἀποτίκτω」/g
-s/『αποτιναγμα』/tow,<br>cord/g
-s/『αποτινασσω』/to shake off/g
-s/『αποτιννυμι』/to repay/g
-s/『αποτινω』/to pay off,<br>repay/g
-s/『αποτομη』/a cutting off/g
-s/『αποτομος』/cut off,<br>abrupt/g
+s/『αποτιναγμα』/tow;<br>cord/g
+s/『αποτινασσω』/shake off/g
+s/『αποτιννυμι』/repay/g
+s/『αποτινω』/pay off;<br>repay/g
+s/『αποτομη』/cutting off/g
+s/『αποτομος』/cut off;<br>abrupt/g
 s/『αποτομως』/severely/g
-s/『αποτρεπω』/to avert,<br>turn away from/g
-s/『αποτρεχω』/to run off/g
-s/『αποτριβω』/to wear out/g
+s/『αποτρεπω』/avert;<br>turn away from/g
+s/『αποτρεχω』/run off/g
+s/『αποτριβω』/wear out/g
 s/『αποτροπιαζω』/「ἀποτροπιάζω」/g
-s/『αποτρυγαω』/to pluck grapes or fruit/g
-s/『αποτυγχανω』/to fail in hitting/g
-s/『αποτυμπανιζω』/to cudgel to death,<br>bastinado/g
+s/『αποτρυγαω』/pluck grapes;<br>pluck fruit/g
+s/『αποτυγχανω』/fail in hitting/g
+s/『αποτυμπανιζω』/cudgel to death;<br>bastinado/g
 s/『αποτυφλοω』/「ἀποτυφλόω」/g
 s/『αποτυφλωσις』/blinding/g
-s/『αποφαινω』/to shew fort,<br>display/g
-s/『αποφερω』/to carry away\/off/g
-s/『αποφευγω』/to flee away/g
-s/『αποφθεγγομαι』/to pronounce/g
-s/『αποφθεγμα』/a terse pointed saying,<br>an apophthegm/g
-s/『αποφρασσω』/to block up,<br>to stop up/g
-s/『αποφυσαω』/to blow away/g
-s/『αποχεω』/to pour out/g
-s/『αποχωρεω』/to get away,<br>depart/g
-s/『αποχωρησις』/a going off,<br>retreat/g
-s/『αποχωριζω』/to depart,<br>part/g
-s/『αποψυχω』/to faint/g
-s/『απρακτος』/doing nothing,<br>ineffectual/g
-s/『απρεπης』/unseemly,<br>unbecoming/g
+s/『αποφαινω』/shew fort;<br>display/g
+s/『αποφερω』/carry away\/off/g
+s/『αποφευγω』/flee away/g
+s/『αποφθεγγομαι』/pronounce/g
+s/『αποφθεγμα』/terse pointed saying;<br>apophthegm/g
+s/『αποφρασσω』/block up;<br>stop up/g
+s/『αποφυσαω』/blow away/g
+s/『αποχεω』/pour out/g
+s/『αποχωρεω』/get away;<br>depart/g
+s/『αποχωρησις』/going off;<br>retreat/g
+s/『αποχωριζω』/depart;<br>part/g
+s/『αποψυχω』/faint/g
+s/『απρακτος』/doing nothing;<br>ineffectual/g
+s/『απρεπης』/unseemly;<br>unbecoming/g
 s/『απρονοητως』/thoughtlessly/g
 s/『απροπτωτος』/not precipitate/g
 s/『απροσδεης』/without want of more/g
-s/『απροσδοκητος』/unexpected,<br>unlooked for/g
-s/『απροσδοκητως』/unexpectedly,<br>suddenly/g
+s/『απροσδοκητος』/unexpected;<br>unlooked for/g
+s/『απροσδοκητως』/unexpectedly;<br>suddenly/g
 s/『απροσκοπος』/unfaltering/g
 s/『απταιστος』/without stumbling/g
 s/『απταλιμ』/[NP]/g
 s/『απτοητος』/undaunted/g
-s/『απτομαι』/to grasp,<br>touch/g
-s/『απτω』/to light/g
+s/『απτομαι』/grasp;<br>touch/g
+s/『απτω』/light/g
 s/『απυρος』/without fire/g
 s/『απφιν』/[NP]/g
 s/『απφους』/[NP]/g
-s/『απωθεω』/to thrust away,<br>reject/g
-s/『απωλεια』/destruction,<br>waste/g
-s/『απωρυξ』/a layer/g
+s/『απωθεω』/thrust away;<br>reject/g
+s/『απωλεια』/destruction;<br>waste/g
+s/『απωρυξ』/layer/g
 s/『απωσμος』/repulsion/g
 s/『απωτερω』/further off/g
 s/『αρα』/[NP]/g
-s/『αρα\.1』/cursing,<br>curse/g
+s/『αρα\.1』/cursing;<br>curse/g
 s/『αρα\.2』/it follows/g
-s/『αρα\.3』/is there any chance?,<br>by chance/g
+s/『αρα\.3』/is there any chance?;<br>by chance/g
 s/『αραα』/[NP]/g
-s/『αρααβ』/the head,<br>the chief/g
+s/『αρααβ』/head;<br>chief/g
 s/『αραας』/[NP]/g
 s/『αραβα』/[NP]/g
 s/『αραβι』/[NP]/g
@@ -1684,14 +1684,14 @@ s/『αραμ』/[NP]/g
 s/『αραμα』/[NP]/g
 s/『αραμιν』/[NP]/g
 s/『αραν』/[NP]/g
-s/『αραομαι』/to pray to/g
+s/『αραομαι』/pray to/g
 s/『αραουριτης』/[NP]/g
 s/『αραρατ』/[NP]/g
 s/『αραρι』/[NP]/g
-s/『αραροτως』/compactly,<br>closely/g
+s/『αραροτως』/compactly;<br>closely/g
 s/『αραφωθ』/[NP]/g
 s/『αραχι』/[NP]/g
-s/『αραχνη』/a spider's web/g
+s/『αραχνη』/spider's web/g
 s/『αραψ』/[NP]/g
 s/『αρβαττοις』/[NP]/g
 s/『αρβεσεερ』/[NP]/g
@@ -1699,59 +1699,59 @@ s/『αρβηλα』/[NP]/g
 s/『αρβηλος』/[NP]/g
 s/『αρβο』/[NP]/g
 s/『αρβοκ』/[NP]/g
-s/『αργεω』/to be inactive/g
-s/『αργια』/idleness,<br>laziness/g
+s/『αργεω』/inactive/g
+s/『αργια』/idleness;<br>laziness/g
 s/『αργοβ』/[NP]/g
-s/『αργος』/inactive,<br>fallow/g
+s/『αργος』/inactive;<br>fallow/g
 s/『αργυρεος』/of silver/g
-s/『αργυρικος』/of,<br>for/g
-s/『αργυριον』/a silver piece,<br>money/g
-s/『αργυροκοπεω』/to coin money/g
-s/『αργυροκοπος』/a silversmith/g
+s/『αργυρικος』/of;<br>for/g
+s/『αργυριον』/silver piece;<br>money/g
+s/『αργυροκοπεω』/coin money/g
+s/『αργυροκοπος』/silversmith/g
 s/『αργυρολογητος』/subject to a levy in money/g
 s/『αργυρος』/silver/g
-s/『αργυροχοος』/melter of silver,<br>worker in silver/g
+s/『αργυροχοος』/melter of silver;<br>worker in silver/g
 s/『αργυρωμα』/「ἀργύρωμα」/g
 s/『αργυρωνητος』/purchased with silver/g
-s/『αρδαλοω』/to smear/g
-s/『αρδην』/lifted up,<br>on high/g
+s/『αρδαλοω』/smear/g
+s/『αρδην』/lifted up;<br>on high/g
 s/『αρεββα』/[NP]/g
 s/『αρειος』/[NP]/g
 s/『αρεμ』/[NP]/g
 s/『αρες』/[NP]/g
 s/『αρεσκεια\.1』/obsequiousness/g
-s/『αρεσκω』/to accommodate,<br>please/g
-s/『αρεστος』/accommodating,<br>acceptable/g
+s/『αρεσκω』/accommodate;<br>please/g
+s/『αρεστος』/accommodating;<br>acceptable/g
 s/『αρεσω』/「ἀρέσω」/g
 s/『αρεταλογια』/celebration of divine praises/g
 s/『αρετας』/[NP]/g
 s/『αρετη』/valor/g
-s/『αρηγω』/to help,<br>aid/g
+s/『αρηγω』/help;<br>aid/g
 s/『αρημα』/[NP]/g
 s/『αρημωθ』/[NP]/g
-s/『αρην』/a lamb/g
+s/『αρην』/lamb/g
 s/『αρης』/[NP]/g
 s/『αρησα』/[NP]/g
 s/『αρθασασθα』/[NP]/g
 s/『αρθρεμβολον』/「ἀρθρέμβολον」/g
-s/『αρθρον』/a joint/g
+s/『αρθρον』/joint/g
 s/『αρια』/[NP]/g
 s/『αριαραθης』/[NP]/g
 s/『αριηλ』/[NP]/g
 s/『αριηλ\.1』/Ariel/g
 s/『αριηλι』/[NP]/g
-s/『αριθμεω』/to number/g
-s/『αριθμητος』/easily numbered,<br>few in number/g
-s/『αριθμος』/a number/g
+s/『αριθμεω』/number/g
+s/『αριθμητος』/easily numbered;<br>few in number/g
+s/『αριθμος』/number/g
 s/『αριμ』/[NP]/g
 s/『αριμα』/[NP]/g
-s/『αρισταω』/to have breakfast/g
-s/『αριστεια』/excellence,<br>prowess/g
-s/『αριστερος』/the left/g
-s/『αριστευω』/to be best/g
+s/『αρισταω』/have breakfast/g
+s/『αριστεια』/excellence;<br>prowess/g
+s/『αριστερος』/left/g
+s/『αριστευω』/best/g
 s/『αριστεω』/「ἀριστέω」/g
 s/『αριστοβουλος』/[NP]/g
-s/『αριστον』/a breakfast/g
+s/『αριστον』/breakfast/g
 s/『αριστος』/best/g
 s/『αρισωθ』/[NP]/g
 s/『αριφ』/[NP]/g
@@ -1761,111 +1761,111 @@ s/『αριωργιμ』/[NP]/g
 s/『αριωχ』/[NP]/g
 s/『αριωχης』/[NP]/g
 s/『αρκεσαιος』/[NP]/g
-s/『αρκευθινος』/of juniper,<br>of cedar/g
-s/『αρκευθος』/juniper tree,<br>cedar/g
-s/『αρκεω』/to be enough,<br>be content/g
-s/『αρκτος』/a bear/g
+s/『αρκευθινος』/of juniper;<br>of cedar/g
+s/『αρκευθος』/juniper tree;<br>cedar/g
+s/『αρκεω』/enough;<br>content/g
+s/『αρκτος』/bear/g
 s/『αρκτουρος』/「ἀρκτοῦρος」/g
-s/『αρμα』/a chariot/g
+s/『αρμα』/chariot/g
 s/『αρμαθαιμ』/[NP]/g
 s/『αρμαι』/[NP]/g
 s/『αρμαιθ』/[NP]/g
-s/『αρματηλατης』/a charioteer/g
+s/『αρματηλατης』/charioteer/g
 s/『αρμε』/[NP]/g
 s/『αρμενια』/[NP]/g
-s/『αρμοζω』/to join/g
-s/『αρμονια』/a fastening/g
-s/『αρμονιος』/fitting,<br>harmonious/g
-s/『αρμος』/a joint/g
+s/『αρμοζω』/join/g
+s/『αρμονια』/fastening/g
+s/『αρμονιος』/fitting;<br>harmonious/g
+s/『αρμος』/joint/g
 s/『αρνα』/[NP]/g
 s/『αρναφαρ』/[NP]/g
-s/『αρνεομαι』/to deny/g
-s/『αρνιον』/a lambkin/g
+s/『αρνεομαι』/deny/g
+s/『αρνιον』/lambkin/g
 s/『αρνων』/[NP]/g
 s/『αροαδι』/[NP]/g
 s/『αροηδις』/[NP]/g
 s/『αροηλις』/[NP]/g
 s/『αροηρ』/[NP]/g
 s/『αρομ』/[NP]/g
-s/『αροτηρ』/a plougher,<br>husbandman/g
+s/『αροτηρ』/plougher;<br>husbandman/g
 s/『αροτριασις』/plowing/g
-s/『αροτριαω』/to plow/g
-s/『αροτρον』/a plow/g
+s/『αροτριαω』/plow/g
+s/『αροτρον』/plow/g
 s/『αροτροπους』/ploughshare/g
 s/『αρουδαιος』/[NP]/g
 s/『αρουηλ』/[NP]/g
 s/『αρουκαιος』/[NP]/g
 s/『αρουρ』/[NP]/g
-s/『αρουρα』/a half acre/g
+s/『αρουρα』/half acre/g
 s/『αρους』/[NP]/g
 s/『αρουφαιος』/[NP]/g
 s/『αρουχαιος』/[NP]/g
-s/『αρπαγη』/rapacity,<br>snatching/g
-s/『αρπαγμα』/booty,<br>prey/g
-s/『αρπαζω』/to snatch/g
+s/『αρπαγη』/rapacity;<br>snatching/g
+s/『αρπαγμα』/booty;<br>prey/g
+s/『αρπαζω』/snatch/g
 s/『αρπαξ』/rapacious/g
 s/『αρραβων』/collateral/g
 s/『αρραν』/[NP]/g
 s/『αρρενωδως』/bravely/g
-s/『αρρηκτος』/unbroken,<br>not to be broken/g
-s/『αρριζος』/without roots,<br>uprooted/g
-s/『αρρωστεω』/to be weak and sickly/g
-s/『αρρωστημα』/an illness,<br>a sickness/g
-s/『αρρωστια』/weakness,<br>sickness/g
+s/『αρρηκτος』/unbroken;<br>not to be broken/g
+s/『αρριζος』/without roots;<br>uprooted/g
+s/『αρρωστεω』/weak and sickly/g
+s/『αρρωστημα』/illness;<br>sickness/g
+s/『αρρωστια』/weakness;<br>sickness/g
 s/『αρρωστος』/sick/g
 s/『αρσαιος』/[NP]/g
 s/『αρσακης』/[NP]/g
 s/『αρσενικος』/male/g
 s/『αρσην』/male/g
 s/『αρσινοη』/[NP]/g
-s/『αρσις』/a raising/g
+s/『αρσις』/raising/g
 s/『αρσωλα』/[NP]/g
 s/『αρσων』/[NP]/g
 s/『αρταβη』/artaba/g
 s/『αρταξερξης』/[NP]/g
-s/『αρτηρ』/that by which anything is carried,<br>a device for carrying building material/g
-s/『αρτι』/this moment,<br>just now/g
-s/『αρτιως』/newly,<br>just/g
+s/『αρτηρ』/that by which anything is carried;<br>device for carrying building material/g
+s/『αρτι』/this moment;<br>just now/g
+s/『αρτιως』/newly;<br>just/g
 s/『αρτοκοπικος』/made by a baker/g
-s/『αρτος』/bread,<br>loaves/g
+s/『αρτος』/bread;<br>loaves/g
 s/『αρφαδ』/[NP]/g
 s/『αρφαθ』/[NP]/g
 s/『αρφαξαδ』/[NP]/g
 s/『αρχαβιν』/[NP]/g
 s/『αρχαδ』/[NP]/g
-s/『αρχαιος』/original,<br>ancient/g
-s/『αρχη』/origin,<br>beginning/g
-s/『αρχηγετης』/a first leader,<br>the founder/g
-s/『αρχηγος』/original,<br>originator/g
-s/『αρχηθεν』/from the beginning,<br>from of old/g
+s/『αρχαιος』/original;<br>ancient/g
+s/『αρχη』/origin;<br>beginning/g
+s/『αρχηγετης』/first leader;<br>founder/g
+s/『αρχηγος』/original;<br>originator/g
+s/『αρχηθεν』/from the beginning;<br>from of old/g
 s/『αρχι』/[NP]/g
-s/『αρχιδεσμοφυλαξ』/a ruling jailer/g
-s/『αρχιδεσμωτης』/a ruling jailer/g
-s/『αρχιεραομαι』/to be high priest/g
-s/『αρχιερατευω』/to be high priest/g
-s/『αρχιερευς』/a ruling priest/g
-s/『αρχιερωσυνη』/the high-priesthood/g
+s/『αρχιδεσμοφυλαξ』/ruling jailer/g
+s/『αρχιδεσμωτης』/ruling jailer/g
+s/『αρχιεραομαι』/high priest/g
+s/『αρχιερατευω』/high priest/g
+s/『αρχιερευς』/ruling priest/g
+s/『αρχιερωσυνη』/high-priesthood/g
 s/『αρχιευνουχος』/chief of the eunuchs/g
-s/『αρχιμαγειρος』/a chief cook,<br>dignitary/g
+s/『αρχιμαγειρος』/chief cook;<br>dignitary/g
 s/『αρχιοινοχοια』/chief cup-bearing/g
 s/『αρχιοινοχοος』/chief cup-bearer/g
 s/『αρχιπατριωτης』/head of a family/g
 s/『αρχισιτοποιος』/chief baker/g
 s/『αρχιστρατηγος』/commander-in-chief/g
 s/『αρχισωματοφυλαξ』/chief of the bodyguard/g
-s/『αρχιτεκτονεω』/to be the architect/g
-s/『αρχιτεκτονια』/architecture,<br>workmanship/g
-s/『αρχιτεκτων』/an architect/g
+s/『αρχιτεκτονεω』/the architect/g
+s/『αρχιτεκτονια』/architecture;<br>workmanship/g
+s/『αρχιτεκτων』/architect/g
 s/『αρχιφυλος』/chief of a tribe/g
 s/『αρχυαιοι』/[NP]/g
-s/『αρχω』/to rule,<br>begin/g
+s/『αρχω』/rule;<br>begin/g
 s/『αρχωβ』/[NP]/g
-s/『αρχων』/ruling,<br>a ruler/g
+s/『αρχων』/ruling;<br>ruler/g
 s/『αρωδαιος』/[NP]/g
 s/『αρωδιτης』/[NP]/g
 s/『αρωεδ』/[NP]/g
 s/『αρωθ』/[NP]/g
-s/『αρωμα』/a spice/g
+s/『αρωμα』/spice/g
 s/『αρωνι』/[NP]/g
 s/『αρωνιιμ』/[NP]/g
 s/『ασα』/[NP]/g
@@ -1879,7 +1879,7 @@ s/『ασαηλ』/[NP]/g
 s/『ασαηλος』/[NP]/g
 s/『ασαια』/[NP]/g
 s/『ασαιας』/[NP]/g
-s/『ασαλευτος』/unswayable,<br>unwavering/g
+s/『ασαλευτος』/unswayable;<br>unwavering/g
 s/『ασαν』/[NP]/g
 s/『ασανα』/[NP]/g
 s/『ασαρ』/[NP]/g
@@ -1904,16 +1904,16 @@ s/『ασγαθ』/[NP]/g
 s/『ασδωδ』/[NP]/g
 s/『ασεβεια』/irreverence/g
 s/『ασεβειας』/[NP]/g
-s/『ασεβεω』/to be irreverent/g
+s/『ασεβεω』/irreverent/g
 s/『ασεβηβιας』/[NP]/g
-s/『ασεβημα』/an impious/g
+s/『ασεβημα』/impious/g
 s/『ασεβης』/irreverent/g
 s/『ασεβι』/[NP]/g
 s/『ασεβια』/[NP]/g
 s/『ασεβων』/[NP]/g
 s/『ασεδωθ』/[NP]/g
-s/『ασελγεια』/licentiousness,<br>outrageous behavior/g
-s/『ασελισι』/the third/g
+s/『ασελγεια』/licentiousness;<br>outrageous behavior/g
+s/『ασελισι』/third/g
 s/『ασεμ』/[NP]/g
 s/『ασεμωνα』/[NP]/g
 s/『ασενα』/[NP]/g
@@ -1935,13 +1935,13 @@ s/『ασηπτος』/not liable to decay/g
 s/『ασηρ』/[NP]/g
 s/『ασηρωθ』/[NP]/g
 s/『ασηρωθ\.1』/villages/g
-s/『ασθενεια』/infirmity,<br>ailment/g
-s/『ασθενεω』/to be infirm,<br>ail/g
-s/『ασθενης』/infirm,<br>ailing/g
+s/『ασθενεια』/infirmity;<br>ailment/g
+s/『ασθενεω』/infirm;<br>ail/g
+s/『ασθενης』/infirm;<br>ailing/g
 s/『ασθενοψυχος』/weak-minded/g
 s/『ασθηραν』/[NP]/g
-s/『ασθμα』/breath,<br>vapour/g
-s/『ασθμαινω』/to breathe hard,<br>gasp for breath/g
+s/『ασθμα』/breath;<br>vapour/g
+s/『ασθμαινω』/breathe hard;<br>gasp for breath/g
 s/『ασια』/[NP]/g
 s/『ασιβιας』/[NP]/g
 s/『ασιδα』/「ἀσίδα」/g
@@ -1955,22 +1955,22 @@ s/『ασιθ』/[NP]/g
 s/『ασιμαθ』/[NP]/g
 s/『ασιμουθ』/[NP]/g
 s/『ασιμωθ』/[NP]/g
-s/『ασινης』/unhurt,<br>unharmed/g
+s/『ασινης』/unhurt;<br>unharmed/g
 s/『ασιρ』/[NP]/g
-s/『ασιτεω』/to abstain from food,<br>fast/g
+s/『ασιτεω』/abstain from food;<br>fast/g
 s/『ασιτι』/without food/g
 s/『ασιφα』/[NP]/g
 s/『ασκαλων』/[NP]/g
 s/『ασκαλωνιτης』/[NP]/g
-s/『ασκεω』/to endeavor/g
-s/『ασκησις』/exercise,<br>practice/g
+s/『ασκεω』/endeavor/g
+s/『ασκησις』/exercise;<br>practice/g
 s/『ασκητης』/one who practises any art/g
-s/『ασκοπυτινη』/leather canteen,<br>leather bottle/g
-s/『ασκος』/a wineskin,<br>skin/g
+s/『ασκοπυτινη』/leather canteen;<br>leather bottle/g
+s/『ασκος』/wineskin;<br>skin/g
 s/『ασμα』/[NP]/g
-s/『ασμα\.1』/a song,<br>a lyric ode/g
-s/『ασμενιζω』/to be well-pleased/g
-s/『ασμενος』/well-pleased,<br>glad/g
+s/『ασμα\.1』/song;<br>lyric ode/g
+s/『ασμενιζω』/well-pleased/g
+s/『ασμενος』/well-pleased;<br>glad/g
 s/『ασμενως』/gladly/g
 s/『ασμοδαιος』/[NP]/g
 s/『ασμωθ』/[NP]/g
@@ -1985,11 +1985,11 @@ s/『ασουβε』/[NP]/g
 s/『ασουηρος』/[NP]/g
 s/『ασουρ』/[NP]/g
 s/『ασουφε』/[NP]/g
-s/『ασπαζομαι』/to greet/g
+s/『ασπαζομαι』/greet/g
 s/『ασπαλαθος』/aspalathus/g
-s/『ασπαλαξ』/blind rat,<br>mole/g
+s/『ασπαλαξ』/blind rat;<br>mole/g
 s/『ασπιδισκη』/small shield;<br>boss/g
-s/『ασπις』/an asp/g
+s/『ασπις』/asp/g
 s/『ασρων』/[NP]/g
 s/『ασρωνι』/[NP]/g
 s/『ασσα』/[NP]/g
@@ -2003,7 +2003,7 @@ s/『ασσουρ』/[NP]/g
 s/『ασσουριιμ』/[NP]/g
 s/『ασσυρια』/[NP]/g
 s/『ασσυριος』/[NP]/g
-s/『ασταθης』/unsteady,<br>unstable/g
+s/『ασταθης』/unsteady;<br>unstable/g
 s/『ασταρτα』/[NP]/g
 s/『ασταρτειον』/[NP]/g
 s/『ασταρτη』/[NP]/g
@@ -2011,39 +2011,39 @@ s/『ασταρωθ』/[NP]/g
 s/『ασταρωθι』/[NP]/g
 s/『αστατωθι』/[NP]/g
 s/『ασταωλ』/[NP]/g
-s/『αστεγος』/without roof,<br>unsheltered, houseless/g
+s/『αστεγος』/without roof;<br>unsheltered, houseless/g
 s/『αστειος』/urbane/g
-s/『αστειως』/honourably,<br>honestly/g
+s/『αστειως』/honourably;<br>honestly/g
 s/『αστεκτος』/unendurable/g
-s/『αστηρ』/a star/g
+s/『αστηρ』/star/g
 s/『αστιν』/[NP]/g
-s/『αστοχεω』/to mis-aim,<br>miss the mark/g
-s/『αστραγαλος』/an anklebone/g
+s/『αστοχεω』/mis-aim;<br>miss the mark/g
+s/『αστραγαλος』/anklebone/g
 s/『αστραπη』/lightning/g
-s/『αστραπτω』/to flash/g
+s/『αστραπτω』/flash/g
 s/『αστρολογος』/astrologer/g
-s/『αστρον』/a constellation/g
+s/『αστρον』/constellation/g
 s/『αστυαγης』/[NP]/g
 s/『αστυγειτων』/near/g
 s/『ασυβηρ』/[NP]/g
 s/『ασυβηρι』/[NP]/g
 s/『ασυερος』/[NP]/g
 s/『ασυλια』/inviolability/g
-s/『ασυλος』/safe from violence,<br>inviolate/g
-s/『ασυμφορος』/inconvenient,<br>inexpedient/g
+s/『ασυλος』/safe from violence;<br>inviolate/g
+s/『ασυμφορος』/inconvenient;<br>inexpedient/g
 s/『ασυμφωνος』/discordant/g
 s/『ασυνετος』/uncomprehending/g
-s/『ασυνθεσια』/a transgression/g
-s/『ασυνθετεω』/to be faithless to/g
+s/『ασυνθεσια』/transgression/g
+s/『ασυνθετεω』/faithless to/g
 s/『ασυνθετος』/disagreeable/g
 s/『ασυρης』/lewd/g
-s/『ασφαλεια』/security,<br>certainty/g
+s/『ασφαλεια』/security;<br>certainty/g
 s/『ασφαλης』/secure/g
-s/『ασφαλιζω』/to secure/g
+s/『ασφαλιζω』/secure/g
 s/『ασφαλτοπισσα』/bitumen/g
 s/『ασφαλτος』/asphalt/g
-s/『ασφαλτοω』/to cover with asphalt/g
-s/『ασφαλως』/securely,<br>certainly/g
+s/『ασφαλτοω』/cover with asphalt/g
+s/『ασφαλως』/securely;<br>certainly/g
 s/『ασφανεζ』/[NP]/g
 s/『ασφαρ』/[NP]/g
 s/『ασφαρασος』/[NP]/g
@@ -2051,11 +2051,11 @@ s/『ασχα』/[NP]/g
 s/『ασχαζι』/[NP]/g
 s/『ασχαναζ』/[NP]/g
 s/『ασχαναζαιος』/[NP]/g
-s/『ασχημονεω』/to be indecent/g
+s/『ασχημονεω』/indecent/g
 s/『ασχημοσυνη』/indecency/g
 s/『ασχημων』/indecent/g
-s/『ασχολεω』/to engage,<br>occupy/g
-s/『ασχολια』/an occupation,<br>business/g
+s/『ασχολεω』/engage;<br>occupy/g
+s/『ασχολια』/occupation;<br>business/g
 s/『ασχωδ』/[NP]/g
 s/『ασωβ』/[NP]/g
 s/『ασωθι』/[NP]/g
@@ -2064,48 +2064,48 @@ s/『ασωναιος』/[NP]/g
 s/『ασωρ』/[NP]/g
 s/『ασωρων』/[NP]/g
 s/『ασωτια』/unsoundness/g
-s/『ασωτος』/having no hope of safety,<br>abandoned/g
+s/『ασωτος』/having no hope of safety;<br>abandoned/g
 s/『αταδ』/[NP]/g
 s/『ατακτος』/disorderly/g
-s/『αταξια』/want of discipline,<br>disorderliness/g
+s/『αταξια』/want of discipline;<br>disorderliness/g
 s/『αταρ』/[NP]/g
-s/『αταρ\.1』/but,<br>yet/g
+s/『αταρ\.1』/but;<br>yet/g
 s/『αταρα』/[NP]/g
-s/『αταραξια』/impassiveness,<br>calmness/g
-s/『αταραχος』/not disturbed,<br>quiet/g
+s/『αταραξια』/impassiveness;<br>calmness/g
+s/『αταραχος』/not disturbed;<br>quiet/g
 s/『αταρωθ』/[NP]/g
 s/『αταφος』/unburied/g
-s/『ατε』/just as,<br>so as/g
-s/『ατειχιστος』/unwalled,<br>unfortified/g
+s/『ατε』/just as;<br>so as/g
+s/『ατειχιστος』/unwalled;<br>unfortified/g
 s/『ατεκνια』/childlessness/g
 s/『ατεκνος』/childless/g
-s/『ατεκνοω』/to make childless/g
+s/『ατεκνοω』/make childless/g
 s/『ατελεια』/「ἀτελεία」/g
 s/『ατελεστος』/without end/g
 s/『ατελης』/without end/g
-s/『ατενιζω』/to stare/g
+s/『ατενιζω』/stare/g
 s/『ατερ』/without/g
 s/『ατεργατιον』/[NP]/g
 s/『ατηρ』/[NP]/g
 s/『ατητα』/[NP]/g
 s/『ατθαριας』/[NP]/g
 s/『ατιλ』/[NP]/g
-s/『ατιμαζω』/to dishonor/g
-s/『ατιμητος』/unhonoured,<br>despised/g
+s/『ατιμαζω』/dishonor/g
+s/『ατιμητος』/unhonoured;<br>despised/g
 s/『ατιμια』/dishonor/g
 s/『ατιμος』/dishonored/g
-s/『ατιμοω』/to dishonor/g
+s/『ατιμοω』/dishonor/g
 s/『ατιμωρητος』/unavenged/g
 s/『ατιτα』/[NP]/g
 s/『ατιφα』/[NP]/g
 s/『ατμις』/vapor/g
-s/『ατοπια』/a being out of the way/g
-s/『ατοπος』/out of place,<br>impertinent/g
+s/『ατοπια』/being out of the way/g
+s/『ατοπος』/out of place;<br>impertinent/g
 s/『ατους』/[NP]/g
 s/『ατουφα』/[NP]/g
-s/『ατρακτος』/a spindle/g
-s/『ατραπος』/a path with no turnings/g
-s/『ατρυγος』/refined,<br>pure/g
+s/『ατρακτος』/spindle/g
+s/『ατραπος』/path with no turnings/g
+s/『ατρυγος』/refined;<br>pure/g
 s/『ατρωτος』/unwounded/g
 s/『αττακης』/kind of locust/g
 s/『ατταλος』/[NP]/g
@@ -2113,76 +2113,76 @@ s/『ατταν』/[NP]/g
 s/『ατταρατης』/[NP]/g
 s/『αττελεβος』/locust/g
 s/『αττους』/[NP]/g
-s/『ατυχεω』/to be unlucky/g
-s/『ατυχια』/ill-luck;<br>a misfortune/g
+s/『ατυχεω』/unlucky/g
+s/『ατυχια』/ill-luck;<br>misfortune/g
 s/『αυα』/[NP]/g
 s/『αυαραν』/[NP]/g
-s/『αυγαζω』/to dawn/g
+s/『αυγαζω』/dawn/g
 s/『αυγασμα』/bright spot;<br>brightness/g
 s/『αυγη』/daybreak/g
 s/『αυγιαν』/[NP]/g
 s/『αυγω』/「αὔγω」/g
-s/『αυθαδεια』/self-will,<br>wilfulness/g
+s/『αυθαδεια』/self-will;<br>wilfulness/g
 s/『αυθαδης』/self-centered/g
 s/『αυθαιρετως』/「αὐθαιρέτως」/g
 s/『αυθεντης』/one who does/g
-s/『αυθεντια』/restriction,<br>status/g
+s/『αυθεντια』/restriction;<br>status/g
 s/『αυθημερινος』/ephemeral/g
-s/『αυθημερον』/immediately,<br>on the very day/g
+s/『αυθημερον』/immediately;<br>on the very day/g
 s/『αυθωρι』/immediately/g
 s/『αυιμ』/[NP]/g
-s/『αυλαια』/a curtain/g
-s/『αυλαξ』/a furrow/g
-s/『αυλαρχης』/mayor of the palace,<br>chief of the court/g
+s/『αυλαια』/curtain/g
+s/『αυλαξ』/furrow/g
+s/『αυλαρχης』/mayor of the palace;<br>chief of the court/g
 s/『αυλαρχια』/function of chief of the court/g
-s/『αυλη』/courtyard,<br>fold/g
-s/『αυλιζομαι』/to spend the night/g
-s/『αυλος』/a flute/g
+s/『αυλη』/courtyard;<br>fold/g
+s/『αυλιζομαι』/spend the night/g
+s/『αυλος』/flute/g
 s/『αυλων』/[NP]/g
-s/『αυλων\.1』/a hollow way,<br>defile/g
+s/『αυλων\.1』/hollow way;<br>defile/g
 s/『αυν』/[NP]/g
 s/『αυναν』/[NP]/g
-s/『αυξανω』/to grow,<br>increase/g
+s/『αυξανω』/grow;<br>increase/g
 s/『αυξησις』/growth/g
-s/『αυρα』/air in motion,<br>a breeze/g
+s/『αυρα』/air in motion;<br>breeze/g
 s/『αυρανιτις』/[NP]/g
 s/『αυρανος』/[NP]/g
-s/『αυριον』/tomorrow,<br>next day/g
+s/『αυριον』/tomorrow;<br>next day/g
 s/『αυση』/[NP]/g
 s/『αυσιτις』/[NP]/g
-s/『αυστηρια』/harshness,<br>roughness/g
+s/『αυστηρια』/harshness;<br>roughness/g
 s/『αυστηρος』/austere/g
 s/『αυταιας』/[NP]/g
 s/『αυταρκεια』/self-sufficiency/g
-s/『αυταρκεω』/to supply with necessaries/g
+s/『αυταρκεω』/supply with necessaries/g
 s/『αυταρκης』/self-sufficient/g
-s/『αυτικα』/forthwith,<br>straightway/g
+s/『αυτικα』/forthwith;<br>straightway/g
 s/『αυτοδεσποτος』/absolute master of/g
 s/『αυτοθεν』/from the very spot/g
 s/『αυτοθι』/on the spot/g
 s/『αυτοκρατωρ』/one's own master/g
 s/『αυτοματος』/automatically/g
-s/『αυτομολεω』/to desert/g
-s/『αυτος』/he,<br>him/g
-s/『αυτοσχεδιως』/randomly,<br>accidentally/g
+s/『αυτομολεω』/desert/g
+s/『αυτος』/he;<br>him/g
+s/『αυτοσχεδιως』/randomly;<br>accidentally/g
 s/『αυτου』/right here/g
 s/『αυτοχθων』/sprung from the land itself/g
-s/『αυχην』/the neck,<br>throat/g
-s/『αυχμος』/to burn/g
-s/『αυχμωδης』/looking dry,<br>squalid/g
+s/『αυχην』/neck;<br>throat/g
+s/『αυχμος』/burn/g
+s/『αυχμωδης』/looking dry;<br>squalid/g
 s/『αυωθ』/[NP]/g
-s/『αφαγνιζω』/to purify/g
+s/『αφαγνιζω』/purify/g
 s/『αφαιρεμα』/[NP]/g
-s/『αφαιρεμα\.1』/share or portion taken away as the choice part/g
-s/『αφαιρεσις』/a taking away,<br>carrying off/g
-s/『αφαιρεω』/to take away/g
+s/『αφαιρεμα\.1』/choice offering;<br>portion/g
+s/『αφαιρεσις』/taking away;<br>carrying off/g
+s/『αφαιρεω』/take away/g
 s/『αφακα』/[NP]/g
 s/『αφαληλ』/[NP]/g
-s/『αφαλλομαι』/to spring off/g
+s/『αφαλλομαι』/spring off/g
 s/『αφανης』/obscure/g
-s/『αφανιζω』/to obscure,<br>hide/g
+s/『αφανιζω』/obscure;<br>hide/g
 s/『αφανισμος』/obscurity/g
-s/『αφαπτω』/to fasten from/g
+s/『αφαπτω』/fasten from/g
 s/『αφαρ』/[NP]/g
 s/『αφαρσαθαχαιοι』/[NP]/g
 s/『αφαρσαιοι』/[NP]/g
@@ -2193,45 +2193,45 @@ s/『αφεδρος』/menstruation/g
 s/『αφειδως』/unsparingly;<br>without mercy/g
 s/『αφεκ』/[NP]/g
 s/『αφεκα』/[NP]/g
-s/『αφεμα』/immunity,<br>remission of tribute/g
+s/『αφεμα』/immunity;<br>remission of tribute/g
 s/『αφερ』/[NP]/g
 s/『αφεραιμ』/[NP]/g
 s/『αφερρα』/[NP]/g
-s/『αφεσις』/dismissal,<br>forgiveness/g
+s/『αφεσις』/dismissal;<br>forgiveness/g
 s/『αφεσση』/[NP]/g
 s/『αφευκτως』/without any possibility of escape/g
-s/『αφη』/a contact/g
-s/『αφηγεομαι』/to lead from/g
-s/『αφηγημα』/a tale,<br>narrative/g
-s/『αφθαρσια』/incorruptibility,<br>integrity/g
-s/『αφθαρτος』/incorruptible,<br>imperishable/g
+s/『αφη』/contact/g
+s/『αφηγεομαι』/lead from/g
+s/『αφηγημα』/tale;<br>narrative/g
+s/『αφθαρσια』/incorruptibility;<br>integrity/g
+s/『αφθαρτος』/incorruptible;<br>imperishable/g
 s/『αφθονος』/without envy/g
-s/『αφθονως』/abundantly,<br>ungrudgingly/g
+s/『αφθονως』/abundantly;<br>ungrudgingly/g
 s/『αφθορος』/uncorrupt/g
-s/『αφιεροω』/to purify,<br>hallow/g
-s/『αφιημι』/to dismiss,<br>leave/g
-s/『αφικνεομαι』/to reach/g
+s/『αφιεροω』/purify;<br>hallow/g
+s/『αφιημι』/dismiss;<br>leave/g
+s/『αφικνεομαι』/reach/g
 s/『αφιξις』/departure/g
-s/『αφιστημι』/to distance,<br>keep distance/g
+s/『αφιστημι』/distance;<br>keep distance/g
 s/『αφνω』/abruptly/g
 s/『αφοβια』/fearlessness/g
 s/『αφοβος』/without fear/g
 s/『αφοβως』/fearlessly/g
 s/『αφοδευμα』/excrement/g
-s/『αφοδευω』/to discharge excrement/g
-s/『αφοδος』/a going away,<br>departure/g
+s/『αφοδευω』/discharge excrement/g
+s/『αφοδος』/going away;<br>departure/g
 s/『αφομοιος』/「ἀφόμοιος」/g
-s/『αφομοιοω』/to resemble/g
-s/『αφοραω』/to have full view/g
-s/『αφορητος』/intolerable,<br>insufferable/g
+s/『αφομοιοω』/resemble/g
+s/『αφοραω』/have full view/g
+s/『αφορητος』/intolerable;<br>insufferable/g
 s/『αφορια』/blight/g
-s/『αφοριζω』/to separate/g
-s/『αφορισμα』/the separate offering,<br>that which is set apart/g
-s/『αφορισμος』/the separate offering,<br>that which is set apart/g
-s/『αφορμη』/a starting-point,<br>base/g
+s/『αφοριζω』/separate/g
+s/『αφορισμα』/separate offering;<br>that which is set apart/g
+s/『αφορισμος』/separate offering;<br>that which is set apart/g
+s/『αφορμη』/starting-point;<br>base/g
 s/『αφορολογητος』/not subjected to tribute/g
 s/『αφρα』/[NP]/g
-s/『αφρονευομαι』/to act foolishly/g
+s/『αφρονευομαι』/act foolishly/g
 s/『αφρονως』/senselessly/g
 s/『αφροσυνη』/nonsense/g
 s/『αφρων』/senseless/g
@@ -2240,7 +2240,7 @@ s/『αφυστερεω』/「ἀφυστερέω」/g
 s/『αφφαιμ』/[NP]/g
 s/『αφφουσωθ』/exempt from duties/g
 s/『αφφω』/he himself;<br>then/g
-s/『αφωνος』/voiceless,<br>dumb/g
+s/『αφωνος』/voiceless;<br>dumb/g
 s/『αχααβ』/[NP]/g
 s/『αχαβαρ』/[NP]/g
 s/『αχαζ』/[NP]/g
@@ -2251,7 +2251,7 @@ s/『αχανης』/not opening the mouth/g
 s/『αχαρ』/[NP]/g
 s/『αχαρις』/without grace/g
 s/『αχαριστος』/ungracious/g
-s/『αχαριστως』/with bad grace,<br>with an ill will/g
+s/『αχαριστως』/with bad grace;<br>with an ill will/g
 s/『αχασελωθ』/[NP]/g
 s/『αχατης』/agate/g
 s/『αχελ』/[NP]/g
@@ -2303,15 +2303,15 @@ s/『αχιωρ』/[NP]/g
 s/『αχλαι』/[NP]/g
 s/『αχλια』/[NP]/g
 s/『αχοβωρ』/[NP]/g
-s/『αχος』/pain,<br>distress/g
+s/『αχος』/pain;<br>distress/g
 s/『αχουχ』/thistle/g
 s/『αχραθαιος』/[NP]/g
 s/『αχραν』/[NP]/g
 s/『αχρειος』/unprofitable/g
-s/『αχρειοτης』/worthlessness,<br>lewdness/g
-s/『αχρειοω』/to become unprofitable/g
+s/『αχρειοτης』/worthlessness;<br>lewdness/g
+s/『αχρειοω』/become unprofitable/g
 s/『αχρηστος』/unsuitable/g
-s/『αχρι』/up to,<br>until/g
+s/『αχρι』/up to;<br>until/g
 s/『αχσαν』/[NP]/g
 s/『αχσαφ』/[NP]/g
 s/『αχυρον』/chaff/g
@@ -2319,14 +2319,14 @@ s/『αχωι』/[NP]/g
 s/『αχωρ』/[NP]/g
 s/『αχωχι』/[NP]/g
 s/『αψαλωμος』/[NP]/g
-s/『αψευδης』/unlying,<br>/g
+s/『αψευδης』/unlying;<br>/g
 s/『αψυχος』/inanimate/g
 s/『αωδ』/[NP]/g
 s/『αωδα』/[NP]/g
 s/『αωδας』/[NP]/g
 s/『αωθ』/[NP]/g
 s/『αωιτης』/[NP]/g
-s/『αωρια』/a wrong time/g
+s/『αωρια』/wrong time/g
 s/『αωρος』/untimely;<br>unripe/g
 s/『βʹ』/[M]/g
 s/『βααδα』/[NP]/g
@@ -2365,9 +2365,9 @@ s/『βαδαν』/[NP]/g
 s/『βαδδαργις』/[NP]/g
 s/『βαδδιν』/fine linen/g
 s/『βαδεκαρ』/[NP]/g
-s/『βαδιζω』/to proceed/g
+s/『βαδιζω』/proceed/g
 s/『βαδιηλ』/[NP]/g
-s/『βαδος』/a walk/g
+s/『βαδος』/walk/g
 s/『βαζαν』/[NP]/g
 s/『βαζες』/[NP]/g
 s/『βαζκαθ』/[NP]/g
@@ -2378,7 +2378,7 @@ s/『βαθος』/depth/g
 s/『βαθουηλ』/[NP]/g
 s/『βαθουλ』/[NP]/g
 s/『βαθρεφαν』/[NP]/g
-s/『βαθυνω』/to deepen/g
+s/『βαθυνω』/deepen/g
 s/『βαθυς』/deep/g
 s/『βαθυφωνον』/「βαθύφωνον」/g
 s/『βαθυχειλος』/obscure of speech/g
@@ -2443,7 +2443,7 @@ s/『βαιθων』/[NP]/g
 s/『βαιθωρων』/[NP]/g
 s/『βαιλμαιν』/[NP]/g
 s/『βαινη』/palm rod/g
-s/『βαινω』/to walk,<br>step/g
+s/『βαινω』/walk;<br>step/g
 s/『βαιον』/palm branches/g
 s/『βαισαφουδ』/[NP]/g
 s/『βαιτασμων』/[NP]/g
@@ -2457,7 +2457,7 @@ s/『βαιων』/[NP]/g
 s/『βακβακαρ』/[NP]/g
 s/『βακβουκ』/[NP]/g
 s/『βακηνωρ』/[NP]/g
-s/『βακτηρια』/a staff/g
+s/『βακτηρια』/staff/g
 s/『βακχα』/[NP]/g
 s/『βακχιδης』/[NP]/g
 s/『βακχιρ』/[NP]/g
@@ -2475,7 +2475,7 @@ s/『βαλαερμων』/[NP]/g
 s/『βαλακ』/[NP]/g
 s/『βαλαμων』/[NP]/g
 s/『βαλανας』/[NP]/g
-s/『βαλανος』/an acorn/g
+s/『βαλανος』/acorn/g
 s/『βαλασαν』/[NP]/g
 s/『βαλγα』/[NP]/g
 s/『βαλδαδ』/[NP]/g
@@ -2484,8 +2484,8 @@ s/『βαλεγδαε』/[NP]/g
 s/『βαλει』/[NP]/g
 s/『βαλεκ』/[NP]/g
 s/『βαλλα』/[NP]/g
-s/『βαλλαντιον』/a purse/g
-s/『βαλλω』/to cast,<br>throw/g
+s/『βαλλαντιον』/purse/g
+s/『βαλλω』/cast;<br>throw/g
 s/『βαλμαιναν』/[NP]/g
 s/『βαλνουος』/[NP]/g
 s/『βαλσαν』/[NP]/g
@@ -2495,7 +2495,7 @@ s/『βαμα』/[NP]/g
 s/『βαμα\.1』/high place;<br>in Rahlfs mostly written as a toponym/g
 s/『βαμαηλ』/[NP]/g
 s/『βαμεθ』/[NP]/g
-s/『βαμμα』/that in which a thing is dipped,<br>dye/g
+s/『βαμμα』/that in which a thing is dipped;<br>dye/g
 s/『βαμωθ』/[NP]/g
 s/『βαμωθβααλ』/[NP]/g
 s/『βαναι』/[NP]/g
@@ -2513,25 +2513,25 @@ s/『βαννους』/[NP]/g
 s/『βανουι』/[NP]/g
 s/『βανουναι』/[NP]/g
 s/『βαουριμ』/[NP]/g
-s/『βαπτιζω』/to immerse,<br>baptize/g
-s/『βαπτος』/dipped,<br>dyed/g
-s/『βαπτω』/to dip/g
+s/『βαπτιζω』/immerse;<br>baptize/g
+s/『βαπτος』/dipped;<br>dyed/g
+s/『βαπτω』/dip/g
 s/『βαρ』/piece of cloth/g
 s/『βαραγα』/[NP]/g
 s/『βαραδ』/[NP]/g
-s/『βαραθρον』/a gulf,<br>pit/g
+s/『βαραθρον』/gulf;<br>pit/g
 s/『βαραια』/[NP]/g
 s/『βαρακ』/[NP]/g
 s/『βαρακηνιμ』/sharp thorns/g
 s/『βαρακιμ』/[NP]/g
 s/『βαραχιας』/[NP]/g
 s/『βαραχιηλ』/[NP]/g
-s/『βαρβαρος』/a foreigner/g
+s/『βαρβαρος』/foreigner/g
 s/『βαρβαροω』/「βαρβαρόω」/g
 s/『βαρβαρως』/barbarously/g
 s/『βαρεα』/[NP]/g
 s/『βαρεκ』/[NP]/g
-s/『βαρεω』/to weigh down,<br>depress/g
+s/『βαρεω』/weigh down;<br>depress/g
 s/『βαρεως』/hardly/g
 s/『βαρι』/[NP]/g
 s/『βαρια』/[NP]/g
@@ -2540,21 +2540,21 @@ s/『βαριγα』/[NP]/g
 s/『βαρκοννιμ』/sharp thorns/g
 s/『βαρκους』/[NP]/g
 s/『βαρνη』/[NP]/g
-s/『βαρος』/weight,<br>burden/g
+s/『βαρος』/weight;<br>burden/g
 s/『βαρουμσεωριμ』/[NP]/g
 s/『βαρουχ』/[NP]/g
 s/『βαρσα』/[NP]/g
 s/『βαρσαμιτης』/[NP]/g
 s/『βαρτακος』/[NP]/g
-s/『βαρυγλωσσος』/grievous of tongue,<br>speaking a foreign language/g
+s/『βαρυγλωσσος』/grievous of tongue;<br>speaking a foreign language/g
 s/『βαρυηχης』/deep-voiced/g
-s/『βαρυθυμεω』/to be weighed down: to be heavy at heart/g
-s/『βαρυθυμος』/heavy in spirit: indignant,<br>sullen/g
-s/『βαρυκαρδιος』/heavy,<br>slow of heart/g
-s/『βαρυνω』/to be weighty,<br>weigh down/g
-s/『βαρυς』/weighty,<br>heavy/g
+s/『βαρυθυμεω』/weighed down: to be heavy at heart/g
+s/『βαρυθυμος』/heavy in spirit: indignant;<br>sullen/g
+s/『βαρυκαρδιος』/heavy;<br>slow of heart/g
+s/『βαρυνω』/weighty;<br>weigh down/g
+s/『βαρυς』/weighty;<br>heavy/g
 s/『βαρυτερως』/「βαρυτέρως」/g
-s/『βαρυωπεω』/to be dim-sighted/g
+s/『βαρυωπεω』/dim-sighted/g
 s/『βαρχαβωθ』/「βαρχαβωθ」/g
 s/『βαρχια』/[NP]/g
 s/『βαρχους』/[NP]/g
@@ -2564,7 +2564,7 @@ s/『βασαλωθ』/[NP]/g
 s/『βασαμυς』/[NP]/g
 s/『βασαν』/[NP]/g
 s/『βασανι』/[NP]/g
-s/『βασανιζω』/to torment/g
+s/『βασανιζω』/torment/g
 s/『βασανισμος』/torment/g
 s/『βασανιστηριον』/「βασανιστήριον」/g
 s/『βασανιτις』/[NP]/g
@@ -2575,44 +2575,44 @@ s/『βασηδωθ』/[NP]/g
 s/『βασηζα』/[NP]/g
 s/『βασθαι』/[NP]/g
 s/『βασι』/[NP]/g
-s/『βασιλεια』/realm,<br>kingdom/g
+s/『βασιλεια』/realm;<br>kingdom/g
 s/『βασιλειον』/royal/g
 s/『βασιλειος』/royal/g
-s/『βασιλευς』/a monarch,<br>king/g
-s/『βασιλευω』/to reign/g
-s/『βασιλικος』/regal,<br>royal/g
-s/『βασιλισκος』/kind of serpent,<br>basilisk/g
-s/『βασιλισσα』/a queen/g
+s/『βασιλευς』/monarch;<br>king/g
+s/『βασιλευω』/reign/g
+s/『βασιλικος』/regal;<br>royal/g
+s/『βασιλισκος』/kind of serpent;<br>basilisk/g
+s/『βασιλισσα』/queen/g
 s/『βασις』/sole of the foot/g
-s/『βασκαινω』/to bewitch/g
+s/『βασκαινω』/bewitch/g
 s/『βασκαμα』/[NP]/g
-s/『βασκανια』/slander,<br>envy/g
-s/『βασκανος』/slanderous,<br>envious/g
+s/『βασκανια』/slander;<br>envy/g
+s/『βασκανος』/slanderous;<br>envious/g
 s/『βασου』/[NP]/g
 s/『βασουρωθ』/[NP]/g
 s/『βασσαι』/[NP]/g
-s/『βασταγμα』/that which is borne,<br>a burden/g
-s/『βασταζω』/to pick up,<br>bear/g
+s/『βασταγμα』/that which is borne;<br>burden/g
+s/『βασταζω』/pick up;<br>bear/g
 s/『βασωδια』/[NP]/g
 s/『βατανη』/[NP]/g
 s/『βατνε』/[NP]/g
-s/『βατος』/a bramble bush/g
-s/『βατραχος』/a frog/g
+s/『βατος』/bramble bush/g
+s/『βατραχος』/frog/g
 s/『βαυξ』/[NP]/g
-s/『βαφη』/a dipping/g
+s/『βαφη』/dipping/g
 s/『βαχιρ』/[NP]/g
-s/『βδελλα』/a leech/g
-s/『βδελυγμα』/an abomination/g
+s/『βδελλα』/leech/g
+s/『βδελυγμα』/abomination/g
 s/『βδελυγμος』/abomination/g
 s/『βδελυκτος』/abominable/g
-s/『βδελυρος』/loathsome,<br>disgusting/g
-s/『βδελυσσω』/to abominate,<br>loathsome/g
+s/『βδελυρος』/loathsome;<br>disgusting/g
+s/『βδελυσσω』/abominate;<br>loathsome/g
 s/『βεβαιος』/firm/g
-s/『βεβαιοω』/to confirm/g
+s/『βεβαιοω』/confirm/g
 s/『βεβαιως』/「βεβαίως」/g
 s/『βεβαιωσις』/confirmation/g
 s/『βεβηλος』/profane/g
-s/『βεβηλοω』/to profane/g
+s/『βεβηλοω』/profane/g
 s/『βεβηλωσις』/profanation/g
 s/『βεγεθων』/[NP]/g
 s/『βεδεκ』/breach/g
@@ -2642,7 +2642,7 @@ s/『βελγα』/[NP]/g
 s/『βελγαι』/[NP]/g
 s/『βελιαλ』/[NP]/g
 s/『βελισα』/[NP]/g
-s/『βελος』/a missile/g
+s/『βελος』/missile/g
 s/『βελοστασις』/artillary emplacement;<br>engines of war/g
 s/『βελσαττιμ』/[NP]/g
 s/『βελτιων』/better/g
@@ -2695,15 +2695,15 @@ s/『βηθσουρ』/[NP]/g
 s/『βηλ』/[NP]/g
 s/『βηλα』/[NP]/g
 s/『βηλιον』/[NP]/g
-s/『βηλος』/a threshold/g
-s/『βημα』/a step,<br>tribunal/g
+s/『βηλος』/threshold/g
+s/『βημα』/step;<br>tribunal/g
 s/『βην-ιωναθαν』/[NP]/g
 s/『βηρβηθνεμα』/[NP]/g
 s/『βηροτ』/[NP]/g
 s/『βηρσαβεε』/[NP]/g
 s/『βηρσαφης』/[NP]/g
 s/『βηρυλλιον』/beryl/g
-s/『βηρυλλος』/a beryl/g
+s/『βηρυλλος』/beryl/g
 s/『βηρωθ』/[NP]/g
 s/『βηρωθα』/[NP]/g
 s/『βηρωθαιος』/[NP]/g
@@ -2711,69 +2711,69 @@ s/『βηρωθαιου』/[NP]/g
 s/『βησανα』/[NP]/g
 s/『βησι』/[NP]/g
 s/『βια』/violence/g
-s/『βιαζω』/to violate,<br>force his way/g
+s/『βιαζω』/violate;<br>force his way/g
 s/『βιαιος』/violent/g
-s/『βιαιως』/violently,<br>by force/g
-s/『βιβαζω』/to make to mount,<br>to lift up/g
+s/『βιαιως』/violently;<br>by force/g
+s/『βιβαζω』/make to mount;<br>lift up/g
 s/『βιβλιαφορος』/letter-carrier/g
 s/『βιβλιοθηκη』/library;<br>record office/g
 s/『βιβλιον』/scroll/g
 s/『βιβλιοφυλακιον』/place to keep books in/g
 s/『βιβλος』/book/g
-s/『βιβρωσκω』/to eat/g
-s/『βικος』/a wine-jar/g
-s/『βιος』/livelihood,<br>lifestyle/g
-s/『βιοτευω』/to live/g
-s/『βιοτης』/means of living,<br>substance/g
-s/『βιοω』/to fare,<br>have a lifestyle/g
+s/『βιβρωσκω』/eat/g
+s/『βικος』/wine-jar/g
+s/『βιος』/livelihood;<br>lifestyle/g
+s/『βιοτευω』/live/g
+s/『βιοτης』/means of living;<br>substance/g
+s/『βιοω』/fare;<br>have a lifestyle/g
 s/『βιρα』/palace/g
 s/『βιωσις』/lifestyle/g
 s/『βλαβερος』/hurtful/g
-s/『βλαβη』/hurt,<br>harm/g
-s/『βλαπτω』/to hurt/g
-s/『βλαστανω』/to sprout/g
+s/『βλαβη』/hurt;<br>harm/g
+s/『βλαπτω』/hurt/g
+s/『βλαστανω』/sprout/g
 s/『βλασταω』/「βλαστάω」/g
-s/『βλαστημα』/offspring,<br>an offshoot/g
-s/『βλαστος\.1』/a shoot/g
-s/『βλασφημεω』/to blaspheme,<br>defame/g
-s/『βλασφημια』/blasphemy,<br>defamation/g
-s/『βλασφημος』/blasphemous,<br>defamatory/g
-s/『βλεπω』/to look,<br>see/g
+s/『βλαστημα』/offspring;<br>offshoot/g
+s/『βλαστος\.1』/shoot/g
+s/『βλασφημεω』/blaspheme;<br>defame/g
+s/『βλασφημια』/blasphemy;<br>defamation/g
+s/『βλασφημος』/blasphemous;<br>defamatory/g
+s/『βλεπω』/look;<br>see/g
 s/『βλεφαρον』/mostly in pl. the eyelids/g
 s/『βοασομ』/[NP]/g
-s/『βοαω』/to scream,<br>shout/g
-s/『βοη』/a scream/g
+s/『βοαω』/scream;<br>shout/g
+s/『βοη』/scream/g
 s/『βοηθεια』/help/g
-s/『βοηθεω』/to help/g
+s/『βοηθεω』/help/g
 s/『βοηθημα』/「βοήθημα」/g
-s/『βοηθος』/a helper/g
-s/『βοθρος』/a hole/g
-s/『βοθυνος』/a ditch/g
+s/『βοηθος』/helper/g
+s/『βοθρος』/hole/g
+s/『βοθυνος』/ditch/g
 s/『βοιδιον』/calf/g
 s/『βοκκα』/[NP]/g
 s/『βοκκι』/[NP]/g
-s/『βολβιτον』/dung,<br>filth/g
-s/『βολη』/a throw,<br>shot/g
-s/『βολις』/a javelin/g
-s/『βομβεω』/to make a booming,<br>humming noise/g
+s/『βολβιτον』/dung;<br>filth/g
+s/『βολη』/throw;<br>shot/g
+s/『βολις』/javelin/g
+s/『βομβεω』/make a booming;<br>humming noise/g
 s/『βομβησις』/buzzing crowd/g
 s/『βοννι』/[NP]/g
 s/『βοοζ』/[NP]/g
 s/『βοοζυγιον』/ox yoke/g
-s/『βορα』/eatage,<br>meat/g
+s/『βορα』/eatage;<br>meat/g
 s/『βορβορος』/mire/g
 s/『βορολειας』/[NP]/g
-s/『βορρας』/the north wind/g
+s/『βορρας』/north wind/g
 s/『βοσκημα』/that which is fed/g
-s/『βοσκω』/to pasture,<br>feed/g
+s/『βοσκω』/pasture;<br>feed/g
 s/『βοσορ』/[NP]/g
 s/『βοσοραν』/[NP]/g
 s/『βοσορρα』/[NP]/g
-s/『βοστρυχος』/a curl/g
-s/『βοτανη』/pasturage,<br>a pasture/g
+s/『βοστρυχος』/curl/g
+s/『βοτανη』/pasturage;<br>pasture/g
 s/『βοτανιν』/[NP]/g
 s/『βοτρυδιον』/small cluster/g
-s/『βοτρυς』/a cluster/g
+s/『βοτρυς』/cluster/g
 s/『βουα』/[NP]/g
 s/『βουβαλος』/antelope/g
 s/『βουβαστος』/[NP]/g
@@ -2782,63 +2782,63 @@ s/『βουγαιος』/[NP]/g
 s/『βουζι』/[NP]/g
 s/『βουζιτης』/[NP]/g
 s/『βουθαν』/[NP]/g
-s/『βουκεντρον』/ox goad,<br>pointed stick/g
+s/『βουκεντρον』/ox goad;<br>pointed stick/g
 s/『βουκιας』/[NP]/g
-s/『βουκολιον』/a herd/g
+s/『βουκολιον』/herd/g
 s/『βουλα』/[NP]/g
-s/『βουλευτηριον』/a council-chamber,<br>senate-house/g
+s/『βουλευτηριον』/council-chamber;<br>senate-house/g
 s/『βουλευτης』/senator/g
 s/『βουλευτικος』/for the council/g
-s/『βουλευω』/to intend,<br>deliberate/g
+s/『βουλευω』/intend;<br>deliberate/g
 s/『βουλη』/intent/g
 s/『βουλημα』/intention/g
 s/『βουλολιον』/「βουλόλιον」/g
-s/『βουλομαι』/to want/g
-s/『βουνιζω』/to pile up/g
-s/『βουνος』/a mound/g
+s/『βουλομαι』/want/g
+s/『βουνιζω』/pile up/g
+s/『βουνος』/mound/g
 s/『βους』/ox/g
-s/『βουτομον』/butomus,<br>the flowering rush/g
+s/『βουτομον』/butomus;<br>flowering rush/g
 s/『βουτυρον』/butter/g
 s/『βοχορι』/[NP]/g
-s/『βραβευω』/to referee/g
-s/『βραγχιαω』/to have a sore throat/g
+s/『βραβευω』/referee/g
+s/『βραγχιαω』/have a sore throat/g
 s/『βραδεως』/slowly/g
 s/『βραδυγλωσσος』/slow of tongue/g
-s/『βραδυνω』/to be slow/g
-s/『βραχεως』/for a while;<br>a little/g
+s/『βραδυνω』/slow/g
+s/『βραχεως』/for a while;<br>little/g
 s/『βραχιων』/arm/g
-s/『βραχυς』/a little/g
+s/『βραχυς』/little/g
 s/『βραχυτελης』/of short performance/g
-s/『βρεφος』/an infant/g
-s/『βρεχω』/to shower,<br>rain/g
-s/『βριθω』/to be heavy/g
+s/『βρεφος』/infant/g
+s/『βρεχω』/shower;<br>rain/g
+s/『βριθω』/heavy/g
 s/『βρομος』/noise/g
-s/『βρονταω』/to thunder/g
+s/『βρονταω』/thunder/g
 s/『βροντη』/thunder/g
-s/『βροτος』/a mortal man/g
-s/『βρουχος』/a locust/g
-s/『βροχη』/a shower,<br>rain/g
-s/『βροχος』/a noose/g
+s/『βροτος』/mortal man/g
+s/『βρουχος』/locust/g
+s/『βροχη』/shower;<br>rain/g
+s/『βροχος』/noose/g
 s/『βρυγμος』/grinding/g
-s/『βρυχω』/to grind/g
+s/『βρυχω』/grind/g
 s/『βρωμα』/food/g
 s/『βρωσιμος』/edible/g
-s/『βρωσις』/a meal,<br>eating/g
-s/『βρωτος』/to be eaten/g
+s/『βρωσις』/meal;<br>eating/g
+s/『βρωτος』/eaten/g
 s/『βυβλινος』/made of byblus/g
 s/『βυβλιοι』/[NP]/g
-s/『βυθιζω』/to plunge,<br>overwhelm/g
-s/『βυθος』/depth,<br>the deep/g
+s/『βυθιζω』/plunge;<br>overwhelm/g
+s/『βυθος』/depth;<br>deep/g
 s/『βυθοτρεφης』/living in the deep/g
-s/『βυρσα』/the skin stripped off,<br>a hide/g
+s/『βυρσα』/skin stripped off;<br>hide/g
 s/『βυσσινος』/fine linen/g
 s/『βυσσος』/fine linen/g
-s/『βυω』/to stuff/g
+s/『βυω』/stuff/g
 s/『βωκαι』/[NP]/g
 s/『βωλα』/[NP]/g
 s/『βωλαξ』/clod of earth/g
-s/『βωλος』/a clod/g
-s/『βωμος』/a pedestal/g
+s/『βωλος』/clod/g
+s/『βωμος』/pedestal/g
 s/『βωραζη』/[NP]/g
 s/『γʹ』/[M]/g
 s/『γααλ』/[NP]/g
@@ -2883,7 +2883,7 @@ s/『γαδηρα』/[NP]/g
 s/『γαδηρωθ』/[NP]/g
 s/『γαερ』/[NP]/g
 s/『γαζα』/[NP]/g
-s/『γαζα\.1』/a treasury/g
+s/『γαζα\.1』/treasury/g
 s/『γαζαιος』/[NP]/g
 s/『γαζαρα』/[NP]/g
 s/『γαζαρηνος』/「γαζαρηνός」/g
@@ -2894,14 +2894,14 @@ s/『γαζηρα』/[NP]/g
 s/『γαζηρων』/[NP]/g
 s/『γαζμωθ』/[NP]/g
 s/『γαζουβα』/[NP]/g
-s/『γαζοφυλακιον』/a treasury/g
-s/『γαζοφυλαξ』/a treasurer/g
+s/『γαζοφυλακιον』/treasury/g
+s/『γαζοφυλαξ』/treasurer/g
 s/『γαθεθ』/[NP]/g
 s/『γαθερ』/[NP]/g
 s/『γαι』/[NP]/g
 s/『γαι-βαναι-εννον』/[NP]/g
 s/『γαι\.1』/valley/g
-s/『γαια』/a land,<br>country/g
+s/『γαια』/land;<br>country/g
 s/『γαιαν』/[NP]/g
 s/『γαιβαα』/[NP]/g
 s/『γαιβαι』/[NP]/g
@@ -2914,7 +2914,7 @@ s/『γαιθαν』/[NP]/g
 s/『γαιθβωρ』/[NP]/g
 s/『γαιιεφθαηλ』/[NP]/g
 s/『γαιμελε』/[NP]/g
-s/『γαισος』/spear,<br>javelin/g
+s/『γαισος』/spear;<br>javelin/g
 s/『γαιφα』/[NP]/g
 s/『γαιφαηλ』/[NP]/g
 s/『γαλα』/milk/g
@@ -2924,19 +2924,19 @@ s/『γαλααδιτης』/[NP]/g
 s/『γαλααδιτιδος』/[NP]/g
 s/『γαλααδιτιν』/[NP]/g
 s/『γαλααδιτις』/[NP]/g
-s/『γαλαθηνος』/sucking,<br>young/g
-s/『γαλακτοποτεω』/to drink milk/g
+s/『γαλαθηνος』/sucking;<br>young/g
+s/『γαλακτοποτεω』/drink milk/g
 s/『γαλακτοτροφια』/nursing at the breast/g
 s/『γαλαλ』/[NP]/g
 s/『γαλαμααν』/[NP]/g
 s/『γαλαται』/[NP]/g
 s/『γαλγαλ』/[NP]/g
 s/『γαλγαλα』/[NP]/g
-s/『γαλεαγρα』/weasel trap,<br>cage for beasts/g
+s/『γαλεαγρα』/weasel trap;<br>cage for beasts/g
 s/『γαλεμ』/[NP]/g
 s/『γαλεμαθ』/[NP]/g
 s/『γαλεμεθ』/[NP]/g
-s/『γαλη』/weasel,<br>marten/g
+s/『γαλη』/weasel;<br>marten/g
 s/『γαληνος』/calm/g
 s/『γαλιλαια』/[NP]/g
 s/『γαλιλωθ』/[NP]/g
@@ -2947,15 +2947,15 @@ s/『γαμαλιηλ』/[NP]/g
 s/『γαμαριας』/[NP]/g
 s/『γαμαριος』/[NP]/g
 s/『γαμαριου』/[NP]/g
-s/『γαμβρευω』/to marry/g
-s/『γαμβρος』/an in-law/g
+s/『γαμβρευω』/marry/g
+s/『γαμβρος』/in-law/g
 s/『γαμερ』/[NP]/g
-s/『γαμετη』/a married woman,<br>wife/g
-s/『γαμεω』/to marry/g
+s/『γαμετη』/married woman;<br>wife/g
+s/『γαμεω』/marry/g
 s/『γαμζω』/[NP]/g
 s/『γαμηλος』/[NP]/g
 s/『γαμικος』/for marriage/g
-s/『γαμος』/a wedding/g
+s/『γαμος』/wedding/g
 s/『γαμουλ』/[NP]/g
 s/『γαμωλ』/[NP]/g
 s/『γαναθων』/[NP]/g
@@ -2974,13 +2974,13 @@ s/『γας』/[NP]/g
 s/『γασβαρηνος』/treasurer/g
 s/『γασιν』/[NP]/g
 s/『γασιωνγαβερ』/[NP]/g
-s/『γαστηρ』/the stomach,<br>to be pregnant/g
+s/『γαστηρ』/stomach;<br>pregnant/g
 s/『γαστριμαργια』/gluttony/g
 s/『γαστριμαργος』/gluttonous/g
 s/『γαυλων』/[NP]/g
 s/『γαυνι』/[NP]/g
-s/『γαυριαμα』/arrogance,<br>exultation/g
-s/『γαυριαω』/to bear oneself proudly,<br>prance/g
+s/『γαυριαμα』/arrogance;<br>exultation/g
+s/『γαυριαω』/bear oneself proudly;<br>prance/g
 s/『γαυριοω』/「γαυριόω」/g
 s/『γαυροω』/「γαυρόω」/g
 s/『γε』/in fact/g
@@ -2990,7 +2990,7 @@ s/『γεβερε』/[NP]/g
 s/『γεβωθιτης』/[NP]/g
 s/『γεδαν』/[NP]/g
 s/『γεδδουρ』/[NP]/g
-s/『γεδδουρ\.1』/troop,<br>band/g
+s/『γεδδουρ\.1』/troop;<br>band/g
 s/『γεδδων』/[NP]/g
 s/『γεδδωρ』/[NP]/g
 s/『γεδεων』/[NP]/g
@@ -3012,56 +3012,56 @@ s/『γεθθαιος』/[NP]/g
 s/『γεθθεμ』/[M]/g
 s/『γεθρεμμων』/[NP]/g
 s/『γεθχοβερ』/[NP]/g
-s/『γεισος』/projecting part of the roof,<br>cornice/g
-s/『γειτνιαω』/to be a neighbour,<br>to border on/g
-s/『γειτων』/a countryman,<br>neighborhood women/g
-s/『γειωρας』/sojourner,<br>proselyte/g
+s/『γεισος』/projecting part of the roof;<br>cornice/g
+s/『γειτνιαω』/a neighbour;<br>border on/g
+s/『γειτων』/countryman;<br>neighborhood women/g
+s/『γειωρας』/sojourner;<br>proselyte/g
 s/『γελαμψουρ』/[NP]/g
-s/『γελαω』/to laugh/g
+s/『γελαω』/laugh/g
 s/『γελβουε』/[NP]/g
 s/『γελγελ』/[NP]/g
 s/『γελια』/[NP]/g
 s/『γελλα』/[NP]/g
 s/『γελμων』/[NP]/g
 s/『γελμωναιος』/[NP]/g
-s/『γελοιαζω』/to be joking/g
+s/『γελοιαζω』/joking/g
 s/『γελοιασμος』/jesting/g
-s/『γελοιαστης』/jester,<br>scorner/g
-s/『γελοιος』/ridiculous,<br>absurd/g
+s/『γελοιαστης』/jester;<br>scorner/g
+s/『γελοιος』/ridiculous;<br>absurd/g
 s/『γελωνιτης』/[NP]/g
 s/『γελωραι』/[NP]/g
 s/『γελως』/laughter/g
 s/『γεμεεθ』/[NP]/g
-s/『γεμιζω』/to load,<br>fill up/g
+s/『γεμιζω』/load;<br>fill up/g
 s/『γεμνα』/[NP]/g
-s/『γεμω』/to be loaded\/full/g
-s/『γενεα』/a generation/g
-s/『γενεαλογεω』/to trace genealogy/g
+s/『γεμω』/loaded\/full/g
+s/『γενεα』/generation/g
+s/『γενεαλογεω』/trace genealogy/g
 s/『γενεθλιος』/belonging to one's birth/g
-s/『γενειον』/the part covered by the beard,<br>the chin/g
+s/『γενειον』/part covered by the beard;<br>chin/g
 s/『γενεσιαρχης』/creator/g
-s/『γενεσιουργος』/creator,<br>author of existence/g
-s/『γενεσις』/nativity,<br>manner of birth/g
+s/『γενεσιουργος』/creator;<br>author of existence/g
+s/『γενεσις』/nativity;<br>manner of birth/g
 s/『γενετη』/birth/g
 s/『γενετις』/mother/g
-s/『γενικος』/belonging to or connected with the family,<br>race or nation/g
+s/『γενικος』/family;<br>race/g
 s/『γενναιος』/[NP]/g
 s/『γενναιος\.1』/suitable to one's birth/g
-s/『γενναιοτης』/nobleness of character,<br>nobility/g
-s/『γενναιως』/nobly,<br>bravely/g
-s/『γενναω』/to father,<br>be born/g
-s/『γεννημα』/spawn,<br>product/g
+s/『γενναιοτης』/nobleness of character;<br>nobility/g
+s/『γενναιως』/nobly;<br>bravely/g
+s/『γενναω』/father;<br>born/g
+s/『γεννημα』/spawn;<br>product/g
 s/『γεννησαρ』/[NP]/g
 s/『γεννησις』/nativity/g
-s/『γεννητος』/fathered,<br>born/g
+s/『γεννητος』/fathered;<br>born/g
 s/『γεννουνι』/[NP]/g
-s/『γενος』/family,<br>class/g
+s/『γενος』/family;<br>class/g
 s/『γεραιος』/old/g
-s/『γεραιρω』/to honour/g
+s/『γεραιρω』/honour/g
 s/『γεραρα』/[NP]/g
-s/『γερας』/a gift of honour/g
+s/『γερας』/gift of honour/g
 s/『γεργεσαιος』/[NP]/g
-s/『γερουσια』/a senate/g
+s/『γερουσια』/senate/g
 s/『γερρηνοι』/[NP]/g
 s/『γερων』/aged/g
 s/『γεσεηλ』/[NP]/g
@@ -3070,25 +3070,25 @@ s/『γεσιρ』/[NP]/g
 s/『γεσιρι』/[NP]/g
 s/『γεσιωνγαβερ』/[NP]/g
 s/『γεσουρι』/[NP]/g
-s/『γευμα』/a taste,<br>smack/g
-s/『γευσις』/taste,<br>tasting/g
-s/『γευω』/to taste,<br>eat/g
-s/『γεφυρα』/a dyke,<br>dam/g
-s/『γεωδης』/earth-like,<br>earthy/g
+s/『γευμα』/taste;<br>smack/g
+s/『γευσις』/taste;<br>tasting/g
+s/『γευω』/taste;<br>eat/g
+s/『γεφυρα』/dyke;<br>dam/g
+s/『γεωδης』/earth-like;<br>earthy/g
 s/『γεωμετρια』/geometry/g
 s/『γεωμετρικον』/geometrical/g
-s/『γεωργεω』/to farm/g
-s/『γεωργια』/tillage,<br>agriculture/g
-s/『γεωργιον』/a farm,<br>crop/g
-s/『γεωργος』/a farmer/g
-s/『γη』/earth,<br>land/g
+s/『γεωργεω』/farm/g
+s/『γεωργια』/tillage;<br>agriculture/g
+s/『γεωργιον』/farm;<br>crop/g
+s/『γεωργος』/farmer/g
+s/『γη』/earth;<br>land/g
 s/『γηβι』/[NP]/g
 s/『γηγενης』/earthborn/g
 s/『γηζαμ』/[NP]/g
 s/『γηλων』/[NP]/g
 s/『γηρα』/[NP]/g
 s/『γηρας』/old age/g
-s/『γηρασκω』/to get old/g
+s/『γηρασκω』/get old/g
 s/『γηροβοσκω』/「γηροβόσκω」/g
 s/『γηρσαμ』/[NP]/g
 s/『γηρσομ』/[NP]/g
@@ -3098,59 +3098,59 @@ s/『γηρσωνι』/[NP]/g
 s/『γησαμ』/[NP]/g
 s/『γηων』/[NP]/g
 s/『γιββιρ』/[NP]/g
-s/『γιγαρτον』/a grape-stone/g
-s/『γιγας』/a giant/g
+s/『γιγαρτον』/grape-stone/g
+s/『γιγας』/giant/g
 s/『γιεζι』/[NP]/g
 s/『γιμαλ』/「γιμαλ」/g
-s/『γινομαι』/to happen,<br>become/g
-s/『γινωσκω』/to know/g
+s/『γινομαι』/happen;<br>become/g
+s/『γινωσκω』/know/g
 s/『γιων』/[NP]/g
-s/『γλαυξ』/the owl/g
+s/『γλαυξ』/owl/g
 s/『γλευκος』/sweet wine/g
-s/『γλυκαζω』/to taste sweet/g
-s/『γλυκαινω』/to sweeten/g
+s/『γλυκαζω』/taste sweet/g
+s/『γλυκαινω』/sweeten/g
 s/『γλυκασμα』/sweetness;<br>sweet wine/g
 s/『γλυκασμος』/sweetness/g
 s/『γλυκερος』/sweet/g
 s/『γλυκυς』/sweet/g
 s/『γλυκυτης』/sweetness/g
-s/『γλυμμα』/engraved figure,<br>inscription/g
-s/『γλυπτος』/a carved/g
-s/『γλυφη』/carved work,<br>carving/g
-s/『γλυφω』/to carve/g
+s/『γλυμμα』/engraved figure;<br>inscription/g
+s/『γλυπτος』/carved/g
+s/『γλυφη』/carved work;<br>carving/g
+s/『γλυφω』/carve/g
 s/『γλωσσα』/tongue/g
-s/『γλωσσοκομον』/a money bag/g
+s/『γλωσσοκομον』/money bag/g
 s/『γλωσσοτμητος』/with the tongue cut out/g
-s/『γλωσσοτομεω』/to cut out the tongue/g
+s/『γλωσσοτομεω』/cut out the tongue/g
 s/『γλωσσοχαριτοω』/「γλωσσοχαριτόω」/g
-s/『γλωσσωδης』/talkative,<br>babbling/g
-s/『γναθος』/the jaw/g
+s/『γλωσσωδης』/talkative;<br>babbling/g
+s/『γναθος』/jaw/g
 s/『γναφευς』/fuller/g
 s/『γνησιος』/legitimate/g
 s/『γνησιως』/legitimately/g
 s/『γνοφερος』/dark/g
 s/『γνοφος』/gloom/g
-s/『γνοφοω』/to darken/g
-s/『γνοφωδης』/dark,<br>gloomy/g
+s/『γνοφοω』/darken/g
+s/『γνοφωδης』/dark;<br>gloomy/g
 s/『γνωμη』/resolve/g
-s/『γνωριζω』/to make known,<br>point out/g
+s/『γνωριζω』/make known;<br>point out/g
 s/『γνωριμος』/well-known/g
-s/『γνωριστης』/medium,<br>familiar spirit/g
-s/『γνωσις』/knowledge,<br>knowing/g
+s/『γνωριστης』/medium;<br>familiar spirit/g
+s/『γνωσις』/knowledge;<br>knowing/g
 s/『γνωστεος』/one must know/g
-s/『γνωστης』/a knower,<br>one who knows/g
-s/『γνωστος』/known,<br>what can be known/g
-s/『γνωστως』/clearly,<br>evidently/g
+s/『γνωστης』/knower;<br>one who knows/g
+s/『γνωστος』/known;<br>what can be known/g
+s/『γνωστως』/clearly;<br>evidently/g
 s/『γοβ』/[NP]/g
-s/『γογγυζω』/to mutter/g
-s/『γογγυσις』/murmuring,<br>muttering/g
+s/『γογγυζω』/mutter/g
+s/『γογγυσις』/murmuring;<br>muttering/g
 s/『γογγυσμος』/muttering/g
 s/『γοδολια』/[NP]/g
 s/『γοδολιας』/[NP]/g
 s/『γοδολιος』/[NP]/g
 s/『γοδολλαθι』/[NP]/g
-s/『γοερος』/mournful,<br>lamentable/g
-s/『γοητεια』/juggling,<br>cheatery/g
+s/『γοερος』/mournful;<br>lamentable/g
+s/『γοητεια』/juggling;<br>cheatery/g
 s/『γοθνι』/[NP]/g
 s/『γοθολια』/[NP]/g
 s/『γοθολιας』/[NP]/g
@@ -3162,69 +3162,69 @@ s/『γολιαδ』/[NP]/g
 s/『γολιαθ』/[NP]/g
 s/『γομερ』/[NP]/g
 s/『γομορ』/[NP]/g
-s/『γομορ\.1』/homer,<br>dry measure/g
+s/『γομορ\.1』/homer;<br>dry measure/g
 s/『γομορρα』/[NP]/g
-s/『γομος』/a load,<br>cargo/g
-s/『γομφιαζω』/to grind one’s teeth;<br>to be set on edge/g
+s/『γομος』/load;<br>cargo/g
+s/『γομφιαζω』/grind one’s teeth;<br>set on edge/g
 s/『γομφιασμος』/grinding of teeth/g
-s/『γονευς』/a parent/g
-s/『γονορρυης』/discharge of seed or blood,<br>suffering from gonorrhoea/g
-s/『γονος』/that which is begotten,<br>offspring/g
-s/『γονυ』/the knee/g
-s/『γοος』/weeping,<br>wailing/g
+s/『γονευς』/parent/g
+s/『γονορρυης』/discharge of seed or blood;<br>suffering from gonorrhoea/g
+s/『γονος』/that which is begotten;<br>offspring/g
+s/『γονυ』/knee/g
+s/『γοος』/weeping;<br>wailing/g
 s/『γοργιας』/[NP]/g
 s/『γορτυνα』/[NP]/g
 s/『γοσομ』/[NP]/g
 s/『γουγ』/[NP]/g
 s/『γουδιηλ』/[NP]/g
-s/『γουν』/at least then,<br>at any rate/g
+s/『γουν』/at least then;<br>at any rate/g
 s/『γουνι』/[NP]/g
 s/『γοφερα』/[NP]/g
 s/『γοωθαμ』/[NP]/g
-s/『γραμμα』/writing,<br>letter/g
-s/『γραμματεια』/the office of the/g
-s/『γραμματευς』/a scholar/g
-s/『γραμματευω』/to be secretary/g
-s/『γραμματικος』/knowing one's letters,<br>well grounded in the rudiments/g
-s/『γραμματοεισαγωγευς』/instructor,<br>schoolmaster/g
-s/『γραπτον』/writing,<br>book/g
-s/『γραφειον』/stylus,<br>pencil/g
+s/『γραμμα』/writing;<br>letter/g
+s/『γραμματεια』/office of the/g
+s/『γραμματευς』/scholar/g
+s/『γραμματευω』/secretary/g
+s/『γραμματικος』/knowing one's letters;<br>well grounded in the rudiments/g
+s/『γραμματοεισαγωγευς』/instructor;<br>schoolmaster/g
+s/『γραπτον』/writing;<br>book/g
+s/『γραφειον』/stylus;<br>pencil/g
 s/『γραφη』/scripture/g
 s/『γραφικος』/capable of drawing/g
-s/『γραφις』/a stile for writing/g
-s/『γραφω』/to write/g
-s/『γρηγορεω』/to be vigilant,<br>watch/g
+s/『γραφις』/stile for writing/g
+s/『γραφω』/write/g
+s/『γρηγορεω』/vigilant;<br>watch/g
 s/『γρηγορησις』/wakefulness/g
-s/『γρυζω』/to say/g
-s/『γρυψ』/a griffin/g
-s/『γυμναζω』/to train/g
+s/『γρυζω』/say/g
+s/『γρυψ』/griffin/g
+s/『γυμναζω』/train/g
 s/『γυμνασια』/training/g
 s/『γυμνασιον』/bodily exercises/g
 s/『γυμνος』/naked/g
 s/『γυμνοτης』/nakedness/g
-s/『γυμνοω』/to be naked/g
+s/『γυμνοω』/naked/g
 s/『γυμνωσις』/nakedness/g
 s/『γυναικειος』/womanly/g
-s/『γυναικων』/women’s apartments,<br>harem/g
+s/『γυναικων』/women’s apartments;<br>harem/g
 s/『γυναιον』/weak woman/g
-s/『γυνη』/woman,<br>wife/g
-s/『γυρος』/a ring,<br>circle/g
-s/『γυροω』/to circle;<br>to draw a circle/g
-s/『γυψ』/a vulture/g
+s/『γυνη』/woman;<br>wife/g
+s/『γυρος』/ring;<br>circle/g
+s/『γυροω』/circle;<br>draw a circle/g
+s/『γυψ』/vulture/g
 s/『γωγ』/[NP]/g
 s/『γωζα』/[NP]/g
 s/『γωζαν』/[NP]/g
 s/『γωθι』/[NP]/g
 s/『γωιμ』/[NP]/g
 s/『γωλα』/[NP]/g
-s/『γωλαθ』/ball,<br>small globe/g
+s/『γωλαθ』/ball;<br>small globe/g
 s/『γωλαμ』/[NP]/g
 s/『γωλαν』/[NP]/g
 s/『γωληλα』/Golela/g
 s/『γωλων』/[NP]/g
 s/『γωναθ』/[NP]/g
 s/『γωνι』/[NP]/g
-s/『γωνια』/a corner/g
+s/『γωνια』/corner/g
 s/『γωνιαιος』/on or at the angle/g
 s/『γωυνι』/[NP]/g
 s/『δʹ』/[M]/g
@@ -3232,7 +3232,7 @@ s/『δαβασθαι』/[NP]/g
 s/『δαββων』/[NP]/g
 s/『δαβιδ』/[NP]/g
 s/『δαβιρ』/[NP]/g
-s/『δαβιρ\.1』/shrine,<br>backroom of the temple/g
+s/『δαβιρ\.1』/shrine;<br>backroom of the temple/g
 s/『δαβιρωθ』/[NP]/g
 s/『δαβιρων』/[NP]/g
 s/『δαβραθ』/[NP]/g
@@ -3240,24 +3240,24 @@ s/『δαβρι』/[NP]/g
 s/『δαβωρ』/[NP]/g
 s/『δαγων』/[NP]/g
 s/『δαδαν』/[NP]/g
-s/『δαδουχια』/torch-bearing,<br>torch light/g
+s/『δαδουχια』/torch-bearing;<br>torch light/g
 s/『δαεμια』/[NP]/g
 s/『δαθαν』/[NP]/g
 s/『δαθεμα』/[NP]/g
 s/『δαιβαν』/[NP]/g
 s/『δαιβων』/[NP]/g
 s/『δαιδαν』/[NP]/g
-s/『δαιμονιον』/a demon/g
-s/『δαιμων』/a genius/g
+s/『δαιμονιον』/demon/g
+s/『δαιμων』/genius/g
 s/『δαισαν』/[NP]/g
 s/『δαισων』/[NP]/g
 s/『δακεθ』/[NP]/g
-s/『δακνω』/to bite/g
-s/『δακρυ』/a tear/g
-s/『δακρυω』/to shed tears/g
-s/『δακτυληθρα』/a finger-sheath/g
-s/『δακτυλιος』/a ring/g
-s/『δακτυλος』/a finger/g
+s/『δακνω』/bite/g
+s/『δακρυ』/tear/g
+s/『δακρυω』/shed tears/g
+s/『δακτυληθρα』/finger-sheath/g
+s/『δακτυλιος』/ring/g
+s/『δακτυλος』/finger/g
 s/『δαλααν』/[NP]/g
 s/『δαλαια』/[NP]/g
 s/『δαλαιας』/[NP]/g
@@ -3266,25 +3266,25 @@ s/『δαλαν』/[NP]/g
 s/『δαλια』/[NP]/g
 s/『δαλιδα』/[NP]/g
 s/『δαλιλα』/[NP]/g
-s/『δαλος』/a firebrand/g
+s/『δαλος』/firebrand/g
 s/『δαλουια』/[NP]/g
-s/『δαμαζω』/to tame/g
-s/『δαμαλις』/a heifer/g
+s/『δαμαζω』/tame/g
+s/『δαμαλις』/heifer/g
 s/『δαμαν』/[NP]/g
 s/『δαμασεκ』/[NP]/g
 s/『δαμασκηνος』/[NP]/g
 s/『δαμασκος』/[NP]/g
 s/『δαν』/[NP]/g
-s/『δανειζω』/to lend,<br>borrow/g
-s/『δανειον』/a loan/g
+s/『δανειζω』/lend;<br>borrow/g
+s/『δανειον』/loan/g
 s/『δανεισμος』/money-lending/g
-s/『δανειστης』/a lender/g
+s/『δανειστης』/lender/g
 s/『δανι』/[NP]/g
 s/『δανιδαν』/[NP]/g
 s/『δανιηλ』/[NP]/g
 s/『δανιτων』/[NP]/g
-s/『δανος』/money lent,<br>a loan/g
-s/『δαπαναω』/to spend/g
+s/『δανος』/money lent;<br>loan/g
+s/『δαπαναω』/spend/g
 s/『δαπανη』/expense/g
 s/『δαπανημα』/money spent/g
 s/『δαρα』/[NP]/g
@@ -3295,13 +3295,13 @@ s/『δαρκων』/[NP]/g
 s/『δαρωμ』/[NP]/g
 s/『δασεμ』/[NP]/g
 s/『δασεως』/「δασέως」/g
-s/『δασος』/thicket,<br>copse/g
+s/『δασος』/thicket;<br>copse/g
 s/『δασυπους』/rough-foot/g
 s/『δασυς』/shaggy/g
 s/『δαφνη』/[NP]/g
 s/『δαψιλευω』/「δαψιλεύω」/g
-s/『δαψιλης』/abundant,<br>plentiful/g
-s/『δε』/though,<br>while/g
+s/『δαψιλης』/abundant;<br>plentiful/g
+s/『δε』/though;<br>while/g
 s/『δεββα』/[NP]/g
 s/『δεββωρα』/[NP]/g
 s/『δεβερι』/[NP]/g
@@ -3309,544 +3309,544 @@ s/『δεβηλαιμ』/[NP]/g
 s/『δεβλαθα』/[NP]/g
 s/『δεβλαθαιμ』/[NP]/g
 s/『δεβραθα』/Debratha;<br>stretch/g
-s/『δεησις』/a petition/g
-s/『δει』/is necessary,<br>have to/g
-s/『δειδω』/to fear/g
-s/『δεικνυω』/to show/g
-s/『δειλαινω』/to be a coward/g
-s/『δειλαιος』/wretched,<br>sorry/g
-s/『δειλανδρεω』/to be cowardly/g
+s/『δεησις』/petition/g
+s/『δει』/is necessary;<br>have to/g
+s/『δειδω』/fear/g
+s/『δεικνυω』/show/g
+s/『δειλαινω』/a coward/g
+s/『δειλαιος』/wretched;<br>sorry/g
+s/『δειλανδρεω』/cowardly/g
 s/『δειλη』/afternoon/g
-s/『δειλια』/intimidation,<br>timidity/g
-s/『δειλιαινω』/to frighten/g
-s/『δειλιαω』/to be intimidated/g
+s/『δειλια』/intimidation;<br>timidity/g
+s/『δειλιαινω』/frighten/g
+s/『δειλιαω』/intimidated/g
 s/『δειλινος』/in the evening/g
 s/『δειλοομαι』/「δειλόομαι」/g
-s/『δειλος』/timid,<br>intimidated/g
+s/『δειλος』/timid;<br>intimidated/g
 s/『δειλοψυχος』/faint-hearted/g
-s/『δειμα』/fear,<br>affright/g
-s/『δειναζω』/to be in straits,<br>to take offense/g
-s/『δεινος』/fearful,<br>terrible/g
+s/『δειμα』/fear;<br>affright/g
+s/『δειναζω』/in straits;<br>take offense/g
+s/『δεινος』/fearful;<br>terrible/g
 s/『δεινως』/terribly/g
-s/『δειπνεω』/to have dinner,<br>dine/g
-s/『δειπνον』/a dinner/g
+s/『δειπνεω』/have dinner;<br>dine/g
+s/『δειπνον』/dinner/g
 s/『δειρα』/[NP]/g
 s/『δεκα』/ten/g
-s/『δεκαδαρχος』/a commander of ten/g
+s/『δεκαδαρχος』/commander of ten/g
 s/『δεκαεξ』/[M]/g
 s/『δεκαμηνιαιος』/consisting of ten months/g
 s/『δεκαμηνος』/ten months old/g
 s/『δεκαπηχυς』/ten cubits long/g
-s/『δεκαπλασιαζω』/to multiply by ten/g
+s/『δεκαπλασιαζω』/multiply by ten/g
 s/『δεκαπλασιων』/tenfold/g
 s/『δεκαπλασιως』/tenfold/g
-s/『δεκατη』/a tithe/g
+s/『δεκατη』/tithe/g
 s/『δεκατος』/tenth/g
-s/『δεκατοω』/to tithe/g
+s/『δεκατοω』/tithe/g
 s/『δεκαχορδος』/ten-stringed/g
 s/『δεκλα』/[NP]/g
 s/『δεκμων』/[NP]/g
 s/『δεκτος』/acceptable/g
 s/『δελθ』/「δελθ」/g
-s/『δελτος』/a writing-tablet/g
+s/『δελτος』/writing-tablet/g
 s/『δελφων』/[NP]/g
 s/『δεμνα』/[NP]/g
-s/『δενδρον』/a tree/g
+s/『δενδρον』/tree/g
 s/『δενδρος』/tree/g
-s/『δενδροτομεω』/to lay waste a country/g
+s/『δενδροτομεω』/lay waste a country/g
 s/『δενεθι』/[NP]/g
 s/『δενναβα』/[NP]/g
-s/『δεξαμενη』/a reservoir,<br>tank/g
-s/『δεξιαζω』/to greet with the right hand,<br>to welcome/g
+s/『δεξαμενη』/reservoir;<br>tank/g
+s/『δεξιαζω』/greet with the right hand;<br>welcome/g
 s/『δεξιος』/right/g
-s/『δεομαι』/to petition/g
-s/『δεος』/fear,<br>alarm/g
-s/『δερμα』/a skin/g
+s/『δεομαι』/petition/g
+s/『δεος』/fear;<br>alarm/g
+s/『δερμα』/skin/g
 s/『δερματινος』/leather/g
-s/『δερρις』/a hide/g
-s/『δερω』/to beat,<br>skin/g
+s/『δερρις』/hide/g
+s/『δερω』/beat;<br>skin/g
 s/『δεσεθ』/[NP]/g
 s/『δεσις』/setting/g
-s/『δεσμευω』/to bundle up,<br>tether/g
-s/『δεσμη』/a bundle/g
-s/『δεσμιος』/a prisoner/g
-s/『δεσμος』/bond,<br>confinement/g
-s/『δεσμοφυλαξ』/a warden/g
-s/『δεσμωτηριον』/a jail/g
-s/『δεσμωτης』/a prisoner/g
-s/『δεσποζω』/to be lord/g
-s/『δεσποτεια』/the power of a master/g
-s/『δεσποτευω』/to be lord of,<br>to be master of/g
+s/『δεσμευω』/bundle up;<br>tether/g
+s/『δεσμη』/bundle/g
+s/『δεσμιος』/prisoner/g
+s/『δεσμος』/bond;<br>confinement/g
+s/『δεσμοφυλαξ』/warden/g
+s/『δεσμωτηριον』/jail/g
+s/『δεσμωτης』/prisoner/g
+s/『δεσποζω』/lord/g
+s/『δεσποτεια』/power of a master/g
+s/『δεσποτευω』/lord of;<br>master of/g
 s/『δεσποτης』/master/g
 s/『δεσσα』/[NP]/g
 s/『δεσσαος』/[NP]/g
-s/『δευρο』/come on,<br>to this point/g
+s/『δευρο』/come on;<br>this point/g
 s/『δευτε』/come on/g
-s/『δευτερευω』/to be second/g
+s/『δευτερευω』/second/g
 s/『δευτεριον』/「δευτέριον」/g
-s/『δευτερολογεω』/to speak a second time/g
+s/『δευτερολογεω』/speak a second time/g
 s/『δευτερονομιον』/[NP]/g
-s/『δευτερονομιον\.1』/second or repeated Law,<br>the fifth book of the Pentateuch/g
+s/『δευτερονομιον\.1』/second or repeated Law;<br>fifth book of the Pentateuch/g
 s/『δευτερος』/second/g
-s/『δευτεροω』/to be repeated/g
+s/『δευτεροω』/repeated/g
 s/『δευτερωσις』/second rate or course;<br>retelling/g
 s/『δεφρωνα』/[NP]/g
-s/『δεχομαι』/to accept,<br>take/g
-s/『δεω』/to bind,<br>tie/g
+s/『δεχομαι』/accept;<br>take/g
+s/『δεω』/bind;<br>tie/g
 s/『δη』/in fact/g
 s/『δηβων』/[NP]/g
-s/『δηγμα』/a bite,<br>sting/g
-s/『δηλαιστος』/wretched,<br>miserable/g
+s/『δηγμα』/bite;<br>sting/g
+s/『δηλαιστος』/wretched;<br>miserable/g
 s/『δηλαναθ』/[NP]/g
 s/『δηλος』/[NP]/g
 s/『δηλος\.1』/clear/g
-s/『δηλοω』/to make clear/g
-s/『δηλωσις』/a pointing out,<br>manifestation/g
+s/『δηλοω』/make clear/g
+s/『δηλωσις』/pointing out;<br>manifestation/g
 s/『δημαγωγια』/leadership of the people/g
-s/『δημευω』/to declare public property,<br>to confiscate/g
-s/『δημηγορεω』/to give a public address/g
+s/『δημευω』/declare public property;<br>confiscate/g
+s/『δημηγορεω』/give a public address/g
 s/『δημητριος』/[NP]/g
-s/『δημιος』/belonging to the people,<br>public/g
-s/『δημιουργεω』/to practise a trade,<br>do work/g
+s/『δημιος』/belonging to the people;<br>public/g
+s/『δημιουργεω』/practise a trade;<br>do work/g
 s/『δημιουργος』/public worker/g
-s/『δημος』/the public/g
+s/『δημος』/public/g
 s/『δημοσιος』/public/g
-s/『δημοτελης』/at the public cost,<br>public/g
-s/『δημοτης』/one of the people,<br>a commoner/g
+s/『δημοτελης』/at the public cost;<br>public/g
+s/『δημοτης』/one of the people;<br>commoner/g
 s/『δημοφων』/[NP]/g
 s/『δησων』/[NP]/g
-s/『δια』/through,<br>because of/g
-s/『διαβαθρα』/a ship's ladder/g
-s/『διαβαινω』/to step through,<br>go across/g
-s/『διαβαλλω』/to malign/g
-s/『διαβασις』/a ford/g
-s/『διαβημα』/a step/g
+s/『δια』/through;<br>because of/g
+s/『διαβαθρα』/ship's ladder/g
+s/『διαβαινω』/step through;<br>go across/g
+s/『διαβαλλω』/malign/g
+s/『διαβασις』/ford/g
+s/『διαβημα』/step/g
 s/『διαβιαζομαι』/penetrate/g
-s/『διαβιβαζω』/to carry over/g
-s/『διαβιοω』/to live through,<br>pass/g
-s/『διαβοαω』/to cry out/g
-s/『διαβολη』/false accusation,<br>slander/g
-s/『διαβολος』/devilish,<br>devil/g
-s/『διαβουλευω』/to deliberate/g
+s/『διαβιβαζω』/carry over/g
+s/『διαβιοω』/live through;<br>pass/g
+s/『διαβοαω』/cry out/g
+s/『διαβολη』/false accusation;<br>slander/g
+s/『διαβολος』/devilish;<br>devil/g
+s/『διαβουλευω』/deliberate/g
 s/『διαβουλια』/「διαβουλία」/g
-s/『διαβουλιον』/counsel,<br>deliberation/g
-s/『διαγγελλω』/to pronounce/g
-s/『διαγγελμα』/message,<br>notice/g
-s/『διαγινομαι』/to elapse/g
-s/『διαγινωσκω』/to diagnose,<br>decide/g
-s/『διαγλυφω』/to carve in intaglio/g
+s/『διαβουλιον』/counsel;<br>deliberation/g
+s/『διαγγελλω』/pronounce/g
+s/『διαγγελμα』/message;<br>notice/g
+s/『διαγινομαι』/elapse/g
+s/『διαγινωσκω』/diagnose;<br>decide/g
+s/『διαγλυφω』/carve in intaglio/g
 s/『διαγνωσις』/diagnosis/g
-s/『διαγογγυζω』/to keep muttering/g
-s/『διαγορευω』/to speak plainly,<br>declare/g
-s/『διαγραφη』/a marking off by lines/g
-s/『διαγραφω』/to mark out by lines,<br>delineate/g
-s/『διαγω』/to head through,<br>lead/g
-s/『διαγωγη』/a passing of life,<br>a way/g
-s/『διαδεχομαι』/to succeed/g
-s/『διαδεω』/to bind round/g
+s/『διαγογγυζω』/keep muttering/g
+s/『διαγορευω』/speak plainly;<br>declare/g
+s/『διαγραφη』/marking off by lines/g
+s/『διαγραφω』/mark out by lines;<br>delineate/g
+s/『διαγω』/head through;<br>lead/g
+s/『διαγωγη』/passing of life;<br>way/g
+s/『διαδεχομαι』/succeed/g
+s/『διαδεω』/bind round/g
 s/『διαδηλος』/distinguishable/g
-s/『διαδημα』/a diadem/g
-s/『διαδιδρασκω』/to run off,<br>get away/g
-s/『διαδιδωμι』/to give out/g
-s/『διαδοχος』/a successor/g
-s/『διαδυνω』/to slip through/g
-s/『διαζαω』/to live through,<br>pass/g
-s/『διαζομαι』/to set the warp in the loom,<br>to begin the web/g
-s/『διαθερμαινω』/to warm through/g
-s/『διαθεσις』/a disposition,<br>arrangement/g
+s/『διαδημα』/diadem/g
+s/『διαδιδρασκω』/run off;<br>get away/g
+s/『διαδιδωμι』/give out/g
+s/『διαδοχος』/successor/g
+s/『διαδυνω』/slip through/g
+s/『διαζαω』/live through;<br>pass/g
+s/『διαζομαι』/set the warp in the loom;<br>begin the web/g
+s/『διαθερμαινω』/warm through/g
+s/『διαθεσις』/disposition;<br>arrangement/g
 s/『διαθηκη』/covenant/g
-s/『διαθρυπτω』/to break apart/g
+s/『διαθρυπτω』/break apart/g
 s/『διαιρεσις』/division/g
-s/『διαιρεω』/to divide/g
-s/『διαιτα』/a way of living,<br>mode of life/g
-s/『διαιταω』/to feed in a certain way,<br>to diet/g
+s/『διαιρεω』/divide/g
+s/『διαιτα』/way of living;<br>mode of life/g
+s/『διαιταω』/feed in a certain way;<br>diet/g
 s/『διαιτεω』/「διαιτέω」/g
-s/『διακαθιζανω』/to sit down apart,<br>to relieve oneself/g
-s/『διακαθιζω』/to make to sit apart,<br>set apart/g
-s/『διακαιω』/to burn through,<br>heat to excess/g
-s/『διακαμπτω』/to bend about,<br>to turn about/g
-s/『διακαρτερεω』/to endure to the end,<br>last out/g
-s/『διακατεχω』/to keep,<br>to occupy/g
-s/『διακειμαι』/to be in a certain state,<br>to be disposed/g
+s/『διακαθιζανω』/sit down apart;<br>relieve oneself/g
+s/『διακαθιζω』/make to sit apart;<br>set apart/g
+s/『διακαιω』/burn through;<br>heat to excess/g
+s/『διακαμπτω』/bend about;<br>turn about/g
+s/『διακαρτερεω』/endure to the end;<br>last out/g
+s/『διακατεχω』/keep;<br>occupy/g
+s/『διακειμαι』/in a certain state;<br>disposed/g
 s/『διακενος』/quite empty/g
-s/『διακινδυνευω』/to run all risks,<br>make a desperate attempt/g
-s/『διακινεω』/to move thoroughly/g
-s/『διακλαω』/to break in twain/g
-s/『διακλεπτω』/to steal at different times/g
-s/『διακολυμβαω』/to swim across/g
-s/『διακομιζω』/to carry over/g
-s/『διακονια』/attendance,<br>service/g
+s/『διακινδυνευω』/run all risks;<br>make a desperate attempt/g
+s/『διακινεω』/move thoroughly/g
+s/『διακλαω』/break in twain/g
+s/『διακλεπτω』/steal at different times/g
+s/『διακολυμβαω』/swim across/g
+s/『διακομιζω』/carry over/g
+s/『διακονια』/attendance;<br>service/g
 s/『διακονος』/attendant/g
 s/『διακοπη』/[NP]/g
-s/『διακοπη\.1』/a gash,<br>cleft/g
-s/『διακοπτω』/to cut through/g
+s/『διακοπη\.1』/gash;<br>cleft/g
+s/『διακοπτω』/cut through/g
 s/『διακοσιοι』/two hundred/g
-s/『διακοσμεω』/to divide and marshal,<br>muster in array/g
-s/『διακοσμησις』/a setting in order,<br>regulating/g
-s/『διακουω』/to give a hearing/g
-s/『διακρατεω』/to hold fast,<br>hold one's own/g
-s/『διακριβοω』/to examine/g
-s/『διακρινω』/to discriminate,<br>doubt/g
-s/『διακρισις』/discrimination,<br>distinction/g
+s/『διακοσμεω』/divide and marshal;<br>muster in array/g
+s/『διακοσμησις』/setting in order;<br>regulating/g
+s/『διακουω』/give a hearing/g
+s/『διακρατεω』/hold fast;<br>hold one's own/g
+s/『διακριβοω』/examine/g
+s/『διακρινω』/discriminate;<br>doubt/g
+s/『διακρισις』/discrimination;<br>distinction/g
 s/『διακυβερναω』/「διακυβερνάω」/g
-s/『διακυπτω』/to stoop and creep through/g
-s/『διακωλυω』/to thoroughly prevent/g
-s/『διαλαμβανω』/to take/g
-s/『διαλανθανω』/to escape notice/g
-s/『διαλεγομαι』/to discuss,<br>lecture/g
-s/『διαλειπω』/to cease/g
+s/『διακυπτω』/stoop and creep through/g
+s/『διακωλυω』/thoroughly prevent/g
+s/『διαλαμβανω』/take/g
+s/『διαλανθανω』/escape notice/g
+s/『διαλεγομαι』/discuss;<br>lecture/g
+s/『διαλειπω』/cease/g
 s/『διαλεκτος』/dialect/g
 s/『διαλευκος』/speckled/g
-s/『διαλημψις』/judgement,<br>opinion/g
+s/『διαλημψις』/judgement;<br>opinion/g
 s/『διαλιμπανω』/「διαλιμπάνω」/g
-s/『διαλλαγη』/interchange,<br>exchange/g
-s/『διαλλασσω』/to reconcile/g
-s/『διαλλομαι』/to leap across/g
-s/『διαλογη』/account,<br>discourse/g
-s/『διαλογιζομαι』/to reason,<br>argue/g
-s/『διαλογισμος』/reasoning,<br>argument/g
-s/『διαλοιδορησις』/railing,<br>abuse/g
-s/『διαλυσις』/a loosing one from another,<br>separating/g
-s/『διαλυω』/to dissipate,<br>disperse/g
-s/『διαμαρτανω』/to go astray from/g
-s/『διαμαρτυρεω』/to testify against/g
+s/『διαλλαγη』/interchange;<br>exchange/g
+s/『διαλλασσω』/reconcile/g
+s/『διαλλομαι』/leap across/g
+s/『διαλογη』/account;<br>discourse/g
+s/『διαλογιζομαι』/reason;<br>argue/g
+s/『διαλογισμος』/reasoning;<br>argument/g
+s/『διαλοιδορησις』/railing;<br>abuse/g
+s/『διαλυσις』/loosing one from another;<br>separating/g
+s/『διαλυω』/dissipate;<br>disperse/g
+s/『διαμαρτανω』/go astray from/g
+s/『διαμαρτυρεω』/testify against/g
 s/『διαμαρτυρια』/testimony/g
-s/『διαμαρτυρομαι』/to protest/g
-s/『διαμασαομαι』/to devour/g
-s/『διαμαχομαι』/to fight through/g
-s/『διαμελιζω』/to dismember/g
-s/『διαμενω』/to remain/g
-s/『διαμεριζω』/to divide/g
+s/『διαμαρτυρομαι』/protest/g
+s/『διαμασαομαι』/devour/g
+s/『διαμαχομαι』/fight through/g
+s/『διαμελιζω』/dismember/g
+s/『διαμενω』/remain/g
+s/『διαμεριζω』/divide/g
 s/『διαμερισμος』/division/g
-s/『διαμετρεω』/to measure off/g
-s/『διαμετρησις』/measure,<br>measuring out/g
-s/『διαναπαυω』/to give relief/g
-s/『διανεμω』/to distribute,<br>spread/g
-s/『διανευω』/to nod/g
-s/『διανηθω』/to spin out/g
-s/『διανθιζω』/to adorn with flowers/g
-s/『διανιστημι』/to rise up,<br>to arise/g
-s/『διανοεομαι』/to intend/g
-s/『διανοημα』/a notion/g
-s/『διανοησις』/skill,<br>cunning/g
-s/『διανοια』/a mind,<br>intention/g
-s/『διανοιγω』/to open thoroughly\/wide/g
-s/『διανυκτερευω』/to pass the night/g
-s/『διανυω』/to conclude/g
-s/『διαξαινω』/to card,<br>to comb/g
-s/『διαπαρατηρεομαι』/to lie in wait for continually/g
-s/『διαπαρθενευω』/to deflower a maiden/g
-s/『διαπαυω』/to make to cease/g
-s/『διαπειλεω』/to threaten violently/g
+s/『διαμετρεω』/measure off/g
+s/『διαμετρησις』/measure;<br>measuring out/g
+s/『διαναπαυω』/give relief/g
+s/『διανεμω』/distribute;<br>spread/g
+s/『διανευω』/nod/g
+s/『διανηθω』/spin out/g
+s/『διανθιζω』/adorn with flowers/g
+s/『διανιστημι』/rise up;<br>arise/g
+s/『διανοεομαι』/intend/g
+s/『διανοημα』/notion/g
+s/『διανοησις』/skill;<br>cunning/g
+s/『διανοια』/mind;<br>intention/g
+s/『διανοιγω』/open thoroughly\/wide/g
+s/『διανυκτερευω』/pass the night/g
+s/『διανυω』/conclude/g
+s/『διαξαινω』/card;<br>comb/g
+s/『διαπαρατηρεομαι』/lie in wait for continually/g
+s/『διαπαρθενευω』/deflower a maiden/g
+s/『διαπαυω』/make to cease/g
+s/『διαπειλεω』/threaten violently/g
 s/『διαπειραζω』/「διαπειράζω」/g
-s/『διαπειρω』/to drive through/g
-s/『διαπεμπω』/to send off in different directions,<br>send to and fro/g
-s/『διαπεραω』/to cross over/g
-s/『διαπεταμαι』/to fly through/g
-s/『διαπεταννυμι』/to open and spread out;<br>to open/g
-s/『διαπιπτω』/to fall away,<br>slip away/g
-s/『διαπλατυνω』/to make very wide,<br>dilate/g
-s/『διαπληκτιζομαι』/to spar with,<br>skirmish with/g
-s/『διαπνεω』/to blow through/g
-s/『διαπονεω』/to thoroughly pain,<br>be troubled/g
-s/『διαπορευομαι』/to travel through/g
+s/『διαπειρω』/drive through/g
+s/『διαπεμπω』/send off in different directions;<br>send to and fro/g
+s/『διαπεραω』/cross over/g
+s/『διαπεταμαι』/fly through/g
+s/『διαπεταννυμι』/open and spread out;<br>open/g
+s/『διαπιπτω』/fall away;<br>slip away/g
+s/『διαπλατυνω』/make very wide;<br>dilate/g
+s/『διαπληκτιζομαι』/spar with;<br>skirmish with/g
+s/『διαπνεω』/blow through/g
+s/『διαπονεω』/thoroughly pain;<br>troubled/g
+s/『διαπορευομαι』/travel through/g
 s/『διαπρασις』/sale to various purchasers/g
-s/『διαπρασσω』/to pass over/g
-s/『διαπρεπης』/eminent,<br>distinguished/g
+s/『διαπρασσω』/pass over/g
+s/『διαπρεπης』/eminent;<br>distinguished/g
 s/『διαπριζω』/「διαπρίζω」/g
-s/『διαπτωσις』/fall,<br>error/g
+s/『διαπτωσις』/fall;<br>error/g
 s/『διαπυρος』/red-hot/g
-s/『διαπυροω』/to set on fire/g
-s/『διαριθμεω』/to reckon up one by one,<br>enumerate/g
-s/『διαρκεω』/to have full strength,<br>be quite sufficient/g
+s/『διαπυροω』/set on fire/g
+s/『διαριθμεω』/reckon up one by one;<br>enumerate/g
+s/『διαρκεω』/have full strength;<br>quite sufficient/g
 s/『διαρπαγη』/plunder/g
-s/『διαρπαζω』/to ransack/g
-s/『διαρραινω』/to sprinkle with/g
-s/『διαρρεω』/to flow through/g
-s/『διαρρηγνυμι』/to rend,<br>tear/g
-s/『διαρρησσω』/to rend,<br>tear/g
-s/『διαρριπτω』/to cast/g
-s/『διαρρυθμιζω』/to arrange in order/g
-s/『διαρταω』/to suspend,<br>interrupt/g
-s/『διαρτιζω』/to mould,<br>to form/g
-s/『διασαλευω』/to confuse/g
-s/『διασαφεω』/to make thoroughly manifest/g
+s/『διαρπαζω』/ransack/g
+s/『διαρραινω』/sprinkle with/g
+s/『διαρρεω』/flow through/g
+s/『διαρρηγνυμι』/rend;<br>tear/g
+s/『διαρρησσω』/rend;<br>tear/g
+s/『διαρριπτω』/cast/g
+s/『διαρρυθμιζω』/arrange in order/g
+s/『διαρταω』/suspend;<br>interrupt/g
+s/『διαρτιζω』/mould;<br>form/g
+s/『διασαλευω』/confuse/g
+s/『διασαφεω』/make thoroughly manifest/g
 s/『διασαφησις』/explanation/g
-s/『διασειω』/to shake down/g
-s/『διασκεδαζω』/to scatter/g
-s/『διασκευαζω』/to get quite ready,<br>equip/g
-s/『διασκευη』/equipment,<br>furniture/g
-s/『διασκιρταω』/to leap about/g
-s/『διασκορπιζω』/to disperse,<br>confound/g
-s/『διασκορπισμος』/dispersion,<br>scattering/g
+s/『διασειω』/shake down/g
+s/『διασκεδαζω』/scatter/g
+s/『διασκευαζω』/get quite ready;<br>equip/g
+s/『διασκευη』/equipment;<br>furniture/g
+s/『διασκιρταω』/leap about/g
+s/『διασκορπιζω』/disperse;<br>confound/g
+s/『διασκορπισμος』/dispersion;<br>scattering/g
 s/『διασμα』/warp/g
 s/『διασπασμος』/tearing in pieces/g
-s/『διασπαω』/to tear apart/g
-s/『διασπειρω』/to sow abroad,<br>scatter around/g
+s/『διασπαω』/tear apart/g
+s/『διασπειρω』/sow abroad;<br>scatter around/g
 s/『διασπορα』/diaspora/g
-s/『διασταλσις』/arrangement,<br>pact/g
-s/『διαστασις』/a standing aloof,<br>separation/g
-s/『διαστελλω』/to enjoin,<br>distinctly command/g
-s/『διαστημα』/an interval/g
+s/『διασταλσις』/arrangement;<br>pact/g
+s/『διαστασις』/standing aloof;<br>separation/g
+s/『διαστελλω』/enjoin;<br>distinctly command/g
+s/『διαστημα』/interval/g
 s/『διαστολη』/distinction/g
-s/『διαστραπτω』/to flash like lightening/g
-s/『διαστρεφω』/to twist,<br>divert/g
+s/『διαστραπτω』/flash like lightening/g
+s/『διαστρεφω』/twist;<br>divert/g
 s/『διαστροφη』/distortion/g
-s/『διαστρωννυμι』/to spread/g
-s/『διασυριζω』/to whistle/g
-s/『διασφαγη』/breach,<br>gap/g
-s/『διασφαλλω』/to overturn utterly/g
-s/『διασχιζω』/to cleave/g
-s/『διασωζω』/to thoroughly save,<br>bring safely through/g
-s/『διαταγη』/ordering,<br>ordinance/g
-s/『διαταγμα』/an order/g
-s/『διαταξις』/disposition,<br>arrangement/g
-s/『διατασσω』/to give orders,<br>ordain/g
-s/『διατεινω』/to stretch to the uttermost/g
-s/『διατελεω』/to finish off/g
-s/『διατηκω』/to melt/g
-s/『διατηρεω』/to thoroughly keep,<br>maintain/g
-s/『διατηρησις』/preservation,<br>reserve/g
-s/『διατιθεμαι』/to put through,<br>make/g
-s/『διατιλλω』/to pluck,<br>to pull out the hair/g
-s/『διατονιον』/traverse,<br>beam/g
-s/『διατρεπω』/to turn away from/g
-s/『διατρεφω』/to support/g
-s/『διατρεχω』/to run across/g
-s/『διατριβη』/a way of spending time/g
-s/『διατριβω』/to spend time/g
+s/『διαστρωννυμι』/spread/g
+s/『διασυριζω』/whistle/g
+s/『διασφαγη』/breach;<br>gap/g
+s/『διασφαλλω』/overturn utterly/g
+s/『διασχιζω』/cleave/g
+s/『διασωζω』/thoroughly save;<br>bring safely through/g
+s/『διαταγη』/ordering;<br>ordinance/g
+s/『διαταγμα』/order/g
+s/『διαταξις』/disposition;<br>arrangement/g
+s/『διατασσω』/give orders;<br>ordain/g
+s/『διατεινω』/stretch to the uttermost/g
+s/『διατελεω』/finish off/g
+s/『διατηκω』/melt/g
+s/『διατηρεω』/thoroughly keep;<br>maintain/g
+s/『διατηρησις』/preservation;<br>reserve/g
+s/『διατιθεμαι』/put through;<br>make/g
+s/『διατιλλω』/pluck;<br>pull out the hair/g
+s/『διατονιον』/traverse;<br>beam/g
+s/『διατρεπω』/turn away from/g
+s/『διατρεφω』/support/g
+s/『διατρεχω』/run across/g
+s/『διατριβη』/way of spending time/g
+s/『διατριβω』/spend time/g
 s/『διατροφη』/nourishment/g
-s/『διατυποω』/to form perfectly/g
-s/『διαφαινω』/to shew through,<br>let/g
+s/『διατυποω』/form perfectly/g
+s/『διαφαινω』/shew through;<br>let/g
 s/『διαφανης』/diaphanous/g
-s/『διαφαυσκω』/to dawn/g
-s/『διαφερω』/to transcend,<br>transport/g
-s/『διαφευγω』/to escape/g
-s/『διαφθειρω』/to deteriorate,<br>ruin/g
+s/『διαφαυσκω』/dawn/g
+s/『διαφερω』/transcend;<br>transport/g
+s/『διαφευγω』/escape/g
+s/『διαφθειρω』/deteriorate;<br>ruin/g
 s/『διαφθορα』/decay/g
-s/『διαφλεγω』/to burn through/g
-s/『διαφορα』/difference,<br>distinction/g
-s/『διαφορεω』/to spread abroad/g
-s/『διαφορημα』/thing torn to pieces,<br>prey/g
-s/『διαφορος』/transcendent,<br>differing/g
+s/『διαφλεγω』/burn through/g
+s/『διαφορα』/difference;<br>distinction/g
+s/『διαφορεω』/spread abroad/g
+s/『διαφορημα』/thing torn to pieces;<br>prey/g
+s/『διαφορος』/transcendent;<br>differing/g
 s/『διαφορως』/differently/g
-s/『διαφυλασσω』/to guard thoroughly\/carefully/g
-s/『διαφωνεω』/to be dissonant/g
-s/『διαφωσκω』/to dawn/g
-s/『διαφωτιζω』/to clear completely/g
-s/『διαχεω』/to pour through/g
-s/『διαχριω』/to be spread with,<br>to be sprinkled with/g
+s/『διαφυλασσω』/guard thoroughly\/carefully/g
+s/『διαφωνεω』/dissonant/g
+s/『διαφωσκω』/dawn/g
+s/『διαφωτιζω』/clear completely/g
+s/『διαχεω』/pour through/g
+s/『διαχριω』/spread with;<br>sprinkled with/g
 s/『διαχρυσος』/interwoven with gold/g
 s/『διαχυσις』/diffusion/g
-s/『διαχωριζω』/to divide,<br>separate/g
-s/『διαψαλμα』/interlude,<br>rest/g
-s/『διαψευδω』/to deceive utterly/g
-s/『διαψιθυριζω』/to whisper among themselves/g
+s/『διαχωριζω』/divide;<br>separate/g
+s/『διαψαλμα』/interlude;<br>rest/g
+s/『διαψευδω』/deceive utterly/g
+s/『διαψιθυριζω』/whisper among themselves/g
 s/『διγλωσσος』/speaking two languages/g
-s/『διγομια』/double burden,<br>load/g
-s/『διδακτος』/educated,<br>taught/g
-s/『διδασκαλια』/teaching,<br>instruction/g
-s/『διδασκαλος』/a teacher/g
-s/『διδασκω』/to teach/g
+s/『διγομια』/double burden;<br>load/g
+s/『διδακτος』/educated;<br>taught/g
+s/『διδασκαλια』/teaching;<br>instruction/g
+s/『διδασκαλος』/teacher/g
+s/『διδασκω』/teach/g
 s/『διδαχη』/lesson/g
-s/『διδραχμον』/a hundred dollars/g
-s/『διδυμευω』/to bear twins/g
-s/『διδυμος\.1』/a twin/g
-s/『διδωμι』/to give,<br>deposit/g
-s/『διεγγυαω』/to give bail for/g
-s/『διεγειρω』/to arouse,<br>rouse/g
-s/『διεκβαλλω』/to issue at,<br>to terminate at/g
+s/『διδραχμον』/hundred dollars/g
+s/『διδυμευω』/bear twins/g
+s/『διδυμος\.1』/twin/g
+s/『διδωμι』/give;<br>deposit/g
+s/『διεγγυαω』/give bail for/g
+s/『διεγειρω』/arouse;<br>rouse/g
+s/『διεκβαλλω』/issue at;<br>terminate at/g
 s/『διεκβολη』/passing through/g
-s/『διεκκυπτω』/to peep out,<br>to lean out/g
-s/『διελαυνω』/to drive through/g
-s/『διελεγχω』/to refute utterly/g
-s/『διεμβαλλω』/to put in through,<br>to insert/g
-s/『διεμπιμπλημι』/to fill up,<br>to fill completely/g
-s/『διεξαγω』/to bring to an end/g
-s/『διεξερχομαι』/to go through,<br>pass through/g
-s/『διεξιημι』/to let pass through/g
-s/『διεξοδευω』/to have a way out,<br>to break away/g
-s/『διεξοδος』/a crossroad/g
-s/『διεπω』/to manage/g
-s/『διερεθιζω』/to stimulate/g
-s/『διερευναω』/to search through,<br>examine closely/g
-s/『διερμηνευω』/to thoroughly\/fully interpret/g
-s/『διερχομαι』/to pass through,<br>spread/g
-s/『διεσις』/deliberation,<br>release/g
-s/『διεστραμμενως』/going in all directions,<br>inconsistently/g
+s/『διεκκυπτω』/peep out;<br>lean out/g
+s/『διελαυνω』/drive through/g
+s/『διελεγχω』/refute utterly/g
+s/『διεμβαλλω』/put in through;<br>insert/g
+s/『διεμπιμπλημι』/fill up;<br>fill completely/g
+s/『διεξαγω』/bring to an end/g
+s/『διεξερχομαι』/go through;<br>pass through/g
+s/『διεξιημι』/let pass through/g
+s/『διεξοδευω』/have a way out;<br>break away/g
+s/『διεξοδος』/crossroad/g
+s/『διεπω』/manage/g
+s/『διερεθιζω』/stimulate/g
+s/『διερευναω』/search through;<br>examine closely/g
+s/『διερμηνευω』/thoroughly\/fully interpret/g
+s/『διερχομαι』/pass through;<br>spread/g
+s/『διεσις』/deliberation;<br>release/g
+s/『διεστραμμενως』/going in all directions;<br>inconsistently/g
 s/『διετηρις』/space of two years/g
 s/『διετης』/two years old/g
-s/『διευλαβεομαι』/to take good heed to,<br>beware of/g
-s/『διηγεομαι』/to narrate,<br>describe/g
-s/『διηγημα』/a tale/g
-s/『διηγησις』/a narration,<br>narrative/g
-s/『διηθεω』/to strain through,<br>filter/g
-s/『διηκω』/to extend/g
-s/『διηλοω』/to drive a nail through,<br>to nail fast/g
-s/『διηνεκως』/continually,<br>constantly/g
-s/『διηχεω』/to transmit the sound of/g
-s/『διθυμος』/one who is at variance,<br>a dissenter/g
-s/『διιημι』/to drive/g
-s/『διικνεομαι』/to penetrate/g
-s/『διιστημι』/to stand through\/apart/g
-s/『δικαζω』/to judge,<br>to give judgment on/g
+s/『διευλαβεομαι』/take good heed to;<br>beware of/g
+s/『διηγεομαι』/narrate;<br>describe/g
+s/『διηγημα』/tale/g
+s/『διηγησις』/narration;<br>narrative/g
+s/『διηθεω』/strain through;<br>filter/g
+s/『διηκω』/extend/g
+s/『διηλοω』/drive a nail through;<br>nail fast/g
+s/『διηνεκως』/continually;<br>constantly/g
+s/『διηχεω』/transmit the sound of/g
+s/『διθυμος』/one who is at variance;<br>dissenter/g
+s/『διιημι』/drive/g
+s/『διικνεομαι』/penetrate/g
+s/『διιστημι』/stand through\/apart/g
+s/『δικαζω』/judge;<br>give judgment on/g
 s/『δικαιοκριτης』/righteous judge/g
-s/『δικαιολογια』/plea in justification,<br>speech in defence of sb/g
-s/『δικαιος』/right,<br>just/g
-s/『δικαιοσυνη』/rightness,<br>right standing/g
-s/『δικαιοω』/to justify/g
+s/『δικαιολογια』/plea in justification;<br>speech in defence of sb/g
+s/『δικαιος』/right;<br>just/g
+s/『δικαιοσυνη』/rightness;<br>right standing/g
+s/『δικαιοω』/justify/g
 s/『δικαιωμα』/justification/g
 s/『δικαιως』/justly/g
-s/『δικαιωσις』/justifying,<br>justification/g
-s/『δικαστηριον』/a court of justice/g
-s/『δικαστης』/a justice/g
+s/『δικαιωσις』/justifying;<br>justification/g
+s/『δικαστηριον』/court of justice/g
+s/『δικαστης』/justice/g
 s/『δικη』/justice/g
-s/『δικτυον』/a net/g
+s/『δικτυον』/net/g
 s/『δικτυοω』/「δικτυόω」/g
 s/『δικτυωτος』/made in net fashion;<br>latticed/g
-s/『διμερης』/bipartite,<br>in two parts/g
+s/『διμερης』/bipartite;<br>in two parts/g
 s/『διμετρον』/double measure/g
 s/『διμετρος』/「δίμετρος」/g
 s/『διμωνα』/[NP]/g
 s/『δινα』/[NP]/g
 s/『διναιοι』/[NP]/g
 s/『διναχ』/[NP]/g
-s/『δινη』/a whirlpool,<br>eddy/g
+s/『δινη』/whirlpool;<br>eddy/g
 s/『διο』/therefore/g
-s/『διοδευω』/to be on the way through/g
-s/『διοδος』/a way through,<br>thoroughfare/g
-s/『διοικεω』/to manage a house/g
-s/『διοικησις』/government,<br>administration/g
-s/『διοικητης』/administrator,<br>steward/g
-s/『διοικοδομεω』/to build across,<br>wall off/g
-s/『διολλυμι』/to destroy utterly,<br>bring to naught/g
+s/『διοδευω』/on the way through/g
+s/『διοδος』/way through;<br>thoroughfare/g
+s/『διοικεω』/manage a house/g
+s/『διοικησις』/government;<br>administration/g
+s/『διοικητης』/administrator;<br>steward/g
+s/『διοικοδομεω』/build across;<br>wall off/g
+s/『διολλυμι』/destroy utterly;<br>bring to naught/g
 s/『διολου』/continually/g
 s/『διονυσια』/[NP]/g
 s/『διονυσος』/[NP]/g
 s/『διοπερ』/therefore in fact/g
-s/『διοραω』/to see through,<br>see clearly/g
-s/『διοργιζομαι』/to be very angry;<br>to be very angry at/g
-s/『διορθοω』/to make quite straight,<br>set right/g
-s/『διορθωτης』/a corrector,<br>reformer/g
-s/『διοριζω』/to draw a boundary through,<br>divide by limits/g
-s/『διορυγμα』/a through-cut,<br>canal/g
-s/『διορυσσω』/to dig through,<br>undermine/g
+s/『διοραω』/see through;<br>see clearly/g
+s/『διοργιζομαι』/very angry;<br>very angry at/g
+s/『διορθοω』/make quite straight;<br>set right/g
+s/『διορθωτης』/corrector;<br>reformer/g
+s/『διοριζω』/draw a boundary through;<br>divide by limits/g
+s/『διορυγμα』/through-cut;<br>canal/g
+s/『διορυσσω』/dig through;<br>undermine/g
 s/『διοσπολις』/[NP]/g
-s/『διοτι』/because,<br>that/g
-s/『διπηχυς』/two cubits long,<br>broad/g
-s/『διπλασιαζω』/to double/g
-s/『διπλασιασμος』/double,<br>doubling/g
-s/『διπλασιος』/twofold,<br>double/g
-s/『διπλοις』/a double cloak/g
-s/『διπλους』/double,<br>twice/g
+s/『διοτι』/because;<br>that/g
+s/『διπηχυς』/two cubits long;<br>broad/g
+s/『διπλασιαζω』/double/g
+s/『διπλασιασμος』/double;<br>doubling/g
+s/『διπλασιος』/twofold;<br>double/g
+s/『διπλοις』/double cloak/g
+s/『διπλους』/double;<br>twice/g
 s/『δις』/twice/g
 s/『δισκος』/quoit/g
 s/『δισμυριοι』/twenty thousand/g
 s/『δισσος』/double/g
-s/『δισσως』/double,<br>in two ways/g
+s/『δισσως』/double;<br>in two ways/g
 s/『διστομος』/two-edged/g
 s/『δισχιλιοι』/two thousand/g
 s/『δισχιλιος』/「δισχίλιος」/g
 s/『διταλαντον』/two talents/g
-s/『διυλιζω』/to strain off/g
-s/『διυφαινω』/to fill up by weaving/g
-s/『διφθερα』/a prepared hide,<br>tanned skin/g
-s/『διφραξ』/a seat,<br>chair/g
-s/『διφρευω』/to drive a chariot/g
-s/『διφρος』/the chariot-board/g
-s/『διχα』/in two,<br>asunder/g
+s/『διυλιζω』/strain off/g
+s/『διυφαινω』/fill up by weaving/g
+s/『διφθερα』/prepared hide;<br>tanned skin/g
+s/『διφραξ』/seat;<br>chair/g
+s/『διφρευω』/drive a chariot/g
+s/『διφρος』/chariot-board/g
+s/『διχα』/in two;<br>asunder/g
 s/『διχηλεω』/「διχηλέω」/g
-s/『διχομηνια』/the fullness of the moon/g
-s/『διχοστασια』/a faction/g
-s/『διχοτομεω』/to cut in two/g
-s/『διχοτομημα』/a half/g
+s/『διχομηνια』/fullness of the moon/g
+s/『διχοστασια』/faction/g
+s/『διχοτομεω』/cut in two/g
+s/『διχοτομημα』/half/g
 s/『διψα』/thirst/g
-s/『διψαω』/to be thirsty/g
+s/『διψαω』/thirsty/g
 s/『διψος』/thirst/g
 s/『διψωδης』/thirsty/g
-s/『διωγμος』/a pursuit,<br>persecution/g
-s/『διωθεω』/to push asunder,<br>tear away/g
-s/『διωκω』/to go after,<br>pursue/g
+s/『διωγμος』/pursuit;<br>persecution/g
+s/『διωθεω』/push asunder;<br>tear away/g
+s/『διωκω』/go after;<br>pursue/g
 s/『διωροφος』/two-storied/g
-s/『διωρυξ』/a trench,<br>conduit/g
-s/『διωστηρ』/pole running through rings,<br>stave/g
+s/『διωρυξ』/trench;<br>conduit/g
+s/『διωστηρ』/pole running through rings;<br>stave/g
 s/『διωχω』/「διώχω」/g
-s/『δογμα』/dogma,<br>a decree/g
-s/『δογματιζω』/to dogmatize,<br>follow decrees/g
-s/『δοκεω』/to imagine,<br>seem/g
-s/『δοκιμαζω』/to assay,<br>assess/g
-s/『δοκιμασια』/an evaluation/g
-s/『δοκιμαστης』/an assayer,<br>scrutineer/g
-s/『δοκιμιον』/assaying,<br>assessing/g
-s/『δοκιμος』/assayed,<br>verified/g
-s/『δοκος』/a beam/g
+s/『δογμα』/dogma;<br>decree/g
+s/『δογματιζω』/dogmatize;<br>follow decrees/g
+s/『δοκεω』/imagine;<br>seem/g
+s/『δοκιμαζω』/assay;<br>assess/g
+s/『δοκιμασια』/evaluation/g
+s/『δοκιμαστης』/assayer;<br>scrutineer/g
+s/『δοκιμιον』/assaying;<br>assessing/g
+s/『δοκιμος』/assayed;<br>verified/g
+s/『δοκος』/beam/g
 s/『δοκωσις』/roofing/g
-s/『δολιος』/cunning,<br>deceitful/g
-s/『δολιοτης』/deceit,<br>subtlety/g
-s/『δολιοω』/to be cunning/g
-s/『δολιως』/treacherously,<br>craftily/g
-s/『δολος』/cunning,<br>treachery/g
-s/『δολοω』/to be cunning/g
-s/『δομα』/a gift/g
-s/『δομος』/a house/g
+s/『δολιος』/cunning;<br>deceitful/g
+s/『δολιοτης』/deceit;<br>subtlety/g
+s/『δολιοω』/cunning/g
+s/『δολιως』/treacherously;<br>craftily/g
+s/『δολος』/cunning;<br>treachery/g
+s/『δολοω』/cunning/g
+s/『δομα』/gift/g
+s/『δομος』/house/g
 s/『δοξα』/glory/g
-s/『δοξαζω』/to glorify/g
-s/『δοξασμα』/an opinion,<br>notion/g
+s/『δοξαζω』/glorify/g
+s/『δοξασμα』/opinion;<br>notion/g
 s/『δοξαστος』/「δόξαστος」/g
 s/『δοξικος』/glorious/g
-s/『δοξολογεω』/to glorify,<br>to praise/g
-s/『δορα』/a hide/g
+s/『δοξολογεω』/glorify;<br>praise/g
+s/『δορα』/hide/g
 s/『δορατοφορος』/spear-bearer/g
-s/『δοριαλωτος』/captive of the spear,<br>taken in war/g
-s/『δορκαδιον』/fawn,<br>little gazelle/g
-s/『δορκας\.1』/a kind of deer/g
+s/『δοριαλωτος』/captive of the spear;<br>taken in war/g
+s/『δορκαδιον』/fawn;<br>little gazelle/g
+s/『δορκας\.1』/kind of deer/g
 s/『δορκων』/[NP]/g
 s/『δορκων\.1』/roe/g
-s/『δορυ』/a stem,<br>tree/g
+s/『δορυ』/stem;<br>tree/g
 s/『δορυμενης』/[NP]/g
 s/『δορυφορια』/guard kept over/g
 s/『δορυφορος』/spear-bearing/g
 s/『δοσιθεος』/[NP]/g
 s/『δοσις』/donation/g
-s/『δοτης』/a giver/g
+s/『δοτης』/giver/g
 s/『δοτος』/granted/g
 s/『δουδι』/[NP]/g
 s/『δουλεια』/service/g
-s/『δουλευω』/to give allegiance,<br>be subject/g
-s/『δουλη』/a subject,<br>a maid/g
-s/『δουλον』/a subject/g
-s/『δουλος』/a subject/g
-s/『δουλοω』/to subject,<br>subjugate/g
-s/『δοχη』/a reception/g
-s/『δραγμα』/a handful,<br>sheaf/g
+s/『δουλευω』/give allegiance;<br>subject/g
+s/『δουλη』/subject;<br>maid/g
+s/『δουλον』/subject/g
+s/『δουλος』/subject/g
+s/『δουλοω』/subject;<br>subjugate/g
+s/『δοχη』/reception/g
+s/『δραγμα』/handful;<br>sheaf/g
 s/『δρακος』/handful/g
-s/『δρακων』/a dragon/g
-s/『δραμα』/a deed,<br>act/g
+s/『δρακων』/dragon/g
+s/『δραμα』/deed;<br>act/g
 s/『δραξ』/handful;<br>hand/g
-s/『δραπετης』/a runaway/g
-s/『δρασσομαι』/to catch/g
-s/『δραχμη』/a fifty dollar coin,<br>drachma/g
-s/『δραω』/to do/g
+s/『δραπετης』/runaway/g
+s/『δρασσομαι』/catch/g
+s/『δραχμη』/fifty dollar coin;<br>drachma/g
+s/『δραω』/do/g
 s/『δρεπανηφορος』/bearing a scythe/g
-s/『δρεπανον』/a sickle/g
+s/『δρεπανον』/sickle/g
 s/『δριμυλος』/[NP]/g
-s/『δρομευς』/a runner/g
-s/『δρομος』/a running,<br>course/g
-s/『δροσιζω』/to bedew,<br>besprinkle/g
+s/『δρομευς』/runner/g
+s/『δρομος』/running;<br>course/g
+s/『δροσιζω』/bedew;<br>besprinkle/g
 s/『δροσος』/dew/g
-s/『δρυμος』/a thicket/g
-s/『δρυς』/an oak/g
-s/『δυναμαι』/to be able,<br>can/g
-s/『δυναμις』/power,<br>ability/g
-s/『δυναμοω』/to empower/g
-s/『δυναστεια』/power,<br>lordship/g
+s/『δρυμος』/thicket/g
+s/『δρυς』/oak/g
+s/『δυναμαι』/able;<br>can/g
+s/『δυναμις』/power;<br>ability/g
+s/『δυναμοω』/empower/g
+s/『δυναστεια』/power;<br>lordship/g
 s/『δυναστευμα』/「δυνάστευμα」/g
-s/『δυναστευω』/to hold power/g
-s/『δυναστης』/a dynasty,<br>dynast/g
-s/『δυνατος』/possible,<br>able/g
-s/『δυνατως』/strongly,<br>mightily/g
+s/『δυναστευω』/hold power/g
+s/『δυναστης』/dynasty;<br>dynast/g
+s/『δυνατος』/possible;<br>able/g
+s/『δυνατως』/strongly;<br>mightily/g
 s/『δυνομαι』/「δύνομαι」/g
-s/『δυνω』/to set,<br>sink/g
+s/『δυνω』/set;<br>sink/g
 s/『δυο』/two/g
 s/『δυσαθλιος』/most miserable/g
 s/『δυσαιακτος』/most mournful/g
@@ -3855,33 +3855,33 @@ s/『δυσβαστακτος』/burdensome/g
 s/『δυσδιηγητος』/hard to explain or describe/g
 s/『δυσημερια』/unlucky day/g
 s/『δυσις』/setting/g
-s/『δυσκαταπαυστος』/hard to check,<br>restless/g
-s/『δυσκλεης』/infamous,<br>shameful/g
-s/『δυσκολια』/discontent,<br>peevishness/g
-s/『δυσκολος』/puritanical,<br>hard/g
+s/『δυσκαταπαυστος』/hard to check;<br>restless/g
+s/『δυσκλεης』/infamous;<br>shameful/g
+s/『δυσκολια』/discontent;<br>peevishness/g
+s/『δυσκολος』/puritanical;<br>hard/g
 s/『δυσκωφος』/stone-deaf./g
-s/『δυσμενεια』/ill-will,<br>enmity/g
-s/『δυσμενης』/full of ill-will,<br>hostile/g
+s/『δυσμενεια』/ill-will;<br>enmity/g
+s/『δυσμενης』/full of ill-will;<br>hostile/g
 s/『δυσμενως』/maliciously/g
-s/『δυσμη』/sunset,<br>the west/g
-s/『δυσνοεω』/to be ill-affected/g
+s/『δυσμη』/sunset;<br>west/g
+s/『δυσνοεω』/ill-affected/g
 s/『δυσπετημα』/misfortune/g
 s/『δυσπολιορκητος』/hard to take by siege/g
 s/『δυσπροσιτος』/difficult of access/g
-s/『δυσσεβεια』/impiety,<br>ungodliness/g
-s/『δυσσεβεω』/to think/g
+s/『δυσσεβεια』/impiety;<br>ungodliness/g
+s/『δυσσεβεω』/think/g
 s/『δυσσεβημα』/impious act/g
-s/『δυσσεβης』/ungodly,<br>impious/g
-s/『δυστοκεω』/to be in hard labor/g
+s/『δυσσεβης』/ungodly;<br>impious/g
+s/『δυστοκεω』/in hard labor/g
 s/『δυστρος』/[NP]/g
-s/『δυσφημεω』/to use ill words/g
+s/『δυσφημεω』/use ill words/g
 s/『δυσφημια』/defamation/g
-s/『δυσφημος』/of ill omen,<br>boding/g
-s/『δυσφορεω』/to bear with pain,<br>bear ill/g
+s/『δυσφημος』/of ill omen;<br>boding/g
+s/『δυσφορεω』/bear with pain;<br>bear ill/g
 s/『δυσφορως』/grievously/g
 s/『δυσχερεια』/annoyance/g
 s/『δυσχερης』/hard to take in hand/g
-s/『δυσχρηστος』/hard to use,<br>nearly useless/g
+s/『δυσχρηστος』/hard to use;<br>nearly useless/g
 s/『δυσωδης』/ill-smelling/g
 s/『δωδαι』/[NP]/g
 s/『δωδαμ』/[NP]/g
@@ -3894,32 +3894,32 @@ s/『δωδω』/[NP]/g
 s/『δωηκ』/[NP]/g
 s/『δωθαιμ』/[NP]/g
 s/『δωκ』/[NP]/g
-s/『δωμα』/a housetop/g
+s/『δωμα』/housetop/g
 s/『δωμανα』/[NP]/g
 s/『δωρ』/[NP]/g
 s/『δωρα』/[NP]/g
 s/『δωρεα』/present/g
-s/『δωρεαν』/gratuitously,<br>freely/g
-s/『δωρεομαι』/to present/g
-s/『δωρημα』/a present/g
+s/『δωρεαν』/gratuitously;<br>freely/g
+s/『δωρεομαι』/present/g
+s/『δωρημα』/present/g
 s/『δωροδεκτης』/one who takes bribes/g
-s/『δωροκοπεω』/to bribe/g
+s/『δωροκοπεω』/bribe/g
 s/『δωρολημπτης』/receiver of bribes/g
-s/『δωρον』/a present/g
+s/『δωρον』/present/g
 s/『δωσιθεος』/[NP]/g
 s/『δωταια』/[NP]/g
 s/『εʹ』/[M]/g
 s/『εα』/hey!/g
-s/『εαν』/and if,<br>unless/g
+s/『εαν』/and if;<br>unless/g
 s/『εανπερ』/if indeed/g
 s/『εαρ』/spring/g
 s/『εαρσις』/「ἔαρσις」/g
 s/『εασακεμ』/[NP]/g
-s/『εαυτου』/of himself,<br>his own/g
-s/『εαω』/to allow,<br>let/g
-s/『εβαρυναν』/to weigh down/g
+s/『εαυτου』/of himself;<br>his own/g
+s/『εαω』/allow;<br>let/g
+s/『εβαρυναν』/weigh down/g
 s/『εβδελυσσω』/「ἐβδελύσσω」/g
-s/『εβδομας』/the number seven/g
+s/『εβδομας』/number seven/g
 s/『εβδομηκοντα』/seventy/g
 s/『εβδομηκοντακις』/seventy times/g
 s/『εβδομηκοστος』/seventieth/g
@@ -3931,75 +3931,75 @@ s/『εβερ』/[NP]/g
 s/『εβια』/[NP]/g
 s/『εβλαζερ』/[NP]/g
 s/『εβραια』/[NP]/g
-s/『εβραιος』/a Hebrew/g
+s/『εβραιος』/Hebrew/g
 s/『εβραις』/Hebrew/g
 s/『εβραιστι』/[NP]/g
 s/『εβρωνα』/[NP]/g
 s/『εγγαδδι』/[NP]/g
 s/『εγγαστριμυθος』/ventriloquizing/g
-s/『εγγιζω』/to get close,<br>be near/g
-s/『εγγιστα』/the nearest,<br>neighbour/g
-s/『εγγλυφω』/to cut in,<br>carve/g
-s/『εγγραπτος』/inscribed,<br>written/g
-s/『εγγραφω』/to inscribe/g
-s/『εγγυαω』/to give/g
-s/『εγγυη』/a pledge put into the hand: surety,<br>security/g
+s/『εγγιζω』/get close;<br>near/g
+s/『εγγιστα』/nearest;<br>neighbour/g
+s/『εγγλυφω』/cut in;<br>carve/g
+s/『εγγραπτος』/inscribed;<br>written/g
+s/『εγγραφω』/inscribe/g
+s/『εγγυαω』/give/g
+s/『εγγυη』/pledge put into the hand: surety;<br>security/g
 s/『εγγυθεν』/from nigh at hand/g
-s/『εγγυος』/a guarantee/g
+s/『εγγυος』/guarantee/g
 s/『εγγυς』/close/g
-s/『εγειρω』/to rise,<br>arise/g
+s/『εγειρω』/rise;<br>arise/g
 s/『εγερσις』/rising/g
-s/『εγκαθετος』/an infiltrator/g
-s/『εγκαθημαι』/to lie in ambush/g
-s/『εγκαθιζω』/to seat in/g
-s/『εγκαθιημι』/to let down: to send in/g
+s/『εγκαθετος』/infiltrator/g
+s/『εγκαθημαι』/lie in ambush/g
+s/『εγκαθιζω』/seat in/g
+s/『εγκαθιημι』/let down: to send in/g
 s/『εγκαινια』/dedication/g
-s/『εγκαινιζω』/to dedicate/g
+s/『εγκαινιζω』/dedicate/g
 s/『εγκαινιοις』/「ἐγκαινίοις」/g
-s/『εγκαινισμος』/consecration,<br>dedication/g
-s/『εγκαινωσις』/consecration,<br>dedication/g
-s/『εγκαιω』/to burn/g
-s/『εγκαλεω』/to indict,<br>without accusation/g
+s/『εγκαινισμος』/consecration;<br>dedication/g
+s/『εγκαινωσις』/consecration;<br>dedication/g
+s/『εγκαιω』/burn/g
+s/『εγκαλεω』/indict;<br>without accusation/g
 s/『εγκαρπος』/containing fruit/g
-s/『εγκαρτερεω』/to persevere/g
-s/『εγκατα』/the inwards,<br>entrails/g
+s/『εγκαρτερεω』/persevere/g
+s/『εγκατα』/inwards;<br>entrails/g
 s/『εγκαταλειιμα』/「ἐγκατάλειιμα」/g
-s/『εγκαταλειμμα』/remnant,<br>residue/g
-s/『εγκαταλειπω』/to abandon,<br>leave behind/g
-s/『εγκαταλιμπανω』/to forsake/g
-s/『εγκαταπαιζω』/to mock at/g
+s/『εγκαταλειμμα』/remnant;<br>residue/g
+s/『εγκαταλειπω』/abandon;<br>leave behind/g
+s/『εγκαταλιμπανω』/forsake/g
+s/『εγκαταπαιζω』/mock at/g
 s/『εγκατον』/「ἔγκατον」/g
 s/『εγκαυχαομαι』/「ἐγκαυχάομαι」/g
-s/『εγκειμαι』/to lie in,<br>be wrapped up in/g
-s/『εγκεντριζω』/to graft/g
+s/『εγκειμαι』/lie in;<br>wrapped up in/g
+s/『εγκεντριζω』/graft/g
 s/『εγκηδευομαι』/「ἐγκηδεύομαι」/g
-s/『εγκισσαω』/to have cravings/g
-s/『εγκλειω』/to shut in,<br>close/g
+s/『εγκισσαω』/have cravings/g
+s/『εγκλειω』/shut in;<br>close/g
 s/『εγκληρος』/having a lot/g
 s/『εγκλοιοω』/「ἐγκλοιόω」/g
 s/『εγκοιλιος』/「ἐγκοίλιος」/g
-s/『εγκοιλος』/sinking in hollows,<br>hollow/g
-s/『εγκολαπτω』/to cut/g
-s/『εγκολλαω』/to glue to/g
+s/『εγκοιλος』/sinking in hollows;<br>hollow/g
+s/『εγκολαπτω』/cut/g
+s/『εγκολλαω』/glue to/g
 s/『εγκοπος』/wearied/g
-s/『εγκοσμεω』/to arrange in/g
-s/『εγκοτεω』/to be indignant/g
-s/『εγκοτημα』/anger,<br>hatred/g
+s/『εγκοσμεω』/arrange in/g
+s/『εγκοτεω』/indignant/g
+s/『εγκοτημα』/anger;<br>hatred/g
 s/『εγκρατεια』/fortitude/g
-s/『εγκρατευομαι』/to have fortitude,<br>control self/g
-s/『εγκρατεω』/to exercise control over/g
+s/『εγκρατευομαι』/have fortitude;<br>control self/g
+s/『εγκρατεω』/exercise control over/g
 s/『εγκρατης』/with fortitude/g
-s/『εγκρις』/a cake made with oil and honey/g
-s/『εγκρουω』/to knock/g
-s/『εγκρυπτω』/to encrypt,<br>conceal/g
+s/『εγκρις』/cake made with oil and honey/g
+s/『εγκρουω』/knock/g
+s/『εγκρυπτω』/encrypt;<br>conceal/g
 s/『εγκρυφιας』/ash-baked/g
-s/『εγκταομαι』/to acquire possessions/g
+s/『εγκταομαι』/acquire possessions/g
 s/『εγκτησις』/tenure of land in/g
-s/『εγκτητος』/possessed,<br>acquired/g
-s/『εγκυκλιος』/circular,<br>rounded/g
-s/『εγκυλιω』/to be involved in/g
-s/『εγκυος』/heavy with child,<br>pregnant/g
-s/『εγκυπτω』/to stoop down and peep in/g
+s/『εγκτητος』/possessed;<br>acquired/g
+s/『εγκυκλιος』/circular;<br>rounded/g
+s/『εγκυλιω』/involved in/g
+s/『εγκυος』/heavy with child;<br>pregnant/g
+s/『εγκυπτω』/stoop down and peep in/g
 s/『εγκωμιαζω』/compound/g
 s/『εγκωμιον』/eulogy/g
 s/『εγκωμιονς』/「ἐγκώμιονς」/g
@@ -4008,19 +4008,19 @@ s/『εγλαμ』/[NP]/g
 s/『εγλι』/[NP]/g
 s/『εγλωμ』/[NP]/g
 s/『εγρεβηλ』/[NP]/g
-s/『εγχασκω』/to gape/g
-s/『εγχειρεω』/to put one's hand in/g
-s/『εγχειρημα』/an undertaking,<br>attempt/g
+s/『εγχασκω』/gape/g
+s/『εγχειρεω』/put one's hand in/g
+s/『εγχειρημα』/undertaking;<br>attempt/g
 s/『εγχειριδιον』/dagger;<br>handknife/g
-s/『εγχεω』/to pour in/g
-s/『εγχριω』/to spread on/g
-s/『εγχρονιζω』/to be long about/g
+s/『εγχεω』/pour in/g
+s/『εγχριω』/spread on/g
+s/『εγχρονιζω』/long about/g
 s/『εγχωριος』/territorial/g
 s/『εγω』/I/g
 s/『εδαν』/[NP]/g
 s/『εδανια』/[NP]/g
-s/『εδαφιζω』/to level/g
-s/『εδαφος』/the ground/g
+s/『εδαφιζω』/level/g
+s/『εδαφος』/ground/g
 s/『εδδεκελ』/[NP]/g
 s/『εδδι』/[NP]/g
 s/『εδδινους』/[NP]/g
@@ -4034,8 +4034,8 @@ s/『εδεσμα』/food/g
 s/『εδιηλ』/[NP]/g
 s/『εδνα』/[NP]/g
 s/『εδνας』/[NP]/g
-s/『εδρα』/a sitting-place/g
-s/『εδραζω』/to be fixed/g
+s/『εδρα』/sitting-place/g
+s/『εδραζω』/fixed/g
 s/『εδραι』/[NP]/g
 s/『εδραιν』/[NP]/g
 s/『εδραμ』/[NP]/g
@@ -4059,346 +4059,346 @@ s/『εθελοκωφοω』/「ἐθελοκωφόω」/g
 s/『εθερ』/[NP]/g
 s/『εθθι』/[NP]/g
 s/『εθι』/[NP]/g
-s/『εθιζω』/to accustom/g
-s/『εθισμος』/a custom/g
+s/『εθιζω』/accustom/g
+s/『εθισμος』/custom/g
 s/『εθναν』/[NP]/g
-s/『εθναρχης』/a national ruler/g
+s/『εθναρχης』/national ruler/g
 s/『εθνηδον』/as a whole nation/g
-s/『εθνοπατωρ』/father of the nation,<br>father of our nation/g
+s/『εθνοπατωρ』/father of the nation;<br>father of our nation/g
 s/『εθνοπληθης』/「ἐθνοπλήθης」/g
-s/『εθνος』/a nation,<br>caste/g
-s/『εθος』/a custom/g
-s/『εθω』/to be accustomed/g
-s/『ει』/if,<br>whether/g
+s/『εθνος』/nation;<br>caste/g
+s/『εθος』/custom/g
+s/『εθω』/accustomed/g
+s/『ει』/if;<br>whether/g
 s/『ειδεχθεια』/odious or ugly look/g
 s/『ειδησις』/knowledge/g
-s/『ειδος』/aspect,<br>shape/g
-s/『ειδω』/to realize,<br>have idea/g
-s/『ειδωλειον』/a shrine/g
+s/『ειδος』/aspect;<br>shape/g
+s/『ειδω』/realize;<br>have idea/g
+s/『ειδωλειον』/shrine/g
 s/『ειδωλιον』/idol’s temple/g
-s/『ειδωλοθυτος』/an idol immolation\/sacrifice/g
-s/『ειδωλον』/an idol/g
+s/『ειδωλοθυτος』/idol immolation\/sacrifice/g
+s/『ειδωλον』/idol/g
 s/『ειθε』/would that!/g
-s/『εικαζω』/to make like to,<br>represent by a likeness/g
+s/『εικαζω』/make like to;<br>represent by a likeness/g
 s/『εικας』/twentieth/g
 s/『εικη』/pointlessly/g
 s/『εικοσαετης』/of twenty years/g
 s/『εικοσι』/twenty/g
-s/『εικοστος』/the twentieth/g
-s/『εικοτως』/in all likelihood,<br>suitably/g
-s/『εικω\.1』/to resemble,<br>be like/g
-s/『εικων』/an image/g
+s/『εικοστος』/twentieth/g
+s/『εικοτως』/in all likelihood;<br>suitably/g
+s/『εικω\.1』/resemble;<br>like/g
+s/『εικων』/image/g
 s/『ειλεω』/「εἱλέω」/g
-s/『ειλικρινης』/genuine,<br>sincere/g
+s/『ειλικρινης』/genuine;<br>sincere/g
 s/『ειλκω』/「εἵλκω」/g
-s/『ειμι』/to be/g
-s/『ειμι\.1』/to go/g
+s/『ειμι』/be/g
+s/『ειμι\.1』/go/g
 s/『ειπερ』/if in fact/g
-s/『ειργω』/to hinder,<br>to prevent from/g
-s/『ειρηνευω』/to be at peace/g
+s/『ειργω』/hinder;<br>prevent from/g
+s/『ειρηνευω』/at peace/g
 s/『ειρηνη』/peace/g
 s/『ειρηνικος』/peaceful/g
 s/『ειρηνικως』/peaceably/g
-s/『ειρηνοποιεω』/to make peace/g
-s/『ειρκτη』/an inclosure,<br>prison/g
+s/『ειρηνοποιεω』/make peace/g
+s/『ειρκτη』/inclosure;<br>prison/g
 s/『ειρωθ』/[NP]/g
 s/『ειρωνεια』/dissimulation/g
-s/『εις』/into,<br>for/g
-s/『εις\.1』/one,<br>unit/g
-s/『εισαγω』/to lead in,<br>bring in/g
-s/『εισακουω』/to heed,<br>listen to/g
-s/『εισβαλλω』/to throw into,<br>put into/g
-s/『εισβλεπω』/to look at,<br>look upon/g
-s/『εισδεχομαι』/to receive/g
-s/『εισδυνω』/to get/g
-s/『εισειμι』/to go into/g
-s/『εισερχομαι』/to enter,<br>go in/g
-s/『εισκυκλεω』/to turn/g
-s/『εισκυπτω』/to overlook/g
+s/『εις』/into;<br>for/g
+s/『εις\.1』/one;<br>unit/g
+s/『εισαγω』/lead in;<br>bring in/g
+s/『εισακουω』/heed;<br>listen to/g
+s/『εισβαλλω』/throw into;<br>put into/g
+s/『εισβλεπω』/look at;<br>look upon/g
+s/『εισδεχομαι』/receive/g
+s/『εισδυνω』/get/g
+s/『εισειμι』/go into/g
+s/『εισερχομαι』/enter;<br>go in/g
+s/『εισκυκλεω』/turn/g
+s/『εισκυπτω』/overlook/g
 s/『εισοδιαζω』/「εἰσοδιάζω」/g
-s/『εισοδιον』/entrance,<br>entering/g
-s/『εισοδος』/inroad,<br>entrance/g
-s/『εισοραω』/to look into,<br>look upon/g
-s/『εισπεμπω』/to send in,<br>bring in/g
-s/『εισπηδαω』/to hurdle,<br>burst in/g
-s/『εισπλεω』/to sail into,<br>enter/g
-s/『εισπορευομαι』/to intrude,<br>travel into/g
-s/『εισσπαομαι』/to draw in/g
-s/『ειστρεχω』/to run into/g
-s/『εισφερω』/to bring in/g
-s/『εισφορα』/a gathering in/g
+s/『εισοδιον』/entrance;<br>entering/g
+s/『εισοδος』/inroad;<br>entrance/g
+s/『εισοραω』/look into;<br>look upon/g
+s/『εισπεμπω』/send in;<br>bring in/g
+s/『εισπηδαω』/hurdle;<br>burst in/g
+s/『εισπλεω』/sail into;<br>enter/g
+s/『εισπορευομαι』/intrude;<br>travel into/g
+s/『εισσπαομαι』/draw in/g
+s/『ειστρεχω』/run into/g
+s/『εισφερω』/bring in/g
+s/『εισφορα』/gathering in/g
 s/『ειτα』/then/g
 s/『ειτε』/whether/g
-s/『ειτοι』/whether,<br>or/g
-s/『εκ』/from,<br>out of/g
-s/『εκαστος』/to each/g
+s/『ειτοι』/whether;<br>or/g
+s/『εκ』/from;<br>out of/g
+s/『εκαστος』/each/g
 s/『εκατερος』/each individually/g
-s/『εκατερωθεν』/on each side,<br>on either hand/g
-s/『εκατον』/a hundred/g
-s/『εκατονταετης』/a hundred years old/g
-s/『εκατονταπλασιων』/a hundredfold/g
-s/『εκατονταρχης』/a centurion/g
-s/『εκατονταρχος』/leader of a hundred,<br>centurion/g
-s/『εκατοντας』/a hundred/g
-s/『εκατοστευω』/to bear a hundredfold/g
-s/『εκατοστος』/the hundredth/g
-s/『εκβαινω』/to step out of/g
-s/『εκβαλλω』/to expel,<br>cast out/g
-s/『εκβασις』/stepping out,<br>progression/g
+s/『εκατερωθεν』/on each side;<br>on either hand/g
+s/『εκατον』/hundred/g
+s/『εκατονταετης』/hundred years old/g
+s/『εκατονταπλασιων』/hundredfold/g
+s/『εκατονταρχης』/centurion/g
+s/『εκατονταρχος』/leader of a hundred;<br>centurion/g
+s/『εκατοντας』/hundred/g
+s/『εκατοστευω』/bear a hundredfold/g
+s/『εκατοστος』/hundredth/g
+s/『εκβαινω』/step out of/g
+s/『εκβαλλω』/expel;<br>cast out/g
+s/『εκβασις』/stepping out;<br>progression/g
 s/『εκβατανα』/[NP]/g
 s/『εκβεβηλοω』/「ἐκβεβηλόω」/g
-s/『εκβιαζω』/to force out/g
-s/『εκβλαστανω』/to sprout out/g
-s/『εκβλυζω』/to gush out/g
-s/『εκβοαω』/to call out,<br>cry aloud/g
+s/『εκβιαζω』/force out/g
+s/『εκβλαστανω』/sprout out/g
+s/『εκβλυζω』/gush out/g
+s/『εκβοαω』/call out;<br>cry aloud/g
 s/『εκβολη』/jettisoning/g
 s/『εκβολος』/cast out of/g
-s/『εκβραζω』/to throw out/g
-s/『εκβρασμος』/trembling,<br>shaking/g
-s/『εκγελαω』/to laugh out,<br>laugh loud/g
-s/『εκγενναω』/to beget,<br>bringforth/g
-s/『εκγονος』/a descendant/g
-s/『εκγραφω』/to write out/g
-s/『εκδανειζω』/to lend at interest/g
-s/『εκδειματοω』/to be greatly terrified/g
+s/『εκβραζω』/throw out/g
+s/『εκβρασμος』/trembling;<br>shaking/g
+s/『εκγελαω』/laugh out;<br>laugh loud/g
+s/『εκγενναω』/beget;<br>bringforth/g
+s/『εκγονος』/descendant/g
+s/『εκγραφω』/write out/g
+s/『εκδανειζω』/lend at interest/g
+s/『εκδειματοω』/greatly terrified/g
 s/『εκδεκτεον』/「ἐκδεκτέον」/g
-s/『εκδερω』/to strip off the skin from/g
-s/『εκδεχομαι』/to wait,<br>receive/g
-s/『εκδεω』/to bind so as to hang from,<br>to fasten to/g
+s/『εκδερω』/strip off the skin from/g
+s/『εκδεχομαι』/wait;<br>receive/g
+s/『εκδεω』/bind so as to hang from;<br>fasten to/g
 s/『εκδηλος』/evident/g
-s/『εκδημια』/a being abroad,<br>exile/g
-s/『εκδιαιταω』/to make to change one’s habits/g
-s/『εκδιδασκω』/to teach thoroughly/g
-s/『εκδιδωμι』/to give out/g
-s/『εκδιηγεομαι』/to narrate out/g
-s/『εκδικαζω』/to decide finally,<br>settle/g
-s/『εκδικεω』/to vindicate,<br>avenge/g
-s/『εκδικησις』/vindication,<br>vengeance/g
-s/『εκδικητης』/avenger,<br>vindicator/g
-s/『εκδικος』/vindicator,<br>avenger/g
-s/『εκδιωκω』/to chase out/g
+s/『εκδημια』/being abroad;<br>exile/g
+s/『εκδιαιταω』/make to change one’s habits/g
+s/『εκδιδασκω』/teach thoroughly/g
+s/『εκδιδωμι』/give out/g
+s/『εκδιηγεομαι』/narrate out/g
+s/『εκδικαζω』/decide finally;<br>settle/g
+s/『εκδικεω』/vindicate;<br>avenge/g
+s/『εκδικησις』/vindication;<br>vengeance/g
+s/『εκδικητης』/avenger;<br>vindicator/g
+s/『εκδικος』/vindicator;<br>avenger/g
+s/『εκδιωκω』/chase out/g
 s/『εκδοτος』/given up/g
-s/『εκδυω』/to disrobe,<br>take off/g
+s/『εκδυω』/disrobe;<br>take off/g
 s/『εκει』/there/g
 s/『εκειθεν』/from there/g
 s/『εκεινος』/that/g
 s/『εκεισε』/there/g
 s/『εκελεκτος』/「ἐκελεκτός」/g
-s/『εκζεω』/to boil over/g
-s/『εκζητεω』/to seek out\/thoroughly/g
-s/『εκζητητης』/searcher-out,<br>inquisitor/g
-s/『εκθαμβεω』/to be full of amazement,<br>astonished/g
-s/『εκθαμβος』/full of amazement,<br>astonished/g
+s/『εκζεω』/boil over/g
+s/『εκζητεω』/seek out\/thoroughly/g
+s/『εκζητητης』/searcher-out;<br>inquisitor/g
+s/『εκθαμβεω』/full of amazement;<br>astonished/g
+s/『εκθαμβος』/full of amazement;<br>astonished/g
 s/『εκθανααδ』/[NP]/g
 s/『εκθαυμαζω』/「ἐκθαυμάζω」/g
-s/『εκθεμα』/proclamation,<br>edict/g
-s/『εκθεριζω』/to reap/g
-s/『εκθεσις』/a putting out,<br>exposing/g
-s/『εκθεσμος』/out of law,<br>lawless: horrible/g
-s/『εκθεω』/to run out,<br>make a sally/g
-s/『εκθηλαζω』/to suck the breast/g
-s/『εκθλιβω』/to squeeze out/g
-s/『εκθυμος』/out of one's mind,<br>senseless/g
-s/『εκκαθαιρω』/to clean out/g
-s/『εκκαθαριζω』/to purge;<br>to clear away/g
+s/『εκθεμα』/proclamation;<br>edict/g
+s/『εκθεριζω』/reap/g
+s/『εκθεσις』/putting out;<br>exposing/g
+s/『εκθεσμος』/out of law;<br>lawless: horrible/g
+s/『εκθεω』/run out;<br>make a sally/g
+s/『εκθηλαζω』/suck the breast/g
+s/『εκθλιβω』/squeeze out/g
+s/『εκθυμος』/out of one's mind;<br>senseless/g
+s/『εκκαθαιρω』/clean out/g
+s/『εκκαθαριζω』/purge;<br>clear away/g
 s/『εκκαιδεκα』/sixteen/g
 s/『εκκαιδεκατος』/sixteenth/g
-s/『εκκαιω』/to burn out/g
-s/『εκκακεω』/to lose heart/g
-s/『εκκαλεω』/to call out/g
-s/『εκκαλυπτω』/to uncover/g
+s/『εκκαιω』/burn out/g
+s/『εκκακεω』/lose heart/g
+s/『εκκαλεω』/call out/g
+s/『εκκαλυπτω』/uncover/g
 s/『εκκας』/[NP]/g
-s/『εκκενοω』/to empty out/g
-s/『εκκεντεω』/to pierce/g
-s/『εκκηρυκτος』/banished,<br>cast away/g
+s/『εκκενοω』/empty out/g
+s/『εκκεντεω』/pierce/g
+s/『εκκηρυκτος』/banished;<br>cast away/g
 s/『εκκης』/[NP]/g
-s/『εκκινεω』/to move out of/g
-s/『εκκλαω』/to break out\/off/g
-s/『εκκλησια』/an assembly/g
-s/『εκκλησιαζω』/to hold an assembly,<br>debate therein/g
+s/『εκκινεω』/move out of/g
+s/『εκκλαω』/break out\/off/g
+s/『εκκλησια』/assembly/g
+s/『εκκλησιαζω』/hold an assembly;<br>debate therein/g
 s/『εκκλησιαστης』/[NP]/g
 s/『εκκλητος』/selected to judge/g
-s/『εκκλινω』/to deviate,<br>avoid/g
-s/『εκκλυζω』/to wash out/g
+s/『εκκλινω』/deviate;<br>avoid/g
+s/『εκκλυζω』/wash out/g
 s/『εκκολαμμα』/anything engraven/g
-s/『εκκολαπτω』/to scrape out,<br>obliterate/g
-s/『εκκομιδη』/a carrying out/g
-s/『εκκοπτω』/to cut out,<br>cut off/g
-s/『εκκραζω』/to cry out/g
-s/『εκκρεμαμαι』/to hang out,<br>hang upon/g
-s/『εκκρουω』/to knock out/g
-s/『εκκυπτω』/to peep out of/g
-s/『εκλαλεω』/to talk out,<br>divulge/g
-s/『εκλαμβανω』/to receive from/g
+s/『εκκολαπτω』/scrape out;<br>obliterate/g
+s/『εκκομιδη』/carrying out/g
+s/『εκκοπτω』/cut out;<br>cut off/g
+s/『εκκραζω』/cry out/g
+s/『εκκρεμαμαι』/hang out;<br>hang upon/g
+s/『εκκρουω』/knock out/g
+s/『εκκυπτω』/peep out of/g
+s/『εκλαλεω』/talk out;<br>divulge/g
+s/『εκλαμβανω』/receive from/g
 s/『εκλαμπρος』/very bright/g
-s/『εκλαμπω』/to be radiant/g
-s/『εκλαμψις』/shining forth,<br>brightness/g
-s/『εκλατομεω』/to hew in stone;<br>to hew/g
-s/『εκλεγω』/to select,<br>choose/g
-s/『εκλειπω』/to leave off,<br>cease/g
-s/『εκλειχω』/to lick up/g
+s/『εκλαμπω』/radiant/g
+s/『εκλαμψις』/shining forth;<br>brightness/g
+s/『εκλατομεω』/hew in stone;<br>hew/g
+s/『εκλεγω』/select;<br>choose/g
+s/『εκλειπω』/leave off;<br>cease/g
+s/『εκλειχω』/lick up/g
 s/『εκλειψις』/abandonment/g
-s/『εκλεκτος』/select,<br>choice/g
-s/『εκλευκαινω』/to make quite white/g
+s/『εκλεκτος』/select;<br>choice/g
+s/『εκλευκαινω』/make quite white/g
 s/『εκλευκος』/quite white/g
-s/『εκλικμαω』/to winnow,<br>to sift/g
-s/『εκλιμια』/exceeding hunger,<br>faintness/g
-s/『εκλιμπανω』/to be lacking/g
-s/『εκλογη』/selection,<br>choice/g
-s/『εκλογιζομαι』/to compute,<br>calculate/g
+s/『εκλικμαω』/winnow;<br>sift/g
+s/『εκλιμια』/exceeding hunger;<br>faintness/g
+s/『εκλιμπανω』/lacking/g
+s/『εκλογη』/selection;<br>choice/g
+s/『εκλογιζομαι』/compute;<br>calculate/g
 s/『εκλογιστη』/「ἐκλογιστή」/g
 s/『εκλογιστης』/accountant/g
-s/『εκλογιστια』/reckoning,<br>accounts/g
-s/『εκλοχιζω』/to pick out of a cohort or troop/g
+s/『εκλογιστια』/reckoning;<br>accounts/g
+s/『εκλοχιζω』/pick out of a cohort or troop/g
 s/『εκλυσις』/release/g
 s/『εκλυτροομαι』/「ἐκλυτρόομαι」/g
-s/『εκλυω』/to faint,<br>let loose/g
+s/『εκλυω』/faint;<br>let loose/g
 s/『εκλω』/「ἕκλω」/g
-s/『εκμαρτυρεω』/to bear witness to/g
-s/『εκμασσω』/to wipe off/g
-s/『εκμελεταω』/to train carefully/g
-s/『εκμελιζω』/to dismember/g
-s/『εκμετρεω』/to measure out,<br>measure/g
-s/『εκμιαινω』/to defile,<br>to pollute oneself/g
-s/『εκμυελιζω』/to suck the marrow out of,<br>to deprive of strength/g
-s/『εκμυκτηριζω』/to sneer/g
-s/『εκνευω』/to vanish/g
-s/『εκνηφω』/to sober up/g
-s/『εκνηψις』/sobering up,<br>rest/g
-s/『εκουσιαζομαι』/to offer willingly,<br>to be willing/g
+s/『εκμαρτυρεω』/bear witness to/g
+s/『εκμασσω』/wipe off/g
+s/『εκμελεταω』/train carefully/g
+s/『εκμελιζω』/dismember/g
+s/『εκμετρεω』/measure out;<br>measure/g
+s/『εκμιαινω』/defile;<br>pollute oneself/g
+s/『εκμυελιζω』/suck the marrow out of;<br>deprive of strength/g
+s/『εκμυκτηριζω』/sneer/g
+s/『εκνευω』/vanish/g
+s/『εκνηφω』/sober up/g
+s/『εκνηψις』/sobering up;<br>rest/g
+s/『εκουσιαζομαι』/offer willingly;<br>willing/g
 s/『εκουσιασμος』/free-will offering/g
 s/『εκουσιος』/voluntary/g
 s/『εκουσιως』/voluntarily/g
-s/『εκπαιδευω』/to bring up from childhood,<br>educate completely/g
-s/『εκπαιζω』/to laugh sb to scorn,<br>to mock at sb/g
-s/『εκπειραζω』/to try out,<br>put on trial/g
-s/『εκπεμπω』/to dispatch out,<br>send out/g
-s/『εκπεραω』/to go out over,<br>pass beyond/g
-s/『εκπεριπορευομαι』/to make a detour/g
-s/『εκπεταζω』/to spread out/g
-s/『εκπεταννυμι』/to stretch out/g
-s/『εκπετομαι』/to fly out/g
-s/『εκπηδαω』/to leap out/g
+s/『εκπαιδευω』/bring up from childhood;<br>educate completely/g
+s/『εκπαιζω』/laugh sb to scorn;<br>mock at sb/g
+s/『εκπειραζω』/try out;<br>put on trial/g
+s/『εκπεμπω』/dispatch out;<br>send out/g
+s/『εκπεραω』/go out over;<br>pass beyond/g
+s/『εκπεριπορευομαι』/make a detour/g
+s/『εκπεταζω』/spread out/g
+s/『εκπεταννυμι』/stretch out/g
+s/『εκπετομαι』/fly out/g
+s/『εκπηδαω』/leap out/g
 s/『εκπιεζω』/「ἐκπιέζω」/g
 s/『εκπικραινομαι』/「ἐκπικραίνομαι」/g
-s/『εκπινω』/to drink out/g
-s/『εκπιπτω』/to fall out,<br>fall off/g
-s/『εκπληροω』/to implement/g
+s/『εκπινω』/drink out/g
+s/『εκπιπτω』/fall out;<br>fall off/g
+s/『εκπληροω』/implement/g
 s/『εκπληρωσις』/implementation/g
-s/『εκπλησσω』/to be awestruck/g
-s/『εκπλυνω』/to wash out/g
-s/『εκποιεω』/to put out/g
-s/『εκπολεμεω』/to excite to war,<br>make hostile/g
-s/『εκπολιορκεω』/to force a besieged town to surrender/g
-s/『εκπολιτευω』/to change the constitution of a state,<br>to cause it to degenerate/g
-s/『εκπορευομαι』/to emerge,<br>travel out/g
-s/『εκπορθεω』/to pillage/g
-s/『εκπορνευω』/to prostitute out\/herself,<br>be depraved/g
-s/『εκπρεπης』/distinguished out of all,<br>preeminent/g
-s/『εκπρεπω』/to be excellent/g
-s/『εκπριω』/to saw out/g
-s/『εκπυροω』/to burn to ashes,<br>consume utterly/g
-s/『εκρεω』/to flow out/g
-s/『εκρηγμα』/rupture,<br>bursting/g
-s/『εκρηγνυμι』/to break off,<br>snap asunder/g
-s/『εκριζοω』/to uproot/g
-s/『εκριζωτης』/rooter-out,<br>destroyer/g
-s/『εκριπτεω』/to cast forth/g
-s/『εκριπτω』/to cast forth/g
-s/『εκρυσις』/outflow,<br>drain/g
-s/『εκσαρκιζομαι』/to have the flesh stripped off/g
-s/『εκσιφωνιζω』/to be drained,<br>to be exhausted/g
-s/『εκσοβεω』/to scare away/g
-s/『εκσπαω』/to draw out/g
-s/『εκσπερματιζω』/to conceive/g
+s/『εκπλησσω』/awestruck/g
+s/『εκπλυνω』/wash out/g
+s/『εκποιεω』/put out/g
+s/『εκπολεμεω』/excite to war;<br>make hostile/g
+s/『εκπολιορκεω』/force a besieged town to surrender/g
+s/『εκπολιτευω』/change the constitution of a state;<br>cause it to degenerate/g
+s/『εκπορευομαι』/emerge;<br>travel out/g
+s/『εκπορθεω』/pillage/g
+s/『εκπορνευω』/prostitute out\/herself;<br>depraved/g
+s/『εκπρεπης』/distinguished out of all;<br>preeminent/g
+s/『εκπρεπω』/excellent/g
+s/『εκπριω』/saw out/g
+s/『εκπυροω』/burn to ashes;<br>consume utterly/g
+s/『εκρεω』/flow out/g
+s/『εκρηγμα』/rupture;<br>bursting/g
+s/『εκρηγνυμι』/break off;<br>snap asunder/g
+s/『εκριζοω』/uproot/g
+s/『εκριζωτης』/rooter-out;<br>destroyer/g
+s/『εκριπτεω』/cast forth/g
+s/『εκριπτω』/cast forth/g
+s/『εκρυσις』/outflow;<br>drain/g
+s/『εκσαρκιζομαι』/have the flesh stripped off/g
+s/『εκσιφωνιζω』/drained;<br>exhausted/g
+s/『εκσοβεω』/scare away/g
+s/『εκσπαω』/draw out/g
+s/『εκσπερματιζω』/conceive/g
 s/『εκσπονδυλιζω』/「ἐκσπονδυλίζω」/g
-s/『εκστασις』/ecstasy,<br>trance/g
-s/『εκστρατευω』/to march out/g
-s/『εκστρεφω』/to turn inside out,<br>turn out/g
-s/『εκσυριζω』/to hiss out or off/g
-s/『εκσυρω』/to sweep away/g
-s/『εκταρασσω』/to disturb/g
-s/『εκτασις』/an extension/g
-s/『εκτασσω』/to draw out in battle-order/g
-s/『εκτεινω』/to extend/g
-s/『εκτελεω』/to finish off/g
-s/『εκτεμνω』/to cut out/g
-s/『εκτενεια』/extension,<br>eagerly/g
+s/『εκστασις』/ecstasy;<br>trance/g
+s/『εκστρατευω』/march out/g
+s/『εκστρεφω』/turn inside out;<br>turn out/g
+s/『εκσυριζω』/hiss out or off/g
+s/『εκσυρω』/sweep away/g
+s/『εκταρασσω』/disturb/g
+s/『εκτασις』/extension/g
+s/『εκτασσω』/draw out in battle-order/g
+s/『εκτεινω』/extend/g
+s/『εκτελεω』/finish off/g
+s/『εκτεμνω』/cut out/g
+s/『εκτενεια』/extension;<br>eagerly/g
 s/『εκτενης』/intense/g
-s/『εκτενια』/zeal,<br>assiduousness/g
-s/『εκτενως』/intensely,<br>intensively/g
-s/『εκτηκω』/to melt out,<br>destroy/g
-s/『εκτιθημι』/to expose,<br>explain/g
-s/『εκτικτω』/to bring forth/g
-s/『εκτιλλω』/to pluck out/g
-s/『εκτιναγμος』/shaking out,<br>violent shaking/g
-s/『εκτινασσω』/to shake off/g
-s/『εκτινω』/to pay off,<br>pay in full/g
-s/『εκτοκιζω』/to exact interest/g
-s/『εκτομιας』/a eunuch/g
-s/『εκτοπιζω』/to take oneself from a place,<br>go abroad/g
-s/『εκτος』/outside,<br>outwardly/g
+s/『εκτενια』/zeal;<br>assiduousness/g
+s/『εκτενως』/intensely;<br>intensively/g
+s/『εκτηκω』/melt out;<br>destroy/g
+s/『εκτιθημι』/expose;<br>explain/g
+s/『εκτικτω』/bring forth/g
+s/『εκτιλλω』/pluck out/g
+s/『εκτιναγμος』/shaking out;<br>violent shaking/g
+s/『εκτινασσω』/shake off/g
+s/『εκτινω』/pay off;<br>pay in full/g
+s/『εκτοκιζω』/exact interest/g
+s/『εκτομιας』/eunuch/g
+s/『εκτοπιζω』/take oneself from a place;<br>go abroad/g
+s/『εκτος』/outside;<br>outwardly/g
 s/『εκτος\.1』/sixth/g
-s/『εκτρεπω』/to divert,<br>avoid/g
-s/『εκτρεφω』/to cherish,<br>nourish/g
-s/『εκτρεχω』/to run out/g
+s/『εκτρεπω』/divert;<br>avoid/g
+s/『εκτρεφω』/cherish;<br>nourish/g
+s/『εκτρεχω』/run out/g
 s/『εκτριβη』/destruction/g
-s/『εκτριβω』/to rub out,<br>wipe out/g
-s/『εκτρυγαω』/to gather in the vintage/g
-s/『εκτρωγω』/to eat up,<br>devour/g
-s/『εκτρωμα』/an abortion,<br>miscarriage/g
-s/『εκτυποω』/to model/g
+s/『εκτριβω』/rub out;<br>wipe out/g
+s/『εκτρυγαω』/gather in the vintage/g
+s/『εκτρωγω』/eat up;<br>devour/g
+s/『εκτρωμα』/abortion;<br>miscarriage/g
+s/『εκτυποω』/model/g
 s/『εκτυπωμα』/figure in relief/g
 s/『εκτυπωσις』/modelling in relief/g
-s/『εκτυφλοω』/to blind/g
+s/『εκτυφλοω』/blind/g
 s/『εκυρευω』/「ἐκυρεύω」/g
-s/『εκφαινω』/to shew forth,<br>bring to light/g
-s/『εκφαυλιζω』/to depreciate/g
-s/『εκφερω』/to bring out\/forth,<br>carry out/g
-s/『εκφευγω』/to escape/g
-s/『εκφημι』/to speak out/g
-s/『εκφλεγω』/to set on fire/g
-s/『εκφοβεω』/to terrify/g
+s/『εκφαινω』/shew forth;<br>bring to light/g
+s/『εκφαυλιζω』/depreciate/g
+s/『εκφερω』/bring out\/forth;<br>carry out/g
+s/『εκφευγω』/escape/g
+s/『εκφημι』/speak out/g
+s/『εκφλεγω』/set on fire/g
+s/『εκφοβεω』/terrify/g
 s/『εκφοβος』/terrified/g
-s/『εκφορα』/a carrying out/g
+s/『εκφορα』/carrying out/g
 s/『εκφοριον』/produce/g
 s/『εκφυγη』/escape/g
-s/『εκφυρω』/to be defiled/g
-s/『εκφυσαω』/to blow away/g
-s/『εκφωνεω』/to cry out/g
-s/『εκχεω』/to pour out,<br>be drained/g
-s/『εκχολαω』/to be angry,<br>to be incensed/g
-s/『εκχυσις』/outflow,<br>pouring out/g
-s/『εκχωρεω』/to evacuate/g
+s/『εκφυρω』/defiled/g
+s/『εκφυσαω』/blow away/g
+s/『εκφωνεω』/cry out/g
+s/『εκχεω』/pour out;<br>drained/g
+s/『εκχολαω』/angry;<br>incensed/g
+s/『εκχυσις』/outflow;<br>pouring out/g
+s/『εκχωρεω』/evacuate/g
 s/『εκχωριζω』/「ἐκχωρίζω」/g
-s/『εκψυχω』/to expire/g
+s/『εκψυχω』/expire/g
 s/『εκων』/willing/g
 s/『ελα』/[NP]/g
-s/『ελαια』/the olive tree,<br>an olive/g
+s/『ελαια』/olive tree;<br>olive/g
 s/『ελαιαν』/「ἐλαίαν」/g
 s/『ελαινος』/of olive-wood/g
-s/『ελαιολογεω』/to pick olives/g
+s/『ελαιολογεω』/pick olives/g
 s/『ελαιον』/oil/g
-s/『ελαιων』/an olive orchard/g
+s/『ελαιων』/olive orchard/g
 s/『ελαμι』/[NP]/g
 s/『ελαμψαν』/「ἔλαμψαν」/g
 s/『ελασα』/[NP]/g
-s/『ελασμα』/a plate/g
+s/『ελασμα』/plate/g
 s/『ελασσονοω』/「ἐλασσονόω」/g
 s/『ελασσω』/「ἐλάσσω」/g
-s/『ελασσων』/inferior,<br>less/g
-s/『ελατη』/a silver fir/g
+s/『ελασσων』/inferior;<br>less/g
+s/『ελατη』/silver fir/g
 s/『ελατινος』/of the fir/g
 s/『ελατος』/beaten;<br>of beaten work/g
-s/『ελαττονεω』/to diminish/g
-s/『ελαττονοω』/to diminish/g
-s/『ελαττοω』/to diminish/g
-s/『ελαττωμα』/a disadvantage/g
-s/『ελαττωσις』/defect,<br>loss/g
-s/『ελαυνω』/to drive,<br>row/g
-s/『ελαφος』/a deer/g
+s/『ελαττονεω』/diminish/g
+s/『ελαττονοω』/diminish/g
+s/『ελαττοω』/diminish/g
+s/『ελαττωμα』/disadvantage/g
+s/『ελαττωσις』/defect;<br>loss/g
+s/『ελαυνω』/drive;<br>row/g
+s/『ελαφος』/deer/g
 s/『ελαφρος』/light/g
-s/『ελαχιστος』/smallest,<br>least/g
+s/『ελαχιστος』/smallest;<br>least/g
 s/『ελβων』/[NP]/g
 s/『ελβωυδαδ』/[NP]/g
 s/『ελδαα』/[NP]/g
@@ -4411,12 +4411,12 @@ s/『ελεαλη』/[NP]/g
 s/『ελεαναν』/[NP]/g
 s/『ελεασα』/[NP]/g
 s/『ελεαω』/「ἐλεάω」/g
-s/『ελεγμος』/refuting,<br>reproving/g
+s/『ελεγμος』/refuting;<br>reproving/g
 s/『ελεγξις』/conviction/g
 s/『ελεγχος』/conviction/g
-s/『ελεγχω』/to convict,<br>question/g
+s/『ελεγχω』/convict;<br>question/g
 s/『ελεεινος』/pitiful/g
-s/『ελεεω』/to show mercy,<br>have mercy on/g
+s/『ελεεω』/show mercy;<br>have mercy on/g
 s/『ελεηλ』/[NP]/g
 s/『ελεημοποιος』/giving alms/g
 s/『ελεημοσυνη』/mercy/g
@@ -4428,15 +4428,15 @@ s/『ελεος』/mercy/g
 s/『ελευθερια』/freedom/g
 s/『ελευθερος』/free/g
 s/『ελευθερος\.1』/[NP]/g
-s/『ελευθεροω』/to free/g
+s/『ελευθεροω』/free/g
 s/『ελευστεον』/「ἐλευστέον」/g
 s/『ελεφαντα』/「ἐλέφαντα」/g
-s/『ελεφανταρχης』/the commander of a squadron of elephants/g
+s/『ελεφανταρχης』/commander of a squadron of elephants/g
 s/『ελεφαντας』/「ἐλέφαντας」/g
 s/『ελεφαντι』/「ἐλέφαντι」/g
 s/『ελεφαντινος』/ivory/g
 s/『ελεφαντων』/「ἐλεφάντων」/g
-s/『ελεφας』/the elephant/g
+s/『ελεφας』/elephant/g
 s/『ελζαβαδ』/[NP]/g
 s/『ελθεκεν』/[NP]/g
 s/『ελθεκω』/[NP]/g
@@ -4471,10 +4471,10 @@ s/『ελιηλ』/[NP]/g
 s/『ελιηλι』/[NP]/g
 s/『ελιθεναν』/[NP]/g
 s/『ελικα』/[NP]/g
-s/『ελικτος』/curved,<br>twisted/g
+s/『ελικτος』/curved;<br>twisted/g
 s/『ελιμελεκ』/[NP]/g
 s/『ελιμουθ』/[NP]/g
-s/『ελιξ』/a coil/g
+s/『ελιξ』/coil/g
 s/『ελιου』/[NP]/g
 s/『ελιους』/[NP]/g
 s/『ελισα』/[NP]/g
@@ -4489,7 +4489,7 @@ s/『ελισαφαν』/[NP]/g
 s/『ελισουβ』/[NP]/g
 s/『ελισουρ』/[NP]/g
 s/『ελισους』/[NP]/g
-s/『ελισσω』/to roll up/g
+s/『ελισσω』/roll up/g
 s/『ελιφαλαθ』/[NP]/g
 s/『ελιφαλατ』/[NP]/g
 s/『ελιφαλατος』/[NP]/g
@@ -4505,8 +4505,8 @@ s/『ελκαι』/[NP]/g
 s/『ελκανα』/[NP]/g
 s/『ελκεσαιος』/[NP]/g
 s/『ελκια』/[NP]/g
-s/『ελκος』/a sore/g
-s/『ελκυω』/to draw,<br>drag/g
+s/『ελκος』/sore/g
+s/『ελκυω』/draw;<br>drag/g
 s/『ελκωθαιμ』/[NP]/g
 s/『ελλαναθαν』/[NP]/g
 s/『ελλαναν』/[NP]/g
@@ -4519,15 +4519,15 @@ s/『ελληνικος\.1』/Greek/g
 s/『ελληνις』/[NP]/g
 s/『ελληνισμος』/[NP]/g
 s/『ελλης』/[NP]/g
-s/『ελλιπης』/wanting,<br>lacking/g
+s/『ελλιπης』/wanting;<br>lacking/g
 s/『ελλουλιμ』/festival exultation/g
 s/『ελμωδαδ』/[NP]/g
 s/『ελμωνι』/such and such/g
 s/『ελνααμ』/[NP]/g
 s/『ελναθαν』/[NP]/g
-s/『ελος』/low ground by rivers,<br>a marsh-meadow/g
+s/『ελος』/low ground by rivers;<br>marsh-meadow/g
 s/『ελουλ』/[NP]/g
-s/『ελπιζω』/to hope/g
+s/『ελπιζω』/hope/g
 s/『ελπις』/hope/g
 s/『ελραγα』/[NP]/g
 s/『ελυμαιδα』/[NP]/g
@@ -4544,14 +4544,14 @@ s/『εμαθις』/[NP]/g
 s/『εμακ』/[NP]/g
 s/『εμακρυναν』/「ἐμάκρυναν」/g
 s/『εμαυτου』/myself/g
-s/『εμβαινω』/to embark,<br>step in/g
-s/『εμβαλλω』/to inject,<br>cast in/g
-s/『εμβατευω』/to frequent,<br>measure by/g
-s/『εμβιβαζω』/to pull in/g
-s/『εμβιωσις』/preservation of life,<br>maintenance of life/g
-s/『εμβλεπω』/to look at,<br>look in/g
-s/『εμβολη』/a putting into/g
-s/『εμβριμαομαι』/to be agitated,<br>harass/g
+s/『εμβαινω』/embark;<br>step in/g
+s/『εμβαλλω』/inject;<br>cast in/g
+s/『εμβατευω』/frequent;<br>measure by/g
+s/『εμβιβαζω』/pull in/g
+s/『εμβιωσις』/preservation of life;<br>maintenance of life/g
+s/『εμβλεπω』/look at;<br>look in/g
+s/『εμβολη』/putting into/g
+s/『εμβριμαομαι』/agitated;<br>harass/g
 s/『εμβριμημα』/indignation/g
 s/『εμε』/me/g
 s/『εμεγαλυνθω』/「ἐμεγαλύνθω」/g
@@ -4561,194 +4561,194 @@ s/『εμεκραφαιν』/[NP]/g
 s/『εμεμαων』/[NP]/g
 s/『εμερων』/[NP]/g
 s/『εμετος』/vomiting/g
-s/『εμεω』/to vomit/g
+s/『εμεω』/vomit/g
 s/『εμηρ』/[NP]/g
 s/『εμιουδ』/[NP]/g
 s/『εμμαθ』/[NP]/g
-s/『εμμανης』/in madness,<br>frantic/g
+s/『εμμανης』/in madness;<br>frantic/g
 s/『εμμανουηλ』/[NP]/g
-s/『εμμελετημα』/an exercise,<br>a practice/g
-s/『εμμενω』/to abide/g
+s/『εμμελετημα』/exercise;<br>practice/g
+s/『εμμενω』/abide/g
 s/『εμμηρ』/[NP]/g
 s/『εμμηρουθ』/[NP]/g
 s/『εμμολυνω』/「ἐμμολύνω」/g
-s/『εμμονος』/abiding by,<br>steadfast/g
+s/『εμμονος』/abiding by;<br>steadfast/g
 s/『εμμωθ』/[NP]/g
 s/『εμμωρ』/[NP]/g
-s/『εμοι』/to me/g
-s/『εμος』/mine,<br>my own/g
+s/『εμοι』/me/g
+s/『εμος』/mine;<br>my own/g
 s/『εμοσφεως』/[NP]/g
 s/『εμου』/my/g
 s/『εμπαιγμα』/mockery/g
 s/『εμπαιγμος』/belittling/g
-s/『εμπαιζω』/to belittle/g
-s/『εμπαικτης』/a belittler,<br>mocker/g
-s/『εμπαραγινομαι』/to come in upon/g
+s/『εμπαιζω』/belittle/g
+s/『εμπαικτης』/belittler;<br>mocker/g
+s/『εμπαραγινομαι』/come in upon/g
 s/『εμπειρια』/experience/g
 s/『εμπειρος』/experienced/g
 s/『εμπειρω』/「ἐμπείρω」/g
-s/『εμπεριπατεω』/to walk around in/g
-s/『εμπηγνυμι』/to fix/g
-s/『εμπηδαω』/to jump upon/g
-s/『εμπιπλημι』/to fill in,<br>fill up/g
-s/『εμπιπτω』/to fall in/g
-s/『εμπιστευω』/to believe in/g
-s/『εμπλασσω』/to plaster up/g
-s/『εμπλατυνω』/to widen,<br>to extend/g
-s/『εμπλεκω』/to entangle/g
+s/『εμπεριπατεω』/walk around in/g
+s/『εμπηγνυμι』/fix/g
+s/『εμπηδαω』/jump upon/g
+s/『εμπιπλημι』/fill in;<br>fill up/g
+s/『εμπιπτω』/fall in/g
+s/『εμπιστευω』/believe in/g
+s/『εμπλασσω』/plaster up/g
+s/『εμπλατυνω』/widen;<br>extend/g
+s/『εμπλεκω』/entangle/g
 s/『εμπληθυνομαι』/「ἐμπληθύνομαι」/g
 s/『εμπλοκιον』/hairclasp/g
 s/『εμπνεος』/「ἐμπνέος」/g
 s/『εμπνευσις』/breathing/g
-s/『εμπνεω』/to spout/g
-s/『εμπνους』/with the breath in one,<br>breathing/g
-s/『εμποδιζω』/to put the feet in bonds,<br>to fetter/g
-s/『εμποδιστικος』/hampering,<br>impeding/g
-s/『εμποδοστατεω』/to be in the way of/g
-s/『εμποδοστατης』/one who is in the way,<br>troubler/g
-s/『εμποιεω』/to make in/g
-s/『εμπολαω』/to get by barter/g
+s/『εμπνεω』/spout/g
+s/『εμπνους』/with the breath in one;<br>breathing/g
+s/『εμποδιζω』/put the feet in bonds;<br>fetter/g
+s/『εμποδιστικος』/hampering;<br>impeding/g
+s/『εμποδοστατεω』/in the way of/g
+s/『εμποδοστατης』/one who is in the way;<br>troubler/g
+s/『εμποιεω』/make in/g
+s/『εμπολαω』/get by barter/g
 s/『εμπονεω』/「ἐμπονέω」/g
-s/『εμπορευομαι』/to do business/g
-s/『εμπορια』/a business/g
+s/『εμπορευομαι』/do business/g
+s/『εμπορια』/business/g
 s/『εμποριον』/business/g
-s/『εμπορος』/a merchant/g
-s/『εμπορπαω』/to fasten with a brooch/g
-s/『εμπορποομαι』/to wear/g
-s/『εμπρηθω』/to blow up/g
-s/『εμπροσθεν』/in front,<br>before/g
+s/『εμπορος』/merchant/g
+s/『εμπορπαω』/fasten with a brooch/g
+s/『εμπορποομαι』/wear/g
+s/『εμπρηθω』/blow up/g
+s/『εμπροσθεν』/in front;<br>before/g
 s/『εμπροσθιον』/「ἐμπρόσθιον」/g
-s/『εμπροσθιος』/fore,<br>front/g
-s/『εμπτυω』/to spit on/g
-s/『εμπυριζω』/to set on fire,<br>to burn/g
+s/『εμπροσθιος』/fore;<br>front/g
+s/『εμπτυω』/spit on/g
+s/『εμπυριζω』/set on fire;<br>burn/g
 s/『εμπυρισμος』/burning;<br>blight/g
 s/『εμπυριστης』/one who sets on fire/g
 s/『εμπυρος』/in the fire/g
-s/『εμφαινω』/to let/g
-s/『εμφανης』/apparent,<br>visible/g
-s/『εμφανιζω』/to make apparent\/visible,<br>represent/g
-s/『εμφανισμος』/information,<br>disclosure/g
-s/『εμφανως』/openly,<br>visibly/g
-s/『εμφασις』/outward appearance,<br>impression/g
-s/『εμφερω』/to bear/g
+s/『εμφαινω』/let/g
+s/『εμφανης』/apparent;<br>visible/g
+s/『εμφανιζω』/make apparent\/visible;<br>represent/g
+s/『εμφανισμος』/information;<br>disclosure/g
+s/『εμφανως』/openly;<br>visibly/g
+s/『εμφασις』/outward appearance;<br>impression/g
+s/『εμφερω』/bear/g
 s/『εμφοβος』/afraid/g
-s/『εμφραγμος』/stoppage,<br>barrier/g
-s/『εμφρασσω』/to block up/g
-s/『εμφυσαω』/to blow in\/on/g
-s/『εμφυσιοω』/to implant,<br>instil into/g
+s/『εμφραγμος』/stoppage;<br>barrier/g
+s/『εμφρασσω』/block up/g
+s/『εμφυσαω』/blow in\/on/g
+s/『εμφυσιοω』/implant;<br>instil into/g
 s/『εμφυτος』/implanted/g
 s/『εν』/in/g
 s/『ενααλα』/[NP]/g
-s/『εναγκαλιζομαι』/to embrace/g
+s/『εναγκαλιζομαι』/embrace/g
 s/『εναγκαλισμα』/that which embraces/g
-s/『εναγωνιζομαι』/to contend/g
+s/『εναγωνιζομαι』/contend/g
 s/『εναθ』/[NP]/g
-s/『εναθλεω』/to struggle bravely in/g
+s/『εναθλεω』/struggle bravely in/g
 s/『ενακ』/[NP]/g
 s/『ενακιμ』/[NP]/g
 s/『ενακισχιλιοι』/nine thousand/g
-s/『ενακουω』/to listen to/g
-s/『εναλλαγη』/change,<br>inversion/g
+s/『ενακουω』/listen to/g
+s/『εναλλαγη』/change;<br>inversion/g
 s/『εναλλαξ』/crosswise/g
-s/『εναλλομαι』/to leap in/g
-s/『εναντι』/next to,<br>in the presence of/g
-s/『εναντιον』/next to,<br>before/g
-s/『εναντιοομαι』/to set oneself against,<br>oppose/g
-s/『εναντιος』/contrary,<br>opposite/g
+s/『εναλλομαι』/leap in/g
+s/『εναντι』/next to;<br>in the presence of/g
+s/『εναντιον』/next to;<br>before/g
+s/『εναντιοομαι』/set oneself against;<br>oppose/g
+s/『εναντιος』/contrary;<br>opposite/g
 s/『εναντιοω』/「ἐναντιόω」/g
 s/『εναπερειδω』/「ἐναπερείδω」/g
-s/『εναποθνησκω』/to die in/g
-s/『εναποσφραγιζω』/to impress in or on/g
+s/『εναποθνησκω』/die in/g
+s/『εναποσφραγιζω』/impress in or on/g
 s/『εναρετος』/virtuous/g
-s/『εναριθμιος』/in the number,<br>to make up the number/g
-s/『εναρμοζω』/to fit/g
-s/『εναρχομαι』/to initiate,<br>begin/g
+s/『εναριθμιος』/in the number;<br>make up the number/g
+s/『εναρμοζω』/fit/g
+s/『εναρχομαι』/initiate;<br>begin/g
 s/『ενατενιξω』/「ἐνατενίξω」/g
 s/『ενατος』/ninth/g
 s/『ενατος\.1』/[NP]/g
-s/『εναφιημι』/to let drop into/g
+s/『εναφιημι』/let drop into/g
 s/『εναχ』/[NP]/g
 s/『ενγαδδι』/[NP]/g
 s/『ενδεης』/straitened/g
-s/『ενδεια』/want,<br>need/g
-s/『ενδεικνυμι』/to indicate,<br>demonstrate/g
-s/『ενδεικτης』/informer,<br>complainant/g
+s/『ενδεια』/want;<br>need/g
+s/『ενδεικνυμι』/indicate;<br>demonstrate/g
+s/『ενδεικτης』/informer;<br>complainant/g
 s/『ενδεκα』/eleven/g
 s/『ενδεκατος』/eleventh/g
-s/『ενδελεχεω』/to continue/g
-s/『ενδελεχης』/continuous,<br>perpetual/g
-s/『ενδελεχιζω』/to persevere,<br>to continue/g
-s/『ενδελεχισμος』/continuity,<br>persistency/g
+s/『ενδελεχεω』/continue/g
+s/『ενδελεχης』/continuous;<br>perpetual/g
+s/『ενδελεχιζω』/persevere;<br>continue/g
+s/『ενδελεχισμος』/continuity;<br>persistency/g
 s/『ενδελεχως』/continually/g
 s/『ενδεσμος』/bonding/g
-s/『ενδεχομαι』/to be acceptable/g
+s/『ενδεχομαι』/acceptable/g
 s/『ενδεχομενως』/as far as possible/g
 s/『ενδεω』/「ἐνδέω」/g
-s/『ενδιαβαλλω』/to calumniate in/g
-s/『ενδιατριβω』/to spend/g
-s/『ενδιδυσκω』/to put on/g
-s/『ενδιδωμι』/to give in/g
+s/『ενδιαβαλλω』/calumniate in/g
+s/『ενδιατριβω』/spend/g
+s/『ενδιδυσκω』/put on/g
+s/『ενδιδωμι』/give in/g
 s/『ενδογενης』/born in the house/g
 s/『ενδοθεν』/from within/g
-s/『ενδον』/in,<br>within/g
-s/『ενδοξαζω』/to make glorious/g
+s/『ενδον』/in;<br>within/g
+s/『ενδοξαζω』/make glorious/g
 s/『ενδοξος』/glorious/g
-s/『ενδοξως』/honourably,<br>gloriously/g
-s/『ενδοσθια』/inwards,<br>entrails/g
+s/『ενδοξως』/honourably;<br>gloriously/g
+s/『ενδοσθια』/inwards;<br>entrails/g
 s/『ενδοσθιον』/「ἐνδόσθιον」/g
 s/『ενδυμα』/apparel/g
-s/『ενδυναμοω』/to empower/g
+s/『ενδυναμοω』/empower/g
 s/『ενδυσις』/dressing in/g
-s/『ενδυω』/to dress in,<br>wear/g
-s/『ενεδρα』/an ambush/g
-s/『ενεδρευω』/to ambush/g
-s/『ενεδρον』/an ambush/g
-s/『ενειδον』/to see in/g
-s/『ενειλεω』/to roll up in/g
-s/『ενειμι』/to be in,<br>the contents/g
-s/『ενειρω』/to string on/g
-s/『ενεκα』/for the sake of,<br>on account of/g
+s/『ενδυω』/dress in;<br>wear/g
+s/『ενεδρα』/ambush/g
+s/『ενεδρευω』/ambush/g
+s/『ενεδρον』/ambush/g
+s/『ενειδον』/see in/g
+s/『ενειλεω』/roll up in/g
+s/『ενειμι』/in;<br>contents/g
+s/『ενειρω』/string on/g
+s/『ενεκα』/for the sake of;<br>on account of/g
 s/『ενεμασσαρ』/[NP]/g
 s/『ενεμεσσαρος』/[NP]/g
 s/『ενεμετιιμ』/[NP]/g
 s/『ενενηκοντα』/90/g
 s/『ενενηκονταετης』/ninety years old/g
 s/『ενεξουσιαζω』/「ἐνεξουσιάζω」/g
-s/『ενεργαζομαι』/to make/g
+s/『ενεργαζομαι』/make/g
 s/『ενεργεια』/activity/g
-s/『ενεργεω』/to activate,<br>be active/g
-s/『ενεργος』/at work,<br>working/g
-s/『ενευλογεω』/to commend in,<br>bless in/g
-s/『ενευφραινομαι』/to cheer in/g
-s/『ενεχυραζω』/to take a pledge from/g
+s/『ενεργεω』/activate;<br>active/g
+s/『ενεργος』/at work;<br>working/g
+s/『ενευλογεω』/commend in;<br>bless in/g
+s/『ενευφραινομαι』/cheer in/g
+s/『ενεχυραζω』/take a pledge from/g
 s/『ενεχυρασαι』/「ἐνεχυράσαι」/g
 s/『ενεχυρασμα』/pledge/g
-s/『ενεχυρασμος』/taking in pledge,<br>pledge/g
-s/『ενεχυρον』/a pledge,<br>surety/g
-s/『ενεχω』/to have in,<br>hold in/g
+s/『ενεχυρασμος』/taking in pledge;<br>pledge/g
+s/『ενεχυρον』/pledge;<br>surety/g
+s/『ενεχω』/have in;<br>hold in/g
 s/『ενηδρευσαν』/「ἐνήδρευσαν」/g
-s/『ενηλιξ』/one of age,<br>in the prime of manhood/g
+s/『ενηλιξ』/one of age;<br>in the prime of manhood/g
 s/『ενηνιος』/[NP]/g
 s/『ενθα』/there/g
-s/『ενθαδε』/this place,<br>back here/g
+s/『ενθαδε』/this place;<br>back here/g
 s/『ενθεμα』/ornament/g
 s/『ενθεμιον』/socket;<br>artificial flowers/g
 s/『ενθεσμος』/lawful/g
-s/『ενθουσιαζω』/to be inspired/g
-s/『ενθρονιζω』/to enthrone,<br>to place on a throne/g
-s/『ενθρυπτω』/to crumble/g
-s/『ενθυμεομαι』/to devise,<br>plan/g
-s/『ενθυμημα』/a thought,<br>piece of reasoning/g
+s/『ενθουσιαζω』/inspired/g
+s/『ενθρονιζω』/enthrone;<br>place on a throne/g
+s/『ενθρυπτω』/crumble/g
+s/『ενθυμεομαι』/devise;<br>plan/g
+s/『ενθυμημα』/thought;<br>piece of reasoning/g
 s/『ενθυμιος』/taken to heart/g
 s/『ενθυμιου』/「ἐνθυμίου」/g
 s/『ενι』/there is in/g
-s/『ενιαυσιος』/of a year,<br>one year old/g
-s/『ενιαυτος』/cycle,<br>period/g
-s/『ενιημι』/to send in/g
+s/『ενιαυσιος』/of a year;<br>one year old/g
+s/『ενιαυτος』/cycle;<br>period/g
+s/『ενιημι』/send in/g
 s/『ενιοι』/some/g
 s/『ενιοτε』/sometimes/g
-s/『ενιστημι』/to be present,<br>set in/g
-s/『ενισχυω』/to fortify,<br>prevail/g
+s/『ενιστημι』/present;<br>set in/g
+s/『ενισχυω』/fortify;<br>prevail/g
 s/『ενναθωθ』/[NP]/g
 s/『εννακοσιοι』/900/g
 s/『ενναταν』/[NP]/g
@@ -4757,604 +4757,604 @@ s/『εννεακαιδεκα』/nineteen/g
 s/『εννεακαιδεκατος』/nineteenth/g
 s/『εννεμω』/「ἐννέμω」/g
 s/『εννεος』/dumbfounded/g
-s/『εννεοσσευω』/to hatch young in/g
+s/『εννεοσσευω』/hatch young in/g
 s/『εννευμα』/signal/g
-s/『εννευω』/to nod to/g
-s/『εννοεω』/to have in one's thoughts,<br>to think/g
-s/『εννοημα』/notion,<br>concept/g
+s/『εννευω』/nod to/g
+s/『εννοεω』/have in one's thoughts;<br>think/g
+s/『εννοημα』/notion;<br>concept/g
 s/『εννοια』/insight/g
 s/『εννομ』/[NP]/g
-s/『εννομος』/legal,<br>lawful/g
+s/『εννομος』/legal;<br>lawful/g
 s/『εννομως』/「ἐννόμως」/g
-s/『εννοσσοποιεομαι』/to make oneself a nest on/g
+s/『εννοσσοποιεομαι』/make oneself a nest on/g
 s/『εννυχος』/still in the night/g
 s/『εννων』/[NP]/g
-s/『ενοικειοω』/to be related to/g
-s/『ενοικεω』/to dwell in,<br>inhabit/g
-s/『ενοικιζω』/to settle in/g
+s/『ενοικειοω』/related to/g
+s/『ενοικεω』/dwell in;<br>inhabit/g
+s/『ενοικιζω』/settle in/g
 s/『ενοικος』/in-dwelling: an inhabitant/g
-s/『ενοπλιζω』/to arm oneself/g
-s/『ενοπλος』/in arms,<br>armed/g
+s/『ενοπλιζω』/arm oneself/g
+s/『ενοπλος』/in arms;<br>armed/g
 s/『ενορκιος』/「ἐνόρκιος」/g
 s/『ενορκος』/bound by oath/g
-s/『ενορκως』/having sworn,<br>bound by oath/g
-s/『ενοχλεω』/to annoy,<br>be unwell/g
-s/『ενοχος』/liable,<br>guilty/g
-s/『ενσειω』/to shake in/g
-s/『ενσιτεομαι』/to feed upon/g
+s/『ενορκως』/having sworn;<br>bound by oath/g
+s/『ενοχλεω』/annoy;<br>unwell/g
+s/『ενοχος』/liable;<br>guilty/g
+s/『ενσειω』/shake in/g
+s/『ενσιτεομαι』/feed upon/g
 s/『ενσκολιευομαι』/「ἐνσκολιευόμαι」/g
-s/『ενταλμα』/a precept/g
-s/『εντασσω』/to place/g
-s/『ενταυθα』/in that place,<br>here/g
-s/『ενταφιαζω』/to bury,<br>embalm/g
-s/『ενταφιαστης』/an embalmer/g
-s/『εντεινω』/to bend/g
-s/『εντελλομαι』/to direct,<br>enjoin/g
+s/『ενταλμα』/precept/g
+s/『εντασσω』/place/g
+s/『ενταυθα』/in that place;<br>here/g
+s/『ενταφιαζω』/bury;<br>embalm/g
+s/『ενταφιαστης』/embalmer/g
+s/『εντεινω』/bend/g
+s/『εντελλομαι』/direct;<br>enjoin/g
 s/『εντερον』/insides/g
-s/『εντευθεν』/from in here,<br>from this\/that side/g
+s/『εντευθεν』/from in here;<br>from this\/that side/g
 s/『εντευξις』/intercession/g
-s/『εντηκω』/to pour in while molten/g
-s/『εντιθημι』/to put in/g
-s/『εντιμαω』/to value in/g
-s/『εντιμος』/valued,<br>valuable/g
+s/『εντηκω』/pour in while molten/g
+s/『εντιθημι』/put in/g
+s/『εντιμαω』/value in/g
+s/『εντιμος』/valued;<br>valuable/g
 s/『εντιμως』/honourably/g
 s/『εντιναγμος』/shaking/g
-s/『εντινασσω』/to hurl against;<br>to charge upon/g
-s/『εντολη』/a direction,<br>injunction/g
-s/『εντομις』/incision,<br>gash/g
+s/『εντινασσω』/hurl against;<br>charge upon/g
+s/『εντολη』/direction;<br>injunction/g
+s/『εντομις』/incision;<br>gash/g
 s/『εντος』/inside/g
-s/『εντρεπω』/to defer,<br>humiliate/g
-s/『εντρεχης』/skilful,<br>ready/g
-s/『εντριτος』/of three strands,<br>threefold/g
+s/『εντρεπω』/defer;<br>humiliate/g
+s/『εντρεχης』/skilful;<br>ready/g
+s/『εντριτος』/of three strands;<br>threefold/g
 s/『εντρομος』/trembling/g
 s/『εντροπη』/reproach/g
-s/『εντρυφαω』/to revel/g
-s/『εντρυφημα』/thing to take pleasure in,<br>delight/g
-s/『εντυγχανω』/to intercede/g
+s/『εντρυφαω』/revel/g
+s/『εντρυφημα』/thing to take pleasure in;<br>delight/g
+s/『εντυγχανω』/intercede/g
 s/『εντυχια』/petition/g
-s/『ενυδρος』/with water in it,<br>holding water/g
-s/『ενυπνιαζομαι』/to dream/g
+s/『ενυδρος』/with water in it;<br>holding water/g
+s/『ενυπνιαζομαι』/dream/g
 s/『ενυπνιαζω』/dream/g
-s/『ενυπνιαστης』/a dreamer/g
-s/『ενυπνιον』/a dream/g
+s/『ενυπνιαστης』/dreamer/g
+s/『ενυπνιον』/dream/g
 s/『ενυποτασσω』/「ἐνυποτάσσω」/g
 s/『ενυστρον』/fourth stomach of ruminating animals/g
-s/『ενφωθ』/the ear pendants/g
+s/『ενφωθ』/ear pendants/g
 s/『ενωβ』/[NP]/g
-s/『ενωπιος』/in the face,<br>facing/g
+s/『ενωπιος』/in the face;<br>facing/g
 s/『ενως』/[NP]/g
-s/『ενωτιζομαι』/to give ear/g
-s/『ενωτιον』/an earring/g
+s/『ενωτιζομαι』/give ear/g
+s/『ενωτιον』/earring/g
 s/『ενωχ』/[NP]/g
 s/『εξ』/six/g
-s/『εξαγγελλω』/to report/g
-s/『εξαγοραζω』/to buy out,<br>make the most of/g
-s/『εξαγορευω』/to tell out,<br>make known/g
+s/『εξαγγελλω』/report/g
+s/『εξαγοραζω』/buy out;<br>make the most of/g
+s/『εξαγορευω』/tell out;<br>make known/g
 s/『εξαγορια』/cure by confession/g
-s/『εξαγριαινω』/to make savage/g
-s/『εξαγω』/to lead out,<br>bring out/g
+s/『εξαγριαινω』/make savage/g
+s/『εξαγω』/lead out;<br>bring out/g
 s/『εξαδελφος』/nephew/g
-s/『εξαιμος』/bloodless,<br>drained of blood/g
+s/『εξαιμος』/bloodless;<br>drained of blood/g
 s/『εξαιρετος』/II. taken out/g
-s/『εξαιρεω』/to extract,<br>take out/g
-s/『εξαιρω』/to lift out\/up,<br>remove/g
+s/『εξαιρεω』/extract;<br>take out/g
+s/『εξαιρω』/lift out\/up;<br>remove/g
 s/『εξαισιος』/beyond what is ordained/g
 s/『εξαισος』/「ἐξαίσος」/g
 s/『εξαιφνης』/all of a sudden/g
 s/『εξακις』/six times/g
 s/『εξακισχιλιοι』/six thousand/g
-s/『εξακολουθεω』/to follow/g
-s/『εξακοναω』/to sharpen/g
+s/『εξακολουθεω』/follow/g
+s/『εξακοναω』/sharpen/g
 s/『εξακοσιοι』/six hundred/g
 s/『εξακοσιοστος』/six hundredth/g
 s/『εξακριβαζω』/「ἐξακριβάζω」/g
 s/『εξαλαομαι』/「ἐξαλάομαι」/g
-s/『εξαλειπτρον』/an unguent-box/g
-s/『εξαλειφω』/to erase,<br>wipe out/g
-s/『εξαλειψις』/blotting out,<br>destruction/g
-s/『εξαλλασσω』/to change completely/g
-s/『εξαλλοιοω』/to change,<br>to alter/g
-s/『εξαλλομαι』/to spring up/g
-s/『εξαλλος』/special,<br>distinguishing/g
-s/『εξαλλοτριοω』/to be estranged/g
-s/『εξαμαρτανω』/to miss out/g
-s/『εξαμηνος』/of,<br>lasting six months/g
-s/『εξαναλισκω』/to spend entirely/g
+s/『εξαλειπτρον』/unguent-box/g
+s/『εξαλειφω』/erase;<br>wipe out/g
+s/『εξαλειψις』/blotting out;<br>destruction/g
+s/『εξαλλασσω』/change completely/g
+s/『εξαλλοιοω』/change;<br>alter/g
+s/『εξαλλομαι』/spring up/g
+s/『εξαλλος』/special;<br>distinguishing/g
+s/『εξαλλοτριοω』/estranged/g
+s/『εξαμαρτανω』/miss out/g
+s/『εξαμηνος』/of;<br>lasting six months/g
+s/『εξαναλισκω』/spend entirely/g
 s/『εξαναστασις』/re-existence/g
-s/『εξανατελλω』/to spring up/g
-s/『εξανθεω』/to put out flowers/g
-s/『εξανιστημι』/to resurrect out,<br>stand up from/g
-s/『εξαντλεω』/to draw out/g
-s/『εξαπαταω』/to outfox/g
+s/『εξανατελλω』/spring up/g
+s/『εξανθεω』/put out flowers/g
+s/『εξανιστημι』/resurrect out;<br>stand up from/g
+s/『εξαντλεω』/draw out/g
+s/『εξαπαταω』/outfox/g
 s/『εξαπινα』/all at once/g
 s/『εξαπινης』/sudden/g
-s/『εξαπολλυμι』/to destroy utterly/g
-s/『εξαπορεω』/to be in great doubt/g
-s/『εξαποστελλω』/to send forth/g
-s/『εξαποστολη』/sending away,<br>expulsion/g
-s/『εξαπτω』/to fasten from/g
+s/『εξαπολλυμι』/destroy utterly/g
+s/『εξαπορεω』/in great doubt/g
+s/『εξαποστελλω』/send forth/g
+s/『εξαποστολη』/sending away;<br>expulsion/g
+s/『εξαπτω』/fasten from/g
 s/『εξαρθρος』/dislocated/g
-s/『εξαρθροω』/to dislocate/g
-s/『εξαριθμεω』/to enumerate/g
-s/『εξαρκεω』/to be quite enough for,<br>suffice for/g
-s/『εξαρνεομαι』/to deny utterly/g
-s/『εξαρπαζω』/to snatch away from/g
-s/『εξαρσις』/ruin,<br>destruction/g
-s/『εξαρταω』/to hang upon,<br>to make dependent upon/g
-s/『εξαρχω』/to begin with,<br>make a beginning of/g
+s/『εξαρθροω』/dislocate/g
+s/『εξαριθμεω』/enumerate/g
+s/『εξαρκεω』/quite enough for;<br>suffice for/g
+s/『εξαρνεομαι』/deny utterly/g
+s/『εξαρπαζω』/snatch away from/g
+s/『εξαρσις』/ruin;<br>destruction/g
+s/『εξαρταω』/hang upon;<br>make dependent upon/g
+s/『εξαρχω』/begin with;<br>make a beginning of/g
 s/『εξασθενεω』/「ἐξασθενέω」/g
-s/『εξασκεω』/to adorn,<br>deck out/g
-s/『εξαστραπτω』/to flash out,<br>lightning flash/g
-s/『εξατιμοομαι』/to be utterly dishonoured/g
-s/『εξαφιημι』/to send forth,<br>discharge/g
-s/『εξεγειρω』/to raise up,<br>be awakened/g
+s/『εξασκεω』/adorn;<br>deck out/g
+s/『εξαστραπτω』/flash out;<br>lightning flash/g
+s/『εξατιμοομαι』/utterly dishonoured/g
+s/『εξαφιημι』/send forth;<br>discharge/g
+s/『εξεγειρω』/raise up;<br>awakened/g
 s/『εξεγερσις』/awakening/g
 s/『εξεδρα』/arcade/g
-s/『εξεικονιζω』/to be fully shapen or formed/g
+s/『εξεικονιζω』/fully shapen or formed/g
 s/『εξειλεω』/「ἐξειλέω」/g
-s/『εξειμι』/to set out/g
-s/『εξεκκλησιαζω』/to summon to an assembly,<br>to convene/g
-s/『εξελαυνω』/to drive out/g
-s/『εξελεγχω』/to convict/g
+s/『εξειμι』/set out/g
+s/『εξεκκλησιαζω』/summon to an assembly;<br>convene/g
+s/『εξελαυνω』/drive out/g
+s/『εξελεγχω』/convict/g
 s/『εξελευσις』/「ἐξέλευσίς」/g
-s/『εξελισσω』/to unroll/g
-s/『εξελκω』/to draw out/g
-s/『εξεμεω』/to vomit forth,<br>disgorge/g
-s/『εξεργαζομαι』/to work out,<br>make completely/g
+s/『εξελισσω』/unroll/g
+s/『εξελκω』/draw out/g
+s/『εξεμεω』/vomit forth;<br>disgorge/g
+s/『εξεργαζομαι』/work out;<br>make completely/g
 s/『εξεργαστικος』/able to accomplish/g
-s/『εξερευγομαι』/to empty themselves/g
-s/『εξερευναω』/to fully explore/g
+s/『εξερευγομαι』/empty themselves/g
+s/『εξερευναω』/fully explore/g
 s/『εξερευνησις』/investigation/g
-s/『εξερημοω』/to be utterly desolate/g
-s/『εξερπω』/to creep out of/g
-s/『εξερχομαι』/to come out,<br>go out/g
+s/『εξερημοω』/utterly desolate/g
+s/『εξερπω』/creep out of/g
+s/『εξερχομαι』/come out;<br>go out/g
 s/『εξεστι』/it is permissible/g
-s/『εξεταζω』/to verify/g
-s/『εξετασις』/a close examination,<br>scrutiny/g
+s/『εξεταζω』/verify/g
+s/『εξετασις』/close examination;<br>scrutiny/g
 s/『εξετασμος』/visitation/g
-s/『εξευμενιζω』/to propitiate/g
-s/『εξευρεσις』/a searching out,<br>search/g
-s/『εξευρισκω』/to find out,<br>discover/g
-s/『εξεχω』/to stand out/g
-s/『εξηγεομαι』/to expound,<br>explain/g
-s/『εξηγησις』/a statement,<br>narrative/g
-s/『εξηγητης』/an expositor/g
+s/『εξευμενιζω』/propitiate/g
+s/『εξευρεσις』/searching out;<br>search/g
+s/『εξευρισκω』/find out;<br>discover/g
+s/『εξεχω』/stand out/g
+s/『εξηγεομαι』/expound;<br>explain/g
+s/『εξηγησις』/statement;<br>narrative/g
+s/『εξηγητης』/expositor/g
 s/『εξηγορια』/utterance;<br>confession/g
 s/『εξηκοντα』/sixty/g
 s/『εξηκονταετης』/sixty years old/g
 s/『εξηκοστος』/sixtieth/g
-s/『εξηλιαζω』/to hang in the sun/g
-s/『εξημεροω』/to tame/g
+s/『εξηλιαζω』/hang in the sun/g
+s/『εξημεροω』/tame/g
 s/『εξης』/succession/g
-s/『εξηχεω』/to sound out/g
-s/『εξιημι』/to send out,<br>let/g
-s/『εξικνεομαι』/to reach,<br>arrive at/g
-s/『εξιλασις』/propitiation,<br>atonement/g
-s/『εξιλασκομαι』/to atone for,<br>appease/g
-s/『εξιλασμα』/ransom,<br>propitiatory offering/g
-s/『εξιλασμος』/appeasement,<br>propitiation/g
-s/『εξιππαζομαι』/to ride away/g
-s/『εξιπταμαι』/to fly out or away/g
+s/『εξηχεω』/sound out/g
+s/『εξιημι』/send out;<br>let/g
+s/『εξικνεομαι』/reach;<br>arrive at/g
+s/『εξιλασις』/propitiation;<br>atonement/g
+s/『εξιλασκομαι』/atone for;<br>appease/g
+s/『εξιλασμα』/ransom;<br>propitiatory offering/g
+s/『εξιλασμος』/appeasement;<br>propitiation/g
+s/『εξιππαζομαι』/ride away/g
+s/『εξιπταμαι』/fly out or away/g
 s/『εξις』/habit/g
-s/『εξισαζω』/to make oneself equal/g
-s/『εξισοω』/to make equal/g
-s/『εξιστημι』/to astonish,<br>be beside yourself/g
-s/『εξιχνιαζω』/to explore,<br>to trace/g
-s/『εξιχνιασμος』/tracking out,<br>searching/g
-s/『εξοδευω』/to march out;<br>to depart this life/g
-s/『εξοδια』/marching out,<br>expedition/g
-s/『εξοδιαζω』/to pay in full,<br>to spend/g
+s/『εξισαζω』/make oneself equal/g
+s/『εξισοω』/make equal/g
+s/『εξιστημι』/astonish;<br>beside yourself/g
+s/『εξιχνιαζω』/explore;<br>trace/g
+s/『εξιχνιασμος』/tracking out;<br>searching/g
+s/『εξοδευω』/march out;<br>depart this life/g
+s/『εξοδια』/marching out;<br>expedition/g
+s/『εξοδιαζω』/pay in full;<br>spend/g
 s/『εξοδιον』/final day of a festival/g
 s/『εξοδιος』/belonging to an exit/g
 s/『εξοδος』/exodus/g
-s/『εξοζω』/to smell/g
+s/『εξοζω』/smell/g
 s/『εξοικος』/houseless/g
-s/『εξοκελλω』/to run aground/g
+s/『εξοκελλω』/run aground/g
 s/『εξοκη』/「ἐξοκή」/g
 s/『εξολεθρευμα』/act of destruction/g
 s/『εξολεθρευσις』/destruction/g
-s/『εξολλυμι』/to destroy utterly/g
-s/『εξολοθρευω』/to utterly ruin/g
-s/『εξομβρεω』/to pour out like rain/g
-s/『εξομνυμι』/to swear in excuse/g
-s/『εξομοιοω』/to make quite like,<br>to assimilate/g
-s/『εξομολογεω』/to concede,<br>confess/g
-s/『εξομολογησις』/a confession/g
+s/『εξολλυμι』/destroy utterly/g
+s/『εξολοθρευω』/utterly ruin/g
+s/『εξομβρεω』/pour out like rain/g
+s/『εξομνυμι』/swear in excuse/g
+s/『εξομοιοω』/make quite like;<br>assimilate/g
+s/『εξομολογεω』/concede;<br>confess/g
+s/『εξομολογησις』/confession/g
 s/『εξοπισθεν』/backwards/g
 s/『εξοπλησια』/getting under arms/g
-s/『εξοπλιζω』/to arm completely,<br>accoutre/g
-s/『εξορκιζω』/to exorcise,<br>put on oath/g
-s/『εξορμαω』/to send forth,<br>send to war/g
-s/『εξορυσσω』/to dig out\/through/g
+s/『εξοπλιζω』/arm completely;<br>accoutre/g
+s/『εξορκιζω』/exorcise;<br>put on oath/g
+s/『εξορμαω』/send forth;<br>send to war/g
+s/『εξορυσσω』/dig out\/through/g
 s/『εξουδενημα』/object of contempt/g
-s/『εξουδενοω』/to set at naught/g
-s/『εξουδενωμα』/scorn,<br>contempt/g
-s/『εξουδενωσις』/contempt,<br>scorn/g
-s/『εξουθενεω』/to despise/g
-s/『εξουθενοω』/to disdain,<br>to set at naught/g
-s/『εξουσια』/authority,<br>influence/g
-s/『εξουσιαζω』/to influence,<br>have authority/g
-s/『εξοχως』/especially,<br>above others/g
-s/『εξυβριζω』/to burst out insolently/g
-s/『εξυμνεω』/to praise/g
-s/『εξυπνιζω』/to wake up/g
-s/『εξυπνος』/out of slumber,<br>awake/g
-s/『εξυπνοω』/to wake out of,<br>to awake from/g
-s/『εξυψοω』/to exalt/g
+s/『εξουδενοω』/set at naught/g
+s/『εξουδενωμα』/scorn;<br>contempt/g
+s/『εξουδενωσις』/contempt;<br>scorn/g
+s/『εξουθενεω』/despise/g
+s/『εξουθενοω』/disdain;<br>set at naught/g
+s/『εξουσια』/authority;<br>influence/g
+s/『εξουσιαζω』/influence;<br>have authority/g
+s/『εξοχως』/especially;<br>above others/g
+s/『εξυβριζω』/burst out insolently/g
+s/『εξυμνεω』/praise/g
+s/『εξυπνιζω』/wake up/g
+s/『εξυπνος』/out of slumber;<br>awake/g
+s/『εξυπνοω』/wake out of;<br>awake from/g
+s/『εξυψοω』/exalt/g
 s/『εξω』/outside/g
-s/『εξωθεν』/from outside,<br>outer/g
-s/『εξωθεω』/to drive/g
+s/『εξωθεν』/from outside;<br>outer/g
+s/『εξωθεω』/drive/g
 s/『εξωσμα』/banishment/g
 s/『εξωτερος』/outer/g
-s/『εορταζω』/to keep the festival/g
-s/『εορτασμα』/festival,<br>holiday/g
-s/『εορτη』/a festival,<br>feast/g
-s/『επαγγελια』/a promise/g
-s/『επαγγελλω』/to promise/g
-s/『επαγειρω』/to gather together,<br>collect/g
-s/『επαγω』/to instigate,<br>bring on/g
-s/『επαγωγη』/a bringing in,<br>supplying/g
-s/『επαγωγος』/attractive,<br>tempting/g
+s/『εορταζω』/keep the festival/g
+s/『εορτασμα』/festival;<br>holiday/g
+s/『εορτη』/festival;<br>feast/g
+s/『επαγγελια』/promise/g
+s/『επαγγελλω』/promise/g
+s/『επαγειρω』/gather together;<br>collect/g
+s/『επαγω』/instigate;<br>bring on/g
+s/『επαγωγη』/bringing in;<br>supplying/g
+s/『επαγωγος』/attractive;<br>tempting/g
 s/『επαδω』/「ἐπᾴδω」/g
-s/『επαειδω』/to sing to/g
-s/『επαινεστος』/praiseworthy,<br>laudable/g
-s/『επαινεω』/to applaud/g
+s/『επαειδω』/sing to/g
+s/『επαινεστος』/praiseworthy;<br>laudable/g
+s/『επαινεω』/applaud/g
 s/『επαινος』/applause/g
-s/『επαιρω』/to lift up,<br>rear up/g
-s/『επαισχυνομαι』/to be ashamed/g
-s/『επαιτεω』/to beg/g
+s/『επαιρω』/lift up;<br>rear up/g
+s/『επαισχυνομαι』/ashamed/g
+s/『επαιτεω』/beg/g
 s/『επαιτησις』/begging/g
 s/『επαιω』/「ἐπαΐω」/g
-s/『επακολουθεω』/to follow after/g
+s/『επακολουθεω』/follow after/g
 s/『επακουστος』/obeyed/g
-s/『επακουω』/to hear from/g
-s/『επακροασις』/hearkening,<br>obedience/g
+s/『επακουω』/hear from/g
+s/『επακροασις』/hearkening;<br>obedience/g
 s/『επαλγης』/「ἐπαλγής」/g
-s/『επαλξις』/a battlement/g
-s/『επαμυνω』/to come to aid,<br>defend/g
+s/『επαλξις』/battlement/g
+s/『επαμυνω』/come to aid;<br>defend/g
 s/『επαν』/whenever/g
-s/『επαναγω』/to head on up/g
-s/『επαναιρεομαι』/to take upon one,<br>enter into/g
-s/『επανακαινιζω』/to renew,<br>to revive/g
-s/『επαναπαυομαι』/to rest upon/g
+s/『επαναγω』/head on up/g
+s/『επαναιρεομαι』/take upon one;<br>enter into/g
+s/『επανακαινιζω』/renew;<br>revive/g
+s/『επαναπαυομαι』/rest upon/g
 s/『επαναστασις』/「ἐπαναστάσις」/g
-s/『επαναστρεφω』/to return/g
-s/『επανατρυγαω』/to glean after the crop/g
-s/『επανδροω』/to make manly/g
-s/『επανερχομαι』/to come on up,<br>come back/g
-s/『επανηκω』/to have come back,<br>to return/g
-s/『επανθεω』/to bloom,<br>be in flower/g
-s/『επανιστημι』/to challenge/g
-s/『επανοδος』/a rising up/g
-s/『επανορθοω』/to set up again,<br>restore/g
+s/『επαναστρεφω』/return/g
+s/『επανατρυγαω』/glean after the crop/g
+s/『επανδροω』/make manly/g
+s/『επανερχομαι』/come on up;<br>come back/g
+s/『επανηκω』/have come back;<br>return/g
+s/『επανθεω』/bloom;<br>in flower/g
+s/『επανιστημι』/challenge/g
+s/『επανοδος』/rising up/g
+s/『επανορθοω』/set up again;<br>restore/g
 s/『επανορθωσις』/correction/g
-s/『επανω』/upon,<br>above/g
+s/『επανω』/upon;<br>above/g
 s/『επανωθε』/「ἐπάνωθε」/g
-s/『επανωθεν』/from above,<br>above/g
-s/『επαξονεω』/to enroll on tablets,<br>to register/g
+s/『επανωθεν』/from above;<br>above/g
+s/『επαξονεω』/enroll on tablets;<br>register/g
 s/『επαοιδη』/enchantment/g
-s/『επαοιδος』/enchanter,<br>charmer/g
-s/『επαποστελλω』/to send after;<br>to send upon/g
-s/『επαρδω』/to irrigate,<br>refresh/g
-s/『επαρηγω』/to come to aid,<br>help/g
-s/『επαρκεω』/to ward off/g
+s/『επαοιδος』/enchanter;<br>charmer/g
+s/『επαποστελλω』/send after;<br>send upon/g
+s/『επαρδω』/irrigate;<br>refresh/g
+s/『επαρηγω』/come to aid;<br>help/g
+s/『επαρκεω』/ward off/g
 s/『επαρμα』/foundation/g
 s/『επαρσις』/elevation/g
-s/『επαρυστηρ』/vessel for pouring oil,<br>funnel/g
+s/『επαρυστηρ』/vessel for pouring oil;<br>funnel/g
 s/『επαρυστριδας』/「ἐπαρυστρίδας」/g
-s/『επαρυστρις』/a pipe/g
-s/『επαρχος』/a commander/g
-s/『επαρχω』/to be governor of/g
-s/『επασθμαινω』/to breathe hard,<br>to pant in working/g
-s/『επαυλις』/a lodge/g
-s/『επαυξω』/to increase/g
-s/『επαυριον』/tomorrow,<br>next day/g
-s/『επαφιημι』/to discharge at/g
-s/『επεγγελαω』/to laugh at,<br>exult over/g
-s/『επεγειρω』/to arouse/g
-s/『επει』/since,<br>otherwise/g
-s/『επειγω』/to press down,<br>weigh down/g
+s/『επαρυστρις』/pipe/g
+s/『επαρχος』/commander/g
+s/『επαρχω』/governor of/g
+s/『επασθμαινω』/breathe hard;<br>pant in working/g
+s/『επαυλις』/lodge/g
+s/『επαυξω』/increase/g
+s/『επαυριον』/tomorrow;<br>next day/g
+s/『επαφιημι』/discharge at/g
+s/『επεγγελαω』/laugh at;<br>exult over/g
+s/『επεγειρω』/arouse/g
+s/『επει』/since;<br>otherwise/g
+s/『επειγω』/press down;<br>weigh down/g
 s/『επειδη』/since in fact/g
-s/『επειδον』/to look on,<br>have regard/g
-s/『επειμι』/to be upon/g
-s/『επεισερχομαι』/to come in besides/g
-s/『επεισφερω』/to bring in besides/g
+s/『επειδον』/look on;<br>have regard/g
+s/『επειμι』/upon/g
+s/『επεισερχομαι』/come in besides/g
+s/『επεισφερω』/bring in besides/g
 s/『επειτα』/afterward/g
 s/『επεκεινα』/beyond/g
-s/『επεκχεω』/to rush upon/g
-s/『επελπιζω』/to buoy up with hope,<br>to cheat with false hopes/g
-s/『επενδυτης』/a smock/g
-s/『επεξερχομαι』/to go out against,<br>make a sally against/g
-s/『επερειδω』/to drive against,<br>drive home/g
-s/『επερχομαι』/to come on\/against/g
-s/『επερωταω』/to interrogate,<br>inquire of/g
-s/『επερωτημα』/an interrogative,<br>pledge/g
+s/『επεκχεω』/rush upon/g
+s/『επελπιζω』/buoy up with hope;<br>cheat with false hopes/g
+s/『επενδυτης』/smock/g
+s/『επεξερχομαι』/go out against;<br>make a sally against/g
+s/『επερειδω』/drive against;<br>drive home/g
+s/『επερχομαι』/come on\/against/g
+s/『επερωταω』/interrogate;<br>inquire of/g
+s/『επερωτημα』/interrogative;<br>pledge/g
 s/『επερωτησις』/interrogation/g
-s/『επευθυμεω』/to rejoice at/g
+s/『επευθυμεω』/rejoice at/g
 s/『επευκτη』/「ἐπευκτή」/g
 s/『επευκτος』/longed for/g
-s/『επευχομαι』/to pray/g
-s/『επεχω』/to fix on,<br>hold on/g
+s/『επευχομαι』/pray/g
+s/『επεχω』/fix on;<br>hold on/g
 s/『επηκοος』/listening/g
-s/『επηλυτος』/foreigner,<br>immigrant/g
+s/『επηλυτος』/foreigner;<br>immigrant/g
 s/『επηρμενων』/「ἐπηρμένων」/g
-s/『επι』/in,<br>on/g
-s/『επιβαθρα』/a ladder/g
-s/『επιβαινω』/to mount,<br>step on/g
-s/『επιβαλλω』/to impose,<br>cast on/g
-s/『επιβασις』/a stepping upon,<br>approaching: a means of approach/g
+s/『επι』/in;<br>on/g
+s/『επιβαθρα』/ladder/g
+s/『επιβαινω』/mount;<br>step on/g
+s/『επιβαλλω』/impose;<br>cast on/g
+s/『επιβασις』/stepping upon;<br>approaching: a means of approach/g
 s/『επιβατης』/one who mounts/g
-s/『επιβιβαζω』/to pull on,<br>put on/g
-s/『επιβιοω』/to live over/g
-s/『επιβλεπω』/to look on/g
-s/『επιβλημα』/a patch/g
-s/『επιβοαω』/to scream out/g
-s/『επιβοηθεω』/to come to aid,<br>to succour/g
-s/『επιβολαιον』/covering,<br>wrapper/g
-s/『επιβολη』/a throwing/g
-s/『επιβουλευω』/to plan/g
-s/『επιβουλη』/a plot/g
+s/『επιβιβαζω』/pull on;<br>put on/g
+s/『επιβιοω』/live over/g
+s/『επιβλεπω』/look on/g
+s/『επιβλημα』/patch/g
+s/『επιβοαω』/scream out/g
+s/『επιβοηθεω』/come to aid;<br>succour/g
+s/『επιβολαιον』/covering;<br>wrapper/g
+s/『επιβολη』/throwing/g
+s/『επιβουλευω』/plan/g
+s/『επιβουλη』/plot/g
 s/『επιβουλος』/plotting against/g
-s/『επιβρεχω』/to rain upon/g
-s/『επιβριθω』/to fall heavy upon,<br>fall heavily/g
-s/『επιγαμβρευω』/to marry as next of kin,<br>intermarry/g
+s/『επιβρεχω』/rain upon/g
+s/『επιβριθω』/fall heavy upon;<br>fall heavily/g
+s/『επιγαμβρευω』/marry as next of kin;<br>intermarry/g
 s/『επιγαμια』/intermarriage/g
-s/『επιγελαω』/to laugh approvingly/g
-s/『επιγεμιζω』/to impose as a burden/g
-s/『επιγινομαι』/to come up/g
-s/『επιγινωσκω』/to recognize,<br>find out/g
+s/『επιγελαω』/laugh approvingly/g
+s/『επιγεμιζω』/impose as a burden/g
+s/『επιγινομαι』/come up/g
+s/『επιγινωσκω』/recognize;<br>find out/g
 s/『επιγνωμοσυνη』/prudence/g
-s/『επιγνωμων』/an arbiter,<br>umpire/g
+s/『επιγνωμων』/arbiter;<br>umpire/g
 s/『επιγνωσις』/recognition/g
 s/『επιγνωστος』/known/g
-s/『επιγονη』/increase,<br>growth/g
-s/『επιγραφω』/to inscribe/g
+s/『επιγονη』/increase;<br>growth/g
+s/『επιγραφω』/inscribe/g
 s/『επιδεης』/in want of/g
-s/『επιδεικνυμι』/to display,<br>show/g
-s/『επιδειξις』/a shewing forth,<br>making known/g
+s/『επιδεικνυμι』/display;<br>show/g
+s/『επιδειξις』/shewing forth;<br>making known/g
 s/『επιδεκατος』/one in ten/g
 s/『επιδεξιον』/「ἐπιδέξιον」/g
 s/『επιδεξιος』/towards the right/g
-s/『επιδεχομαι』/to welcome/g
+s/『επιδεχομαι』/welcome/g
 s/『επιδεω』/「ἐπιδέω」/g
-s/『επιδηλος』/seen clearly,<br>manifest/g
-s/『επιδιαιρεω』/to divide up/g
-s/『επιδιδωμι』/to give to,<br>give in/g
-s/『επιδιπλοω』/to double/g
-s/『επιδιωκω』/to pursue after/g
+s/『επιδηλος』/seen clearly;<br>manifest/g
+s/『επιδιαιρεω』/divide up/g
+s/『επιδιδωμι』/give to;<br>give in/g
+s/『επιδιπλοω』/double/g
+s/『επιδιωκω』/pursue after/g
 s/『επιδοξος』/likely/g
-s/『επιδοξως』/gloriously,<br>honourably/g
-s/『επιδυω』/to set on/g
+s/『επιδοξως』/gloriously;<br>honourably/g
+s/『επιδυω』/set on/g
 s/『επιεικεια』/fairness/g
-s/『επιεικευομαι』/to deal mercifully with/g
+s/『επιεικευομαι』/deal mercifully with/g
 s/『επιεικεως』/「ἐπιεικέως」/g
 s/『επιεικης』/fair/g
 s/『επιεικως』/「ἐπιεικῶς」/g
-s/『επιζαω』/to survive/g
-s/『επιζευγνυμι』/to join at top/g
-s/『επιζημιον』/fine,<br>punishment/g
-s/『επιζητεω』/to strive for,<br>search for/g
+s/『επιζαω』/survive/g
+s/『επιζευγνυμι』/join at top/g
+s/『επιζημιον』/fine;<br>punishment/g
+s/『επιζητεω』/strive for;<br>search for/g
 s/『επιθανατιος』/on the point of death/g
 s/『επιθεμα』/cover;<br>heave-offering?/g
-s/『επιθεσις』/putting on,<br>laying on/g
-s/『επιθεω』/to run at/g
-s/『επιθεωρεω』/to consider/g
-s/『επιθυμεω』/to long for,<br>aspire/g
-s/『επιθυμημα』/an object of desire/g
+s/『επιθεσις』/putting on;<br>laying on/g
+s/『επιθεω』/run at/g
+s/『επιθεωρεω』/consider/g
+s/『επιθυμεω』/long for;<br>aspire/g
+s/『επιθυμημα』/object of desire/g
 s/『επιθυμητα』/「ἐπιθυμητά」/g
 s/『επιθυμητη』/「ἐπιθυμητή」/g
-s/『επιθυμητης』/aspirant,<br>one who longs/g
+s/『επιθυμητης』/aspirant;<br>one who longs/g
 s/『επιθυμητος』/cravings/g
-s/『επιθυμια』/longing,<br>aspiration/g
+s/『επιθυμια』/longing;<br>aspiration/g
 s/『επιθυω』/「ἐπιθύω」/g
-s/『επικαθημαι』/to sit upon/g
-s/『επικαθιζω』/to sit upon/g
-s/『επικαινιζω』/to renew,<br>to restore/g
+s/『επικαθημαι』/sit upon/g
+s/『επικαθιζω』/sit upon/g
+s/『επικαινιζω』/renew;<br>restore/g
 s/『επικαιρος』/in fit time/g
-s/『επικαλεω』/to invoke,<br>nickname/g
+s/『επικαλεω』/invoke;<br>nickname/g
 s/『επικαλυμμα』/concealment/g
-s/『επικαλυπτω』/to conceal/g
-s/『επικαρπολογεομαι』/to glean/g
-s/『επικαταλαμβανω』/to catch up,<br>overtake/g
-s/『επικαταραομαι』/to bring curses;<br>to call down curses upon/g
+s/『επικαλυπτω』/conceal/g
+s/『επικαρπολογεομαι』/glean/g
+s/『επικαταλαμβανω』/catch up;<br>overtake/g
+s/『επικαταραομαι』/bring curses;<br>call down curses upon/g
 s/『επικαταρατος』/cursed/g
-s/『επικειμαι』/to be laid upon,<br>imposed/g
-s/『επικερδης』/profitable,<br>advantageous/g
-s/『επικινδυνος』/in danger,<br>dangerous/g
-s/『επικινεω』/to be moved at/g
-s/『επικλησις』/a surname/g
-s/『επικλητος』/called upon,<br>called in as allies/g
-s/『επικλινω』/to incline/g
-s/『επικλυζω』/to overflow/g
-s/『επικοιμαομαι』/to fall asleep over/g
-s/『επικοινωνεω』/to communicate with/g
+s/『επικειμαι』/laid upon;<br>imposed/g
+s/『επικερδης』/profitable;<br>advantageous/g
+s/『επικινδυνος』/in danger;<br>dangerous/g
+s/『επικινεω』/moved at/g
+s/『επικλησις』/surname/g
+s/『επικλητος』/called upon;<br>called in as allies/g
+s/『επικλινω』/incline/g
+s/『επικλυζω』/overflow/g
+s/『επικοιμαομαι』/fall asleep over/g
+s/『επικοινωνεω』/communicate with/g
 s/『επικοπη』/slaughter/g
-s/『επικοσμεω』/to add ornaments to,<br>to decorate after/g
+s/『επικοσμεω』/add ornaments to;<br>decorate after/g
 s/『επικουρια』/aid/g
 s/『επικουφιζομαι』/「ἐπικουφίζομαι」/g
-s/『επικραταιοω』/to be added strength to,<br>to be confirmed/g
-s/『επικρατεια』/mastery,<br>dominion/g
-s/『επικρατεω』/to prevail/g
+s/『επικραταιοω』/added strength to;<br>confirmed/g
+s/『επικρατεια』/mastery;<br>dominion/g
+s/『επικρατεω』/prevail/g
 s/『επικρατησις』/victory over/g
-s/『επικρεμαννυμι』/to hang over/g
-s/『επικρινω』/to adjudicate/g
-s/『επικροτεω』/to rattle over/g
-s/『επικρουω』/to strike upon/g
+s/『επικρεμαννυμι』/hang over/g
+s/『επικρινω』/adjudicate/g
+s/『επικροτεω』/rattle over/g
+s/『επικρουω』/strike upon/g
 s/『επικτητος』/gained besides/g
 s/『επικυλινδεω』/「ἐπικυλινδέω」/g
-s/『επικυφος』/bent over,<br>crooked/g
-s/『επιλαμβανομαι』/to take hold\/after/g
-s/『επιλαμπω』/to shine after/g
-s/『επιλανθανομαι』/to forget/g
-s/『επιλεγω』/to call/g
+s/『επικυφος』/bent over;<br>crooked/g
+s/『επιλαμβανομαι』/take hold\/after/g
+s/『επιλαμπω』/shine after/g
+s/『επιλανθανομαι』/forget/g
+s/『επιλεγω』/call/g
 s/『επιλεκτος』/choice/g
 s/『επιληπτευομαι』/「ἐπιληπτεύομαι」/g
 s/『επιληπτος』/caught/g
 s/『επιλησμονη』/forgetfulness/g
-s/『επιλογιζομαι』/to reckon over,<br>conclude/g
+s/『επιλογιζομαι』/reckon over;<br>conclude/g
 s/『επιλοιπος』/remaining time/g
-s/『επιλυπεω』/to annoy/g
-s/『επιμαινομαι』/to be mad after,<br>dote upon/g
-s/『επιμαρτυρεω』/to thoroughly testify/g
+s/『επιλυπεω』/annoy/g
+s/『επιμαινομαι』/mad after;<br>dote upon/g
+s/『επιμαρτυρεω』/thoroughly testify/g
 s/『επιμελεια』/care/g
-s/『επιμελεομαι』/to care for,<br>take care of/g
+s/『επιμελεομαι』/care for;<br>take care of/g
 s/『επιμελως』/carefully/g
-s/『επιμενω』/to continue,<br>stay on/g
-s/『επιμηκης』/longish,<br>oblong/g
-s/『επιμιγνυμι』/to add to by mixing,<br>mix with/g
+s/『επιμενω』/continue;<br>stay on/g
+s/『επιμηκης』/longish;<br>oblong/g
+s/『επιμιγνυμι』/add to by mixing;<br>mix with/g
 s/『επιμικτος』/mixed/g
-s/『επιμιμνησκομαι』/to bethink oneself of,<br>to remember/g
-s/『επιμιξ』/confusedly,<br>promiscuously/g
-s/『επιμονη』/a staying on,<br>tarrying/g
-s/『επιμοχθος』/laborious,<br>tiring/g
+s/『επιμιμνησκομαι』/bethink oneself of;<br>remember/g
+s/『επιμιξ』/confusedly;<br>promiscuously/g
+s/『επιμονη』/staying on;<br>tarrying/g
+s/『επιμοχθος』/laborious;<br>tiring/g
 s/『επιμυλιον』/「ἐπιμυλίον」/g
 s/『επιμυλιος』/「ἐπιμύλιος」/g
-s/『επινευω』/to consent/g
-s/『επινεφης』/clouded,<br>dark/g
-s/『επινικιος』/of victory,<br>triumphal/g
-s/『επινοεω』/to think on/g
-s/『επινοια』/rumination,<br>conception/g
-s/『επινυσταζω』/to drop asleep over/g
-s/『επιξενοομαι』/to have hospitable relations with,<br>be intimate with/g
-s/『επιορκεω』/to perjure/g
-s/『επιορκια』/a false oath/g
+s/『επινευω』/consent/g
+s/『επινεφης』/clouded;<br>dark/g
+s/『επινικιος』/of victory;<br>triumphal/g
+s/『επινοεω』/think on/g
+s/『επινοια』/rumination;<br>conception/g
+s/『επινυσταζω』/drop asleep over/g
+s/『επιξενοομαι』/have hospitable relations with;<br>intimate with/g
+s/『επιορκεω』/perjure/g
+s/『επιορκια』/false oath/g
 s/『επιορκος』/perjured/g
-s/『επιπαραγινομαι』/to arrive also,<br>to come also up/g
+s/『επιπαραγινομαι』/arrive also;<br>come also up/g
 s/『επιπεμπτος』/「ἐπίπεμπτος」/g
-s/『επιπεμπω』/to send besides/g
-s/『επιπετομαι』/to fly to/g
-s/『επιπιπτω』/to fall on\/upon/g
-s/『επιπληξις』/rebuke,<br>reproof/g
-s/『επιπληροω』/to fill up again/g
-s/『επιποθεω』/to yearn/g
-s/『επιπολαζω』/to come to the surface,<br>float/g
-s/『επιπολαιως』/on the surface,<br>superficially/g
-s/『επιπονος』/painful,<br>toilsome/g
-s/『επιπορευομαι』/to travel on/g
-s/『επιπροσθεω』/to be before/g
-s/『επιρραινω』/to sprinkle upon/g
+s/『επιπεμπω』/send besides/g
+s/『επιπετομαι』/fly to/g
+s/『επιπιπτω』/fall on\/upon/g
+s/『επιπληξις』/rebuke;<br>reproof/g
+s/『επιπληροω』/fill up again/g
+s/『επιποθεω』/yearn/g
+s/『επιπολαζω』/come to the surface;<br>float/g
+s/『επιπολαιως』/on the surface;<br>superficially/g
+s/『επιπονος』/painful;<br>toilsome/g
+s/『επιπορευομαι』/travel on/g
+s/『επιπροσθεω』/before/g
+s/『επιρραινω』/sprinkle upon/g
 s/『επιρραντιζω』/「ἐπιρραντίζω」/g
-s/『επιρρεω』/to flow upon the surface,<br>float a-top/g
+s/『επιρρεω』/flow upon the surface;<br>float a-top/g
 s/『επιρριπτεω』/「ἐπιρριπτέω」/g
-s/『επιρριπτω』/to fling on/g
-s/『επιρρωγολογεομαι』/to glean grapes/g
-s/『επιρρωννυμι』/to add strength to,<br>strengthen/g
-s/『επισαγμα』/a load on/g
-s/『επισαττω』/to load/g
-s/『επισειω』/to shake at/g
-s/『επισημαινω』/to set a mark upon/g
-s/『επισημος』/notorious,<br>notable/g
-s/『επισιτιζομαι』/to furnish oneself with food/g
+s/『επιρριπτω』/fling on/g
+s/『επιρρωγολογεομαι』/glean grapes/g
+s/『επιρρωννυμι』/add strength to;<br>strengthen/g
+s/『επισαγμα』/load on/g
+s/『επισαττω』/load/g
+s/『επισειω』/shake at/g
+s/『επισημαινω』/set a mark upon/g
+s/『επισημος』/notorious;<br>notable/g
+s/『επισιτιζομαι』/furnish oneself with food/g
 s/『επισιτισμος』/provisions/g
-s/『επισκαζω』/to limp on/g
-s/『επισκεπαζω』/to cover or put over/g
-s/『επισκεπτομαι』/to visit,<br>inspect/g
-s/『επισκευαζω』/to pack/g
-s/『επισκεψις』/inspection,<br>visitation/g
-s/『επισκιαζω』/to overshadow/g
-s/『επισκοπεω』/to supervise,<br>observe/g
-s/『επισκοπη』/supervision,<br>visitation/g
-s/『επισκοπος』/a supervisor/g
+s/『επισκαζω』/limp on/g
+s/『επισκεπαζω』/cover or put over/g
+s/『επισκεπτομαι』/visit;<br>inspect/g
+s/『επισκευαζω』/pack/g
+s/『επισκεψις』/inspection;<br>visitation/g
+s/『επισκιαζω』/overshadow/g
+s/『επισκοπεω』/supervise;<br>observe/g
+s/『επισκοπη』/supervision;<br>visitation/g
+s/『επισκοπος』/supervisor/g
 s/『επισος』/「ἔπισος」/g
-s/『επισπαομαι』/to allure,<br>drag by/g
-s/『επισπαστρον』/that which is drawn over,<br>curtain/g
-s/『επισπευδω』/to urge on,<br>further/g
-s/『επισπλαγχνιζομαι』/to have compassion/g
-s/『επισπουδαζω』/to urge on/g
+s/『επισπαομαι』/allure;<br>drag by/g
+s/『επισπαστρον』/that which is drawn over;<br>curtain/g
+s/『επισπευδω』/urge on;<br>further/g
+s/『επισπλαγχνιζομαι』/have compassion/g
+s/『επισπουδαζω』/urge on/g
 s/『επισπουδαστης』/one who presses on a work/g
-s/『επισταμαι』/to be well aware,<br>stand over/g
-s/『επιστατεω』/to be set over/g
-s/『επιστατης』/superintendent,<br>chief/g
+s/『επισταμαι』/well aware;<br>stand over/g
+s/『επιστατεω』/set over/g
+s/『επιστατης』/superintendent;<br>chief/g
 s/『επιστημη』/acquaintance with/g
 s/『επιστημων』/expert/g
 s/『επιστηριγμα』/support/g
-s/『επιστηριζω』/to prop up,<br>steady/g
-s/『επιστοιβαζω』/to pile up/g
-s/『επιστολη』/a letter/g
+s/『επιστηριζω』/prop up;<br>steady/g
+s/『επιστοιβαζω』/pile up/g
+s/『επιστολη』/letter/g
 s/『επιστοποιεω』/「ἐπιστοποιέω」/g
-s/『επιστρατεια』/a march/g
-s/『επιστρατευω』/to march against/g
+s/『επιστρατεια』/march/g
+s/『επιστρατευω』/march against/g
 s/『επιστρατηγος』/viceroy/g
-s/『επιστρατοπεδευω』/to encamp/g
-s/『επιστρεφω』/to turn around,<br>return/g
-s/『επιστροφη』/a conversion/g
-s/『επισυναγω』/to gather together,<br>bring in/g
+s/『επιστρατοπεδευω』/encamp/g
+s/『επιστρεφω』/turn around;<br>return/g
+s/『επιστροφη』/conversion/g
+s/『επισυναγω』/gather together;<br>bring in/g
 s/『επισυναγωγη』/gathering together/g
-s/『επισυνεχω』/to take to oneself/g
-s/『επισυνιστημι』/to bring upon;<br>to conspire against/g
-s/『επισυστασις』/awareness,<br>an insurrection/g
-s/『επισυστρεφω』/to collect together/g
-s/『επισφαλλω』/dangerous,<br>risky/g
+s/『επισυνεχω』/take to oneself/g
+s/『επισυνιστημι』/bring upon;<br>conspire against/g
+s/『επισυστασις』/awareness;<br>insurrection/g
+s/『επισυστρεφω』/collect together/g
+s/『επισφαλλω』/dangerous;<br>risky/g
 s/『επισφαλως』/unstable/g
-s/『επισφραγιζω』/to put a seal on,<br>to confirm/g
-s/『επισχυω』/to force on/g
+s/『επισφραγιζω』/put a seal on;<br>confirm/g
+s/『επισχυω』/force on/g
 s/『επιταγη』/ordinance/g
-s/『επιταγμα』/an injunction,<br>command/g
-s/『επιταρασσω』/to trouble/g
-s/『επιτασις』/a stretching/g
-s/『επιτασσω』/to order/g
+s/『επιταγμα』/injunction;<br>command/g
+s/『επιταρασσω』/trouble/g
+s/『επιτασις』/stretching/g
+s/『επιτασσω』/order/g
 s/『επιταφιον』/tomb/g
-s/『επιτεινω』/to stretch upon/g
-s/『επιτελεω』/to finish off,<br>perform/g
-s/『επιτεμνω』/to cut on the surface,<br>make an incision/g
-s/『επιτερπης』/pleasing,<br>delightful/g
+s/『επιτεινω』/stretch upon/g
+s/『επιτελεω』/finish off;<br>perform/g
+s/『επιτεμνω』/cut on the surface;<br>make an incision/g
+s/『επιτερπης』/pleasing;<br>delightful/g
 s/『επιτηδειος』/necessities/g
-s/『επιτηδευμα』/a pursuit/g
-s/『επιτηδευω』/to pursue/g
-s/『επιτηρεω』/to look out for/g
-s/『επιτιθημι』/to put on,<br>put another/g
-s/『επιτιμαω』/to admonish,<br>charge/g
-s/『επιτιμησις』/censure,<br>criticism/g
-s/『επιτιμια』/admonishment,<br>penalty/g
-s/『επιτιμιον』/the value,<br>price/g
+s/『επιτηδευμα』/pursuit/g
+s/『επιτηδευω』/pursue/g
+s/『επιτηρεω』/look out for/g
+s/『επιτιθημι』/put on;<br>put another/g
+s/『επιτιμαω』/admonish;<br>charge/g
+s/『επιτιμησις』/censure;<br>criticism/g
+s/『επιτιμια』/admonishment;<br>penalty/g
+s/『επιτιμιον』/value;<br>price/g
 s/『επιτιμος』/in possession of his rights and franchises/g
-s/『επιτομη』/a cutting on the surface,<br>incision/g
-s/『επιτρεπω』/to turn over,<br>permit/g
-s/『επιτρεχω』/to run over/g
-s/『επιτροπη』/a commission/g
-s/『επιτροπος』/an agent/g
-s/『επιτυγχανω』/to obtain,<br>be successful/g
+s/『επιτομη』/cutting on the surface;<br>incision/g
+s/『επιτρεπω』/turn over;<br>permit/g
+s/『επιτρεχω』/run over/g
+s/『επιτροπη』/commission/g
+s/『επιτροπος』/agent/g
+s/『επιτυγχανω』/obtain;<br>successful/g
 s/『επιτυχια』/success/g
-s/『επιφαινω』/to manifest/g
+s/『επιφαινω』/manifest/g
 s/『επιφανεια』/manifestation/g
-s/『επιφανης』/manifest,<br>notable/g
+s/『επιφανης』/manifest;<br>notable/g
 s/『επιφανης\.1』/「Ἐπιφανής」/g
-s/『επιφαυσκω』/to shine on/g
-s/『επιφερω』/to impose,<br>inflict/g
-s/『επιφημιζω』/to utter words ominous of the event/g
+s/『επιφαυσκω』/shine on/g
+s/『επιφερω』/impose;<br>inflict/g
+s/『επιφημιζω』/utter words ominous of the event/g
 s/『επιφι』/[NP]/g
-s/『επιφυλλιζω』/to gather;<br>to gather/g
-s/『επιφυλλις』/the small grapes left for gleaners/g
-s/『επιφυτευω』/to plant over/g
-s/『επιφυω』/to produce on/g
-s/『επιφωνεω』/to vocalize,<br>call out/g
-s/『επιχαιρω』/to rejoice over,<br>exult over/g
-s/『επιχαρης』/gratifying,<br>agreeable/g
-s/『επιχαρμα』/an object of malignant joy/g
-s/『επιχαρτος』/wherein one feels joy,<br>delightsome/g
-s/『επιχειρεω』/to take in hand,<br>attempt/g
-s/『επιχειρημα』/an attempt,<br>enterprise/g
+s/『επιφυλλιζω』/gather;<br>gather/g
+s/『επιφυλλις』/small grapes left for gleaners/g
+s/『επιφυτευω』/plant over/g
+s/『επιφυω』/produce on/g
+s/『επιφωνεω』/vocalize;<br>call out/g
+s/『επιχαιρω』/rejoice over;<br>exult over/g
+s/『επιχαρης』/gratifying;<br>agreeable/g
+s/『επιχαρμα』/object of malignant joy/g
+s/『επιχαρτος』/wherein one feels joy;<br>delightsome/g
+s/『επιχειρεω』/take in hand;<br>attempt/g
+s/『επιχειρημα』/attempt;<br>enterprise/g
 s/『επιχειρον』/wages of manual labour/g
-s/『επιχεω』/to pour on/g
-s/『επιχορηγεω』/to contribute,<br>supply/g
+s/『επιχεω』/pour on/g
+s/『επιχορηγεω』/contribute;<br>supply/g
 s/『επιχυσις』/pouring/g
-s/『επιχωρεω』/to give way,<br>yield/g
-s/『επιχωρησις』/concession,<br>permission/g
-s/『επιψαλλω』/to sing/g
-s/『επιψοφεω』/to stamp/g
-s/『εποζω』/to become stinking,<br>to putrefy/g
-s/『εποικιον』/village,<br>hamlet/g
-s/『επομαι』/to follow,<br>to obey/g
-s/『επονειδιστος』/to be reproached,<br>shameful/g
-s/『επονομαζω』/to be named/g
-s/『εποξυνω』/to hasten/g
-s/『εποπτης』/an eyewitness/g
-s/『εποπτικος』/the highest mysteries/g
-s/『εποργιζομαι』/to be angry/g
-s/『επος』/a saying,<br>almost/g
-s/『εποτρυνω』/to stir up,<br>excite/g
-s/『επουρανιος』/celestial,<br>heavenly/g
-s/『εποψ』/a hoopoe/g
+s/『επιχωρεω』/give way;<br>yield/g
+s/『επιχωρησις』/concession;<br>permission/g
+s/『επιψαλλω』/sing/g
+s/『επιψοφεω』/stamp/g
+s/『εποζω』/become stinking;<br>putrefy/g
+s/『εποικιον』/village;<br>hamlet/g
+s/『επομαι』/follow;<br>obey/g
+s/『επονειδιστος』/reproached;<br>shameful/g
+s/『επονομαζω』/named/g
+s/『εποξυνω』/hasten/g
+s/『εποπτης』/eyewitness/g
+s/『εποπτικος』/highest mysteries/g
+s/『εποργιζομαι』/angry/g
+s/『επος』/saying;<br>almost/g
+s/『εποτρυνω』/stir up;<br>excite/g
+s/『επουρανιος』/celestial;<br>heavenly/g
+s/『εποψ』/hoopoe/g
 s/『επτα』/seven/g
 s/『επταετης』/seven years old/g
 s/『επτακαιδεκα』/seventeen/g
@@ -5366,99 +5366,99 @@ s/『επτακισχιλιος』/「ἑπτακισχίλιος」/g
 s/『επτακοσιοι』/700/g
 s/『επταμηνος』/born in the seventh month/g
 s/『επταμητωρ』/mother of seven children/g
-s/『επταπλασιος』/sevenfold,<br>seven times/g
+s/『επταπλασιος』/sevenfold;<br>seven times/g
 s/『επταπλασιων』/sevenfold/g
 s/『επταπλασιως』/「ἑπταπλασίως」/g
 s/『επταπυργος』/seven-towered/g
 s/『επτυσμα』/「ἔπτυσμα」/g
-s/『επω』/to say,<br>speak/g
-s/『επωμις』/the point of the shoulder/g
+s/『επω』/say;<br>speak/g
+s/『επωμις』/point of the shoulder/g
 s/『επωνυμος』/given as a name/g
 s/『επωπιον』/「ἐπώπιον」/g
-s/『επωρυω』/to howl at/g
+s/『επωρυω』/howl at/g
 s/『εραηλ』/[NP]/g
-s/『εραστης』/a lover/g
+s/『εραστης』/lover/g
 s/『εραω』/「ἐράω」/g
-s/『εργαβ』/saddleback,<br>coffer?/g
+s/『εργαβ』/saddleback;<br>coffer?/g
 s/『εργαζο』/「ἐργάζο」/g
-s/『εργαζομαι』/to work,<br>perform/g
-s/『εργαλειον』/a tool,<br>instrument/g
-s/『εργασια』/occupation,<br>effort/g
+s/『εργαζομαι』/work;<br>perform/g
+s/『εργαλειον』/tool;<br>instrument/g
+s/『εργασια』/occupation;<br>effort/g
 s/『εργασιμη』/「ἐργασίμη」/g
 s/『εργασιμος』/arable/g
-s/『εργατεια』/labour,<br>work/g
-s/『εργατευομαι』/to work hard,<br>to labour/g
-s/『εργατης』/a worker/g
-s/『εργατις』/a workwoman/g
+s/『εργατεια』/labour;<br>work/g
+s/『εργατευομαι』/work hard;<br>labour/g
+s/『εργατης』/worker/g
+s/『εργατις』/workwoman/g
 s/『εργεω』/「ἐργέω」/g
-s/『εργοδιωκτεω』/to be a taskmaster/g
+s/『εργοδιωκτεω』/a taskmaster/g
 s/『εργοδιωκτης』/「ἐργοδιωκτής」/g
 s/『εργολαβεια』/「ἐργολάβεια」/g
 s/『εργον』/work/g
 s/『ερεα』/「ἐρέα」/g
 s/『ερεβ』/[NP]/g
 s/『ερεγαβα』/[NP]/g
-s/『ερεθιζω』/to excite,<br>irritate/g
-s/『ερεθισμα』/a stirring up,<br>exciting/g
+s/『ερεθιζω』/excite;<br>irritate/g
+s/『ερεθισμα』/stirring up;<br>exciting/g
 s/『ερεθισμος』/irritation;<br>rebelliousness/g
 s/『ερεθιστης』/「ἐρεθιστὴς」/g
 s/『ερειδομενος』/「ἐρειδόμενος」/g
-s/『ερειδω』/to stick fast,<br>support/g
+s/『ερειδω』/stick fast;<br>support/g
 s/『ερεικτος』/「ἐρεικτός」/g
-s/『ερεισμα』/a prop,<br>stay/g
+s/『ερεισμα』/prop;<br>stay/g
 s/『ερεμμων』/[NP]/g
-s/『ερεους』/of wool,<br>woollen/g
-s/『ερευγομαι』/to eject,<br>blurt out/g
-s/『ερευνα』/inquiry,<br>search/g
-s/『ερευναω』/to explore,<br>check/g
+s/『ερεους』/of wool;<br>woollen/g
+s/『ερευγομαι』/eject;<br>blurt out/g
+s/『ερευνα』/inquiry;<br>search/g
+s/『ερευναω』/explore;<br>check/g
 s/『ερευσομαι』/「ἐρεύσομαι」/g
 s/『ερεω』/[NP]/g
-s/『ερεω\.1』/to state,<br>be mentioned/g
+s/『ερεω\.1』/state;<br>mentioned/g
 s/『ερημα』/「ἔρημα」/g
-s/『ερημια』/a wilderness/g
-s/『ερημικος』/of or for solitude,<br>living in a desert/g
+s/『ερημια』/wilderness/g
+s/『ερημικος』/of or for solitude;<br>living in a desert/g
 s/『ερημιτης』/of the desert/g
-s/『ερημος』/lonesome,<br>wilderness/g
-s/『ερημοω』/to desolate,<br>desert/g
+s/『ερημος』/lonesome;<br>wilderness/g
+s/『ερημοω』/desolate;<br>desert/g
 s/『ερημωσις』/desolation/g
-s/『εριζω』/to dispute/g
-s/『εριθευομαι』/serve,<br>work for hire/g
-s/『εριθος』/a day-labourer,<br>hired servant/g
+s/『εριζω』/dispute/g
+s/『εριθευομαι』/serve;<br>work for hire/g
+s/『εριθος』/day-labourer;<br>hired servant/g
 s/『εριον』/wool/g
-s/『ερις』/dispute,<br>rivalry/g
-s/『εριφιον』/a little kid/g
-s/『εριφος』/a kid/g
+s/『ερις』/dispute;<br>rivalry/g
+s/『εριφιον』/little kid/g
+s/『εριφος』/kid/g
 s/『ερμα』/[NP]/g
 s/『ερμαθ』/[NP]/g
 s/『ερμαν』/[NP]/g
 s/『ερμηνεια』/interpretation/g
-s/『ερμηνευτης』/an interpreter/g
-s/『ερμηνευω』/to interpret/g
+s/『ερμηνευτης』/interpreter/g
+s/『ερμηνευω』/interpret/g
 s/『ερμων』/[NP]/g
 s/『ερμωνι』/[NP]/g
 s/『ερμωνιιμ』/[NP]/g
 s/『εροκ』/[NP]/g
 s/『εροψ』/「ἔροψ」/g
-s/『ερπετον』/a reptile/g
-s/『ερπω』/to crawl/g
-s/『ερυθαινω』/to dye red or scarlet/g
-s/『ερυθημα』/a redness on the skin/g
-s/『ερυθριαω』/to be apt to blush,<br>to colour up/g
-s/『ερυθροδανοω』/to dye with madder,<br>to dye red/g
+s/『ερπετον』/reptile/g
+s/『ερπω』/crawl/g
+s/『ερυθαινω』/dye red or scarlet/g
+s/『ερυθημα』/redness on the skin/g
+s/『ερυθριαω』/apt to blush;<br>colour up/g
+s/『ερυθροδανοω』/dye with madder;<br>dye red/g
 s/『ερυθρος』/red/g
-s/『ερυμνος』/fenced,<br>fortified/g
+s/『ερυμνος』/fenced;<br>fortified/g
 s/『ερυμνοτης』/strength/g
 s/『ερυσιβη』/rust/g
-s/『ερυω』/to drag along the ground,<br>drag/g
+s/『ερυω』/drag along the ground;<br>drag/g
 s/『ερχι』/[NP]/g
-s/『ερχομαι』/to come,<br>go/g
+s/『ερχομαι』/come;<br>go/g
 s/『ερω』/「ἑρῶ」/g
 s/『ερωδιος』/heron/g
 s/『ερωμαφ』/[NP]/g
 s/『ερωμωθ』/[NP]/g
 s/『ερως』/love/g
-s/『ερωταω』/to question,<br>request/g
-s/『ερωτημα』/that which is asked,<br>a question/g
+s/『ερωταω』/question;<br>request/g
+s/『ερωτημα』/that which is asked;<br>question/g
 s/『εσαβανα』/[NP]/g
 s/『εσαν』/[NP]/g
 s/『εσδρα』/[NP]/g
@@ -5490,14 +5490,14 @@ s/『εσθεμω』/[NP]/g
 s/『εσθεμωη』/[NP]/g
 s/『εσθεμων』/[NP]/g
 s/『εσθηρ』/[NP]/g
-s/『εσθης』/dress,<br>attire/g
-s/『εσθησις』/dress,<br>outfit/g
+s/『εσθης』/dress;<br>attire/g
+s/『εσθησις』/dress;<br>outfit/g
 s/『εσθιε』/[NP]/g
-s/『εσθιω』/to eat,<br>consume/g
+s/『εσθιω』/eat;<br>consume/g
 s/『εσι』/[NP]/g
 s/『εσκαιμαν』/[NP]/g
 s/『εσοβα』/[NP]/g
-s/『εσοπτρον』/a mirror/g
+s/『εσοπτρον』/mirror/g
 s/『εσπερα』/evening/g
 s/『εσπερινος』/towards evening/g
 s/『εσπερος』/at evening/g
@@ -5510,255 +5510,255 @@ s/『εσριηλι』/[NP]/g
 s/『εσρικαμ』/[NP]/g
 s/『εσρωμ』/[NP]/g
 s/『εστερημαι』/「ἐστέρημαι」/g
-s/『εστια』/the hearth of a house,<br>fireside/g
+s/『εστια』/hearth of a house;<br>fireside/g
 s/『εστιατορια』/allowance of food;<br>feast/g
-s/『εσχαρα』/the hearth,<br>fire-place/g
+s/『εσχαρα』/hearth;<br>fire-place/g
 s/『εσχαριτης』/that which is baked over the fire/g
-s/『εσχατιζω』/to be last,<br>to come too late/g
+s/『εσχατιζω』/last;<br>come too late/g
 s/『εσχατογηρος』/「ἐσχατογήρος」/g
 s/『εσχατογηρως』/「ἐσχατόγηρως」/g
-s/『εσχατος』/last,<br>farthest part/g
+s/『εσχατος』/last;<br>farthest part/g
 s/『εσχωλ』/[NP]/g
-s/『εσω』/inside,<br>inner/g
+s/『εσω』/inside;<br>inner/g
 s/『εσωθ』/[NP]/g
-s/『εσωθεν』/from inside,<br>inwardly/g
+s/『εσωθεν』/from inside;<br>inwardly/g
 s/『εσωτατος』/innermost/g
 s/『εσωτερος』/inner/g
-s/『εταζω』/to test/g
-s/『εταιρα』/a companion/g
-s/『εταιριζω』/to be a comrade/g
+s/『εταζω』/test/g
+s/『εταιρα』/companion/g
+s/『εταιριζω』/a comrade/g
 s/『εταιρος』/partner/g
-s/『ετασις』/trial,<br>affliction/g
-s/『ετασμος』/a test/g
+s/『ετασις』/trial;<br>affliction/g
+s/『ετασμος』/test/g
 s/『ετεβαθα』/[NP]/g
 s/『ετεροζυγος』/coupled with an animal of diverse kind/g
-s/『ετεροκλινως』/rebelliously,<br>inclined to the other side/g
-s/『ετερος』/different,<br>alternate/g
+s/『ετεροκλινως』/rebelliously;<br>inclined to the other side/g
+s/『ετερος』/different;<br>alternate/g
 s/『ετερωθεν』/from the other side/g
 s/『ετηλ』/[NP]/g
-s/『ετι』/yet,<br>still/g
-s/『ετοιμαζω』/to prepare/g
+s/『ετι』/yet;<br>still/g
+s/『ετοιμαζω』/prepare/g
 s/『ετοιμασια』/preparation/g
-s/『ετοιμος』/ready,<br>prepared/g
+s/『ετοιμος』/ready;<br>prepared/g
 s/『ετοιμως』/ready/g
-s/『ετος』/a year/g
+s/『ετος』/year/g
 s/『ευ』/well/g
 s/『ευα』/[NP]/g
 s/『ευαγγελια』/good tidings/g
-s/『ευαγγελιζω』/to deliver the good message\/gospel,<br>preach/g
-s/『ευαγγελιον』/messenger's reward,<br>gospel/g
+s/『ευαγγελιζω』/deliver the good message\/gospel;<br>preach/g
+s/『ευαγγελιον』/messenger's reward;<br>gospel/g
 s/『ευαιος』/[NP]/g
 s/『ευαλωτος』/easy to be taken/g
 s/『ευαν』/[NP]/g
-s/『ευανδρια』/abundance of men,<br>store of goodly men/g
-s/『ευαπαντητος』/affable,<br>courteous/g
-s/『ευαρεστεω』/to delight/g
+s/『ευανδρια』/abundance of men;<br>store of goodly men/g
+s/『ευαπαντητος』/affable;<br>courteous/g
+s/『ευαρεστεω』/delight/g
 s/『ευαρεστος』/delightful/g
-s/『ευαρμοστος』/well-joined,<br>harmonious/g
-s/『ευγε』/well,<br>rightly/g
-s/『ευγενεια』/nobility of birth,<br>high descent/g
+s/『ευαρμοστος』/well-joined;<br>harmonious/g
+s/『ευγε』/well;<br>rightly/g
+s/『ευγενεια』/nobility of birth;<br>high descent/g
 s/『ευγενης』/noble/g
-s/『ευγενιζω』/to ennoble,<br>to exercise honourably/g
-s/『ευγενως』/nobly,<br>bravely/g
-s/『ευγνωμοσυνη』/kindness of heart,<br>considerateness/g
-s/『ευγνωστος』/well-known,<br>familiar/g
+s/『ευγενιζω』/ennoble;<br>exercise honourably/g
+s/『ευγενως』/nobly;<br>bravely/g
+s/『ευγνωμοσυνη』/kindness of heart;<br>considerateness/g
+s/『ευγνωστος』/well-known;<br>familiar/g
 s/『ευδια』/fair weather/g
-s/『ευδοκεω』/to be satisfied/g
-s/『ευδοκια』/benevolence,<br>satisfaction/g
-s/『ευδοκιμεω』/to be of good repute/g
-s/『ευδοκιμος』/in good repute,<br>honoured/g
+s/『ευδοκεω』/satisfied/g
+s/『ευδοκια』/benevolence;<br>satisfaction/g
+s/『ευδοκιμεω』/of good repute/g
+s/『ευδοκιμος』/in good repute;<br>honoured/g
 s/『ευδρανεια』/bodily strength and health/g
-s/『ευειδης』/well-shaped,<br>goodly/g
-s/『ευεκτεω』/to be in good health/g
-s/『ευελπις』/of good hope,<br>hopeful/g
-s/『ευεξια』/a good habit of body,<br>good state of health/g
+s/『ευειδης』/well-shaped;<br>goodly/g
+s/『ευεκτεω』/in good health/g
+s/『ευελπις』/of good hope;<br>hopeful/g
+s/『ευεξια』/good habit of body;<br>good state of health/g
 s/『ευεργεσια』/benefit/g
-s/『ευεργετεω』/to benefit/g
-s/『ευεργετημα』/a service done,<br>kindness/g
+s/『ευεργετεω』/benefit/g
+s/『ευεργετημα』/service done;<br>kindness/g
 s/『ευεργετης』/[NP]/g
-s/『ευεργετης\.1』/a benefactor/g
+s/『ευεργετης\.1』/benefactor/g
 s/『ευεργετικος』/beneficent/g
 s/『ευζαι』/[NP]/g
 s/『ευζωνος』/well-girdled/g
-s/『ευηθης』/good-hearted,<br>open-hearted/g
+s/『ευηθης』/good-hearted;<br>open-hearted/g
 s/『ευηκοος』/obedient/g
-s/『ευημερεω』/to spend the day cheerfully,<br>live happily from day to day/g
-s/『ευημερια』/fineness of the day,<br>good weather/g
+s/『ευημερεω』/spend the day cheerfully;<br>live happily from day to day/g
+s/『ευημερια』/fineness of the day;<br>good weather/g
 s/『ευηχης』/「εὐήχης」/g
 s/『ευηχος』/「εὐήχος」/g
 s/『ευθαλεω』/「εὐθαλέω」/g
-s/『ευθαλης』/blooming,<br>flourishing/g
+s/『ευθαλης』/blooming;<br>flourishing/g
 s/『ευθαρσης』/of good courage/g
 s/『ευθαρσως』/boldly/g
 s/『ευθετος』/fit/g
 s/『ευθεως』/immediately/g
-s/『ευθηνεω』/to thrive/g
+s/『ευθηνεω』/thrive/g
 s/『ευθηνια』/prosperity/g
-s/『ευθης』/straightforward,<br>right/g
-s/『ευθικτως』/touching the point,<br>conveniently/g
+s/『ευθης』/straightforward;<br>right/g
+s/『ευθικτως』/touching the point;<br>conveniently/g
 s/『ευθραστος』/「εὔθραστος」/g
-s/『ευθυμος』/stimulatedly,<br>cheerfully/g
-s/『ευθυνα』/a setting straight,<br>correction/g
-s/『ευθυνω』/to straighten,<br>steer/g
-s/『ευθυς』/straight,<br>directly/g
-s/『ευθυτης』/straightness,<br>direction/g
+s/『ευθυμος』/stimulatedly;<br>cheerfully/g
+s/『ευθυνα』/setting straight;<br>correction/g
+s/『ευθυνω』/straighten;<br>steer/g
+s/『ευθυς』/straight;<br>directly/g
+s/『ευθυτης』/straightness;<br>direction/g
 s/『ευι』/[NP]/g
 s/『ευιλα』/[NP]/g
 s/『ευιλατ』/[NP]/g
-s/『ευιλατευω』/to be merciful to/g
+s/『ευιλατευω』/merciful to/g
 s/『ευιλατος』/「εὐΐλατος」/g
 s/『ευιλμαρωδαχ』/[NP]/g
 s/『ευιν』/[NP]/g
-s/『ευκαιρια』/an opportunity/g
+s/『ευκαιρια』/opportunity/g
 s/『ευκαιρος』/opportune/g
 s/『ευκαιρως』/opportunely/g
-s/『ευκαταλλακτος』/easily appeased,<br>placable/g
-s/『ευκαταφρονητος』/easy to be despised,<br>contemptible/g
+s/『ευκαταλλακτος』/easily appeased;<br>placable/g
+s/『ευκαταφρονητος』/easy to be despised;<br>contemptible/g
 s/『ευκινητος』/easily moved/g
-s/『ευκλεης』/of good report,<br>famous/g
-s/『ευκλεια』/good repute,<br>glory/g
-s/『ευκληματεω』/to grow luxuriantly/g
-s/『ευκολος』/easily satisfied,<br>contented with one's food/g
-s/『ευκοπια』/ease,<br>facility/g
+s/『ευκλεης』/of good report;<br>famous/g
+s/『ευκλεια』/good repute;<br>glory/g
+s/『ευκληματεω』/grow luxuriantly/g
+s/『ευκολος』/easily satisfied;<br>contented with one's food/g
+s/『ευκοπια』/ease;<br>facility/g
 s/『ευκοπος』/easier/g
-s/『ευκοσμεω』/to behave in an orderly fashion/g
-s/『ευκοσμια』/orderly behaviour,<br>good conduct/g
-s/『ευκυκλος』/well-rounded,<br>round/g
+s/『ευκοσμεω』/behave in an orderly fashion/g
+s/『ευκοσμια』/orderly behaviour;<br>good conduct/g
+s/『ευκυκλος』/well-rounded;<br>round/g
 s/『ευλαβεια』/conscientiousness/g
-s/『ευλαβεομαι』/to be conscientious/g
+s/『ευλαβεομαι』/conscientious/g
 s/『ευλαβης』/conscientious/g
-s/『ευλαβως』/reverently,<br>piously/g
+s/『ευλαβως』/reverently;<br>piously/g
 s/『ευλαλος』/sweetly-speaking/g
-s/『ευλογεω』/to commend,<br>acclaim/g
-s/『ευλογητος』/commended,<br>commendable/g
-s/『ευλογια』/commendation,<br>acclamation/g
-s/『ευλογιστια』/caution,<br>prudence/g
+s/『ευλογεω』/commend;<br>acclaim/g
+s/『ευλογητος』/commended;<br>commendable/g
+s/『ευλογια』/commendation;<br>acclamation/g
+s/『ευλογιστια』/caution;<br>prudence/g
 s/『ευμα』/[NP]/g
 s/『ευμαθως』/skilfully/g
-s/『ευμεγεθης』/of good size,<br>very large/g
-s/『ευμελης』/musical,<br>rhythmical/g
-s/『ευμενεια』/the character of the/g
+s/『ευμεγεθης』/of good size;<br>very large/g
+s/『ευμελης』/musical;<br>rhythmical/g
+s/『ευμενεια』/character of the/g
 s/『ευμενης』/[NP]/g
-s/『ευμενης\.1』/well-disposed,<br>favourable/g
+s/『ευμενης\.1』/well-disposed;<br>favourable/g
 s/『ευμενως』/favourably/g
 s/『ευμεταβολος』/changeable/g
-s/『ευμηκης』/of a good length,<br>tall/g
-s/『ευμορφια』/beauty of form,<br>symmetry/g
-s/『ευμορφος』/fair of form,<br>comely/g
-s/『ευνοεω』/to be favorable/g
+s/『ευμηκης』/of a good length;<br>tall/g
+s/『ευμορφια』/beauty of form;<br>symmetry/g
+s/『ευμορφος』/fair of form;<br>comely/g
+s/『ευνοεω』/favorable/g
 s/『ευνοια』/favor/g
-s/『ευνομια』/good order,<br>order/g
-s/『ευνους』/well-minded,<br>well-disposed/g
-s/『ευνουχος』/a eunuch/g
-s/『ευοδια\.1』/a good journey,<br>wishes for a good journey/g
+s/『ευνομια』/good order;<br>order/g
+s/『ευνους』/well-minded;<br>well-disposed/g
+s/『ευνουχος』/eunuch/g
+s/『ευοδια\.1』/good journey;<br>wishes for a good journey/g
 s/『ευοδος』/easy to pass/g
-s/『ευοδοω』/to prosper/g
+s/『ευοδοω』/prosper/g
 s/『ευοδως』/easily/g
 s/『ευοπτος』/conspicuous/g
-s/『ευπαθεω』/to be well off,<br>enjoy oneself/g
+s/『ευπαθεω』/well off;<br>enjoy oneself/g
 s/『ευπαρυφος』/with fine purple border/g
 s/『ευπατορα』/[NP]/g
 s/『ευπατωρ』/[NP]/g
 s/『ευπειθεια』/ready obedience/g
-s/『ευπειθεω』/to be disposed to obey/g
+s/『ευπειθεω』/disposed to obey/g
 s/『ευπολεμος』/[NP]/g
-s/『ευπορεω』/to prosper/g
+s/『ευπορεω』/prosper/g
 s/『ευπραξια』/good conduct/g
 s/『ευπρεπεια』/beauty/g
 s/『ευπρεπης』/decent/g
-s/『ευπρεπως』/handsomely,<br>elegantly/g
+s/『ευπρεπως』/handsomely;<br>elegantly/g
 s/『ευπροσηγορος』/easy of address/g
 s/『ευπροσωπος』/pretty/g
-s/『ευρεμα』/finding,<br>piece of good luck/g
-s/『ευρεσις』/a finding,<br>discovery/g
-s/『ευρετης』/an inventor,<br>discoverer/g
+s/『ευρεμα』/finding;<br>piece of good luck/g
+s/『ευρεσις』/finding;<br>discovery/g
+s/『ευρετης』/inventor;<br>discoverer/g
 s/『ευρετος』/discoverable/g
 s/『ευρισκε』/「εὑρίσκε」/g
-s/『ευρισκω』/to find/g
-s/『ευρος』/breadth,<br>width/g
+s/『ευρισκω』/find/g
+s/『ευρος』/breadth;<br>width/g
 s/『ευρυθμος』/rhythmical/g
-s/『ευρυς』/wide,<br>broad/g
+s/『ευρυς』/wide;<br>broad/g
 s/『ευρυχωρια』/area/g
 s/『ευρυχωρος』/spacious/g
-s/『ευρωστος』/stout,<br>strong/g
-s/『ευρωστως』/strongly,<br>mightily/g
+s/『ευρωστος』/stout;<br>strong/g
+s/『ευρωστως』/strongly;<br>mightily/g
 s/『ευρωτια』/「εὐρωτία」/g
 s/『ευσεβεια』/reverence/g
-s/『ευσεβεω』/to revere/g
+s/『ευσεβεω』/revere/g
 s/『ευσεβης』/reverent/g
 s/『ευσημος』/significant/g
-s/『ευσημως』/clearly,<br>distinctly/g
-s/『ευσκιος』/well shaded,<br>shadowy/g
+s/『ευσημως』/clearly;<br>distinctly/g
+s/『ευσκιος』/well shaded;<br>shadowy/g
 s/『ευσπλαγχνος』/receptive/g
-s/『ευσταθεια』/stability: good health,<br>vigour/g
-s/『ευσταθεω』/to be steady,<br>favourable/g
-s/『ευσταθης』/well-based,<br>well-built/g
+s/『ευσταθεια』/stability: good health;<br>vigour/g
+s/『ευσταθεω』/steady;<br>favourable/g
+s/『ευσταθης』/well-based;<br>well-built/g
 s/『ευστοχος』/well-aimed/g
 s/『ευστοχως』/with a good aim/g
-s/『ευστροφια』/suppleness,<br>versatility/g
+s/『ευστροφια』/suppleness;<br>versatility/g
 s/『ευσυναλλακτως』/peaceably/g
 s/『ευσχημοσυνη』/fashion/g
 s/『ευσχημων』/fashionable/g
-s/『ευτακτεω』/to be orderly,<br>behave well/g
+s/『ευτακτεω』/orderly;<br>behave well/g
 s/『ευτακτως』/「εὐτάκτως」/g
-s/『ευταξια』/good arrangement,<br>good condition/g
-s/『ευτεκνια』/the blessing of children,<br>a breed of goodly children/g
-s/『ευτελης』/easily paid for,<br>cheap/g
-s/『ευτελως』/poorly,<br>meanly/g
+s/『ευταξια』/good arrangement;<br>good condition/g
+s/『ευτεκνια』/blessing of children;<br>breed of goodly children/g
+s/『ευτελης』/easily paid for;<br>cheap/g
+s/『ευτελως』/poorly;<br>meanly/g
 s/『ευτηκτος』/easily melted/g
-s/『ευτολμια』/courage,<br>boldness/g
+s/『ευτολμια』/courage;<br>boldness/g
 s/『ευτονια』/vigour/g
-s/『ευτονος』/well-strung,<br>vigorous/g
+s/『ευτονος』/well-strung;<br>vigorous/g
 s/『ευτονως』/intensely/g
-s/『ευτρεπιζω』/to make ready,<br>get ready/g
-s/『ευφημεω』/to use words of good omen/g
-s/『ευφθαρτος』/easily destroyed,<br>perishable/g
-s/『ευφραινω』/to celebrate,<br>cheer/g
+s/『ευτρεπιζω』/make ready;<br>get ready/g
+s/『ευφημεω』/use words of good omen/g
+s/『ευφθαρτος』/easily destroyed;<br>perishable/g
+s/『ευφραινω』/celebrate;<br>cheer/g
 s/『ευφρατης』/[NP]/g
 s/『ευφροσυνη』/celebration/g
 s/『ευφροσυνος』/in good cheer/g
-s/『ευφυης』/well-grown,<br>shapely/g
-s/『ευχαρις』/pleasing,<br>engaging/g
-s/『ευχαριστεω』/to give thanks,<br>thank/g
+s/『ευφυης』/well-grown;<br>shapely/g
+s/『ευχαρις』/pleasing;<br>engaging/g
+s/『ευχαριστεω』/give thanks;<br>thank/g
 s/『ευχαριστια』/thanks/g
 s/『ευχαριστος』/thankful/g
-s/『ευχερης』/easily handled,<br>easy to deal with/g
+s/『ευχερης』/easily handled;<br>easy to deal with/g
 s/『ευχερως』/easily/g
-s/『ευχη』/a wish,<br>vow/g
-s/『ευχομαι』/to wish,<br>make/g
+s/『ευχη』/wish;<br>vow/g
+s/『ευχομαι』/wish;<br>make/g
 s/『ευχρηστια』/ready use/g
 s/『ευχρηστος』/well-suited/g
-s/『ευψυχια』/good courage,<br>high spirit/g
-s/『ευψυχος』/of good courage,<br>stout of heart/g
+s/『ευψυχια』/good courage;<br>high spirit/g
+s/『ευψυχος』/of good courage;<br>stout of heart/g
 s/『ευψυχως』/courageously/g
-s/『ευωδης』/sweet-smelling,<br>fragrant/g
+s/『ευωδης』/sweet-smelling;<br>fragrant/g
 s/『ευωδια』/fragrance/g
-s/『ευωδιαζω』/to have a bouquet/g
-s/『ευωνυμος』/well-named,<br>southerly/g
-s/『ευωχεω』/to treat/g
-s/『ευωχια』/good cheer,<br>feasting/g
+s/『ευωδιαζω』/have a bouquet/g
+s/『ευωνυμος』/well-named;<br>southerly/g
+s/『ευωχεω』/treat/g
+s/『ευωχια』/good cheer;<br>feasting/g
 s/『εφααθ』/[NP]/g
 s/『εφαδανω』/「ἐφαδανώ」/g
-s/『εφαλλομαι』/to spring on/g
-s/『εφαμαρτανω』/to seduce to sin/g
-s/『εφαπτω』/to bind on/g
-s/『εφαρμοζω』/to fit on/g
-s/『εφελκω』/to draw on,<br>drag/g
+s/『εφαλλομαι』/spring on/g
+s/『εφαμαρτανω』/seduce to sin/g
+s/『εφαπτω』/bind on/g
+s/『εφαρμοζω』/fit on/g
+s/『εφελκω』/draw on;<br>drag/g
 s/『εφερμεμ』/[NP]/g
-s/『εφεστιος』/at one's own fireside,<br>at home/g
+s/『εφεστιος』/at one's own fireside;<br>at home/g
 s/『εφετιος』/annual/g
-s/『εφηβειον』/a place for the training of youth/g
+s/『εφηβειον』/place for the training of youth/g
 s/『εφηβος』/「ἐφήβος」/g
 s/『εφηλος』/with a white speck on/g
-s/『εφημερια』/daily group,<br>division/g
-s/『εφθος』/boiled,<br>dressed/g
-s/『εφικτος』/easy to reach,<br>accessible/g
-s/『εφιππος』/on horseback,<br>riding/g
-s/『εφιστημι』/to stand over\/by,<br>get attention/g
-s/『εφοδευω』/to visit,<br>go the rounds/g
-s/『εφοδιαζω』/to furnish with supplies for a journey/g
+s/『εφημερια』/daily group;<br>division/g
+s/『εφθος』/boiled;<br>dressed/g
+s/『εφικτος』/easy to reach;<br>accessible/g
+s/『εφιππος』/on horseback;<br>riding/g
+s/『εφιστημι』/stand over\/by;<br>get attention/g
+s/『εφοδευω』/visit;<br>go the rounds/g
+s/『εφοδιαζω』/furnish with supplies for a journey/g
 s/『εφοδιον』/travelling-allowance/g
-s/『εφοδος』/approach,<br>coming/g
+s/『εφοδος』/approach;<br>coming/g
 s/『εφουδ』/ephod/g
 s/『εφρα』/[NP]/g
 s/『εφραθ』/[NP]/g
@@ -5769,29 +5769,29 @@ s/『εφραθι』/[NP]/g
 s/『εφραθιτης』/[NP]/g
 s/『εφραιμ』/[NP]/g
 s/『εφρων』/[NP]/g
-s/『εφυβριστος』/wanton,<br>insolent/g
+s/『εφυβριστος』/wanton;<br>insolent/g
 s/『εφωδ』/ephod/g
 s/『εφωθ』/ephod/g
 s/『εχελα』/[NP]/g
 s/『εχθρα』/hostility/g
-s/『εχθραινω』/to hate/g
-s/『εχθρευω』/to be at enmity;<br>to be at enmity with/g
+s/『εχθραινω』/hate/g
+s/『εχθρευω』/at enmity;<br>at enmity with/g
 s/『εχθρια』/hostility/g
-s/『εχθρος』/hostile,<br>enemy/g
-s/『εχινος』/the urchin,<br>hedgehog/g
-s/『εχις』/an adder,<br>viper/g
+s/『εχθρος』/hostile;<br>enemy/g
+s/『εχινος』/urchin;<br>hedgehog/g
+s/『εχις』/adder;<br>viper/g
 s/『εχοζοβ』/[NP]/g
-s/『εχομενως』/thereupon,<br>immediately afterwards/g
+s/『εχομενως』/thereupon;<br>immediately afterwards/g
 s/『εχραν』/[NP]/g
-s/『εχω』/to have,<br>hold/g
+s/『εχω』/have;<br>hold/g
 s/『εχωχι』/[NP]/g
-s/『εψεμα』/a stew/g
-s/『εψω』/to boil/g
+s/『εψεμα』/stew/g
+s/『εψω』/boil/g
 s/『εωβης』/[NP]/g
 s/『εωθινος』/early/g
-s/『εωλος』/a day old,<br>kept till the morrow/g
-s/『εως』/till,<br>until/g
-s/『εωσφορος』/morning star,<br>morning/g
+s/『εωλος』/day old;<br>kept till the morrow/g
+s/『εως』/till;<br>until/g
+s/『εωσφορος』/morning star;<br>morning/g
 s/『ϝʹ』/[M]/g
 s/『ζʹ』/[M]/g
 s/『ζαβαδ』/[NP]/g
@@ -5849,36 +5849,36 @@ s/『ζαχαριας』/[NP]/g
 s/『ζαχουρ』/[NP]/g
 s/『ζαχρι』/[NP]/g
 s/『ζαχωρ』/[NP]/g
-s/『ζαω』/to live,<br>be alive/g
+s/『ζαω』/live;<br>alive/g
 s/『ζεα』/one-seeded wheat/g
 s/『ζεβεε』/[NP]/g
 s/『ζεβουλ』/[NP]/g
 s/『ζεθομ』/[NP]/g
 s/『ζελφα』/[NP]/g
-s/『ζεμα』/lewdness,<br>loose conduct?/g
+s/『ζεμα』/lewdness;<br>loose conduct?/g
 s/『ζεμβραν』/[NP]/g
 s/『ζεμμα』/[NP]/g
 s/『ζεμμαθ』/[NP]/g
 s/『ζεμραν』/[NP]/g
 s/『ζερδαιας』/[NP]/g
-s/『ζευγιζω』/to unite,<br>to join/g
-s/『ζευγνυω』/to yoke/g
-s/『ζευγος』/a yoke,<br>couple/g
+s/『ζευγιζω』/unite;<br>join/g
+s/『ζευγνυω』/yoke/g
+s/『ζευγος』/yoke;<br>couple/g
 s/『ζευς』/[NP]/g
 s/『ζεχρι』/[NP]/g
 s/『ζεχωρα』/[NP]/g
-s/『ζεω』/to be zesty/g
+s/『ζεω』/zesty/g
 s/『ζηβ』/[NP]/g
-s/『ζηλος』/zeal,<br>jealousy/g
-s/『ζηλοτυπια』/jealousy,<br>rivalry/g
-s/『ζηλοω』/to be zealous,<br>be jealous/g
-s/『ζηλωσις』/emulation,<br>imitation/g
-s/『ζηλωτης\.1』/a zealot/g
+s/『ζηλος』/zeal;<br>jealousy/g
+s/『ζηλοτυπια』/jealousy;<br>rivalry/g
+s/『ζηλοω』/zealous;<br>jealous/g
+s/『ζηλωσις』/emulation;<br>imitation/g
+s/『ζηλωτης\.1』/zealot/g
 s/『ζηλωτος』/enviable/g
 s/『ζημια』/loss/g
-s/『ζημιοω』/to lose,<br>incur loss/g
-s/『ζητεω』/to seek,<br>desire/g
-s/『ζητησις』/inquiry,<br>inquest/g
+s/『ζημιοω』/lose;<br>incur loss/g
+s/『ζητεω』/seek;<br>desire/g
+s/『ζητησις』/inquiry;<br>inquest/g
 s/『ζιβυνη』/spear/g
 s/『ζιζα』/[NP]/g
 s/『ζιφ』/[NP]/g
@@ -5892,69 +5892,69 @@ s/『ζουε』/[NP]/g
 s/『ζουζα』/[NP]/g
 s/『ζουκαμ』/[NP]/g
 s/『ζουκαν』/[NP]/g
-s/『ζυγος』/a yoke/g
-s/『ζυγοω』/to yoke together/g
+s/『ζυγος』/yoke/g
+s/『ζυγοω』/yoke together/g
 s/『ζυθος』/beer/g
 s/『ζυμη』/leaven/g
 s/『ζυμιτης』/leavened/g
 s/『ζυμουσθαι』/「ζυμοῦσθαι」/g
-s/『ζυμοω』/to leaven/g
-s/『ζυμωτος』/leavened,<br>fermented/g
+s/『ζυμοω』/leaven/g
+s/『ζυμωτος』/leavened;<br>fermented/g
 s/『ζωαθ』/[NP]/g
-s/『ζωγραφεω』/to paint from life,<br>to paint/g
-s/『ζωγραφια』/the art of painting/g
+s/『ζωγραφεω』/paint from life;<br>paint/g
+s/『ζωγραφια』/art of painting/g
 s/『ζωγρεια』/taking alive/g
-s/『ζωγρεω』/to capture/g
-s/『ζωγρια』/a taking alive/g
+s/『ζωγρεω』/capture/g
+s/『ζωγρια』/taking alive/g
 s/『ζωγριας』/one taken alive/g
 s/『ζωελεθ』/[NP]/g
-s/『ζωη』/life,<br>vitality/g
+s/『ζωη』/life;<br>vitality/g
 s/『ζωμος』/broth/g
-s/『ζωνη』/a belt,<br>a sash/g
-s/『ζωννυμι』/to gird/g
+s/『ζωνη』/belt;<br>sash/g
+s/『ζωννυμι』/gird/g
 s/『ζωοβ』/[NP]/g
-s/『ζωογονεω』/to produce life,<br>make live/g
-s/『ζωον』/an animal/g
-s/『ζωοποιεω』/to make alive,<br>life-maker/g
-s/『ζωοω』/to make alive,<br>to quicken/g
-s/『ζωπυρεω』/to kindle into flame,<br>light up/g
-s/『ζωπυρον』/a spark,<br>ember/g
+s/『ζωογονεω』/produce life;<br>make live/g
+s/『ζωον』/animal/g
+s/『ζωοποιεω』/make alive;<br>life-maker/g
+s/『ζωοω』/make alive;<br>quicken/g
+s/『ζωπυρεω』/kindle into flame;<br>light up/g
+s/『ζωπυρον』/spark;<br>ember/g
 s/『ζωσαρα』/[NP]/g
 s/『ζωσις』/girding/g
-s/『ζωτικος』/full of life,<br>lively/g
-s/『η』/or,<br>than/g
+s/『ζωτικος』/full of life;<br>lively/g
+s/『η』/or;<br>than/g
 s/『η\.1』/surely/g
 s/『ηʹ』/[M]/g
-s/『ηγεμονια』/leadership,<br>reign/g
+s/『ηγεμονια』/leadership;<br>reign/g
 s/『ηγεμονιδης』/「ἡγεμονίδης」/g
 s/『ηγεμονικος』/ready to lead/g
-s/『ηγεμων』/a leader,<br>governor/g
-s/『ηγεομαι』/to lead,<br>consider/g
-s/『ηγημα』/a purpose/g
+s/『ηγεμων』/leader;<br>governor/g
+s/『ηγεομαι』/lead;<br>consider/g
+s/『ηγημα』/purpose/g
 s/『ηγησις』/command/g
 s/『ηγητεον』/one must lead/g
 s/『ηδαδ』/[NP]/g
 s/『ηδαις』/[NP]/g
 s/『ηδαν』/[NP]/g
-s/『ηδεως』/sweetly,<br>gladly/g
+s/『ηδεως』/sweetly;<br>gladly/g
 s/『ηδη』/already/g
 s/『ηδιν』/[NP]/g
-s/『ηδομαι』/to enjoy oneself,<br>take delight/g
+s/『ηδομαι』/enjoy oneself;<br>take delight/g
 s/『ηδονη』/pleasure/g
-s/『ηδυνω』/to sweeten,<br>season/g
-s/『ηδυπαθεια』/pleasant living,<br>luxury/g
+s/『ηδυνω』/sweeten;<br>season/g
+s/『ηδυπαθεια』/pleasant living;<br>luxury/g
 s/『ηδυς』/sweet/g
 s/『ηδυσμα』/that which gives a relish/g
-s/『ηδυσμος』/sweet savour,<br>sweetness/g
+s/『ηδυσμος』/sweet savour;<br>sweetness/g
 s/『ηδυφωνος』/sweet-voiced/g
 s/『ηδω』/his disaster;<br>light/g
 s/『ηζιρ』/[NP]/g
 s/『ηθ』/「ηθ」/g
 s/『ηθαμ』/[NP]/g
 s/『ηθιρ』/[NP]/g
-s/『ηθολογεω』/to express characteristically/g
-s/『ηθος』/a haunt/g
-s/『ηκω』/to be here/g
+s/『ηθολογεω』/express characteristically/g
+s/『ηθος』/haunt/g
+s/『ηκω』/here/g
 s/『ηλα』/[NP]/g
 s/『ηλαμ』/[NP]/g
 s/『ηλαμ-ααρ』/[NP]/g
@@ -5965,17 +5965,17 @@ s/『ηλασα』/[NP]/g
 s/『ηλεκτρον』/「ἠλέκτρον」/g
 s/『ηλι\.1』/[NP]/g
 s/『ηλια』/[NP]/g
-s/『ηλιαζομαι』/to sit in the court/g
+s/『ηλιαζομαι』/sit in the court/g
 s/『ηλιαθα』/[NP]/g
 s/『ηλιαμ』/[NP]/g
 s/『ηλιας』/[NP]/g
-s/『ηλικια』/adulthood,<br>age/g
-s/『ηλικιωτης』/an equal in age,<br>fellow/g
+s/『ηλικια』/adulthood;<br>age/g
+s/『ηλικιωτης』/equal in age;<br>fellow/g
 s/『ηλιοδωρος』/[NP]/g
-s/『ηλιος』/the sun/g
+s/『ηλιος』/sun/g
 s/『ηλιου』/[NP]/g
 s/『ηλκανα』/[NP]/g
-s/『ηλος』/a nail/g
+s/『ηλος』/nail/g
 s/『ηλωνμαωνενιμ』/[NP]/g
 s/『ημαδαβουν』/[NP]/g
 s/『ημαθ』/[NP]/g
@@ -5984,18 +5984,18 @@ s/『ημασαραιμ』/[NP]/g
 s/『ημεις』/we/g
 s/『ημερα』/day/g
 s/『ημεροομαι』/「ἡμερόομαι」/g
-s/『ημερος』/tame,<br>tamed/g
+s/『ημερος』/tame;<br>tamed/g
 s/『ημετερος』/our own/g
 s/『ημην』/I was/g
 s/『ημι』/[NP]/g
-s/『ημιεφθος』/half-boiled,<br>half-cooked/g
+s/『ημιεφθος』/half-boiled;<br>half-cooked/g
 s/『ημιθανης』/half dead/g
 s/『ημιθνητος』/half-dead/g
 s/『ημιμ』/[NP]/g
-s/『ημιν』/to us/g
-s/『ημιονος』/a mule/g
-s/『ημισευμα』/a half/g
-s/『ημισευω』/to halve/g
+s/『ημιν』/us/g
+s/『ημιονος』/mule/g
+s/『ημισευμα』/half/g
+s/『ημισευω』/halve/g
 s/『ημισυς』/half/g
 s/『ημων』/our/g
 s/『ηναδαδ』/[NP]/g
@@ -6005,13 +6005,13 @@ s/『ηναν』/[NP]/g
 s/『ηνγαδδι』/[NP]/g
 s/『ηνγαννιμ』/[NP]/g
 s/『ηνια』/[NP]/g
-s/『ηνια\.1』/bridle,<br>rein/g
-s/『ηνικα』/whenever,<br>when/g
-s/『ηνιοχος』/one who holds the reins,<br>a driver/g
+s/『ηνια\.1』/bridle;<br>rein/g
+s/『ηνικα』/whenever;<br>when/g
+s/『ηνιοχος』/one who holds the reins;<br>driver/g
 s/『ηνρεμμων』/[NP]/g
-s/『ηνυστρον』/the fourth stomach of ruminating animals/g
+s/『ηνυστρον』/fourth stomach of ruminating animals/g
 s/『ηπαρ』/emotions/g
-s/『ηπατοσκοπεω』/to inspect the liver for soothsaying/g
+s/『ηπατοσκοπεω』/inspect the liver for soothsaying/g
 s/『ηπερ』/than/g
 s/『ηπιοτης』/gentleness/g
 s/『ηρ』/[NP]/g
@@ -6020,10 +6020,10 @@ s/『ηραε』/[NP]/g
 s/『ηρακλης』/[NP]/g
 s/『ηραμ』/[NP]/g
 s/『ηρεμ』/[NP]/g
-s/『ηρεμαζω』/to be still,<br>to be prostrated/g
+s/『ηρεμαζω』/still;<br>prostrated/g
 s/『ηρεμαζων』/「ἠρεμάζων」/g
 s/『ηρων』/[NP]/g
-s/『ηρως』/a hero/g
+s/『ηρως』/hero/g
 s/『ησαιας』/[NP]/g
 s/『ησαμ』/[NP]/g
 s/『ησαμαθιμ』/[NP]/g
@@ -6031,21 +6031,21 @@ s/『ησαρει』/[NP]/g
 s/『ησαυ』/[NP]/g
 s/『ησεραι』/[NP]/g
 s/『ησυηλος』/[NP]/g
-s/『ησυχαζω』/to be tranquil,<br>keep quiet/g
-s/『ησυχη』/stilly,<br>quietly/g
-s/『ησυχια』/tranquility,<br>quiet/g
+s/『ησυχαζω』/tranquil;<br>keep quiet/g
+s/『ησυχη』/stilly;<br>quietly/g
+s/『ησυχια』/tranquility;<br>quiet/g
 s/『ησυχιος』/tranquil/g
-s/『ησυχος』/still,<br>quiet/g
+s/『ησυχος』/still;<br>quiet/g
 s/『ηταμ』/[NP]/g
 s/『ητοι』/whether/g
-s/『ητταω』/to defeat/g
+s/『ητταω』/defeat/g
 s/『ηττημα』/defeat/g
-s/『ηττον』/worse,<br>less/g
+s/『ηττον』/worse;<br>less/g
 s/『ηφαδ』/[NP]/g
 s/『ηχα』/[NP]/g
-s/『ηχεω』/to sound/g
-s/『ηχος』/noise,<br>sound/g
-s/『ηχω』/a sound/g
+s/『ηχεω』/sound/g
+s/『ηχος』/noise;<br>sound/g
+s/『ηχω』/sound/g
 s/『ηψηθη』/「ἡψήθη」/g
 s/『θʹ』/[M]/g
 s/『θααθ』/[NP]/g
@@ -6066,20 +6066,20 @@ s/『θαιμανιτις』/[NP]/g
 s/『θαιμανων』/[NP]/g
 s/『θακουαθ』/[NP]/g
 s/『θαλαβιν』/[NP]/g
-s/『θαλαμος』/an inner room/g
+s/『θαλαμος』/inner room/g
 s/『θαλασσα』/sea/g
-s/『θαλασσιος』/of,<br>in/g
+s/『θαλασσιος』/of;<br>in/g
 s/『θαλε』/[NP]/g
-s/『θαλλος』/a young shoot,<br>young branch/g
-s/『θαλλω』/to sprout/g
+s/『θαλλος』/young shoot;<br>young branch/g
+s/『θαλλω』/sprout/g
 s/『θαλπιωθ』/courses of stones/g
-s/『θαλπω』/to foster,<br>care for/g
+s/『θαλπω』/foster;<br>care for/g
 s/『θαλχα』/[NP]/g
 s/『θαμανα』/[NP]/g
 s/『θαμαρ』/[NP]/g
 s/『θαμασι』/[NP]/g
 s/『θαμβεομαι』/「θαμβέομαι」/g
-s/『θαμβεω』/to amaze,<br>wonder/g
+s/『θαμβεω』/amaze;<br>wonder/g
 s/『θαμβος』/amazement/g
 s/『θαμμουζ』/[NP]/g
 s/『θαμνα』/[NP]/g
@@ -6095,13 +6095,13 @@ s/『θαναεμεθ』/[NP]/g
 s/『θανακ』/[NP]/g
 s/『θανατηφορος』/lethal/g
 s/『θανατος』/death/g
-s/『θανατοω』/to put to death/g
+s/『θανατοω』/put to death/g
 s/『θανατωσις』/「θανατώσις」/g
 s/『θανεμαθ』/[NP]/g
 s/『θανθαναι』/[NP]/g
 s/『θαννουριμ』/furnaces/g
 s/『θαπους』/[NP]/g
-s/『θαπτω』/to bury,<br>have a funeral for/g
+s/『θαπτω』/bury;<br>have a funeral for/g
 s/『θαρα』/[NP]/g
 s/『θαραβα』/[NP]/g
 s/『θαραβααμ』/[NP]/g
@@ -6115,17 +6115,17 @@ s/『θαρεηλα』/[NP]/g
 s/『θαρθακ』/[NP]/g
 s/『θαρθαν』/[NP]/g
 s/『θαρρα』/[NP]/g
-s/『θαρραλεως』/bravely,<br>manfully/g
-s/『θαρρεω』/to have courage/g
+s/『θαρραλεως』/bravely;<br>manfully/g
+s/『θαρρεω』/have courage/g
 s/『θαρσα』/[NP]/g
-s/『θαρσαλεος』/bold,<br>of good courage/g
+s/『θαρσαλεος』/bold;<br>of good courage/g
 s/『θαρσεας』/[NP]/g
-s/『θαρσεω』/to be brave/g
+s/『θαρσεω』/brave/g
 s/『θαρσιλα』/[NP]/g
 s/『θαρσις』/[NP]/g
-s/『θαρσις\.1』/precious stone,<br>beryl/g
+s/『θαρσις\.1』/precious stone;<br>beryl/g
 s/『θαρσος』/courage/g
-s/『θαρσυνω』/to encourage,<br>cheer/g
+s/『θαρσυνω』/encourage;<br>cheer/g
 s/『θαρχνα』/[NP]/g
 s/『θασιρι』/[NP]/g
 s/『θασμους』/[NP]/g
@@ -6133,17 +6133,17 @@ s/『θασοβαν』/[NP]/g
 s/『θασσι』/[NP]/g
 s/『θαυ』/「θαυ」/g
 s/『θαυμα』/wonder/g
-s/『θαυμαζω』/to wonder/g
-s/『θαυμασιος』/wonderful,<br>wonders/g
-s/『θαυμασμος』/a marvelling/g
+s/『θαυμαζω』/wonder/g
+s/『θαυμασιος』/wonderful;<br>wonders/g
+s/『θαυμασμος』/marvelling/g
 s/『θαυμαστος』/wonderful/g
-s/『θαυμαστοω』/to treat wonderfully,<br>to magnify/g
-s/『θαυμαστως』/wonderfully,<br>terribly/g
+s/『θαυμαστοω』/treat wonderfully;<br>magnify/g
+s/『θαυμαστως』/wonderfully;<br>terribly/g
 s/『θαφεθ』/[NP]/g
 s/『θαφθωθ』/[NP]/g
 s/『θαχχια』/[NP]/g
-s/『θεα』/a goddess/g
-s/『θεαομαι』/to watch,<br>be a spectator/g
+s/『θεα』/goddess/g
+s/『θεαομαι』/watch;<br>spectator/g
 s/『θεβες』/[NP]/g
 s/『θεδμορ』/[NP]/g
 s/『θεε』/room/g
@@ -6168,119 +6168,119 @@ s/『θεκωιτις』/[NP]/g
 s/『θελαμιν』/[NP]/g
 s/『θελαρησα』/[NP]/g
 s/『θελερσας』/[NP]/g
-s/『θελημα』/determination,<br>will/g
+s/『θελημα』/determination;<br>will/g
 s/『θελης』/「θέλης」/g
 s/『θελησις』/determination/g
-s/『θελητης』/one who wills,<br>one who wishes/g
-s/『θελητος』/wished for,<br>desired/g
+s/『θελητης』/one who wills;<br>one who wishes/g
+s/『θελητος』/wished for;<br>desired/g
 s/『θελμελεθ』/[NP]/g
-s/『θελω』/to determine,<br>will/g
+s/『θελω』/determine;<br>will/g
 s/『θεμα』/[NP]/g
 s/『θεμα\.1』/treasure;<br>pile/g
 s/『θεμαδ』/[NP]/g
-s/『θεμελιον』/a foundation/g
-s/『θεμελιος』/a foundation/g
-s/『θεμελιοω』/to found/g
+s/『θεμελιον』/foundation/g
+s/『θεμελιος』/foundation/g
+s/『θεμελιοω』/found/g
 s/『θεμελιωσις』/foundation/g
 s/『θεμις』/that which is laid down/g
-s/『θεμιτος』/allowed by the laws of God and men,<br>righteous/g
+s/『θεμιτος』/allowed by the laws of God and men;<br>righteous/g
 s/『θεμμων』/[NP]/g
 s/『θενναχ』/[NP]/g
 s/『θεννουριμ』/furnaces/g
 s/『θεοδοτος』/[NP]/g
 s/『θεοκτιστος』/established by God/g
-s/『θεομαχεω』/to fight God/g
+s/『θεομαχεω』/fight God/g
 s/『θεος』/God/g
-s/『θεοσεβεια』/divine reverence,<br>awe of God/g
-s/『θεοσεβης』/God-revering,<br>reverential to God/g
+s/『θεοσεβεια』/divine reverence;<br>awe of God/g
+s/『θεοσεβης』/God-revering;<br>reverential to God/g
 s/『θεοτοκος』/mother of God/g
 s/『θερα』/[NP]/g
-s/『θεραπαινα』/a waiting maid,<br>handmaid/g
+s/『θεραπαινα』/waiting maid;<br>handmaid/g
 s/『θεραπαινης』/「θεραπαίνης」/g
 s/『θεραπεια』/ministry/g
-s/『θεραπευω』/to cure,<br>minister to/g
-s/『θεραπων』/a minister/g
-s/『θεραφιν』/teraphim,<br>idols/g
+s/『θεραπευω』/cure;<br>minister to/g
+s/『θεραπων』/minister/g
+s/『θεραφιν』/teraphim;<br>idols/g
 s/『θεραφις』/「θεραφις」/g
 s/『θεργαμα』/[NP]/g
 s/『θερεε』/[NP]/g
-s/『θεριζω』/to harvest,<br>reap/g
+s/『θεριζω』/harvest;<br>reap/g
 s/『θερινος』/of summer/g
 s/『θερισμος』/harvest/g
-s/『θεριστης』/a harvester,<br>reaper/g
-s/『θεριστρον』/a shift/g
+s/『θεριστης』/harvester;<br>reaper/g
+s/『θεριστρον』/shift/g
 s/『θερμα』/[NP]/g
 s/『θερμαι』/[NP]/g
-s/『θερμαινω』/to warm/g
-s/『θερμασια』/warmth,<br>heat/g
+s/『θερμαινω』/warm/g
+s/『θερμασια』/warmth;<br>heat/g
 s/『θερμαστρις』/「θερμαστρίς」/g
 s/『θερμελεθ』/[NP]/g
-s/『θερμος』/hot,<br>warm/g
+s/『θερμος』/hot;<br>warm/g
 s/『θερμοτης』/heat/g
 s/『θερος』/summer/g
 s/『θερσα』/[NP]/g
 s/『θεσβιτης』/[NP]/g
 s/『θεσβων』/[NP]/g
-s/『θεσις』/a setting,<br>placing/g
-s/『θεσμος』/that which is laid down and established,<br>a law/g
+s/『θεσις』/setting;<br>placing/g
+s/『θεσμος』/that which is laid down and established;<br>law/g
 s/『θεσσαμυς』/[NP]/g
-s/『θεωρεω』/to observe/g
-s/『θεωρητος』/notable,<br>to be reached in a vision/g
+s/『θεωρεω』/observe/g
+s/『θεωρητος』/notable;<br>reached in a vision/g
 s/『θεωρια』/observation/g
-s/『θεωρος』/a spectator/g
+s/『θεωρος』/spectator/g
 s/『θηβης』/[NP]/g
 s/『θηζια』/[NP]/g
 s/『θηκη』/sheath/g
-s/『θηλαζω』/to nurse/g
+s/『θηλαζω』/nurse/g
 s/『θηλαω』/「θηλάω」/g
-s/『θηλυκος』/female,<br>of women/g
-s/『θηλυμανης』/lusty,<br>mad after women/g
+s/『θηλυκος』/female;<br>of women/g
+s/『θηλυμανης』/lusty;<br>mad after women/g
 s/『θηλυς』/female/g
 s/『θημα』/[NP]/g
 s/『θημαρ』/[NP]/g
 s/『θημονια』/「θημονία」/g
 s/『θημωνια』/「θημωνία」/g
 s/『θηνασα』/[NP]/g
-s/『θηρ』/a wild beast,<br>beast of prey/g
-s/『θηρα』/a hunt,<br>game/g
-s/『θηρευμα』/spoil,<br>prey/g
+s/『θηρ』/wild beast;<br>beast of prey/g
+s/『θηρα』/hunt;<br>game/g
+s/『θηρευμα』/spoil;<br>prey/g
 s/『θηρευσω』/「θηρεύσω」/g
-s/『θηρευτης』/a hunter,<br>huntsman/g
-s/『θηρευω』/to hunt/g
+s/『θηρευτης』/hunter;<br>huntsman/g
+s/『θηρευω』/hunt/g
 s/『θηρια』/[NP]/g
 s/『θηριαλωτος』/captured by wild animals/g
 s/『θηριοβρωτος』/eaten by beasts/g
-s/『θηριον』/a beast/g
+s/『θηριον』/beast/g
 s/『θηριοομαι』/「θηριόομαι」/g
-s/『θηριωδης』/full of wild beasts,<br>infested by them/g
+s/『θηριωδης』/full of wild beasts;<br>infested by them/g
 s/『θηριωδως』/fiercely/g
-s/『θησαυριζω』/to treasure,<br>store up/g
-s/『θησαυρισμα』/a store,<br>treasure/g
+s/『θησαυριζω』/treasure;<br>store up/g
+s/『θησαυρισμα』/store;<br>treasure/g
 s/『θησαυρος』/treasure/g
 s/『θησαυροφυλαξ』/treasurer/g
-s/『θιασος』/a band/g
+s/『θιασος』/band/g
 s/『θιβις』/「θῖβις」/g
-s/『θιγγανω』/to touch/g
+s/『θιγγανω』/touch/g
 s/『θιε』/[NP]/g
 s/『θιλων』/[NP]/g
 s/『θιμαθ』/[NP]/g
 s/『θιμωνια』/heap/g
 s/『θινας』/「θῖνας」/g
 s/『θιρας』/[NP]/g
-s/『θις』/a heap/g
+s/『θις』/heap/g
 s/『θισβη』/[NP]/g
-s/『θλαδιας』/who is castrated,<br>eunuch/g
-s/『θλασμα』/breach,<br>bruise/g
-s/『θλαω』/to crush/g
-s/『θλιβω』/to pressure,<br>press against/g
-s/『θλιμμος』/oppression,<br>affliction/g
+s/『θλαδιας』/who is castrated;<br>eunuch/g
+s/『θλασμα』/breach;<br>bruise/g
+s/『θλαω』/crush/g
+s/『θλιβω』/pressure;<br>press against/g
+s/『θλιμμος』/oppression;<br>affliction/g
 s/『θλιψις』/pressure/g
 s/『θνησιμαιος』/「θνησιμαῖος」/g
-s/『θνησκω』/to die,<br>be departed/g
+s/『θνησκω』/die;<br>departed/g
 s/『θνητος』/mortal/g
 s/『θοαδα』/[NP]/g
 s/『θοβελ』/[NP]/g
-s/『θοινα』/meal,<br>feast/g
+s/『θοινα』/meal;<br>feast/g
 s/『θοκανος』/[NP]/g
 s/『θοκε』/[NP]/g
 s/『θοκκαν』/[NP]/g
@@ -6290,71 +6290,71 @@ s/『θολμι』/[NP]/g
 s/『θομοι』/[NP]/g
 s/『θοου』/[NP]/g
 s/『θοργαμα』/[NP]/g
-s/『θορυβεω』/to make noise,<br>be in an uproar/g
-s/『θορυβος』/a noise,<br>uproar/g
+s/『θορυβεω』/make noise;<br>in an uproar/g
+s/『θορυβος』/noise;<br>uproar/g
 s/『θουλαδ』/[NP]/g
 s/『θραελ』/part of the temple;<br>I saw/g
 s/『θραξ』/[NP]/g
-s/『θρασος』/courage,<br>boldness/g
+s/『θρασος』/courage;<br>boldness/g
 s/『θρασυκαρδιος』/bold of heart/g
-s/『θρασυνω』/to make bold,<br>embolden/g
-s/『θρασυς』/bold,<br>spirited/g
-s/『θραυσις』/a slaughter/g
-s/『θραυσμα』/that which is broken,<br>a fragment/g
+s/『θρασυνω』/make bold;<br>embolden/g
+s/『θρασυς』/bold;<br>spirited/g
+s/『θραυσις』/slaughter/g
+s/『θραυσμα』/that which is broken;<br>fragment/g
 s/『θραυσμος』/break/g
-s/『θραυω』/to crush/g
+s/『θραυω』/crush/g
 s/『θρεπτη』/「θρεπτή」/g
-s/『θρηνεω』/to lament/g
+s/『θρηνεω』/lament/g
 s/『θρηνηεω』/「θρηνηέω」/g
-s/『θρηνημα』/a lament,<br>dirge/g
-s/『θρηνος』/a lament/g
+s/『θρηνημα』/lament;<br>dirge/g
+s/『θρηνος』/lament/g
 s/『θρησκεια』/religion/g
-s/『θρησκευω』/to hold religious observances,<br>observe religiously/g
-s/『θριξ』/a hair/g
-s/『θροεω』/to be perturbed/g
-s/『θρονιζω』/to enthrone/g
-s/『θρονος』/a throne/g
+s/『θρησκευω』/hold religious observances;<br>observe religiously/g
+s/『θριξ』/hair/g
+s/『θροεω』/perturbed/g
+s/『θρονιζω』/enthrone/g
+s/『θρονος』/throne/g
 s/『θρους』/noise;<br>bustle/g
-s/『θρυλεω』/to make a confused noise,<br>chatter/g
+s/『θρυλεω』/make a confused noise;<br>chatter/g
 s/『θρυλημα』/byword/g
 s/『θυαμαστοω』/「θυαμαστόω」/g
-s/『θυγατηρ』/a daughter/g
+s/『θυγατηρ』/daughter/g
 s/『θυγατρασιν』/「θυγατράσιν」/g
-s/『θυεια』/a mortar/g
+s/『θυεια』/mortar/g
 s/『θυελλα』/tempest/g
 s/『θυισκη』/「θυΐσκη」/g
-s/『θυλακιον』/a little bag/g
-s/『θυλακος』/a bag,<br>pouch/g
-s/『θυμα』/a sacrifice/g
+s/『θυλακιον』/little bag/g
+s/『θυλακος』/bag;<br>pouch/g
+s/『θυμα』/sacrifice/g
 s/『θυμηρης』/pleasing/g
 s/『θυμιαζω』/「θυμιάζω」/g
 s/『θυμιαμα』/incense/g
-s/『θυμιατηριον』/an incense altar/g
-s/『θυμιαω』/to burn incense/g
+s/『θυμιατηριον』/incense altar/g
+s/『θυμιαω』/burn incense/g
 s/『θυμιοω』/「θυμιόω」/g
-s/『θυμος』/provocation,<br>temper/g
-s/『θυμοω』/to provoke,<br>be\/get angry/g
+s/『θυμος』/provocation;<br>temper/g
+s/『θυμοω』/provoke;<br>be\/get angry/g
 s/『θυμωδης』/passionate;<br>furious/g
-s/『θυρα』/a door/g
-s/『θυρεος』/a [door] shield/g
+s/『θυρα』/door/g
+s/『θυρεος』/[door] shield/g
 s/『θυρεοφορος』/bearing a shield/g
-s/『θυρις』/a window/g
-s/『θυροω』/to furnish with doors,<br>shut close/g
-s/『θυρσος』/the thyrsus/g
+s/『θυρις』/window/g
+s/『θυροω』/furnish with doors;<br>shut close/g
+s/『θυρσος』/thyrsus/g
 s/『θυρωμα』/doorway;<br>panel/g
-s/『θυρωρος』/a doorkeeper/g
-s/『θυσια』/immolation,<br>sacrifice/g
-s/『θυσιαζω』/to sacrifice/g
+s/『θυρωρος』/doorkeeper/g
+s/『θυσια』/immolation;<br>sacrifice/g
+s/『θυσιαζω』/sacrifice/g
 s/『θυσιασμα』/victim;<br>offering/g
-s/『θυσιαστηριον』/an altar/g
-s/『θυω』/to immolate,<br>sacrifice/g
+s/『θυσιαστηριον』/altar/g
+s/『θυω』/immolate;<br>sacrifice/g
 s/『θωα』/[NP]/g
 s/『θωδαθα』/hymns of praise/g
 s/『θωλα』/[NP]/g
 s/『θωλαι』/[NP]/g
-s/『θωρακιζω』/to arm with a breastplate/g
+s/『θωρακιζω』/arm with a breastplate/g
 s/『θωρακισμος』/arming with breastplates/g
-s/『θωραξ』/a breastplate/g
+s/『θωραξ』/breastplate/g
 s/『ιʹ』/[M]/g
 s/『ιαʹ』/[M]/g
 s/『ιααιμ』/[NP]/g
@@ -6403,10 +6403,10 @@ s/『ιακωβ』/[NP]/g
 s/『ιαλ』/[NP]/g
 s/『ιαλλεληλ』/[NP]/g
 s/『ιαλων』/[NP]/g
-s/『ιαμα』/healing,<br>remedy/g
+s/『ιαμα』/healing;<br>remedy/g
 s/『ιαμβρι』/[NP]/g
 s/『ιαμεθ』/[NP]/g
-s/『ιαμιβιν』/the altar at the right side/g
+s/『ιαμιβιν』/altar at the right side/g
 s/『ιαμιν』/[NP]/g
 s/『ιαμιν\.1』/shovels/g
 s/『ιαμινι』/[NP]/g
@@ -6422,7 +6422,7 @@ s/『ιανουμ』/[NP]/g
 s/『ιανουου』/[NP]/g
 s/『ιανωκα』/[NP]/g
 s/『ιανωχ』/[NP]/g
-s/『ιαομαι』/to heal/g
+s/『ιαομαι』/heal/g
 s/『ιαους』/[NP]/g
 s/『ιαρασια』/[NP]/g
 s/『ιαραχ』/[NP]/g
@@ -6455,9 +6455,9 @@ s/『ιασσιβ』/[NP]/g
 s/『ιασων』/[NP]/g
 s/『ιατης』/healer/g
 s/『ιατρεια』/medical treatment/g
-s/『ιατρειον』/a surgery/g
-s/『ιατρευω』/to treat medically,<br>to cure/g
-s/『ιατρος』/a healer/g
+s/『ιατρειον』/surgery/g
+s/『ιατρευω』/treat medically;<br>cure/g
+s/『ιατρος』/healer/g
 s/『ιαφαγαι』/[NP]/g
 s/『ιαφαλητ』/[NP]/g
 s/『ιαφεθ』/[NP]/g
@@ -6472,16 +6472,16 @@ s/『ιβʹ』/[M]/g
 s/『ιβααρ』/[NP]/g
 s/『ιβαναα』/[NP]/g
 s/『ιβης』/「ἴβης」/g
-s/『ιβις』/the ibis/g
+s/『ιβις』/ibis/g
 s/『ιγʹ』/[M]/g
 s/『ιγααλ』/[NP]/g
 s/『ιγαβης』/[NP]/g
 s/『ιγλααμ』/took them into exile/g
-s/『ιγνυα』/the part behind the thigh and knee,<br>the ham/g
+s/『ιγνυα』/part behind the thigh and knee;<br>ham/g
 s/『ιδʹ』/[M]/g
 s/『ιδαερ』/[NP]/g
 s/『ιδαι』/[NP]/g
-s/『ιδεα』/idea,<br>appearance/g
+s/『ιδεα』/idea;<br>appearance/g
 s/『ιδεαδαλεα』/[NP]/g
 s/『ιδεδι』/[NP]/g
 s/『ιδεια』/[NP]/g
@@ -6489,13 +6489,13 @@ s/『ιδια』/[NP]/g
 s/『ιδιηλ』/[NP]/g
 s/『ιδιθουν』/[NP]/g
 s/『ιδιθων』/[NP]/g
-s/『ιδιογραφος』/written with one’s own hand,<br>genuine/g
-s/『ιδιοποιεω』/to win over/g
-s/『ιδιος』/his own,<br>private/g
-s/『ιδιοτης』/peculiar nature,<br>property/g
-s/『ιδιωτης』/a hick/g
-s/『ιδιωτικος』/for a private person,<br>private/g
-s/『ιδου』/see!,<br>here I am/g
+s/『ιδιογραφος』/written with one’s own hand;<br>genuine/g
+s/『ιδιοποιεω』/win over/g
+s/『ιδιος』/his own;<br>private/g
+s/『ιδιοτης』/peculiar nature;<br>property/g
+s/『ιδιωτης』/hick/g
+s/『ιδιωτικος』/for a private person;<br>private/g
+s/『ιδου』/see!;<br>here I am/g
 s/『ιδουα』/[NP]/g
 s/『ιδουδ』/[NP]/g
 s/『ιδουηλος』/[NP]/g
@@ -6504,8 +6504,8 @@ s/『ιδουμα』/[NP]/g
 s/『ιδουμαια』/[NP]/g
 s/『ιδουμαιος』/[NP]/g
 s/『ιδουραμ』/[NP]/g
-s/『ιδροω』/to sweat,<br>perspire/g
-s/『ιδρυω』/to make to sit down,<br>to seat/g
+s/『ιδροω』/sweat;<br>perspire/g
+s/『ιδρυω』/make to sit down;<br>seat/g
 s/『ιδρως』/sweat/g
 s/『ιεʹ』/[M]/g
 s/『ιεαλη』/[NP]/g
@@ -6601,18 +6601,18 @@ s/『ιερακων』/[NP]/g
 s/『ιεραμηλι』/[NP]/g
 s/『ιεραμι』/[NP]/g
 s/『ιεραμωθ』/[NP]/g
-s/『ιεραξ』/a hawk,<br>falcon/g
-s/『ιερατεια』/a priesthood/g
+s/『ιεραξ』/hawk;<br>falcon/g
+s/『ιερατεια』/priesthood/g
 s/『ιερατευμα』/priesthood/g
 s/『ιερατευς』/「ἱερατεύς」/g
-s/『ιερατευω』/to do sacred duty,<br>be a priest/g
-s/『ιερατικος』/for the priest's office,<br>priestly/g
-s/『ιερεια』/sacrifice,<br>festival/g
+s/『ιερατευω』/do sacred duty;<br>priest/g
+s/『ιερατικος』/for the priest's office;<br>priestly/g
+s/『ιερεια』/sacrifice;<br>festival/g
 s/『ιερεμεηλ』/[NP]/g
 s/『ιερεμιας』/[NP]/g
 s/『ιερεμιν』/[NP]/g
 s/『ιερεμωθ』/[NP]/g
-s/『ιερευς』/a priest/g
+s/『ιερευς』/priest/g
 s/『ιερεχος』/[NP]/g
 s/『ιεριηλ』/[NP]/g
 s/『ιεριμ』/[NP]/g
@@ -6628,7 +6628,7 @@ s/『ιερμουθ』/[NP]/g
 s/『ιεροβααλ』/[NP]/g
 s/『ιεροβεαμ』/[NP]/g
 s/『ιεροβοαμ』/[NP]/g
-s/『ιεροδουλος』/servant of the temple attending the Levites,<br>temple courtesan/g
+s/『ιεροδουλος』/servant of the temple attending the Levites;<br>temple courtesan/g
 s/『ιερον』/temple/g
 s/『ιεροπρεπης』/properly sacred/g
 s/『ιερος』/sacred/g
@@ -6636,19 +6636,19 @@ s/『ιεροσολυμα』/[NP]/g
 s/『ιεροσολυμιτης』/[NP]/g
 s/『ιεροσολυμος』/[NP]/g
 s/『ιεροστατης』/governor of the temple/g
-s/『ιεροσυλεω』/to rob temples/g
+s/『ιεροσυλεω』/rob temples/g
 s/『ιεροσυλημα』/sacrilegious plunder/g
-s/『ιεροσυλια』/temple-robbery,<br>sacrilege/g
-s/『ιεροσυλος』/a temple robber/g
-s/『ιερουργια』/religious service,<br>worship/g
+s/『ιεροσυλια』/temple-robbery;<br>sacrilege/g
+s/『ιεροσυλος』/temple robber/g
+s/『ιερουργια』/religious service;<br>worship/g
 s/『ιερουσα』/[NP]/g
 s/『ιερουσαλημ』/Jerusalem/g
-s/『ιεροψαλτης』/singer in the temple,<br>holy singer/g
+s/『ιεροψαλτης』/singer in the temple;<br>holy singer/g
 s/『ιεροψυχος』/of pious soul/g
 s/『ιερφαηλ』/[NP]/g
-s/『ιερωμα』/idol,<br>amulet/g
+s/『ιερωμα』/idol;<br>amulet/g
 s/『ιερωνυμος』/[NP]/g
-s/『ιερωσυνη』/a priesthood/g
+s/『ιερωσυνη』/priesthood/g
 s/『ιεσβακασα』/[NP]/g
 s/『ιεσβι』/[NP]/g
 s/『ιεσβοαμ』/[NP]/g
@@ -6694,7 +6694,7 @@ s/『ιεων』/[NP]/g
 s/『ιϝʹ』/[M]/g
 s/『ιζʹ』/[M]/g
 s/『ιηʹ』/[M]/g
-s/『ιημι』/to set a going,<br>put in motion/g
+s/『ιημι』/set a going;<br>put in motion/g
 s/『ιηου』/[NP]/g
 s/『ιηουλ』/[NP]/g
 s/『ιησουε』/[NP]/g
@@ -6708,67 +6708,67 @@ s/『ιια』/[NP]/g
 s/『ιιηλ』/[NP]/g
 s/『ικακ』/[NP]/g
 s/『ικαμ』/[NP]/g
-s/『ικανος』/adequate,<br>sufficient/g
-s/『ικανοω』/to make adequate,<br>be sufficient/g
-s/『ικανως』/sufficiently,<br>fully/g
+s/『ικανος』/adequate;<br>sufficient/g
+s/『ικανοω』/make adequate;<br>sufficient/g
+s/『ικανως』/sufficiently;<br>fully/g
 s/『ικασμων』/[NP]/g
 s/『ικεμιας』/[NP]/g
 s/『ικετεια』/supplication/g
-s/『ικετευω』/to approach as a suppliant/g
+s/『ικετευω』/approach as a suppliant/g
 s/『ικετηρια』/supplication/g
-s/『ικετης』/one who comes to seek protection,<br>a suppliant/g
+s/『ικετης』/one who comes to seek protection;<br>suppliant/g
 s/『ικμας』/moisture/g
 s/『ικτερος』/jaundice;<br>blight/g
-s/『ικτιν』/kite,<br>milvus regalis/g
+s/『ικτιν』/kite;<br>milvus regalis/g
 s/『ικωκ』/[NP]/g
 s/『ιλαρος』/cheerful/g
 s/『ιλαροτης』/cheerfulness/g
-s/『ιλαροω』/to refresh/g
-s/『ιλαρυνω』/to cheer,<br>to make cheerful/g
+s/『ιλαροω』/refresh/g
+s/『ιλαρυνω』/cheer;<br>make cheerful/g
 s/『ιλαρως』/cheerfully/g
-s/『ιλασκομαι』/to appease/g
+s/『ιλασκομαι』/appease/g
 s/『ιλασμος』/appeasement/g
-s/『ιλαστηριος』/placatory,<br>an appeasement/g
+s/『ιλαστηριος』/placatory;<br>appeasement/g
 s/『ιλατευω』/「ἱλατεύω」/g
-s/『ιλεως』/merciful,<br>propitiously/g
-s/『ιλη』/a crowd,<br>band/g
+s/『ιλεως』/merciful;<br>propitiously/g
+s/『ιλη』/crowd;<br>band/g
 s/『ιλιαδουν』/[NP]/g
 s/『ιλουθωθ』/[NP]/g
-s/『ιλυς』/mud,<br>slime/g
+s/『ιλυς』/mud;<br>slime/g
 s/『ιμαλκουε』/[NP]/g
 s/『ιμανα』/[NP]/g
 s/『ιμαντωσις』/piece of timber used instead of a bond-stone/g
 s/『ιμαρη』/[NP]/g
 s/『ιμας』/lace/g
-s/『ιματιον』/clothing,<br>clothes/g
+s/『ιματιον』/clothing;<br>clothes/g
 s/『ιματιοφυλαξ』/keeper of the wardrobe/g
 s/『ιματισμος』/clothing/g
-s/『ιμειρομαι』/to desire/g
-s/『ιν』/an Egyptian and Jewish liquid measure,<br>a hin/g
-s/『ινα』/so,<br>that/g
+s/『ιμειρομαι』/desire/g
+s/『ιν』/Egyptian and Jewish liquid measure;<br>hin/g
+s/『ινα』/so;<br>that/g
 s/『ιναηλ』/[NP]/g
-s/『ινδαλμα』/an appearance/g
+s/『ινδαλμα』/appearance/g
 s/『ινδικη』/[NP]/g
 s/『ινδος』/[NP]/g
-s/『ιξευτης』/a fowler,<br>bird-catcher/g
+s/『ιξευτης』/fowler;<br>bird-catcher/g
 s/『ιοβολος』/shooting arrows/g
 s/『ιοδδους』/[NP]/g
 s/『ιοδομ』/[NP]/g
 s/『ιοθορ』/[NP]/g
 s/『ιοιδα』/[NP]/g
 s/『ιοκομ』/[NP]/g
-s/『ιοομαι』/to become or be rusty/g
+s/『ιοομαι』/become or be rusty/g
 s/『ιοππη』/[NP]/g
 s/『ιοππης』/[NP]/g
 s/『ιοππιτης』/[NP]/g
 s/『ιορδανης』/[NP]/g
-s/『ιος』/venom,<br>corrosion/g
+s/『ιος』/venom;<br>corrosion/g
 s/『ιου』/[NP]/g
 s/『ιουαχ』/[NP]/g
 s/『ιουβαλ』/[NP]/g
 s/『ιουδα』/[NP]/g
 s/『ιουδαια』/[NP]/g
-s/『ιουδαιζω』/to Judaize/g
+s/『ιουδαιζω』/Judaize/g
 s/『ιουδαικος』/Judaic/g
 s/『ιουδαιος』/Judean/g
 s/『ιουδαισμος』/[NP]/g
@@ -6780,23 +6780,23 @@ s/『ιουδιν』/[NP]/g
 s/『ιουηλ』/[NP]/g
 s/『ιουθ』/[NP]/g
 s/『ιουρι』/[NP]/g
-s/『ιππαζομαι』/to drive horses,<br>drive a chariot/g
+s/『ιππαζομαι』/drive horses;<br>drive a chariot/g
 s/『ιππαζω』/「ἱππάζω」/g
 s/『ιππαρχης』/「ἵππαρχης」/g
 s/『ιππασια』/charioteering/g
-s/『ιππευς』/cavalry,<br>rider/g
-s/『ιππευω』/to be a horseman/g
-s/『ιππικος』/equestrian,<br>cavalry/g
-s/『ιπποδρομος』/a chariot-road/g
-s/『ιππος』/a horse/g
-s/『ιρ』/watcher,<br>angel/g
+s/『ιππευς』/cavalry;<br>rider/g
+s/『ιππευω』/a horseman/g
+s/『ιππικος』/equestrian;<br>cavalry/g
+s/『ιπποδρομος』/chariot-road/g
+s/『ιππος』/horse/g
+s/『ιρ』/watcher;<br>angel/g
 s/『ιρα』/[NP]/g
 s/『ιρααμ』/[NP]/g
 s/『ιραμ』/[NP]/g
 s/『ιραμαηλ』/[NP]/g
 s/『ιραμεηλ』/[NP]/g
 s/『ιρας』/[NP]/g
-s/『ιρις』/a rainbow/g
+s/『ιρις』/rainbow/g
 s/『ισαακ』/[NP]/g
 s/『ισαβια』/[NP]/g
 s/『ισαδεκ』/[NP]/g
@@ -6814,7 +6814,7 @@ s/『ισδαηλ』/[NP]/g
 s/『ισει』/[NP]/g
 s/『ισεμιηλ』/[NP]/g
 s/『ισεριηλ』/[NP]/g
-s/『ισηγορεομαι』/to speak as an equal/g
+s/『ισηγορεομαι』/speak as an equal/g
 s/『ισια』/[NP]/g
 s/『ισμαηλ』/[NP]/g
 s/『ισμαηλιτης』/[NP]/g
@@ -6822,20 +6822,20 @@ s/『ισμαηλος』/[NP]/g
 s/『ισνος』/「ἴσνος」/g
 s/『ισοαμ』/[NP]/g
 s/『ισοβααμ』/[NP]/g
-s/『ισοδυναμεω』/to have equal power,<br>to have the same force/g
+s/『ισοδυναμεω』/have equal power;<br>have the same force/g
 s/『ισοδυναμος』/of equal value/g
-s/『ισοθεος』/equal to the gods,<br>godlike/g
+s/『ισοθεος』/equal to the gods;<br>godlike/g
 s/『ισομοιρος』/sharing equally/g
-s/『ισονομεω』/to render equal rights,<br>to render what is due/g
-s/『ισοπεδος』/of even surface,<br>level/g
+s/『ισονομεω』/render equal rights;<br>render what is due/g
+s/『ισοπεδος』/of even surface;<br>level/g
 s/『ισοπολιτης』/one enjoying equal political rights/g
 s/『ισοπολιτις』/「ἰσοπολῖτις」/g
 s/『ισος』/equal/g
 s/『ισοτης』/equality/g
 s/『ισουα』/[NP]/g
 s/『ισουι』/[NP]/g
-s/『ισοψυχος』/equally animated,<br>with the same soul/g
-s/『ισοω』/to make equal/g
+s/『ισοψυχος』/equally animated;<br>with the same soul/g
+s/『ισοω』/make equal/g
 s/『ισραηλ』/「ισραηλ」/g
 s/『ισραηλ\.1』/Israel/g
 s/『ισραηλιτης』/Israelite/g
@@ -6844,35 +6844,35 @@ s/『ισσαρι』/[NP]/g
 s/『ισσαχαρ』/[NP]/g
 s/『ισσιηρ』/[NP]/g
 s/『ισταλκουρος』/[NP]/g
-s/『ιστημι』/to stand,<br>establish/g
-s/『ιστιον』/any web,<br>a sail/g
-s/『ιστορεω』/to inquire of/g
-s/『ιστορια』/a learning by inquiry,<br>inquiry/g
+s/『ιστημι』/stand;<br>establish/g
+s/『ιστιον』/any web;<br>sail/g
+s/『ιστορεω』/inquire of/g
+s/『ιστορια』/learning by inquiry;<br>inquiry/g
 s/『ιστος』/anything set upright/g
 s/『ιστωβ』/[NP]/g
 s/『ισφαν』/[NP]/g
-s/『ισχιον』/the hip-joint/g
-s/『ισχνοφωνος』/checked in one's voice,<br>stuttering/g
-s/『ισχυρος』/forceful,<br>severe/g
+s/『ισχιον』/hip-joint/g
+s/『ισχνοφωνος』/checked in one's voice;<br>stuttering/g
+s/『ισχυρος』/forceful;<br>severe/g
 s/『ισχυροω』/「ἰσχυρόω」/g
 s/『ισχυρως』/strongly;<br>very much, exceedingly/g
 s/『ισχυς』/force/g
-s/『ισχυω』/to have means,<br>have force/g
+s/『ισχυω』/have means;<br>have force/g
 s/『ισως』/equally/g
 s/『ιταβυριον』/「ἰταβύριον」/g
 s/『ιταβυριον\.1』/[NP]/g
-s/『ιταμια』/effrontery,<br>temerity/g
-s/『ιταμος』/bold,<br>reckless/g
+s/『ιταμια』/effrontery;<br>temerity/g
+s/『ιταμος』/bold;<br>reckless/g
 s/『ιταν』/[NP]/g
-s/『ιτεα』/a willow/g
+s/『ιτεα』/willow/g
 s/『ιτουραιος』/[NP]/g
 s/『ιφινα』/[NP]/g
-s/『ιχθυηρος』/fishy,<br>scaly/g
-s/『ιχθυς』/a fish/g
-s/『ιχνευτης』/a tracker/g
-s/『ιχνευω』/to track out,<br>hunt after/g
-s/『ιχνος』/a footstep/g
-s/『ιχωρ』/ichor,<br>the etherial juice/g
+s/『ιχθυηρος』/fishy;<br>scaly/g
+s/『ιχθυς』/fish/g
+s/『ιχνευτης』/tracker/g
+s/『ιχνευω』/track out;<br>hunt after/g
+s/『ιχνος』/footstep/g
+s/『ιχωρ』/ichor;<br>etherial juice/g
 s/『ιωα』/[NP]/g
 s/『ιωαα』/[NP]/g
 s/『ιωαβ』/[NP]/g
@@ -6969,67 +6969,67 @@ s/『καβσαιμ』/[NP]/g
 s/『καβσεηλ』/[NP]/g
 s/『καγω』/and I/g
 s/『καδες』/[NP]/g
-s/『καδημιμ』/ancient,<br>of antiquity/g
+s/『καδημιμ』/ancient;<br>of antiquity/g
 s/『καδημωθ』/[NP]/g
 s/『καδης』/[NP]/g
 s/『καδησιμ』/male temple prostitutes/g
-s/『καδιον』/bag,<br>pouch/g
+s/『καδιον』/bag;<br>pouch/g
 s/『καδμιηλ』/[NP]/g
 s/『καδμιηλος』/[NP]/g
-s/『καδος』/a jar/g
+s/『καδος』/jar/g
 s/『καθα』/just as/g
-s/『καθαγιαζω』/to consecrate,<br>to dedicate/g
+s/『καθαγιαζω』/consecrate;<br>dedicate/g
 s/『καθαιρεσις』/demolition/g
-s/『καθαιρεω』/to take down,<br>demolish/g
-s/『καθαιρω』/to clean/g
+s/『καθαιρεω』/take down;<br>demolish/g
+s/『καθαιρω』/clean/g
 s/『καθαπερ』/exactly as/g
-s/『καθαριζω』/to cleanse/g
-s/『καθαριοτης』/cleanliness,<br>purity/g
+s/『καθαριζω』/cleanse/g
+s/『καθαριοτης』/cleanliness;<br>purity/g
 s/『καθαρισμος』/cleansing/g
-s/『καθαρος』/clean,<br>clear/g
+s/『καθαρος』/clean;<br>clear/g
 s/『καθαροτης』/cleanliness/g
 s/『καθαρσιον』/「καθάρσιον」/g
-s/『καθαρσις』/a cleansing/g
-s/『καθεδρα』/a seat/g
-s/『καθεζομαι』/to sit down/g
+s/『καθαρσις』/cleansing/g
+s/『καθεδρα』/seat/g
+s/『καθεζομαι』/sit down/g
 s/『καθεις』/one by one/g
-s/『καθεμα』/necklace,<br>collar/g
-s/『καθευδω』/to be asleep,<br>sleep/g
-s/『καθηγεμων』/a leader,<br>a guide/g
-s/『καθηκω』/to be fitting/g
-s/『καθηλοω』/to nail on/g
-s/『καθημαι』/to sit,<br>settle/g
+s/『καθεμα』/necklace;<br>collar/g
+s/『καθευδω』/asleep;<br>sleep/g
+s/『καθηγεμων』/leader;<br>guide/g
+s/『καθηκω』/fitting/g
+s/『καθηλοω』/nail on/g
+s/『καθημαι』/sit;<br>settle/g
 s/『καθημερινος』/daily/g
 s/『καθιγω』/「καθίγω」/g
 s/『καθιδρος』/sweating profusely/g
-s/『καθιδρυω』/to make to sit down/g
-s/『καθιζανω』/to sit down/g
-s/『καθιζω』/to sit down,<br>seat/g
-s/『καθιημι』/to let down/g
+s/『καθιδρυω』/make to sit down/g
+s/『καθιζανω』/sit down/g
+s/『καθιζω』/sit down;<br>seat/g
+s/『καθιημι』/let down/g
 s/『καθιομαι』/「καθίομαι」/g
-s/『καθιπταμαι』/to fly down/g
+s/『καθιπταμαι』/fly down/g
 s/『καθισις』/dwelling place/g
-s/『καθιστημι』/to establish,<br>appoint/g
+s/『καθιστημι』/establish;<br>appoint/g
 s/『καθο』/by what/g
-s/『καθοδηγεω』/to guide/g
-s/『καθοδος』/a going down,<br>descent/g
+s/『καθοδηγεω』/guide/g
+s/『καθοδος』/going down;<br>descent/g
 s/『καθοηλ』/[NP]/g
 s/『καθολου』/categorically/g
-s/『καθομολογεω』/to confess/g
-s/『καθοπλιζω』/to fully arm/g
-s/『καθοραω』/to see clearly/g
+s/『καθομολογεω』/confess/g
+s/『καθοπλιζω』/fully arm/g
+s/『καθοραω』/see clearly/g
 s/『καθορμιον』/necklace/g
 s/『καθοτι』/in that/g
 s/『καθουα』/[NP]/g
-s/『καθυβριζω』/to treat despitefully,<br>to insult or affront wantontly/g
-s/『καθυμνεω』/to sing hymns continually for sb/g
-s/『καθυπερθε』/from above,<br>down from above/g
-s/『καθυπνοω』/to be fast asleep,<br>fall asleep/g
-s/『καθυστερεω』/to come far behind/g
-s/『καθυφαινω』/to interweave in,<br>to weave through or into/g
+s/『καθυβριζω』/treat despitefully;<br>insult or affront wantontly/g
+s/『καθυμνεω』/sing hymns continually for sb/g
+s/『καθυπερθε』/from above;<br>down from above/g
+s/『καθυπνοω』/fast asleep;<br>fall asleep/g
+s/『καθυστερεω』/come far behind/g
+s/『καθυφαινω』/interweave in;<br>weave through or into/g
 s/『καθωπλικως』/「καθωπλικώς」/g
 s/『καθως』/just as\/like/g
-s/『και』/and,<br>even/g
+s/『και』/and;<br>even/g
 s/『καιβαισελεηλ』/[NP]/g
 s/『καιεκεινος』/「καΐἐκεῖνος」/g
 s/『καιεμος』/「καϊἐμός」/g
@@ -7039,108 +7039,108 @@ s/『καιναιον』/[NP]/g
 s/『καιναιος』/[NP]/g
 s/『καιναν』/[NP]/g
 s/『καινη』/[NP]/g
-s/『καινιζω』/to make new/g
-s/『καινος』/innovative,<br>fresh/g
-s/『καινοτης』/innovation,<br>freshness/g
+s/『καινιζω』/make new/g
+s/『καινος』/innovative;<br>fresh/g
+s/『καινοτης』/innovation;<br>freshness/g
 s/『καινουργος』/producing changes/g
 s/『καιπερ』/although/g
 s/『καιριος』/at the right place/g
-s/『καιρος』/season,<br>opportunity/g
+s/『καιρος』/season;<br>opportunity/g
 s/『καιτοι』/and actually/g
-s/『καιω』/to burn/g
+s/『καιω』/burn/g
 s/『κακαλογεω』/「κακαλογέω」/g
 s/『κακει』/and there/g
 s/『κακεινος』/that one too/g
-s/『κακηγορεω』/to speak ill of,<br>abuse/g
-s/『κακια』/badness,<br>vice/g
-s/『κακιζω』/to abuse,<br>reproach/g
+s/『κακηγορεω』/speak ill of;<br>abuse/g
+s/『κακια』/badness;<br>vice/g
+s/『κακιζω』/abuse;<br>reproach/g
 s/『κακοηθεια』/mischief/g
-s/『κακοηθης』/ill-disposed,<br>malicious/g
-s/『κακολογεω』/to bad-mouth/g
-s/『κακομοχθος』/working perversely,<br>working evil/g
+s/『κακοηθης』/ill-disposed;<br>malicious/g
+s/『κακολογεω』/bad-mouth/g
+s/『κακομοχθος』/working perversely;<br>working evil/g
 s/『κακοπαθεια』/bad experience/g
-s/『κακοπαθεω』/to experience bad,<br>suffer/g
-s/『κακοποιεω』/to do bad/g
+s/『κακοπαθεω』/experience bad;<br>suffer/g
+s/『κακοποιεω』/do bad/g
 s/『κακοποιησις』/evil-doing/g
 s/『κακοποιος』/doing bad/g
-s/『κακοπραγια』/misadventure,<br>failure/g
-s/『κακος』/bad,<br>ugly/g
+s/『κακοπραγια』/misadventure;<br>failure/g
+s/『κακος』/bad;<br>ugly/g
 s/『κακοτεχναομαι』/「κακοτεχνάομαι」/g
 s/『κακοτεχνος』/using bad arts/g
-s/『κακουργια』/the character and conduct of a/g
-s/『κακουργος』/a malefactor,<br>thief/g
+s/『κακουργια』/character and conduct of a/g
+s/『κακουργος』/malefactor;<br>thief/g
 s/『κακοφροσυνη』/folly/g
-s/『κακοφρων』/ill-minded,<br>malicious/g
-s/『κακοω』/to do bad,<br>turn bad/g
-s/『κακως』/badly,<br>ill/g
+s/『κακοφρων』/ill-minded;<br>malicious/g
+s/『κακοω』/do bad;<br>turn bad/g
+s/『κακως』/badly;<br>ill/g
 s/『κακωσις』/bad treatment/g
-s/『καλαβωτης』/gecko,<br>spotted lizard/g
-s/『καλαθος』/a vase-shaped basket/g
-s/『καλαμαομαι』/to gather,<br>to glean/g
+s/『καλαβωτης』/gecko;<br>spotted lizard/g
+s/『καλαθος』/vase-shaped basket/g
+s/『καλαμαομαι』/gather;<br>glean/g
 s/『καλαμη』/cornstalk/g
 s/『καλαμινος』/made of reed/g
-s/『καλαμισκος』/a bit of reed/g
-s/『καλαμος』/a stalk,<br>reed/g
+s/『καλαμισκος』/bit of reed/g
+s/『καλαμος』/stalk;<br>reed/g
 s/『καλαμω』/[NP]/g
-s/『καλεω』/to call,<br>invite/g
+s/『καλεω』/call;<br>invite/g
 s/『καλιτα』/[NP]/g
 s/『καλιτας』/[NP]/g
 s/『καλλαι』/[NP]/g
 s/『καλλιον』/more finely/g
-s/『καλλιοω』/to be beautiful/g
-s/『καλλιπαις』/with beautiful children,<br>blessed with fair children/g
+s/『καλλιοω』/beautiful/g
+s/『καλλιπαις』/with beautiful children;<br>blessed with fair children/g
 s/『καλλισθενης』/[NP]/g
 s/『καλλονη』/beauty/g
 s/『καλλος』/beauty/g
 s/『καλλυνθρον』/palm frond/g
-s/『καλλωπιζω』/to make up the face/g
-s/『καλοκαγαθια』/the character and conduct of a/g
-s/『καλος』/fine,<br>fair/g
+s/『καλλωπιζω』/make up the face/g
+s/『καλοκαγαθια』/character and conduct of a/g
+s/『καλος』/fine;<br>fair/g
 s/『καλπη』/pitcher/g
-s/『καλυμμα』/a covering/g
-s/『καλυξ』/a covering/g
+s/『καλυμμα』/covering/g
+s/『καλυξ』/covering/g
 s/『καλυπτηρ』/covering/g
-s/『καλυπτω』/to cover/g
-s/『καλυψις』/covering,<br>concealment/g
-s/『καλωδιον』/a small cord/g
+s/『καλυπτω』/cover/g
+s/『καλυψις』/covering;<br>concealment/g
+s/『καλωδιον』/small cord/g
 s/『καλως』/「καλώς」/g
-s/『καλως\.1』/finely,<br>fairly/g
-s/『καμαξ』/a vine-pole,<br>vine-prop/g
+s/『καλως\.1』/finely;<br>fairly/g
+s/『καμαξ』/vine-pole;<br>vine-prop/g
 s/『καμαρα』/vault/g
-s/『καμηλοπαρδαλις』/camelopard,<br>giraffe/g
-s/『καμηλος』/a camel/g
+s/『καμηλοπαρδαλις』/camelopard;<br>giraffe/g
+s/『καμηλος』/camel/g
 s/『καμιν』/[NP]/g
 s/『καμιναια』/furnace/g
-s/『καμινος』/a furnace/g
-s/『καμμυω』/to close/g
-s/『καμνω』/to be fatigued/g
+s/『καμινος』/furnace/g
+s/『καμμυω』/close/g
+s/『καμνω』/fatigued/g
 s/『καμουηλ』/[NP]/g
-s/『καμπη』/a caterpillar/g
-s/『καμπτω』/to bend/g
-s/『καμπυλος』/bent,<br>crooked/g
+s/『καμπη』/caterpillar/g
+s/『καμπτω』/bend/g
+s/『καμπυλος』/bent;<br>crooked/g
 s/『καν』/and if/g
 s/『κανα』/[NP]/g
 s/『κανααθ』/[NP]/g
 s/『καναθ』/[NP]/g
 s/『κανθαν』/[NP]/g
-s/『κανθαρος』/a beetle/g
+s/『κανθαρος』/beetle/g
 s/『κανθος』/corner of the eye/g
-s/『κανουν』/a bread-basket/g
-s/『κανων』/a standard/g
-s/『καπηλος』/a retail-dealer,<br>huckster/g
+s/『κανουν』/bread-basket/g
+s/『κανων』/standard/g
+s/『καπηλος』/retail-dealer;<br>huckster/g
 s/『καπιρας』/[NP]/g
-s/『καπνιζω』/to smoke,<br>smolder/g
+s/『καπνιζω』/smoke;<br>smolder/g
 s/『καπνος』/smoke/g
 s/『καππαδοκες』/[NP]/g
 s/『καππαδοκια』/[NP]/g
-s/『καππαρις』/the caper-plant/g
-s/『καπτω』/to gulp down/g
+s/『καππαρις』/caper-plant/g
+s/『καπτω』/gulp down/g
 s/『καραβασιων』/[NP]/g
 s/『καρανα』/[NP]/g
 s/『καρασιμ』/「καρασιμ」/g
 s/『καραφα』/[NP]/g
 s/『καρδια』/heart/g
-s/『καρδιοω』/to hearten,<br>to ravish the heart of sb/g
+s/『καρδιοω』/hearten;<br>ravish the heart of sb/g
 s/『καρεμ』/[NP]/g
 s/『καρηε』/[NP]/g
 s/『καρια』/[NP]/g
@@ -7162,32 +7162,32 @@ s/『καρμηλον』/[NP]/g
 s/『καρμηλος』/[NP]/g
 s/『καρναιν』/[NP]/g
 s/『καρνιον』/[NP]/g
-s/『καροω』/to be intoxicated,<br>to sleep/g
+s/『καροω』/intoxicated;<br>sleep/g
 s/『καρπασινος』/made of flax/g
 s/『καρπιζομαι』/「καρπίζομαι」/g
 s/『καρπιμος』/fruitful/g
 s/『καρποβρωτος』/「καρπόβρωτός」/g
 s/『καρπος\.1』/fruit/g
-s/『καρποφορεω』/to bear fruit/g
+s/『καρποφορεω』/bear fruit/g
 s/『καρποφορον』/「καρποφόρον」/g
 s/『καρποφορος』/fruit-bearing/g
-s/『καρποω』/to bear fruit/g
+s/『καρποω』/bear fruit/g
 s/『καρπωμα』/burnt offering/g
 s/『καρπωσις』/burnt offering/g
 s/『καρπωτον』/「καρπωτόν」/g
 s/『καρταλλος』/basket with pointed bottom/g
-s/『καρτερεω』/to be staunch/g
-s/『καρτερια』/patient endurance,<br>patience/g
-s/『καρτερος』/strong,<br>staunch/g
-s/『καρτεροψυχια』/constancy of soul,<br>steadfastness of spirit/g
+s/『καρτερεω』/staunch/g
+s/『καρτερια』/patient endurance;<br>patience/g
+s/『καρτερος』/strong;<br>staunch/g
+s/『καρτεροψυχια』/constancy of soul;<br>steadfastness of spirit/g
 s/『καρτερως』/strongly/g
 s/『καρυα』/nut tree/g
 s/『καρυινη』/「καρυΐνη」/g
 s/『καρυινος』/of walnut/g
 s/『καρυισκος』/「καρυίσκος」/g
-s/『καρυον』/a walnut/g
+s/『καρυον』/walnut/g
 s/『καρυωτος』/almond-like/g
-s/『καρφος』/a speck/g
+s/『καρφος』/speck/g
 s/『καρχηδονιοι』/[NP]/g
 s/『καρχηδων』/[NP]/g
 s/『κασεριν』/[NP]/g
@@ -7198,384 +7198,384 @@ s/『κασπιν』/[NP]/g
 s/『κασσιτερινος』/made of tin/g
 s/『κασσιτερος』/tin/g
 s/『κασων』/[NP]/g
-s/『κατα』/down,<br>by/g
+s/『κατα』/down;<br>by/g
 s/『κατααθ』/[NP]/g
-s/『καταβαινω』/to step down,<br>descend/g
-s/『καταβαλλω』/to cast down,<br>lay down/g
-s/『καταβαρεω』/to weigh down/g
+s/『καταβαινω』/step down;<br>descend/g
+s/『καταβαλλω』/cast down;<br>lay down/g
+s/『καταβαρεω』/weigh down/g
 s/『καταβασιος』/descending/g
 s/『καταβασις』/descent/g
-s/『καταβιαζομαι』/to constrain/g
-s/『καταβιβαζω』/to pull down/g
-s/『καταβιβρωσκω』/to eat up,<br>devour/g
-s/『καταβιοω』/to bring life to an end/g
-s/『καταβλαπτω』/to hurt greatly,<br>damage/g
-s/『καταβλεπω』/to look down at/g
-s/『καταβοαω』/to cry down,<br>cry out against/g
-s/『καταβοησις』/a crying out against/g
-s/『καταβολη』/casting,<br>founding/g
-s/『καταβοσκω』/to feed flocks upon/g
-s/『καταβρωμα』/that which is to be devoured,<br>food/g
+s/『καταβιαζομαι』/constrain/g
+s/『καταβιβαζω』/pull down/g
+s/『καταβιβρωσκω』/eat up;<br>devour/g
+s/『καταβιοω』/bring life to an end/g
+s/『καταβλαπτω』/hurt greatly;<br>damage/g
+s/『καταβλεπω』/look down at/g
+s/『καταβοαω』/cry down;<br>cry out against/g
+s/『καταβοησις』/crying out against/g
+s/『καταβολη』/casting;<br>founding/g
+s/『καταβοσκω』/feed flocks upon/g
+s/『καταβρωμα』/that which is to be devoured;<br>food/g
 s/『καταβρωσις』/devouring/g
 s/『καταγαιος』/ground-floor/g
-s/『καταγγελλω』/to proclaim/g
-s/『καταγελαστος』/ridiculous,<br>absurd/g
-s/『καταγελαω』/to ridicule/g
-s/『καταγελως』/mockery,<br>derision/g
+s/『καταγγελλω』/proclaim/g
+s/『καταγελαστος』/ridiculous;<br>absurd/g
+s/『καταγελαω』/ridicule/g
+s/『καταγελως』/mockery;<br>derision/g
 s/『καταγηραω』/「καταγηράω」/g
 s/『καταγινομαι』/「καταγίνομαι」/g
-s/『καταγινωσκω』/to be prejudiced/g
-s/『καταγνυμι』/to break/g
-s/『καταγνωσις』/a thinking ill of,<br>a low/g
-s/『καταγογγυζω』/to murmur against/g
-s/『καταγορευω』/to denounce/g
-s/『καταγραφω』/to inscribe/g
-s/『καταγω』/to lead down,<br>draw up/g
-s/『καταδαμαζω』/to subdue/g
-s/『καταδαπαναω』/to squander,<br>lavish/g
-s/『καταδεικνυμι』/to invent/g
-s/『καταδεσμευω』/to bind up,<br>to bandage/g
+s/『καταγινωσκω』/prejudiced/g
+s/『καταγνυμι』/break/g
+s/『καταγνωσις』/thinking ill of;<br>low/g
+s/『καταγογγυζω』/murmur against/g
+s/『καταγορευω』/denounce/g
+s/『καταγραφω』/inscribe/g
+s/『καταγω』/lead down;<br>draw up/g
+s/『καταδαμαζω』/subdue/g
+s/『καταδαπαναω』/squander;<br>lavish/g
+s/『καταδεικνυμι』/invent/g
+s/『καταδεσμευω』/bind up;<br>bandage/g
 s/『καταδεσμους』/「καταδέσμους」/g
-s/『καταδεχομαι』/to receive,<br>admit/g
-s/『καταδεω』/to bind up/g
-s/『καταδιαιρεω』/to divide/g
-s/『καταδικαζω』/to censure,<br>condemn/g
+s/『καταδεχομαι』/receive;<br>admit/g
+s/『καταδεω』/bind up/g
+s/『καταδιαιρεω』/divide/g
+s/『καταδικαζω』/censure;<br>condemn/g
 s/『καταδικη』/sentence/g
-s/『καταδιωκω』/to hunt down,<br>drive hard/g
-s/『καταδολεσχεω』/to chatter at,<br>to meditate with/g
-s/『καταδουλοω』/to oppress/g
-s/『καταδρομη』/an inroad,<br>raid/g
+s/『καταδιωκω』/hunt down;<br>drive hard/g
+s/『καταδολεσχεω』/chatter at;<br>meditate with/g
+s/『καταδουλοω』/oppress/g
+s/『καταδρομη』/inroad;<br>raid/g
 s/『καταδυναστεια』/tyranny/g
-s/『καταδυναστευω』/to tyrannize/g
+s/『καταδυναστευω』/tyrannize/g
 s/『καταδυσις』/「καταδύσις」/g
-s/『καταδυω』/to go down,<br>sink/g
-s/『καταθαρσυνω』/to embolden/g
-s/『καταθλαω』/to crush in pieces,<br>to break/g
+s/『καταδυω』/go down;<br>sink/g
+s/『καταθαρσυνω』/embolden/g
+s/『καταθλαω』/crush in pieces;<br>break/g
 s/『καταθυμιος』/in the mind/g
-s/『καταιγις』/squall descending from above,<br>hurricane/g
-s/『καταιδεομαι』/to feel shame/g
-s/『καταικιζω』/to wound severely,<br>to spoil utterly/g
-s/『καταισχυνω』/to shame,<br>put to shame/g
-s/『κατακαιω』/to burn up/g
-s/『κατακαλυμμα』/covering,<br>curtain/g
-s/『κατακαλυπτω』/to veil/g
-s/『κατακαμπτω』/to bend down/g
+s/『καταιγις』/squall descending from above;<br>hurricane/g
+s/『καταιδεομαι』/feel shame/g
+s/『καταικιζω』/wound severely;<br>spoil utterly/g
+s/『καταισχυνω』/shame;<br>put to shame/g
+s/『κατακαιω』/burn up/g
+s/『κατακαλυμμα』/covering;<br>curtain/g
+s/『κατακαλυπτω』/veil/g
+s/『κατακαμπτω』/bend down/g
 s/『κατακαρπος』/fruitful/g
 s/『κατακαρπως』/abundantly/g
 s/『κατακαρπωσις』/ashes of a burnt sacrifice/g
 s/『κατακαυμα』/inflammation;<br>burning/g
-s/『κατακαυχαομαι』/to boast against,<br>exult over/g
-s/『κατακειμαι』/to be laid up,<br>lie down/g
-s/『κατακενοω』/to empty out/g
+s/『κατακαυχαομαι』/boast against;<br>exult over/g
+s/『κατακειμαι』/laid up;<br>lie down/g
+s/『κατακενοω』/empty out/g
 s/『κατακεντεω』/「κατακεντέω」/g
-s/『κατακλαω』/to break apart/g
+s/『κατακλαω』/break apart/g
 s/『κατακλειστος』/shut up;<br>kept inside/g
-s/『κατακλειω』/to shut up,<br>confine/g
-s/『κατακληροδοτεω』/to give as an inheritance,<br>parcel out/g
-s/『κατακληρονομεω』/to possess,<br>give possession/g
-s/『κατακληροω』/to portion out/g
-s/『κατακλινω』/to recline,<br>lay down/g
+s/『κατακλειω』/shut up;<br>confine/g
+s/『κατακληροδοτεω』/give as an inheritance;<br>parcel out/g
+s/『κατακληρονομεω』/possess;<br>give possession/g
+s/『κατακληροω』/portion out/g
+s/『κατακλινω』/recline;<br>lay down/g
 s/『κατακλιτον』/「κατάκλιτον」/g
-s/『κατακλυζω』/to deluge/g
+s/『κατακλυζω』/deluge/g
 s/『κατακλυσμος』/cataclysm/g
-s/『κατακολουθεω』/to follow after/g
-s/『κατακονδυλιζω』/to buffet sharply/g
-s/『κατακοντιζω』/to shoot down/g
+s/『κατακολουθεω』/follow after/g
+s/『κατακονδυλιζω』/buffet sharply/g
+s/『κατακοντιζω』/shoot down/g
 s/『κατακοπη』/「κατακοπή」/g
-s/『κατακοπος』/weary,<br>wearied/g
-s/『κατακοπτω』/to cut down\/up/g
-s/『κατακοσμεω』/to set in order,<br>arrange/g
-s/『κατακρατεω』/to prevail over/g
-s/『κατακρημνιζω』/to throw down/g
-s/『κατακρινω』/to condemn/g
+s/『κατακοπος』/weary;<br>wearied/g
+s/『κατακοπτω』/cut down\/up/g
+s/『κατακοσμεω』/set in order;<br>arrange/g
+s/『κατακρατεω』/prevail over/g
+s/『κατακρημνιζω』/throw down/g
+s/『κατακρινω』/condemn/g
 s/『κατακροτεω』/「κατακροτέω」/g
-s/『κατακρουω』/to fasten with,<br>to nail/g
-s/『κατακρυπτω』/to hide away/g
-s/『κατακταομαι』/to get for oneself entirely,<br>gain possession of/g
-s/『κατακτεινω』/to kill,<br>slay/g
-s/『κατακυλινδω』/to roll down/g
-s/『κατακυπτω』/to bend down,<br>stoop/g
-s/『κατακυριευω』/to lord it over,<br>master/g
-s/『καταλαλεω』/to slander/g
+s/『κατακρουω』/fasten with;<br>nail/g
+s/『κατακρυπτω』/hide away/g
+s/『κατακταομαι』/get for oneself entirely;<br>gain possession of/g
+s/『κατακτεινω』/kill;<br>slay/g
+s/『κατακυλινδω』/roll down/g
+s/『κατακυπτω』/bend down;<br>stoop/g
+s/『κατακυριευω』/lord it over;<br>master/g
+s/『καταλαλεω』/slander/g
 s/『καταλαλια』/slander/g
-s/『καταλαμβανω』/to apprehend/g
-s/『καταλαμπω』/to shine upon/g
-s/『καταλεαινω』/to grind down/g
-s/『καταλεγω』/to list/g
-s/『καταλειμμα』/a leftover,<br>remnant/g
-s/『καταλειπω』/to leave behind,<br>remain/g
+s/『καταλαμβανω』/apprehend/g
+s/『καταλαμπω』/shine upon/g
+s/『καταλεαινω』/grind down/g
+s/『καταλεγω』/list/g
+s/『καταλειμμα』/leftover;<br>remnant/g
+s/『καταλειπω』/leave behind;<br>remain/g
 s/『καταλειφω』/「καταλείφω」/g
-s/『καταλειψις』/a legacy/g
-s/『καταλεω』/to grind down/g
-s/『καταληγω』/to leave off,<br>end/g
-s/『καταληψις』/a seizing/g
-s/『καταλιθοβολεω』/to throw stones at/g
+s/『καταλειψις』/legacy/g
+s/『καταλεω』/grind down/g
+s/『καταληγω』/leave off;<br>end/g
+s/『καταληψις』/seizing/g
+s/『καταλιθοβολεω』/throw stones at/g
 s/『καταλιθος』/set with stones/g
-s/『καταλιμπανω』/to retain/g
+s/『καταλιμπανω』/retain/g
 s/『καταλλαγη』/reconciliation/g
-s/『καταλλασσω』/to reconcile/g
-s/『καταλογιζομαι』/to count up,<br>number/g
+s/『καταλλασσω』/reconcile/g
+s/『καταλογιζομαι』/count up;<br>number/g
 s/『καταλοιπος』/left behind/g
-s/『καταλοχια』/register,<br>enrollment/g
+s/『καταλοχια』/register;<br>enrollment/g
 s/『καταλοχισμος』/distribution into bodies/g
-s/『καταλυμα』/a lodging/g
-s/『καταλυσις』/a dissolving,<br>dissolution/g
-s/『καταλυτης』/lodger,<br>guest/g
-s/『καταλυω』/to dislodge,<br>lodge/g
-s/『καταμανθανω』/to study,<br>learn about/g
-s/『καταμαρτυρεω』/to testify against/g
-s/『καταμενω』/to dwell/g
-s/『καταμεριζω』/to cut in pieces/g
+s/『καταλυμα』/lodging/g
+s/『καταλυσις』/dissolving;<br>dissolution/g
+s/『καταλυτης』/lodger;<br>guest/g
+s/『καταλυω』/dislodge;<br>lodge/g
+s/『καταμανθανω』/study;<br>learn about/g
+s/『καταμαρτυρεω』/testify against/g
+s/『καταμενω』/dwell/g
+s/『καταμεριζω』/cut in pieces/g
 s/『καταμερισμος』/division into parts/g
-s/『καταμεστοω』/to fill up with/g
-s/『καταμετρεω』/to measure out to/g
+s/『καταμεστοω』/fill up with/g
+s/『καταμετρεω』/measure out to/g
 s/『καταμηνιος』/「καταμήνιος」/g
-s/『καταμηνυω』/to point out,<br>make known/g
-s/『καταμιγνυμι』/to mix up,<br>mingle the ingredients/g
-s/『καταμιμνησκομαι』/to remind oneself of sth,<br>to call to mind sth/g
-s/『καταμωκαομαι』/to mock at/g
-s/『καταναγκαζω』/to overpower by force,<br>confine/g
+s/『καταμηνυω』/point out;<br>make known/g
+s/『καταμιγνυμι』/mix up;<br>mingle the ingredients/g
+s/『καταμιμνησκομαι』/remind oneself of sth;<br>call to mind sth/g
+s/『καταμωκαομαι』/mock at/g
+s/『καταναγκαζω』/overpower by force;<br>confine/g
 s/『καταναθ』/[NP]/g
-s/『καταναλισκω』/to consume/g
-s/『κατανεμω』/to distribute,<br>allot/g
-s/『κατανισταμαι』/to rise up against/g
-s/『κατανοεω』/to take note of/g
+s/『καταναλισκω』/consume/g
+s/『κατανεμω』/distribute;<br>allot/g
+s/『κατανισταμαι』/rise up against/g
+s/『κατανοεω』/take note of/g
 s/『κατανοησις』/「κατανοήσις」/g
-s/『κατανταω』/to arrive,<br>come down to/g
-s/『καταντημα』/goal,<br>end/g
-s/『καταντλεω』/to pour/g
-s/『κατανυξις』/stupefying,<br>bewilderment/g
-s/『κατανυσσω』/to pierce to/g
-s/『κατανυω』/to bring to quite an end/g
-s/『κατανωτιζομαι』/to ignore,<br>to reject/g
-s/『καταξαινω』/to card/g
-s/『καταξηρος』/very dry,<br>parched/g
+s/『κατανταω』/arrive;<br>come down to/g
+s/『καταντημα』/goal;<br>end/g
+s/『καταντλεω』/pour/g
+s/『κατανυξις』/stupefying;<br>bewilderment/g
+s/『κατανυσσω』/pierce to/g
+s/『κατανυω』/bring to quite an end/g
+s/『κατανωτιζομαι』/ignore;<br>reject/g
+s/『καταξαινω』/card/g
+s/『καταξηρος』/very dry;<br>parched/g
 s/『καταξιος』/quite/g
-s/『καταξιοω』/to deem worthy/g
-s/『καταξυω』/to polish/g
-s/『καταπαιζω』/to mock at/g
-s/『καταπαλαιω』/to throw in wrestling/g
+s/『καταξιοω』/deem worthy/g
+s/『καταξυω』/polish/g
+s/『καταπαιζω』/mock at/g
+s/『καταπαλαιω』/throw in wrestling/g
 s/『καταπαλτης』/「καταπάλτης」/g
-s/『καταπανουργευομαι』/to devise wickedly against/g
-s/『καταπασσω』/to besprinkle/g
-s/『καταπατεω』/to trample/g
-s/『καταπατημα』/trampling,<br>treading/g
+s/『καταπανουργευομαι』/devise wickedly against/g
+s/『καταπασσω』/besprinkle/g
+s/『καταπατεω』/trample/g
+s/『καταπατημα』/trampling;<br>treading/g
 s/『καταπατησις』/trampling/g
-s/『καταπαυμα』/a means of stopping/g
+s/『καταπαυμα』/means of stopping/g
 s/『καταπαυσις』/rest/g
-s/『καταπαυω』/to rest/g
-s/『καταπειραζω』/to make an attempt on/g
-s/『καταπελματοομαι』/to be cobbled,<br>to be clouted/g
-s/『καταπενθεω』/to mourn for,<br>bewail/g
-s/『καταπεταννυμι』/to spread out over/g
-s/『καταπετασμα』/a veil/g
-s/『καταπηγνυμι』/to stick fast in the ground,<br>plant firmly/g
-s/『καταπηδαω』/to leap down/g
+s/『καταπαυω』/rest/g
+s/『καταπειραζω』/make an attempt on/g
+s/『καταπελματοομαι』/cobbled;<br>clouted/g
+s/『καταπενθεω』/mourn for;<br>bewail/g
+s/『καταπεταννυμι』/spread out over/g
+s/『καταπετασμα』/veil/g
+s/『καταπηγνυμι』/stick fast in the ground;<br>plant firmly/g
+s/『καταπηδαω』/leap down/g
 s/『καταπικρος』/very bitter/g
-s/『καταπινω』/to swallow,<br>consume/g
-s/『καταπιπτω』/to fall down/g
-s/『καταπιστευω』/to trust/g
-s/『καταπλασσω』/to plaster over with/g
-s/『καταπληγμος』/panic,<br>terror/g
-s/『καταπληξις』/amazement,<br>consternation/g
-s/『καταπλησσω』/to strike down/g
-s/『καταπλους』/voyage,<br>trip/g
-s/『καταπολεμεω』/to war down/g
-s/『καταπονεω』/to wear down/g
-s/『καταπονος』/tired,<br>wearied/g
-s/『καταποντιζω』/to sink down,<br>drown/g
+s/『καταπινω』/swallow;<br>consume/g
+s/『καταπιπτω』/fall down/g
+s/『καταπιστευω』/trust/g
+s/『καταπλασσω』/plaster over with/g
+s/『καταπληγμος』/panic;<br>terror/g
+s/『καταπληξις』/amazement;<br>consternation/g
+s/『καταπλησσω』/strike down/g
+s/『καταπλους』/voyage;<br>trip/g
+s/『καταπολεμεω』/war down/g
+s/『καταπονεω』/wear down/g
+s/『καταπονος』/tired;<br>wearied/g
+s/『καταποντιζω』/sink down;<br>drown/g
 s/『καταποντισμος』/destruction/g
-s/『καταπορευομαι』/to return home/g
+s/『καταπορευομαι』/return home/g
 s/『καταπραυνω』/「καταπραΰνω」/g
-s/『καταπριω』/to saw up/g
-s/『καταπροδιδωμι』/to betray utterly,<br>leave in the lurch/g
-s/『καταπρονομευω』/to carry off as booty/g
-s/『καταπτησσω』/to crouch down,<br>to lie crouching/g
-s/『καταπτωμα』/falling down,<br>gap/g
-s/『καταπτωσις』/downfall,<br>calamity/g
-s/『καταρα』/a curse/g
-s/『καταραομαι』/to curse/g
+s/『καταπριω』/saw up/g
+s/『καταπροδιδωμι』/betray utterly;<br>leave in the lurch/g
+s/『καταπρονομευω』/carry off as booty/g
+s/『καταπτησσω』/crouch down;<br>lie crouching/g
+s/『καταπτωμα』/falling down;<br>gap/g
+s/『καταπτωσις』/downfall;<br>calamity/g
+s/『καταρα』/curse/g
+s/『καταραομαι』/curse/g
 s/『καταρασις』/cursing/g
-s/『καταρατος』/accursed,<br>abominable/g
+s/『καταρατος』/accursed;<br>abominable/g
 s/『καταραω』/「καταράω」/g
-s/『καταργεω』/to deactivate,<br>fade/g
-s/『καταργυροω』/to cover with silver/g
-s/『καταριθμεω』/to number/g
+s/『καταργεω』/deactivate;<br>fade/g
+s/『καταργυροω』/cover with silver/g
+s/『καταριθμεω』/number/g
 s/『καταρομβευω』/「καταρομβεύω」/g
-s/『καταρρακτης』/a cataract/g
+s/『καταρρακτης』/cataract/g
 s/『καταρρασσω』/「καταρράσσω」/g
-s/『καταρρεω』/to flow down/g
-s/『καταρρηγνυμι』/to break down/g
-s/『καταρριπτω』/to throw down,<br>overthrow/g
-s/『καταρρυτος』/irrigated,<br>watered/g
-s/『καταρτιζω』/to repair,<br>outfit/g
-s/『καταρχω』/to rule over/g
-s/『κατασβεννυμι』/to put out,<br>quench/g
-s/『κατασειω』/to shake down,<br>gesture/g
+s/『καταρρεω』/flow down/g
+s/『καταρρηγνυμι』/break down/g
+s/『καταρριπτω』/throw down;<br>overthrow/g
+s/『καταρρυτος』/irrigated;<br>watered/g
+s/『καταρτιζω』/repair;<br>outfit/g
+s/『καταρχω』/rule over/g
+s/『κατασβεννυμι』/put out;<br>quench/g
+s/『κατασειω』/shake down;<br>gesture/g
 s/『κατασεμ』/[NP]/g
-s/『κατασιωπαω』/to be silent about/g
-s/『κατασκαπτω』/to undermine/g
+s/『κατασιωπαω』/silent about/g
+s/『κατασκαπτω』/undermine/g
 s/『κατασκεδαζω』/「κατασκεδάζω」/g
-s/『κατασκεπτομαι』/to view closely,<br>to survey/g
-s/『κατασκευαζω』/to furnish,<br>prepare/g
+s/『κατασκεπτομαι』/view closely;<br>survey/g
+s/『κατασκευαζω』/furnish;<br>prepare/g
 s/『κατασκευασμα』/that which is prepared/g
 s/『κατασκευη』/preparation/g
-s/『κατασκηναω』/take up one’s quarters,<br>encamp/g
-s/『κατασκηνοω』/to nest,<br>camp/g
-s/『κατασκηνωσις』/a nest/g
+s/『κατασκηναω』/take up one’s quarters;<br>encamp/g
+s/『κατασκηνοω』/nest;<br>camp/g
+s/『κατασκηνωσις』/nest/g
 s/『κατασκιος』/shadowed/g
-s/『κατασκοπεω』/to spy on/g
-s/『κατασκοπος』/a spy/g
-s/『κατασμικρυνω』/to be little or small/g
-s/『κατασοφιζομαι』/to outwit/g
-s/『κατασπαταλαω』/to live wantonly,<br>to wanton/g
-s/『κατασπαω』/to pull down/g
-s/『κατασπειρω』/to sow thickly/g
-s/『κατασπευδω』/to press,<br>urge/g
-s/『κατασπουδαζομαι』/to be very earnest/g
-s/『καταστασιαζω』/to form a counter-party in the state/g
-s/『καταστασις』/a settling,<br>appointing/g
-s/『καταστελλω』/to pacify/g
-s/『καταστεμα』/state,<br>disposition/g
-s/『καταστεναζω』/to sigh,<br>to groan/g
-s/『καταστηριζω』/to establish/g
-s/『καταστολη』/a long robe/g
-s/『καταστραγγιζω』/to drop,<br>to squeeze out/g
-s/『καταστρατοπεδευω』/to put into cantonments,<br>encamp/g
-s/『καταστρεφω』/to overturn/g
+s/『κατασκοπεω』/spy on/g
+s/『κατασκοπος』/spy/g
+s/『κατασμικρυνω』/little or small/g
+s/『κατασοφιζομαι』/outwit/g
+s/『κατασπαταλαω』/live wantonly;<br>wanton/g
+s/『κατασπαω』/pull down/g
+s/『κατασπειρω』/sow thickly/g
+s/『κατασπευδω』/press;<br>urge/g
+s/『κατασπουδαζομαι』/very earnest/g
+s/『καταστασιαζω』/form a counter-party in the state/g
+s/『καταστασις』/settling;<br>appointing/g
+s/『καταστελλω』/pacify/g
+s/『καταστεμα』/state;<br>disposition/g
+s/『καταστεναζω』/sigh;<br>groan/g
+s/『καταστηριζω』/establish/g
+s/『καταστολη』/long robe/g
+s/『καταστραγγιζω』/drop;<br>squeeze out/g
+s/『καταστρατοπεδευω』/put into cantonments;<br>encamp/g
+s/『καταστρεφω』/overturn/g
 s/『καταστροφη』/catastrophe/g
-s/『καταστρωννυμι』/to strew about/g
-s/『κατασυρω』/to drag down/g
-s/『κατασφαζω』/to execute/g
-s/『κατασφαλιζομαι』/to make sure;<br>to be made fast/g
-s/『κατασφραγιζω』/to seal/g
-s/『κατασχεσις』/a holding/g
-s/『κατασχιζω』/to cleave asunder,<br>split up/g
-s/『κατατασσω』/to draw up in order,<br>arrange/g
-s/『κατατεινω』/to stretch/g
-s/『κατατεμνω』/to cut in pieces,<br>cut up/g
-s/『κατατερπω』/to rejoice/g
-s/『κατατηκω』/to melt away,<br>to make to fall away/g
-s/『κατατιθημι』/to put down,<br>lay down/g
-s/『κατατιλλω』/to pull off/g
-s/『κατατιτρωσκω』/to wound severely/g
-s/『κατατολμαω』/to dare,<br>to presume/g
-s/『κατατοξευω』/to shoot down with a bow/g
-s/『κατατρεχω』/to run down/g
-s/『κατατριβω』/to rub down/g
-s/『κατατρυφαω』/to take delight in/g
-s/『κατατρωγω』/to gnaw in pieces,<br>eat up/g
-s/『κατατυγχανω』/to hit one's mark,<br>to be successful/g
-s/『καταυγαζω』/to shine upon/g
-s/『καταφαινω』/to appear/g
+s/『καταστρωννυμι』/strew about/g
+s/『κατασυρω』/drag down/g
+s/『κατασφαζω』/execute/g
+s/『κατασφαλιζομαι』/make sure;<br>made fast/g
+s/『κατασφραγιζω』/seal/g
+s/『κατασχεσις』/holding/g
+s/『κατασχιζω』/cleave asunder;<br>split up/g
+s/『κατατασσω』/draw up in order;<br>arrange/g
+s/『κατατεινω』/stretch/g
+s/『κατατεμνω』/cut in pieces;<br>cut up/g
+s/『κατατερπω』/rejoice/g
+s/『κατατηκω』/melt away;<br>make to fall away/g
+s/『κατατιθημι』/put down;<br>lay down/g
+s/『κατατιλλω』/pull off/g
+s/『κατατιτρωσκω』/wound severely/g
+s/『κατατολμαω』/dare;<br>presume/g
+s/『κατατοξευω』/shoot down with a bow/g
+s/『κατατρεχω』/run down/g
+s/『κατατριβω』/rub down/g
+s/『κατατρυφαω』/take delight in/g
+s/『κατατρωγω』/gnaw in pieces;<br>eat up/g
+s/『κατατυγχανω』/hit one's mark;<br>successful/g
+s/『καταυγαζω』/shine upon/g
+s/『καταφαινω』/appear/g
 s/『καταφερης』/going down/g
-s/『καταφερω』/to bring down\/against,<br>bear down/g
-s/『καταφευγω』/to flee for refuge/g
-s/『καταφθανω』/to fall upon unawares,<br>to overtake/g
-s/『καταφθειρω』/to decompose,<br>corrupt/g
-s/『καταφθορα』/destruction,<br>death/g
-s/『καταφιλεω』/to show affection,<br>be affectionate/g
-s/『καταφλεγω』/to burn down,<br>burn up/g
-s/『καταφλογιζω』/to burst into flame/g
+s/『καταφερω』/bring down\/against;<br>bear down/g
+s/『καταφευγω』/flee for refuge/g
+s/『καταφθανω』/fall upon unawares;<br>overtake/g
+s/『καταφθειρω』/decompose;<br>corrupt/g
+s/『καταφθορα』/destruction;<br>death/g
+s/『καταφιλεω』/show affection;<br>affectionate/g
+s/『καταφλεγω』/burn down;<br>burn up/g
+s/『καταφλογιζω』/burst into flame/g
 s/『καταφοβοι』/「κατάφοβοι」/g
 s/『καταφορα』/downwards motion/g
-s/『καταφρασσω』/to cover with mail/g
-s/『καταφρονεω』/to despise/g
-s/『καταφρονησις』/contempt,<br>disdain/g
-s/『καταφρονητης』/a scoffer/g
-s/『καταφυγη』/a refuge,<br>place of refuge/g
-s/『καταφυτευσις』/planting,<br>plantation/g
-s/『καταφυτευω』/to plant/g
-s/『καταχαιρω』/to exult over/g
-s/『καταχαλαζαω』/to shower down like hail upon/g
-s/『καταχαλκοω』/to cover with brass/g
-s/『καταχεω』/to pour over/g
-s/『καταχραομαι』/to abuse/g
+s/『καταφρασσω』/cover with mail/g
+s/『καταφρονεω』/despise/g
+s/『καταφρονησις』/contempt;<br>disdain/g
+s/『καταφρονητης』/scoffer/g
+s/『καταφυγη』/refuge;<br>place of refuge/g
+s/『καταφυτευσις』/planting;<br>plantation/g
+s/『καταφυτευω』/plant/g
+s/『καταχαιρω』/exult over/g
+s/『καταχαλαζαω』/shower down like hail upon/g
+s/『καταχαλκοω』/cover with brass/g
+s/『καταχεω』/pour over/g
+s/『καταχραομαι』/abuse/g
 s/『καταχρεος』/involved in/g
-s/『καταχριω』/to besmear with/g
+s/『καταχριω』/besmear with/g
 s/『καταχρυσεα』/「καταχρύσεα」/g
-s/『καταχρυσοω』/to cover with gold-leaf,<br>gild/g
+s/『καταχρυσοω』/cover with gold-leaf;<br>gild/g
 s/『καταχυσις』/pouring over/g
-s/『καταχωννυμι』/to overwhelm/g
-s/『καταχωριζω』/to set in a place,<br>place in position/g
-s/『καταψευδομαι』/to tell lies against,<br>speak falsely of/g
-s/『καταψευσμος』/slander,<br>calumny/g
-s/『καταψυχω』/to cool down/g
-s/『κατεγχειρεω』/to plot against/g
-s/『κατειπον』/to speak against/g
-s/『κατελεεω』/to have compassion upon/g
-s/『κατεμβλεπω』/to look down/g
-s/『κατεναντι』/opposite,<br>before/g
-s/『κατεναντιον』/over against,<br>opposite/g
+s/『καταχωννυμι』/overwhelm/g
+s/『καταχωριζω』/set in a place;<br>place in position/g
+s/『καταψευδομαι』/tell lies against;<br>speak falsely of/g
+s/『καταψευσμος』/slander;<br>calumny/g
+s/『καταψυχω』/cool down/g
+s/『κατεγχειρεω』/plot against/g
+s/『κατειπον』/speak against/g
+s/『κατελεεω』/have compassion upon/g
+s/『κατεμβλεπω』/look down/g
+s/『κατεναντι』/opposite;<br>before/g
+s/『κατεναντιον』/over against;<br>opposite/g
 s/『κατεναντιος』/「κατεναντίος」/g
 s/『κατεντευκτης』/accuser of/g
-s/『κατενωπιον』/face to face,<br>before/g
-s/『κατεπειγω』/to press down,<br>depress/g
+s/『κατενωπιον』/face to face;<br>before/g
+s/『κατεπειγω』/press down;<br>depress/g
 s/『κατεπιθυμος』/very eager to/g
-s/『κατεπικυπτω』/to bow down upon/g
-s/『κατεργαζομαι』/to accomplish,<br>cultivate/g
+s/『κατεπικυπτω』/bow down upon/g
+s/『κατεργαζομαι』/accomplish;<br>cultivate/g
 s/『κατεργασια』/working/g
-s/『κατεργον』/wages,<br>the cost of labour/g
-s/『κατερχομαι』/to go down,<br>come down/g
-s/『κατεσθιω』/to consume,<br>eat up/g
-s/『κατευθικτεω』/to hit exactly/g
-s/『κατευθυνω』/to straighten out,<br>direct/g
-s/『κατευλογεω』/to bless/g
-s/『κατευοδοω』/to bring prosperity/g
-s/『κατευφημεω』/to applaud,<br>extol/g
-s/『κατευχομαι』/to pray earnestly/g
-s/『κατεχω』/to retain,<br>detain/g
-s/『κατηγορεω』/to accuse/g
+s/『κατεργον』/wages;<br>cost of labour/g
+s/『κατερχομαι』/go down;<br>come down/g
+s/『κατεσθιω』/consume;<br>eat up/g
+s/『κατευθικτεω』/hit exactly/g
+s/『κατευθυνω』/straighten out;<br>direct/g
+s/『κατευλογεω』/bless/g
+s/『κατευοδοω』/bring prosperity/g
+s/『κατευφημεω』/applaud;<br>extol/g
+s/『κατευχομαι』/pray earnestly/g
+s/『κατεχω』/retain;<br>detain/g
+s/『κατηγορεω』/accuse/g
 s/『κατηγορος』/accuser/g
-s/『κατηφης』/with downcast eyes,<br>downcast/g
-s/『κατιοω』/to corrode/g
-s/『κατισχυω』/to force down,<br>prevail/g
-s/『κατοδυναω』/to afflict grievously,<br>to embitter/g
-s/『κατοικεσια』/dwelling,<br>inhabiting/g
-s/『κατοικεω』/to settle/g
-s/『κατοικησις』/settlement,<br>settling/g
-s/『κατοικητηριον』/a settlement/g
-s/『κατοικια』/a settlement/g
-s/『κατοικιζω』/to settle/g
-s/『κατοικοδομεω』/to build on/g
-s/『κατοικος』/a settler/g
-s/『κατοικτειρω』/to have mercy/g
-s/『κατοινοομαι』/to be drunk/g
+s/『κατηφης』/with downcast eyes;<br>downcast/g
+s/『κατιοω』/corrode/g
+s/『κατισχυω』/force down;<br>prevail/g
+s/『κατοδυναω』/afflict grievously;<br>embitter/g
+s/『κατοικεσια』/dwelling;<br>inhabiting/g
+s/『κατοικεω』/settle/g
+s/『κατοικησις』/settlement;<br>settling/g
+s/『κατοικητηριον』/settlement/g
+s/『κατοικια』/settlement/g
+s/『κατοικιζω』/settle/g
+s/『κατοικοδομεω』/build on/g
+s/『κατοικος』/settler/g
+s/『κατοικτειρω』/have mercy/g
+s/『κατοινοομαι』/drunk/g
 s/『κατοπισθε』/「κατόπισθε」/g
-s/『κατοπισθεν』/behind,<br>after/g
-s/『κατοπισω』/after,<br>behind/g
-s/『κατοπτευω』/to spy out,<br>reconnoitre/g
-s/『κατοπτρον』/a mirror/g
-s/『κατορθοω』/to set upright/g
+s/『κατοπισθεν』/behind;<br>after/g
+s/『κατοπισω』/after;<br>behind/g
+s/『κατοπτευω』/spy out;<br>reconnoitre/g
+s/『κατοπτρον』/mirror/g
+s/『κατορθοω』/set upright/g
 s/『κατορθωσις』/[NP]/g
-s/『κατορθωσις\.1』/a setting straight: successful accomplishment/g
-s/『κατορυσσω』/to bury in the ground/g
-s/『κατορχεομαι』/to treat spitefully/g
-s/『κατοχευω』/to cross-breed with/g
+s/『κατορθωσις\.1』/setting straight: successful accomplishment/g
+s/『κατορυσσω』/bury in the ground/g
+s/『κατορχεομαι』/treat spitefully/g
+s/『κατοχευω』/cross-breed with/g
 s/『κατοχιμος』/held in possession/g
 s/『κατοχος』/holding fast/g
 s/『κατταθ』/[NP]/g
-s/『κατω』/down,<br>below/g
-s/『κατωδυνος』/in great pain or affliction,<br>grieved/g
-s/『κατωθεν』/from below,<br>up from below/g
+s/『κατω』/down;<br>below/g
+s/『κατωδυνος』/in great pain or affliction;<br>grieved/g
+s/『κατωθεν』/from below;<br>up from below/g
 s/『κατωτατος』/lowest/g
-s/『κατωτατω』/at the lowest part,<br>very low/g
+s/『κατωτατω』/at the lowest part;<br>very low/g
 s/『κατωτερος』/lower/g
-s/『καυλος』/the shaft/g
+s/『καυλος』/shaft/g
 s/『καυμα』/heat/g
 s/『καυσις』/burning/g
-s/『καυστικος』/burning,<br>scorching/g
+s/『καυστικος』/burning;<br>scorching/g
 s/『καυσων』/scorching heat/g
-s/『καυτηριον』/a branding iron/g
-s/『καυχαομαι』/to boast/g
-s/『καυχημα』/a boast,<br>reason for boasting/g
+s/『καυτηριον』/branding iron/g
+s/『καυχαομαι』/boast/g
+s/『καυχημα』/boast;<br>reason for boasting/g
 s/『καυχησις』/boasting/g
 s/『καφαν』/[NP]/g
 s/『καφηραμμιν』/[NP]/g
 s/『καφθοριιμ』/[NP]/g
 s/『καφιρα』/[NP]/g
 s/『καφουρη』/bowls/g
-s/『καψακης』/jug,<br>jar/g
+s/『καψακης』/jug;<br>jar/g
 s/『κβʹ』/[M]/g
 s/『κεαφ』/[NP]/g
 s/『κεβλααμ』/[NP]/g
@@ -7588,109 +7588,109 @@ s/『κεδημωθ』/[NP]/g
 s/『κεδμα』/[NP]/g
 s/『κεδμωναιος』/[NP]/g
 s/『κεδρινος』/of cedar/g
-s/『κεδρος』/a cedar/g
+s/『κεδρος』/cedar/g
 s/『κεδρων』/[NP]/g
 s/『κεζιβ』/[NP]/g
 s/『κειλα』/[NP]/g
 s/『κειλαμ』/[NP]/g
-s/『κειμαι』/to lie,<br>be laid/g
-s/『κειρια』/a bandage,<br>wrapping/g
-s/『κειρω』/to shear,<br>crop/g
+s/『κειμαι』/lie;<br>laid/g
+s/『κειρια』/bandage;<br>wrapping/g
+s/『κειρω』/shear;<br>crop/g
 s/『κεκρυμμενως』/secretly/g
 s/『κελεζ』/[NP]/g
-s/『κελευσμα』/exhortation,<br>command/g
-s/『κελευω』/to exhort,<br>command/g
+s/『κελευσμα』/exhortation;<br>command/g
+s/『κελευω』/exhort;<br>command/g
 s/『κενδεβαιος』/[NP]/g
 s/『κενεζ』/[NP]/g
 s/『κενεζαιος』/[NP]/g
 s/『κενεζι』/[NP]/g
 s/『κενερεθ』/[NP]/g
 s/『κενερωθ』/[NP]/g
-s/『κενεων』/the hollow below the ribs,<br>the flank/g
+s/『κενεων』/hollow below the ribs;<br>flank/g
 s/『κενοδοξεω』/「κενοδοξέω」/g
 s/『κενοδοξια』/ostentation/g
-s/『κενολογεω』/to talk emptily/g
-s/『κενος』/hollow,<br>empty/g
-s/『κενοταφιον』/an empty tomb,<br>cenotaph/g
-s/『κενοω』/to hollow,<br>hollow out/g
-s/『κεντεω』/to prick,<br>goad/g
-s/『κεντρον』/a stinger,<br>spur/g
+s/『κενολογεω』/talk emptily/g
+s/『κενος』/hollow;<br>empty/g
+s/『κενοταφιον』/empty tomb;<br>cenotaph/g
+s/『κενοω』/hollow;<br>hollow out/g
+s/『κεντεω』/prick;<br>goad/g
+s/『κεντρον』/stinger;<br>spur/g
 s/『κενως』/hollowly/g
 s/『κεπφοομαι』/「κεπφόομαι」/g
-s/『κεραμευς』/a potter/g
-s/『κεραμικος』/of clay,<br>ceramic/g
-s/『κεραμιον』/a pot/g
-s/『κεραμος』/a tile/g
-s/『κεραννυμι』/to mix/g
+s/『κεραμευς』/potter/g
+s/『κεραμικος』/of clay;<br>ceramic/g
+s/『κεραμιον』/pot/g
+s/『κεραμος』/tile/g
+s/『κεραννυμι』/mix/g
 s/『κεραννυω』/「κεραννύω」/g
-s/『κερας』/a horn/g
+s/『κερας』/horn/g
 s/『κερασμα』/mixture;<br>drink poured out/g
 s/『κεραστης』/horned/g
-s/『κερατιζω』/to gore;<br>to butt with horns/g
+s/『κερατιζω』/gore;<br>butt with horns/g
 s/『κερατινη』/「κερατίνη」/g
 s/『κερατιστης』/one that butts/g
-s/『κεραυνος』/a thunderbolt/g
-s/『κεραυνοω』/to strike with thunderbolts/g
-s/『κερκος』/the tail/g
+s/『κεραυνος』/thunderbolt/g
+s/『κεραυνοω』/strike with thunderbolts/g
+s/『κερκος』/tail/g
 s/『κερκωψ』/teller of false tales/g
 s/『κερωε』/[NP]/g
 s/『κεσιων』/[NP]/g
-s/『κεφαλαιον』/a capital,<br>summary/g
-s/『κεφαλαιοω』/to dominate,<br>hit on the head/g
-s/『κεφαλη』/the head,<br>top/g
-s/『κεφαλις』/a heading/g
+s/『κεφαλαιον』/capital;<br>summary/g
+s/『κεφαλαιοω』/dominate;<br>hit on the head/g
+s/『κεφαλη』/head;<br>top/g
+s/『κεφαλις』/heading/g
 s/『κεφιρα』/[NP]/g
 s/『κεφφουρε』/bowls of/g
 s/『κεφφουρης』/「κεφφουρῆς」/g
 s/『κεχαρ』/[NP]/g
 s/『κηδαρ』/[NP]/g
-s/『κηδεια』/connexion by marriage,<br>alliance/g
-s/『κηδεμονια』/care,<br>solicitude/g
+s/『κηδεια』/connexion by marriage;<br>alliance/g
+s/『κηδεμονια』/care;<br>solicitude/g
 s/『κηδεμων』/one who is in charge/g
 s/『κηδες』/[NP]/g
 s/『κηλιδοομαι』/「κηλιδόομαι」/g
-s/『κηλιδοω』/to stain,<br>sully/g
-s/『κηλις』/a stain,<br>spot/g
-s/『κημος』/a muzzle/g
-s/『κηπος』/a garden/g
+s/『κηλιδοω』/stain;<br>sully/g
+s/『κηλις』/stain;<br>spot/g
+s/『κημος』/muzzle/g
+s/『κηπος』/garden/g
 s/『κηραος』/[NP]/g
 s/『κηρας』/[NP]/g
-s/『κηριον』/a honeycomb/g
+s/『κηριον』/honeycomb/g
 s/『κηρογονια』/formation of honeycombs/g
 s/『κηρος』/bees-wax/g
-s/『κηρυγμα』/an edict,<br>proclamation/g
-s/『κηρυξ』/a herald/g
-s/『κηρυσσω』/to herald,<br>proclaim/g
+s/『κηρυγμα』/edict;<br>proclamation/g
+s/『κηρυξ』/herald/g
+s/『κηρυσσω』/herald;<br>proclaim/g
 s/『κηταβ』/[NP]/g
-s/『κητος』/a sea monster/g
+s/『κητος』/sea monster/g
 s/『κθʹ』/[M]/g
-s/『κιβδηλος』/adulterated,<br>spurious/g
-s/『κιβωτος』/an ark/g
-s/『κιδαρις』/a headband/g
-s/『κιθαρα』/a harp/g
-s/『κιθαριζω』/to harp/g
+s/『κιβδηλος』/adulterated;<br>spurious/g
+s/『κιβωτος』/ark/g
+s/『κιδαρις』/headband/g
+s/『κιθαρα』/harp/g
+s/『κιθαριζω』/harp/g
 s/『κιλαν』/[NP]/g
 s/『κιλικια』/[NP]/g
 s/『κινα』/[NP]/g
 s/『κιναιοι』/[NP]/g
 s/『κιναιος』/[NP]/g
 s/『κιναν』/[NP]/g
-s/『κινδυνευω』/to be in danger/g
+s/『κινδυνευω』/in danger/g
 s/『κινδυνος』/danger/g
-s/『κινεω』/to stir,<br>shake/g
-s/『κινημα』/a motion,<br>movement/g
+s/『κινεω』/stir;<br>shake/g
+s/『κινημα』/motion;<br>movement/g
 s/『κινησις』/stirring/g
 s/『κινητικος』/for putting in motion/g
 s/『κινναμωμον』/cinnamon/g
-s/『κινυρα』/stringed instrument,<br>lyre/g
+s/『κινυρα』/stringed instrument;<br>lyre/g
 s/『κιραδας』/[NP]/g
 s/『κιραμας』/[NP]/g
 s/『κιρας』/[NP]/g
-s/『κιρναω』/to mix/g
+s/『κιρναω』/mix/g
 s/『κις』/[NP]/g
 s/『κισαι』/[NP]/g
 s/『κισαιας』/[NP]/g
-s/『κισσαω』/to crave for strange food/g
+s/『κισσαω』/crave for strange food/g
 s/『κισσος』/ivy/g
 s/『κισσοφυλλον』/ivy leaf/g
 s/『κισων』/[NP]/g
@@ -7699,339 +7699,339 @@ s/『κιτιεις』/[NP]/g
 s/『κιτιοι』/[NP]/g
 s/『κιτιος』/[NP]/g
 s/『κιχραω』/「κιχράω」/g
-s/『κιων』/a pillar/g
-s/『κλαδος』/a branch/g
-s/『κλαιω』/to weep,<br>cry/g
-s/『κλασμα』/a piece/g
+s/『κιων』/pillar/g
+s/『κλαδος』/branch/g
+s/『κλαιω』/weep;<br>cry/g
+s/『κλασμα』/piece/g
 s/『κλαυθμος』/weeping/g
 s/『κλαυθμων』/weeping/g
-s/『κλαω』/to break/g
-s/『κλειθρον』/a bar/g
-s/『κλεις』/a key/g
-s/『κλειω』/to shut/g
-s/『κλεμμα』/a theft/g
+s/『κλαω』/break/g
+s/『κλειθρον』/bar/g
+s/『κλεις』/key/g
+s/『κλειω』/shut/g
+s/『κλεμμα』/theft/g
 s/『κλεοπατρα』/[NP]/g
 s/『κλεος』/renown/g
-s/『κλεπτης』/a thief/g
-s/『κλεπτω』/to steal/g
+s/『κλεπτης』/thief/g
+s/『κλεπτω』/steal/g
 s/『κλεψιμαιος』/stolen/g
-s/『κληδονιζω』/to practise divination/g
-s/『κληδονισμος』/observation of a sign or omen,<br>divination/g
-s/『κληδων』/an omen/g
-s/『κλημα』/a branch/g
-s/『κληματις』/brush-wood,<br>fagot-wood/g
-s/『κληροδοσια』/distribution of land,<br>heritage/g
-s/『κληροδοτεω』/to distribute land to/g
-s/『κληρονομεω』/to inherit,<br>be an heir/g
+s/『κληδονιζω』/practise divination/g
+s/『κληδονισμος』/observation of a sign or omen;<br>divination/g
+s/『κληδων』/omen/g
+s/『κλημα』/branch/g
+s/『κληματις』/brush-wood;<br>fagot-wood/g
+s/『κληροδοσια』/distribution of land;<br>heritage/g
+s/『κληροδοτεω』/distribute land to/g
+s/『κληρονομεω』/inherit;<br>heir/g
 s/『κληρονομια』/inheritance/g
-s/『κληρονομος』/an heir/g
-s/『κληρος』/a lot,<br>allotment/g
-s/『κληροω』/to allot/g
+s/『κληρονομος』/heir/g
+s/『κληρος』/lot;<br>allotment/g
+s/『κληροω』/allot/g
 s/『κληρωτι』/by lot/g
 s/『κλησις』/invitation/g
-s/『κλητεος』/to be called,<br>named/g
+s/『κλητεος』/called;<br>named/g
 s/『κλητος』/invited/g
-s/『κλιβανος』/an oven/g
-s/『κλιμα』/climate,<br>region/g
-s/『κλιμακτηρ』/the round of a ladder/g
-s/『κλιμαξ』/a ladder/g
-s/『κλινη』/a bed/g
-s/『κλινω』/to bend,<br>tip over/g
-s/『κλισια』/a hut,<br>group/g
-s/『κλιτος』/a clime/g
-s/『κλοιος』/a collar/g
+s/『κλιβανος』/oven/g
+s/『κλιμα』/climate;<br>region/g
+s/『κλιμακτηρ』/round of a ladder/g
+s/『κλιμαξ』/ladder/g
+s/『κλινη』/bed/g
+s/『κλινω』/bend;<br>tip over/g
+s/『κλισια』/hut;<br>group/g
+s/『κλιτος』/clime/g
+s/『κλοιος』/collar/g
 s/『κλοπη』/theft/g
-s/『κλοποφορεω』/to steal from/g
-s/『κλυδων』/a tempest/g
-s/『κλυδωνιζομαι』/to surge/g
-s/『κλωθω』/to twist by spinning,<br>spin/g
-s/『κλων』/a twig,<br>spray/g
+s/『κλοποφορεω』/steal from/g
+s/『κλυδων』/tempest/g
+s/『κλυδωνιζομαι』/surge/g
+s/『κλωθω』/twist by spinning;<br>spin/g
+s/『κλων』/twig;<br>spray/g
 s/『κλωσμα』/thread/g
 s/『κλωστος』/spun/g
-s/『κνημη』/the part between the knee and ankle,<br>the leg/g
-s/『κνημις』/a greave/g
+s/『κνημη』/part between the knee and ankle;<br>leg/g
+s/『κνημις』/greave/g
 s/『κνηφη』/itch/g
-s/『κνιδη』/a nettle/g
+s/『κνιδη』/nettle/g
 s/『κνιδος』/[NP]/g
-s/『κνιζω』/to scrape/g
+s/『κνιζω』/scrape/g
 s/『κνωδαλον』/any dangerous animal/g
 s/『κοθωνος』/「κοθωνος」/g
-s/『κοιλας』/a hollow/g
+s/『κοιλας』/hollow/g
 s/『κοιλασμα』/hollow/g
 s/『κοιλη』/[NP]/g
-s/『κοιλια』/insides,<br>womb/g
-s/『κοιλος』/the hold/g
-s/『κοιλοσταθμεω』/to provide the ceiling with/g
-s/『κοιλοσταθμος』/a paneled ceiling/g
-s/『κοιλοτης』/hollowness,<br>hollow/g
-s/『κοιλωμα』/a hollow/g
-s/『κοιμαω』/to doze,<br>fall asleep/g
-s/『κοιμησις』/dozing,<br>sleep/g
-s/『κοιμιζω』/to put to sleep/g
-s/『κοινολογεομαι』/to commune/g
+s/『κοιλια』/insides;<br>womb/g
+s/『κοιλος』/hold/g
+s/『κοιλοσταθμεω』/provide the ceiling with/g
+s/『κοιλοσταθμος』/paneled ceiling/g
+s/『κοιλοτης』/hollowness;<br>hollow/g
+s/『κοιλωμα』/hollow/g
+s/『κοιμαω』/doze;<br>fall asleep/g
+s/『κοιμησις』/dozing;<br>sleep/g
+s/『κοιμιζω』/put to sleep/g
+s/『κοινολογεομαι』/commune/g
 s/『κοινολογια』/conference/g
-s/『κοινος』/common,<br>vulgar/g
-s/『κοινοω』/to defile/g
+s/『κοινος』/common;<br>vulgar/g
+s/『κοινοω』/defile/g
 s/『κοιντος』/[NP]/g
-s/『κοινωνεω』/to share/g
-s/『κοινωνια』/companionship,<br>contribution/g
-s/『κοινωνος』/a companion/g
+s/『κοινωνεω』/share/g
+s/『κοινωνια』/companionship;<br>contribution/g
+s/『κοινωνος』/companion/g
 s/『κοινως』/together/g
 s/『κοιταζομαι』/「κοιτάζομαι」/g
 s/『κοιτασια』/sexual intercourse/g
-s/『κοιτη』/lying down,<br>relations/g
+s/『κοιτη』/lying down;<br>relations/g
 s/『κοιτων』/bedroom/g
 s/『κοκκινος』/scarlet/g
-s/『κοκκος』/a kernel/g
+s/『κοκκος』/kernel/g
 s/『κολαβριζομαι』/「κολαβρίζομαι」/g
-s/『κολαζω』/to punish/g
-s/『κολακευω』/to flatter/g
-s/『κολαπτω』/to peck at/g
+s/『κολαζω』/punish/g
+s/『κολακευω』/flatter/g
+s/『κολαπτω』/peck at/g
 s/『κολασις』/punishment/g
-s/『κολεος』/sheath,<br>scabbard/g
-s/『κολλαω』/to cling,<br>join/g
+s/『κολεος』/sheath;<br>scabbard/g
+s/『κολλαω』/cling;<br>join/g
 s/『κολλη』/「κόλλη」/g
-s/『κολλυριζω』/to bake/g
+s/『κολλυριζω』/bake/g
 s/『κολλυριον』/eye-salve/g
 s/『κολλυρις』/cake/g
 s/『κολοβοκερκος』/with a docked tail/g
 s/『κολοβοριν』/「κολοβόριν」/g
-s/『κολοβοω』/to maim,<br>cut short/g
-s/『κολοκυνθα』/a gourd/g
-s/『κολπος』/bosom,<br>a bay/g
-s/『κολπωμα』/a folded garment/g
-s/『κολυμβηθρα』/a pool/g
+s/『κολοβοω』/maim;<br>cut short/g
+s/『κολοκυνθα』/gourd/g
+s/『κολπος』/bosom;<br>bay/g
+s/『κολπωμα』/folded garment/g
+s/『κολυμβηθρα』/pool/g
 s/『κομη』/hairstyle/g
-s/『κομιδη』/attendance,<br>care/g
-s/『κομιζω』/to obtain/g
-s/『κομμα』/the stamp/g
-s/『κομπος』/a noise,<br>din/g
-s/『κονδυ』/a goblet/g
-s/『κονδυλιζω』/to pummel/g
+s/『κομιδη』/attendance;<br>care/g
+s/『κομιζω』/obtain/g
+s/『κομμα』/stamp/g
+s/『κομπος』/noise;<br>din/g
+s/『κονδυ』/goblet/g
+s/『κονδυλιζω』/pummel/g
 s/『κονδυλισμος』/cruel act/g
-s/『κονια』/dust,<br>a cloud of dust/g
-s/『κονιαμα』/plaster,<br>stucco/g
-s/『κονιαω』/to whitewash/g
+s/『κονια』/dust;<br>cloud of dust/g
+s/『κονιαμα』/plaster;<br>stucco/g
+s/『κονιαω』/whitewash/g
 s/『κονιορτον』/[NP]/g
 s/『κονιορτος』/dust/g
 s/『κονις』/ashes/g
-s/『κοντος』/a pole,<br>punting-pole/g
+s/『κοντος』/pole;<br>punting-pole/g
 s/『κονυζα』/「κονύζα」/g
-s/『κοπαζω』/to be exhausted,<br>abate/g
-s/『κοπανιζω』/to grind,<br>to pound/g
+s/『κοπαζω』/exhausted;<br>abate/g
+s/『κοπανιζω』/grind;<br>pound/g
 s/『κοπετος』/lamentation/g
-s/『κοπη』/cutting down,<br>slaughter/g
+s/『κοπη』/cutting down;<br>slaughter/g
 s/『κοπιαζω』/「κοπιάζω」/g
-s/『κοπιαω』/to be exhausted,<br>labor/g
-s/『κοπος』/labor,<br>weariness/g
-s/『κοποω』/to weary,<br>to exhaust with physical trouble/g
-s/『κοπρια』/a dung hill/g
-s/『κοπρος』/dung,<br>ordure/g
-s/『κοπτω』/to cut,<br>mourn/g
+s/『κοπιαω』/exhausted;<br>labor/g
+s/『κοπος』/labor;<br>weariness/g
+s/『κοποω』/weary;<br>exhaust with physical trouble/g
+s/『κοπρια』/dung hill/g
+s/『κοπρος』/dung;<br>ordure/g
+s/『κοπτω』/cut;<br>mourn/g
 s/『κοπωσις』/weariness/g
-s/『κοραξ』/a raven/g
-s/『κορασιον』/a little girl/g
+s/『κοραξ』/raven/g
+s/『κορασιον』/little girl/g
 s/『κορε』/[NP]/g
 s/『κορειμ』/[NP]/g
-s/『κορεω』/to sweep,<br>sweep out/g
-s/『κορη』/the pupil/g
+s/『κορεω』/sweep;<br>sweep out/g
+s/『κορη』/pupil/g
 s/『κορινθιος』/[NP]/g
 s/『κοριον』/coriander/g
 s/『κοριτη』/[NP]/g
 s/『κοριτης』/[NP]/g
 s/『κορος』/10 bushels/g
-s/『κορυνη』/a club,<br>mace/g
-s/『κορυς』/a helmet,<br>helm/g
-s/『κορυφη』/the top,<br>summit/g
+s/『κορυνη』/club;<br>mace/g
+s/『κορυς』/helmet;<br>helm/g
+s/『κορυφη』/top;<br>summit/g
 s/『κορωνη』/sea-crow/g
-s/『κοσκινον』/a sieve/g
-s/『κοσμεω』/to adorn,<br>trim/g
+s/『κοσκινον』/sieve/g
+s/『κοσμεω』/adorn;<br>trim/g
 s/『κοσμιος』/moderate/g
-s/『κοσμοπληθης』/filling the world,<br>worldwide/g
+s/『κοσμοπληθης』/filling the world;<br>worldwide/g
 s/『κοσμοποιια』/creation of the world/g
-s/『κοσμος』/world,<br>adornment/g
-s/『κοσμοφορεω』/to carry the whole living world/g
-s/『κοσυμβος』/tassel,<br>fringe/g
-s/『κοσυμβωτος』/tasselled,<br>fringed/g
-s/『κοτυλη』/a cup/g
+s/『κοσμος』/world;<br>adornment/g
+s/『κοσμοφορεω』/carry the whole living world/g
+s/『κοσυμβος』/tassel;<br>fringe/g
+s/『κοσυμβωτος』/tasselled;<br>fringed/g
+s/『κοτυλη』/cup/g
 s/『κουε』/[NP]/g
 s/『κουθα』/[NP]/g
 s/『κουλον』/[NP]/g
-s/『κουρα』/a shearing/g
-s/『κουρευς』/a barber,<br>hair-cutter/g
+s/『κουρα』/shearing/g
+s/『κουρευς』/barber;<br>hair-cutter/g
 s/『κουρεω』/「κουρέω」/g
-s/『κουφιζω』/to lighten/g
-s/『κουφος』/light,<br>nimble/g
-s/『κουφως』/lightly,<br>nimbly/g
-s/『κοφινος』/a basket/g
+s/『κουφιζω』/lighten/g
+s/『κουφος』/light;<br>nimble/g
+s/『κουφως』/lightly;<br>nimbly/g
+s/『κοφινος』/basket/g
 s/『κοχλαξ』/pebble/g
-s/『κραδαινω』/to swing,<br>wave/g
-s/『κραζω』/to cry/g
-s/『κραιπαλαω』/to have a sick head-ache/g
+s/『κραδαινω』/swing;<br>wave/g
+s/『κραζω』/cry/g
+s/『κραιπαλαω』/have a sick head-ache/g
 s/『κραμα』/mixed wine/g
-s/『κρανιον』/a skull/g
-s/『κρασπεδον』/a tassel/g
+s/『κρανιον』/skull/g
+s/『κρασπεδον』/tassel/g
 s/『κραταιος』/dominant/g
-s/『κραταιοτης』/power,<br>might/g
-s/『κραταιοω』/to have dominion/g
+s/『κραταιοτης』/power;<br>might/g
+s/『κραταιοω』/have dominion/g
 s/『κραταιωμα』/strength/g
 s/『κραταιως』/by force;<br>severely/g
 s/『κραταιωσις』/strength/g
-s/『κρατεω』/to seize,<br>retain/g
-s/『κρατηρ』/a mixing vessel/g
+s/『κρατεω』/seize;<br>retain/g
+s/『κρατηρ』/mixing vessel/g
 s/『κρατης』/[NP]/g
-s/『κρατησις』/might,<br>power/g
+s/『κρατησις』/might;<br>power/g
 s/『κρατος』/dominion/g
-s/『κρατυνω』/to strengthen/g
-s/『κραυγαζω』/to cry out/g
-s/『κραυγη』/a cry,<br>an outcry/g
-s/『κρεαγρα』/a flesh-hook/g
-s/『κρεανομεω』/to distribute flesh,<br>to divide the flesh/g
+s/『κρατυνω』/strengthen/g
+s/『κραυγαζω』/cry out/g
+s/『κραυγη』/cry;<br>outcry/g
+s/『κρεαγρα』/flesh-hook/g
+s/『κρεανομεω』/distribute flesh;<br>divide the flesh/g
 s/『κρεας』/meat/g
-s/『κρεισσον』/more dominant,<br>better/g
+s/『κρεισσον』/more dominant;<br>better/g
 s/『κρεισσων』/superior/g
-s/『κρεμαννυμι』/to hang/g
-s/『κρεμαστος』/hung,<br>hung up/g
-s/『κρημνιζω』/to hurl down/g
-s/『κρημνος』/a precipice/g
-s/『κρηνη』/a well,<br>spring/g
+s/『κρεμαννυμι』/hang/g
+s/『κρεμαστος』/hung;<br>hung up/g
+s/『κρημνιζω』/hurl down/g
+s/『κρημνος』/precipice/g
+s/『κρηνη』/well;<br>spring/g
 s/『κρηπις』/groundwork/g
 s/『κρητες』/[NP]/g
 s/『κρητη』/[NP]/g
 s/『κριθη』/barley/g
 s/『κριθινος』/barley/g
-s/『κρικος』/a ring/g
+s/『κρικος』/ring/g
 s/『κριμα』/judgment/g
-s/『κρινον』/a lily/g
-s/『κρινω』/to judge,<br>decide/g
-s/『κριος』/a ram/g
+s/『κρινον』/lily/g
+s/『κρινω』/judge;<br>decide/g
+s/『κριος』/ram/g
 s/『κριπτω』/「κρίπτω」/g
-s/『κρισις』/decision,<br>judgment/g
-s/『κριτηριον』/a lawsuit/g
-s/『κριτης』/a judge/g
-s/『κροκη』/the thread which is passed between the threads of the warp/g
-s/『κροκοδειλος』/a lizard/g
-s/『κροκος』/the crocus/g
+s/『κρισις』/decision;<br>judgment/g
+s/『κριτηριον』/lawsuit/g
+s/『κριτης』/judge/g
+s/『κροκη』/thread which is passed between the threads of the warp/g
+s/『κροκοδειλος』/lizard/g
+s/『κροκος』/crocus/g
 s/『κρομμυον』/onion/g
 s/『κροσος』/「κροσός」/g
-s/『κροσσωτος』/tasselled,<br>fringed/g
-s/『κροταφος』/the side of the forehead/g
-s/『κροτεω』/to make to rattle/g
-s/『κρουνηδον』/like a spring,<br>gushing/g
-s/『κρουω』/to knock/g
-s/『κρυβη』/secretly,<br>in secret/g
-s/『κρυπτος』/secret,<br>hidden/g
-s/『κρυπτω』/to hide/g
-s/『κρυπτως』/in secret,<br>secretly/g
+s/『κροσσωτος』/tasselled;<br>fringed/g
+s/『κροταφος』/side of the forehead/g
+s/『κροτεω』/make to rattle/g
+s/『κρουνηδον』/like a spring;<br>gushing/g
+s/『κρουω』/knock/g
+s/『κρυβη』/secretly;<br>in secret/g
+s/『κρυπτος』/secret;<br>hidden/g
+s/『κρυπτω』/hide/g
+s/『κρυπτως』/in secret;<br>secretly/g
 s/『κρυσταλλοειδης』/like ice/g
 s/『κρυσταλλος』/crystal/g
 s/『κρυφαιος』/hidden/g
 s/『κρυφαιως』/secretly/g
 s/『κρυφη』/secretly/g
 s/『κρυφιος』/just the one/g
-s/『κρυφος』/hiding place,<br>lurking place/g
-s/『κταομαι』/to acquire/g
-s/『κτημα』/an acquisition,<br>possession/g
-s/『κτηνος』/livestock,<br>animal/g
+s/『κρυφος』/hiding place;<br>lurking place/g
+s/『κταομαι』/acquire/g
+s/『κτημα』/acquisition;<br>possession/g
+s/『κτηνος』/livestock;<br>animal/g
 s/『κτηνοτροφος』/pastoral/g
-s/『κτηνωδης』/like a beast,<br>brutish/g
-s/『κτησις』/an acquisition,<br>property/g
-s/『κτιζω』/to create,<br>set up/g
+s/『κτηνωδης』/like a beast;<br>brutish/g
+s/『κτησις』/acquisition;<br>property/g
+s/『κτιζω』/create;<br>set up/g
 s/『κτισις』/creation/g
 s/『κτισμα』/creature/g
 s/『κτιστης』/creator/g
-s/『κτυπος』/any loud noise,<br>a crash/g
-s/『κυαθος』/a cup/g
-s/『κυαμος』/a bean/g
+s/『κτυπος』/any loud noise;<br>crash/g
+s/『κυαθος』/cup/g
+s/『κυαμος』/bean/g
 s/『κυαμων』/[NP]/g
-s/『κυβερναω』/to act as pilot/g
+s/『κυβερναω』/act as pilot/g
 s/『κυβερνησις』/steering/g
-s/『κυβερνητης』/shipmaster,<br>pilot/g
+s/『κυβερνητης』/shipmaster;<br>pilot/g
 s/『κυβος』/dice/g
 s/『κυδιως』/[NP]/g
-s/『κυδοιμεω』/to make an uproar,<br>spread alarm/g
-s/『κυδος』/glory,<br>renown/g
+s/『κυδοιμεω』/make an uproar;<br>spread alarm/g
+s/『κυδος』/glory;<br>renown/g
 s/『κυησις』/conception/g
 s/『κυθρα』/earthen pot/g
-s/『κυθροπους』/pot,<br>cauldron/g
-s/『κυκλοθεν』/circling,<br>from all around/g
-s/『κυκλος』/a ring,<br>circle/g
-s/『κυκλοω』/to encircle,<br>surround/g
-s/『κυκλω』/circling,<br>in a circle/g
+s/『κυθροπους』/pot;<br>cauldron/g
+s/『κυκλοθεν』/circling;<br>from all around/g
+s/『κυκλος』/ring;<br>circle/g
+s/『κυκλοω』/encircle;<br>surround/g
+s/『κυκλω』/circling;<br>in a circle/g
 s/『κυκλωμα』/anything round/g
-s/『κυκλωσις』/a surrounding/g
+s/『κυκλωσις』/surrounding/g
 s/『κυκνειος』/of a swan/g
-s/『κυκνος』/a swan/g
+s/『κυκνος』/swan/g
 s/『κυλιζω』/「κυλίζω」/g
-s/『κυλικειον』/sideboard,<br>cup stand/g
+s/『κυλικειον』/sideboard;<br>cup stand/g
 s/『κυλικιον』/small cup/g
-s/『κυλιω』/to roll/g
-s/『κυμα』/a wave/g
-s/『κυμαινω』/to rise in waves/g
+s/『κυλιω』/roll/g
+s/『κυμα』/wave/g
+s/『κυμαινω』/rise in waves/g
 s/『κυματιον』/moulding/g
-s/『κυμβαλιζω』/to play the cymbals/g
-s/『κυμβαλον』/a cymbal/g
+s/『κυμβαλιζω』/play the cymbals/g
+s/『κυμβαλον』/cymbal/g
 s/『κυμινον』/parsley/g
-s/『κυνηγεω』/to hunt/g
-s/『κυνηγιον』/the hunt,<br>chase/g
-s/『κυνηγος』/a hunter/g
+s/『κυνηγεω』/hunt/g
+s/『κυνηγιον』/hunt;<br>chase/g
+s/『κυνηγος』/hunter/g
 s/『κυνικος』/dog-like/g
 s/『κυνομυια』/dog fly/g
-s/『κυοφορεω』/to be pregnant/g
-s/『κυοφορια』/pregnancy,<br>childbearing/g
+s/『κυοφορεω』/pregnant/g
+s/『κυοφορια』/pregnancy;<br>childbearing/g
 s/『κυπαρισσινος』/of cypress-wood/g
-s/『κυπαρισσος』/a cypress/g
+s/『κυπαρισσος』/cypress/g
 s/『κυπριαρχης』/[NP]/g
-s/『κυπριζω』/to blossom/g
+s/『κυπριζω』/blossom/g
 s/『κυπριος』/[NP]/g
 s/『κυπρισμος』/bloom/g
 s/『κυπρος』/[NP]/g
-s/『κυπρος\.1』/camphor,<br>henna/g
-s/『κυπτω』/to stoop/g
-s/『κυρεω』/to hit,<br>light upon/g
+s/『κυπρος\.1』/camphor;<br>henna/g
+s/『κυπτω』/stoop/g
+s/『κυρεω』/hit;<br>light upon/g
 s/『κυρηναιος』/[NP]/g
 s/『κυρηνη』/[NP]/g
-s/『κυρια』/a lady/g
-s/『κυριεια』/authority,<br>power/g
-s/『κυριευω』/to be lord,<br>master/g
-s/『κυριος』/lord,<br>master/g
+s/『κυρια』/lady/g
+s/『κυριεια』/authority;<br>power/g
+s/『κυριευω』/lord;<br>master/g
+s/『κυριος』/lord;<br>master/g
 s/『κυρος』/[NP]/g
-s/『κυροω』/to ratify,<br>confirm/g
-s/『κυρτος』/curved,<br>arched/g
-s/『κυτος』/the hollow/g
-s/『κυφω』/to bend forward/g
-s/『κυψελη』/a bin/g
-s/『κυω』/to conceive/g
-s/『κυων』/a dog/g
-s/『κωδιον』/a sheepskin,<br>fleece/g
-s/『κωδων』/a bell/g
-s/『κωθων』/a Laconian drinking-vessel/g
+s/『κυροω』/ratify;<br>confirm/g
+s/『κυρτος』/curved;<br>arched/g
+s/『κυτος』/hollow/g
+s/『κυφω』/bend forward/g
+s/『κυψελη』/bin/g
+s/『κυω』/conceive/g
+s/『κυων』/dog/g
+s/『κωδιον』/sheepskin;<br>fleece/g
+s/『κωδων』/bell/g
+s/『κωθων』/Laconian drinking-vessel/g
 s/『κωθωνιζομαι』/「κωθωνίζομαι」/g
-s/『κωθωνιζω』/to drink hard,<br>to get drunk/g
-s/『κωκυτος』/a shrieking,<br>wailing/g
+s/『κωθωνιζω』/drink hard;<br>get drunk/g
+s/『κωκυτος』/shrieking;<br>wailing/g
 s/『κωλα』/[NP]/g
 s/『κωλαδαμ』/[NP]/g
-s/『κωλεα』/thigh bone with the flesh on it,<br>ham/g
+s/『κωλεα』/thigh bone with the flesh on it;<br>ham/g
 s/『κωλια』/[NP]/g
 s/『κωλιος』/[NP]/g
 s/『κωλιτας』/[NP]/g
-s/『κωλον』/a limb/g
-s/『κωλυμα』/a hindrance,<br>impediment/g
+s/『κωλον』/limb/g
+s/『κωλυμα』/hindrance;<br>impediment/g
 s/『κωλυτικος』/preventive/g
-s/『κωλυω』/to prevent,<br>withhold/g
-s/『κωμαρχης』/the head man of a village/g
-s/『κωμη』/a village/g
+s/『κωλυω』/prevent;<br>withhold/g
+s/『κωμαρχης』/head man of a village/g
+s/『κωμη』/village/g
 s/『κωμος』/carousal/g
 s/『κωνα』/[NP]/g
-s/『κωνωπιον』/canopy,<br>bed with mosquito curtains/g
-s/『κωπη』/the handle of an oar/g
-s/『κωπηλατης』/a rower/g
+s/『κωνωπιον』/canopy;<br>bed with mosquito curtains/g
+s/『κωπη』/handle of an oar/g
+s/『κωπηλατης』/rower/g
 s/『κωρη』/[NP]/g
 s/『κως』/[NP]/g
 s/『κωφ』/「κωφ」/g
 s/『κωφαω』/「κωφάω」/g
-s/『κωφευω』/to keep quiet,<br>to hold one’s peace/g
-s/『κωφος』/mute,<br>dull/g
+s/『κωφευω』/keep quiet;<br>hold one’s peace/g
+s/『κωφος』/mute;<br>dull/g
 s/『λααδ』/[NP]/g
 s/『λααδα』/[NP]/g
 s/『λααδαν』/[NP]/g
@@ -8042,211 +8042,211 @@ s/『λαβανω』/[NP]/g
 s/『λαβδ』/「λαβδ」/g
 s/『λαβδων』/[NP]/g
 s/『λαβεκ』/[NP]/g
-s/『λαβη』/the part intended for grasping,<br>a handle/g
+s/『λαβη』/part intended for grasping;<br>handle/g
 s/『λαβιιμ』/[NP]/g
-s/『λαβις』/tongs,<br>snuffers/g
-s/『λαβρος』/furious,<br>boisterous/g
+s/『λαβις』/tongs;<br>snuffers/g
+s/『λαβρος』/furious;<br>boisterous/g
 s/『λαβωεμαθ』/[NP]/g
 s/『λαβωθ』/[NP]/g
 s/『λαβως』/[NP]/g
 s/『λαγανον』/cake/g
-s/『λαγχανω』/to cast lots,<br>be allotted/g
-s/『λαγων』/the hollow on each side below the ribs,<br>the flank/g
+s/『λαγχανω』/cast lots;<br>allotted/g
+s/『λαγων』/hollow on each side below the ribs;<br>flank/g
 s/『λαδαβαρ』/[NP]/g
 s/『λαδαν』/[NP]/g
 s/『λαηλ』/[NP]/g
 s/『λαθρα』/privately/g
-s/『λαθραιος』/secret,<br>covert/g
+s/『λαθραιος』/secret;<br>covert/g
 s/『λαθραιως』/secretly/g
 s/『λαθριος』/treacherously/g
-s/『λαιλαψ』/a hurricane/g
+s/『λαιλαψ』/hurricane/g
 s/『λαιμαργια』/gluttony/g
 s/『λαις』/[NP]/g
 s/『λαισα』/[NP]/g
 s/『λακαιδαιμονιοι』/[NP]/g
 s/『λακει』/[NP]/g
-s/『λακκος』/a pit/g
+s/『λακκος』/pit/g
 s/『λακκουνος』/[NP]/g
 s/『λακος』/[NP]/g
 s/『λακωνικος』/「λακωνικός」/g
-s/『λαλεω』/to talk,<br>speak/g
-s/『λαλημα』/talk,<br>prattle/g
+s/『λαλεω』/talk;<br>speak/g
+s/『λαλημα』/talk;<br>prattle/g
 s/『λαλητος』/endowed with speech/g
 s/『λαλια』/talk/g
 s/『λαμας』/[NP]/g
-s/『λαμβανω』/to take,<br>get/g
+s/『λαμβανω』/take;<br>get/g
 s/『λαμεχ』/[NP]/g
-s/『λαμπαδιον』/a bowl/g
-s/『λαμπας』/a lantern/g
+s/『λαμπαδιον』/bowl/g
+s/『λαμπας』/lantern/g
 s/『λαμπηνη』/covered chariot/g
-s/『λαμπηνικος』/like a covered chariot,<br>covered/g
+s/『λαμπηνικος』/like a covered chariot;<br>covered/g
 s/『λαμπρος』/radiant/g
 s/『λαμπροτης』/radiance/g
-s/『λαμπτηρ』/a stand/g
-s/『λαμπω』/to radiate,<br>shine/g
-s/『λαμψις』/shining,<br>light/g
+s/『λαμπτηρ』/stand/g
+s/『λαμπω』/radiate;<br>shine/g
+s/『λαμψις』/shining;<br>light/g
 s/『λανακ』/[NP]/g
-s/『λανθανω』/to go unnoticed,<br>be unaware/g
+s/『λανθανω』/go unnoticed;<br>unaware/g
 s/『λαξ』/with the foot/g
 s/『λαξευτηριον』/stone cutter’s tool/g
 s/『λαξευτος』/hewn/g
-s/『λαξευω』/to hew in stone/g
-s/『λαογραφια』/enrolment,<br>census/g
-s/『λαος』/populace,<br>population/g
-s/『λαπιστης』/swaggerer,<br>arrogant person/g
-s/『λαπτω』/to lap with the tongue/g
-s/『λαρος』/a cormorant/g
+s/『λαξευω』/hew in stone/g
+s/『λαογραφια』/enrolment;<br>census/g
+s/『λαος』/populace;<br>population/g
+s/『λαπιστης』/swaggerer;<br>arrogant person/g
+s/『λαπτω』/lap with the tongue/g
+s/『λαρος』/cormorant/g
 s/『λαρυγξ』/larynx/g
 s/『λασα』/[NP]/g
 s/『λασενδακ』/[NP]/g
 s/『λασθενης』/[NP]/g
-s/『λατομεω』/to cut/g
+s/『λατομεω』/cut/g
 s/『λατομητος』/「λατόμητος」/g
-s/『λατομος』/a stone-cutter./g
+s/『λατομος』/stone-cutter./g
 s/『λατουσιιμ』/[NP]/g
-s/『λατρεια』/employment,<br>service/g
+s/『λατρεια』/employment;<br>service/g
 s/『λατρευτος』/servile/g
-s/『λατρευω』/to be employed by/g
-s/『λατρις』/a workman for hire,<br>hired servant/g
+s/『λατρευω』/employed by/g
+s/『λατρις』/workman for hire;<br>hired servant/g
 s/『λαφιδωθ』/[NP]/g
-s/『λαφυρευω』/to plunder,<br>to spoil/g
+s/『λαφυρευω』/plunder;<br>spoil/g
 s/『λαφυρον』/「λάφυρον」/g
-s/『λαχανεια』/vegetable garden,<br>kitchen garden/g
-s/『λαχανον』/a vegetable/g
+s/『λαχανεια』/vegetable garden;<br>kitchen garden/g
+s/『λαχανον』/vegetable/g
 s/『λαχης』/[NP]/g
 s/『λαχις』/[NP]/g
-s/『λεαινα』/a lioness/g
-s/『λεαινω』/to smooth/g
+s/『λεαινα』/lioness/g
+s/『λεαινω』/smooth/g
 s/『λεασαμυς』/[NP]/g
 s/『λεβ』/[NP]/g
-s/『λεβης』/a kettle/g
+s/『λεβης』/kettle/g
 s/『λεβνα』/[NP]/g
 s/『λεβωνα』/[NP]/g
-s/『λεγω』/to tell,<br>declare/g
+s/『λεγω』/tell;<br>declare/g
 s/『λεεμι』/[NP]/g
-s/『λεηλατεω』/to drive away cattle as booty,<br>to make booty/g
+s/『λεηλατεω』/drive away cattle as booty;<br>make booty/g
 s/『λεια』/[NP]/g
-s/『λειμμα』/a remnant/g
+s/『λειμμα』/remnant/g
 s/『λειος』/smooth/g
-s/『λειποτακτεω』/to desert one’s post/g
-s/『λειπω』/to leave,<br>remain/g
-s/『λειτουργεω』/to be employed,<br>minister/g
-s/『λειτουργημα』/the performance of a/g
+s/『λειποτακτεω』/desert one’s post/g
+s/『λειπω』/leave;<br>remain/g
+s/『λειτουργεω』/employed;<br>minister/g
+s/『λειτουργημα』/performance of a/g
 s/『λειτουργησιμος』/for liturgical service or use/g
-s/『λειτουργια』/function,<br>ministry/g
-s/『λειτουργικος』/functional,<br>ministerial/g
-s/『λειτουργος』/a functionary,<br>minister/g
-s/『λειχην』/a tree-moss,<br>lichen/g
-s/『λειχω』/to lick up/g
-s/『λεκανη』/a hod/g
+s/『λειτουργια』/function;<br>ministry/g
+s/『λειτουργικος』/functional;<br>ministerial/g
+s/『λειτουργος』/functionary;<br>minister/g
+s/『λειχην』/tree-moss;<br>lichen/g
+s/『λειχω』/lick up/g
+s/『λεκανη』/hod/g
 s/『λεληθοτως』/imperceptibly/g
 s/『λεμνα』/[NP]/g
 s/『λεμωνα』/[NP]/g
-s/『λεξις』/a speaking,<br>saying/g
+s/『λεξις』/speaking;<br>saying/g
 s/『λεοντηδον』/like a lion/g
-s/『λεπιζω』/to peel off/g
-s/『λεπις』/a scale/g
-s/『λεπισμα』/a peel/g
+s/『λεπιζω』/peel off/g
+s/『λεπις』/scale/g
+s/『λεπισμα』/peel/g
 s/『λεπρα』/leprosy/g
-s/『λεπραω』/to have leprosy/g
-s/『λεπρος』/leprous,<br>a leper/g
+s/『λεπραω』/have leprosy/g
+s/『λεπρος』/leprous;<br>leper/g
 s/『λεπροω』/「λεπρόω」/g
 s/『λεπτος』/thin/g
-s/『λεπτυνω』/to thresh/g
-s/『λεπυρον』/a shell,<br>husk/g
-s/『λεσχη』/a place where people assembled to talk and hear news,<br>a lounge/g
+s/『λεπτυνω』/thresh/g
+s/『λεπυρον』/shell;<br>husk/g
+s/『λεσχη』/place where people assembled to talk and hear news;<br>lounge/g
 s/『λευειτης』/「λευείτης」/g
 s/『λευι』/[NP]/g
 s/『λευις』/[NP]/g
 s/『λευιτης』/[NP]/g
-s/『λευκαθιζω』/to be white/g
-s/『λευκαινω』/to whiten/g
+s/『λευκαθιζω』/white/g
+s/『λευκαινω』/whiten/g
 s/『λευκανιζω』/「λευκανίζω」/g
 s/『λευκιος』/[NP]/g
 s/『λευκος』/white/g
 s/『λευκοτης』/whiteness/g
-s/『λευκωμα』/a tablet covered with gypsum/g
+s/『λευκωμα』/tablet covered with gypsum/g
 s/『λευκωμασις』/「λευκώμασις」/g
 s/『λεχι』/[NP]/g
 s/『λεχως』/「λεχώς」/g
-s/『λεων』/a lion/g
-s/『λεωπετρια』/smooth rock,<br>bare rock/g
-s/『ληγω』/to stay,<br>abate/g
+s/『λεων』/lion/g
+s/『λεωπετρια』/smooth rock;<br>bare rock/g
+s/『ληγω』/stay;<br>abate/g
 s/『ληθη』/forgetfulness/g
-s/『λημμα』/a receipt/g
-s/『ληνος』/a trough,<br>vat/g
+s/『λημμα』/receipt/g
+s/『ληνος』/trough;<br>vat/g
 s/『ληρος』/nonsense/g
-s/『ληρωδης』/frivolous,<br>silly/g
-s/『ληστευω』/to be a robber: to carry on a piratical/g
-s/『ληστηριον』/a band of robbers/g
-s/『ληστης』/a bandit/g
+s/『ληρωδης』/frivolous;<br>silly/g
+s/『ληστευω』/a robber: to carry on a piratical/g
+s/『ληστηριον』/band of robbers/g
+s/『ληστης』/bandit/g
 s/『ληχα』/[NP]/g
 s/『ληψις』/receipt/g
 s/『λιαν』/very/g
 s/『λιβανος』/[NP]/g
 s/『λιβανος\.1』/frankincense/g
 s/『λιβανοω』/「λιβανόω」/g
-s/『λιβανωτος』/a censer/g
+s/『λιβανωτος』/censer/g
 s/『λιβευς』/[NP]/g
 s/『λιβυες』/[NP]/g
 s/『λιγυριον』/stone of Liguria/g
-s/『λιθαζω』/to stone/g
+s/『λιθαζω』/stone/g
 s/『λιθινος』/stone/g
-s/『λιθοβολεω』/to stone/g
-s/『λιθοβολον』/machine for hurling stones,<br>catapult/g
-s/『λιθος』/a stone/g
+s/『λιθοβολεω』/stone/g
+s/『λιθοβολον』/machine for hurling stones;<br>catapult/g
+s/『λιθος』/stone/g
 s/『λιθοστρωτος』/flagstone/g
-s/『λιθουργεω』/to turn into stone,<br>petrify/g
+s/『λιθουργεω』/turn into stone;<br>petrify/g
 s/『λιθουργικος』/of a stone carver/g
 s/『λιθουργος』/「λιθούργος」/g
-s/『λιθωδης』/like stone,<br>stony/g
-s/『λικμαω』/to winnow/g
+s/『λιθωδης』/like stone;<br>stony/g
+s/『λικμαω』/winnow/g
 s/『λικμητωρ』/winnower/g
 s/『λικμιζω』/「λικμίζω」/g
-s/『λικμος』/winnowing fan,<br>winnowing basket/g
-s/『λιμαγχονεω』/to weaken through hunger/g
-s/『λιμην』/a harbor/g
-s/『λιμνη』/a lake/g
-s/『λιμοκτονεω』/to kill by hunger,<br>starve/g
-s/『λιμος』/famine,<br>hunger/g
-s/『λιμωσσω』/to be famished,<br>hungry/g
+s/『λικμος』/winnowing fan;<br>winnowing basket/g
+s/『λιμαγχονεω』/weaken through hunger/g
+s/『λιμην』/harbor/g
+s/『λιμνη』/lake/g
+s/『λιμοκτονεω』/kill by hunger;<br>starve/g
+s/『λιμος』/famine;<br>hunger/g
+s/『λιμωσσω』/famished;<br>hungry/g
 s/『λινοκαλαμη』/flax straw/g
-s/『λινον』/linen,<br>a wick/g
+s/『λινον』/linen;<br>wick/g
 s/『λινους』/linen/g
-s/『λιπαινω』/to oil,<br>get rich/g
+s/『λιπαινω』/oil;<br>get rich/g
 s/『λιπαρος』/shiny/g
-s/『λιπασμα』/a fattening substance/g
-s/『λιποθυμεω』/to fall into a swoon,<br>to faint/g
-s/『λισσομαι』/to beg,<br>pray/g
-s/『λιτανεια』/prayer,<br>entreaty/g
-s/『λιτανευω』/to pray,<br>entreat/g
+s/『λιπασμα』/fattening substance/g
+s/『λιποθυμεω』/fall into a swoon;<br>faint/g
+s/『λισσομαι』/beg;<br>pray/g
+s/『λιτανεια』/prayer;<br>entreaty/g
+s/『λιτανευω』/pray;<br>entreat/g
 s/『λιτος』/poor/g
-s/『λιχνεια』/daintiness,<br>greediness/g
-s/『λιψ』/the southwest wind/g
+s/『λιχνεια』/daintiness;<br>greediness/g
+s/『λιψ』/southwest wind/g
 s/『λοβενα』/[NP]/g
 s/『λοβενι』/[NP]/g
 s/『λοβνα』/[NP]/g
 s/『λοβον』/[NP]/g
-s/『λοβος』/the lobe of the ear/g
+s/『λοβος』/lobe of the ear/g
 s/『λοβωημαθ』/[NP]/g
-s/『λογειον』/a speaking-place/g
-s/『λογιζομαι』/to account,<br>count/g
+s/『λογειον』/speaking-place/g
+s/『λογιζομαι』/account;<br>count/g
 s/『λογιον』/declaration/g
-s/『λογισμος』/an account/g
-s/『λογιστης』/a calculator,<br>teacher of arithmetic/g
-s/『λογος』/word,<br>log/g
-s/『λογχη』/a spear/g
+s/『λογισμος』/account/g
+s/『λογιστης』/calculator;<br>teacher of arithmetic/g
+s/『λογος』/word;<br>log/g
+s/『λογχη』/spear/g
 s/『λοδ』/[NP]/g
 s/『λοζων』/[NP]/g
-s/『λοιδορεω』/to revile,<br>reproach/g
+s/『λοιδορεω』/revile;<br>reproach/g
 s/『λοιδορησις』/「λοιδόρησις」/g
 s/『λοιδορια』/reviling/g
 s/『λοιδορος』/reviling/g
-s/『λοιμευομαι』/to be pestilent,<br>to commit injury/g
-s/『λοιμος』/pestilence,<br>a pest/g
+s/『λοιμευομαι』/pestilent;<br>commit injury/g
+s/『λοιμος』/pestilence;<br>pest/g
 s/『λοιμοτης』/pestilent condition/g
-s/『λοιπον』/finally,<br>remainder/g
-s/『λοιπος』/rest,<br>remains/g
+s/『λοιπον』/finally;<br>remainder/g
+s/『λοιπος』/rest;<br>remains/g
 s/『λομνα』/[NP]/g
 s/『λουδ』/[NP]/g
 s/『λουδιιμ』/[NP]/g
@@ -8254,12 +8254,12 @@ s/『λουζα』/[NP]/g
 s/『λουιθ』/[NP]/g
 s/『λουκαμ』/[NP]/g
 s/『λουσαμηνχα』/[NP]/g
-s/『λουτηρ』/washing tub,<br>basin/g
-s/『λουτρον』/a basin/g
-s/『λουω』/to bathe/g
-s/『λοφια』/the mane/g
-s/『λοχευω』/to bear/g
-s/『λοχος』/an ambush/g
+s/『λουτηρ』/washing tub;<br>basin/g
+s/『λουτρον』/basin/g
+s/『λουω』/bathe/g
+s/『λοφια』/mane/g
+s/『λοχευω』/bear/g
+s/『λοχος』/ambush/g
 s/『λοωμιμ』/[NP]/g
 s/『λυδδα』/[NP]/g
 s/『λυδια』/[NP]/g
@@ -8267,30 +8267,30 @@ s/『λυδοι』/[NP]/g
 s/『λυδος』/[NP]/g
 s/『λυθρωδης』/defiled with gore/g
 s/『λυκια』/[NP]/g
-s/『λυκος』/a wolf/g
-s/『λυμαινομαι』/to ravage/g
-s/『λυμεων』/a destroyer,<br>spoiler/g
-s/『λυπεω』/to grieve/g
+s/『λυκος』/wolf/g
+s/『λυμαινομαι』/ravage/g
+s/『λυμεων』/destroyer;<br>spoiler/g
+s/『λυπεω』/grieve/g
 s/『λυπη』/grief/g
 s/『λυπηρος』/painful/g
 s/『λυσιας』/[NP]/g
 s/『λυσιμαχος』/[NP]/g
 s/『λυσις』/letting loose/g
-s/『λυσιτελεια』/advantage,<br>benefit/g
-s/『λυσιτελεω』/to pay/g
+s/『λυσιτελεια』/advantage;<br>benefit/g
+s/『λυσιτελεω』/pay/g
 s/『λυσιτελης』/paying what is due/g
-s/『λυτρον』/a ransom/g
-s/『λυτροω』/to ransom/g
-s/『λυτρων』/water closet,<br>latrine/g
-s/『λυτρωσις』/ransoming,<br>redemption/g
-s/『λυτρωτης』/ransomer,<br>redeemer/g
-s/『λυχνια』/a lamp stand/g
-s/『λυχνος』/a lamp/g
-s/『λυω』/to let loose,<br>untie/g
+s/『λυτρον』/ransom/g
+s/『λυτροω』/ransom/g
+s/『λυτρων』/water closet;<br>latrine/g
+s/『λυτρωσις』/ransoming;<br>redemption/g
+s/『λυτρωτης』/ransomer;<br>redeemer/g
+s/『λυχνια』/lamp stand/g
+s/『λυχνος』/lamp/g
+s/『λυω』/let loose;<br>untie/g
 s/『λωδαβαρ』/[NP]/g
 s/『λωθασουβος』/[NP]/g
-s/『λωμα』/the border of a robe/g
-s/『λωποδυτεω』/to steal clothes/g
+s/『λωμα』/border of a robe/g
+s/『λωποδυτεω』/steal clothes/g
 s/『λωτ』/[NP]/g
 s/『λωταν』/[NP]/g
 s/『μα』/in affirmation/g
@@ -8339,18 +8339,18 @@ s/『μαγεδδω』/[NP]/g
 s/『μαγεδδων』/[NP]/g
 s/『μαγεδω』/[NP]/g
 s/『μαγεδων』/[NP]/g
-s/『μαγειρειον』/a cook-shop/g
-s/『μαγειρευω』/to be a cook,<br>to cook meat/g
+s/『μαγειρειον』/cook-shop/g
+s/『μαγειρευω』/a cook;<br>cook meat/g
 s/『μαγειρισσα』/cook/g
-s/『μαγειρος』/a cook/g
-s/『μαγικος』/fit for the Magians,<br>Magian/g
-s/『μαγις』/any kneaded mass,<br>cake/g
-s/『μαγος』/a Magus/g
+s/『μαγειρος』/cook/g
+s/『μαγικος』/fit for the Magians;<br>Magian/g
+s/『μαγις』/any kneaded mass;<br>cake/g
+s/『μαγος』/Magus/g
 s/『μαγωγ』/[NP]/g
 s/『μαδαι』/[NP]/g
 s/『μαδαν』/[NP]/g
-s/『μαδαροω』/to make bald/g
-s/『μαδαω』/to be flaccid: to be bald/g
+s/『μαδαροω』/make bald/g
+s/『μαδαω』/flaccid: to be bald/g
 s/『μαδβαριτις』/「Μαδβαρῖτις」/g
 s/『μαδεβηνα』/[NP]/g
 s/『μαδιαν』/[NP]/g
@@ -8363,7 +8363,7 @@ s/『μαεβερ』/[NP]/g
 s/『μαελα』/[NP]/g
 s/『μαελεθ』/[NP]/g
 s/『μαελεθ\.1』/Mahalath/g
-s/『μαζα』/lump,<br>cake/g
+s/『μαζα』/lump;<br>cake/g
 s/『μαζαρ』/[NP]/g
 s/『μαζιτιας』/[NP]/g
 s/『μαζουρωθ』/constellation/g
@@ -8375,30 +8375,30 @@ s/『μαθαν』/[NP]/g
 s/『μαθαναι』/[NP]/g
 s/『μαθανι』/[NP]/g
 s/『μαθανια』/[NP]/g
-s/『μαθημα』/that which is learnt,<br>a lesson/g
+s/『μαθημα』/that which is learnt;<br>lesson/g
 s/『μαθθαναι』/[NP]/g
 s/『μαθθανιας』/[NP]/g
 s/『μαθουσαλα』/[NP]/g
-s/『μαια』/a midwife/g
+s/『μαια』/midwife/g
 s/『μαιανι』/[NP]/g
 s/『μαιαννας』/[NP]/g
 s/『μαιδαβα』/[NP]/g
 s/『μαιζοοβ』/[NP]/g
 s/『μαιηλ』/[NP]/g
-s/『μαιμασσω』/to rush out;<br>to be eager/g
+s/『μαιμασσω』/rush out;<br>eager/g
 s/『μαιναμ』/[NP]/g
-s/『μαινομαι』/to rave/g
-s/『μαιοομαι』/to deliver/g
+s/『μαινομαι』/rave/g
+s/『μαιοομαι』/deliver/g
 s/『μαισα』/[NP]/g
 s/『μαισαλωθ』/[NP]/g
 s/『μαιτεβεηλ』/[NP]/g
 s/『μακαλωθ』/[NP]/g
 s/『μακαλων』/[NP]/g
-s/『μακαριζω』/to count blessed\/prosperous/g
-s/『μακαριος』/blessed,<br>prosperous/g
-s/『μακαριοτης』/happiness,<br>bliss/g
+s/『μακαριζω』/count blessed\/prosperous/g
+s/『μακαριος』/blessed;<br>prosperous/g
+s/『μακαριοτης』/happiness;<br>bliss/g
 s/『μακαριστος』/deemed/g
-s/『μακαριως』/in a blessed way,<br>blessed/g
+s/『μακαριως』/in a blessed way;<br>blessed/g
 s/『μακεδ』/[NP]/g
 s/『μακεδων』/[NP]/g
 s/『μακελλαθ』/[NP]/g
@@ -8413,32 +8413,32 @@ s/『μακραν』/far away/g
 s/『μακροβιος』/long-lived/g
 s/『μακροβιωσις』/longevity/g
 s/『μακροημερευσις』/length of days/g
-s/『μακροημερευω』/to live long,<br>to prolong one’s days/g
+s/『μακροημερευω』/live long;<br>prolong one’s days/g
 s/『μακροημερος』/long-lived/g
 s/『μακροθεν』/from far/g
-s/『μακροθυμεω』/to be patient/g
+s/『μακροθυμεω』/patient/g
 s/『μακροθυμια』/patience/g
 s/『μακροθυμος』/patient/g
 s/『μακρος』/long/g
 s/『μακροτερον』/「μακρότερον」/g
 s/『μακροτης』/length/g
-s/『μακροτονεω』/to persevere/g
-s/『μακροχρονιζω』/to last a long time/g
-s/『μακροχρονιος』/a long time/g
+s/『μακροτονεω』/persevere/g
+s/『μακροχρονιζω』/last a long time/g
+s/『μακροχρονιος』/long time/g
 s/『μακρυμμα』/abomination/g
-s/『μακρυνω』/to lengthen/g
+s/『μακρυνω』/lengthen/g
 s/『μακρων』/[NP]/g
 s/『μακχι』/[NP]/g
 s/『μαλ』/[NP]/g
 s/『μαλα』/[NP]/g
-s/『μαλα\.1』/very,<br>very much/g
-s/『μαλαγμα』/medicinal plaster,<br>emollient/g
-s/『μαλακια』/a malady/g
-s/『μαλακιζομαι』/to be softened/g
+s/『μαλα\.1』/very;<br>very much/g
+s/『μαλαγμα』/medicinal plaster;<br>emollient/g
+s/『μαλακια』/malady/g
+s/『μαλακιζομαι』/softened/g
 s/『μαλακιζω』/「μαλακίζω」/g
-s/『μαλακος』/soft,<br>fleece/g
+s/『μαλακος』/soft;<br>fleece/g
 s/『μαλακοψυχαζω』/「μαλακοψυχάζω」/g
-s/『μαλακυνω』/to soften/g
+s/『μαλακυνω』/soften/g
 s/『μαλακως』/softly/g
 s/『μαλαχ』/[NP]/g
 s/『μαλελεηλ』/[NP]/g
@@ -8446,7 +8446,7 @@ s/『μαλεχεθ』/[NP]/g
 s/『μαλησεαρ』/[NP]/g
 s/『μαλιστα』/especially/g
 s/『μαλληθι』/[NP]/g
-s/『μαλλον』/rather,<br>more/g
+s/『μαλλον』/rather;<br>more/g
 s/『μαλλω』/[NP]/g
 s/『μαλλωται』/[NP]/g
 s/『μαλουχ』/[NP]/g
@@ -8455,13 +8455,13 @@ s/『μαλχια』/[NP]/g
 s/『μαλωχ』/[NP]/g
 s/『μαμβρη』/[NP]/g
 s/『μαμδαι』/[NP]/g
-s/『μαμμη』/a grandmother/g
+s/『μαμμη』/grandmother/g
 s/『μαμνιταναιμος』/[NP]/g
 s/『μαμουχος』/[NP]/g
 s/『μαμφιν』/[NP]/g
 s/『μαν』/[NP]/g
 s/『μαν\.1』/manna/g
-s/『μαναα』/gift,<br>offering/g
+s/『μαναα』/gift;<br>offering/g
 s/『μανααν』/「μανααν」/g
 s/『μαναεμ』/[NP]/g
 s/『μαναημ』/[NP]/g
@@ -8471,31 +8471,31 @@ s/『μανασσηας』/[NP]/g
 s/『μανασσης』/[NP]/g
 s/『μαναχαθ』/[NP]/g
 s/『μαναχαθι』/[NP]/g
-s/『μανδρα』/an inclosed space/g
-s/『μανδραγορας』/a mandrake/g
+s/『μανδρα』/inclosed space/g
+s/『μανδραγορας』/mandrake/g
 s/『μανδυας』/woollen cloak/g
 s/『μανη』/mene/g
 s/『μανης』/[NP]/g
 s/『μανθαναιν』/[NP]/g
 s/『μανθανιας』/[NP]/g
-s/『μανθανω』/to learn/g
+s/『μανθανω』/learn/g
 s/『μανι』/[NP]/g
 s/『μανια』/madness/g
-s/『μανιακης』/an armlet/g
+s/『μανιακης』/armlet/g
 s/『μανιος』/[NP]/g
-s/『μανιωδης』/like madness,<br>mad/g
+s/『μανιωδης』/like madness;<br>mad/g
 s/『μαννα』/manna/g
 s/『μανοχω』/[NP]/g
-s/『μαντεια』/prophesying,<br>prophetic power/g
-s/『μαντειον』/an oracle/g
-s/『μαντευομαι』/to soothsay/g
-s/『μαντις』/a diviner/g
+s/『μαντεια』/prophesying;<br>prophetic power/g
+s/『μαντειον』/oracle/g
+s/『μαντευομαι』/soothsay/g
+s/『μαντις』/diviner/g
 s/『μανωε』/[NP]/g
 s/『μαουδα』/[NP]/g
 s/『μαουεκ』/[NP]/g
 s/『μαραγελλα』/[NP]/g
 s/『μαραια』/[NP]/g
-s/『μαραινω』/to fade/g
+s/『μαραινω』/fade/g
 s/『μαραιωθ』/[NP]/g
 s/『μαραλα』/[NP]/g
 s/『μαρδοχαικος』/「Μαρδοχαϊκός」/g
@@ -8519,14 +8519,14 @@ s/『μαρμασιμα』/[NP]/g
 s/『μαρμηνα』/[NP]/g
 s/『μαρμωθι』/[NP]/g
 s/『μαρρων』/[NP]/g
-s/『μαρσιππιον』/small sack,<br>purse/g
-s/『μαρσιππος』/a pouch/g
-s/『μαρτυρεω』/to testify,<br>attest/g
+s/『μαρσιππιον』/small sack;<br>purse/g
+s/『μαρσιππος』/pouch/g
+s/『μαρτυρεω』/testify;<br>attest/g
 s/『μαρτυρια』/testimony/g
-s/『μαρτυριον』/evidence,<br>testimony/g
-s/『μαρτυρομαι』/to attest/g
-s/『μαρτυς』/a witness/g
-s/『μαρυκαομαι』/to chew/g
+s/『μαρτυριον』/evidence;<br>testimony/g
+s/『μαρτυρομαι』/attest/g
+s/『μαρτυς』/witness/g
+s/『μαρυκαομαι』/chew/g
 s/『μαρωδαχ』/[NP]/g
 s/『μαρωδαχβαλαδαν』/[NP]/g
 s/『μαρωζ』/[NP]/g
@@ -8553,10 +8553,10 @@ s/『μασηας』/[NP]/g
 s/『μασιας』/[NP]/g
 s/『μασμα』/[NP]/g
 s/『μασμαρωθ』/snuffers;<br>bowls/g
-s/『μασομελ』/in the north,<br>on the left hand/g
+s/『μασομελ』/in the north;<br>on the left hand/g
 s/『μασσαλημ』/[NP]/g
 s/『μασσαμ』/[NP]/g
-s/『μασσαομαι』/to gnaw/g
+s/『μασσαομαι』/gnaw/g
 s/『μασση』/[NP]/g
 s/『μασσημα』/[NP]/g
 s/『μασσηφα』/[NP]/g
@@ -8564,10 +8564,10 @@ s/『μασσηφαθ』/[NP]/g
 s/『μασσιας』/[NP]/g
 s/『μασσουρουθ』/[NP]/g
 s/『μασσωχ』/[NP]/g
-s/『μαστιγοω』/to scourge,<br>whip/g
-s/『μαστιζω』/to scourge/g
-s/『μαστιξ』/a scourge/g
-s/『μαστος』/the breast/g
+s/『μαστιγοω』/scourge;<br>whip/g
+s/『μαστιζω』/scourge/g
+s/『μαστιξ』/scourge/g
+s/『μαστος』/breast/g
 s/『μασφα』/[NP]/g
 s/『μασφαρ』/[NP]/g
 s/『μασφαραθ』/[NP]/g
@@ -8575,12 +8575,12 @@ s/『μασφασσατ』/[NP]/g
 s/『μασφε』/[NP]/g
 s/『ματαιος』/superficial/g
 s/『ματαιοτης』/superficiality/g
-s/『ματαιοφρων』/vain-minded,<br>weak-minded/g
-s/『ματαιοω』/to be superficial/g
-s/『ματαιως』/vainly,<br>in vain/g
+s/『ματαιοφρων』/vain-minded;<br>weak-minded/g
+s/『ματαιοω』/superficial/g
+s/『ματαιως』/vainly;<br>in vain/g
 s/『ματανιας』/[NP]/g
 s/『ματεκκα』/[NP]/g
-s/『ματην』/groundlessly,<br>in vain/g
+s/『ματην』/groundlessly;<br>in vain/g
 s/『ματθαν』/[NP]/g
 s/『ματραιθ』/[NP]/g
 s/『ματταθιας』/[NP]/g
@@ -8591,7 +8591,7 @@ s/『μαχαβανναι』/[NP]/g
 s/『μαχαβηνα』/[NP]/g
 s/『μαχαδ』/[NP]/g
 s/『μαχαθι』/[NP]/g
-s/『μαχαιρα』/a short sword/g
+s/『μαχαιρα』/short sword/g
 s/『μαχαμας』/[NP]/g
 s/『μαχαναρεθ』/[NP]/g
 s/『μαχανια』/[NP]/g
@@ -8599,16 +8599,16 @@ s/『μαχαριμ』/[NP]/g
 s/『μαχατι』/[NP]/g
 s/『μαχεμας』/[NP]/g
 s/『μαχες』/[NP]/g
-s/『μαχη』/a fight,<br>battle/g
-s/『μαχητης』/a warrior,<br>fighter/g
-s/『μαχιμος』/fit for battle,<br>warlike/g
+s/『μαχη』/fight;<br>battle/g
+s/『μαχητης』/warrior;<br>fighter/g
+s/『μαχιμος』/fit for battle;<br>warlike/g
 s/『μαχιρ』/[NP]/g
 s/『μαχιρ\.1』/food/g
 s/『μαχιρι』/[NP]/g
-s/『μαχμα』/quilt,<br>bedspread/g
+s/『μαχμα』/quilt;<br>bedspread/g
 s/『μαχμας』/[NP]/g
 s/『μαχναδαβου』/[NP]/g
-s/『μαχομαι』/to fight/g
+s/『μαχομαι』/fight/g
 s/『μαχω』/[NP]/g
 s/『μαψαρ』/[NP]/g
 s/『μαωζ』/[NP]/g
@@ -8621,16 +8621,16 @@ s/『μεαζωθ』/[NP]/g
 s/『μεαμιν』/[NP]/g
 s/『μεβααρ』/[NP]/g
 s/『μεγαλα』/[NP]/g
-s/『μεγαλαυχεω』/to brag greatly/g
-s/『μεγαλαυχια』/great boasting,<br>arrogance/g
+s/『μεγαλαυχεω』/brag greatly/g
+s/『μεγαλαυχια』/great boasting;<br>arrogance/g
 s/『μεγαλειος』/magnificent/g
 s/『μεγαλειοτης』/greatness/g
 s/『μεγαλοδοξος』/very glorious/g
-s/『μεγαλοδοξως』/gloriously,<br>with great glory/g
-s/『μεγαλοκρατωρ』/mighty in power,<br>of great power/g
-s/『μεγαλομερης』/magnificent,<br>glorious/g
-s/『μεγαλομερως』/magnificently,<br>with much magnificence/g
-s/『μεγαλοπρεπεια』/the character of a/g
+s/『μεγαλοδοξως』/gloriously;<br>with great glory/g
+s/『μεγαλοκρατωρ』/mighty in power;<br>of great power/g
+s/『μεγαλομερης』/magnificent;<br>glorious/g
+s/『μεγαλομερως』/magnificently;<br>with much magnificence/g
+s/『μεγαλοπρεπεια』/character of a/g
 s/『μεγαλοπρεπης』/magnificent/g
 s/『μεγαλοπρεπως』/magnificently/g
 s/『μεγαλοπτερυγος』/with great wings/g
@@ -8638,74 +8638,74 @@ s/『μεγαλορημονεω』/「μεγαλορημονέω」/g
 s/『μεγαλορρημονεω』/「μεγαλορρημονέω」/g
 s/『μεγαλορρημοσυνη』/「μεγαλορρημοσύνη」/g
 s/『μεγαλορρημων』/「μεγαλορρήμων」/g
-s/『μεγαλοσαρκος』/great of flesh,<br>with a great member/g
+s/『μεγαλοσαρκος』/great of flesh;<br>with a great member/g
 s/『μεγαλοσθενης』/exceeding strong/g
 s/『μεγαλοσυνη』/「μεγαλοσύνη」/g
-s/『μεγαλοφρονεω』/to be high-minded/g
-s/『μεγαλοφρων』/high-minded,<br>noble/g
-s/『μεγαλοψυχος』/high-souled,<br>magnanimous/g
-s/『μεγαλοψυχως』/generously,<br>magnanimously/g
-s/『μεγαλυνω』/to enlarge,<br>magnify/g
+s/『μεγαλοφρονεω』/high-minded/g
+s/『μεγαλοφρων』/high-minded;<br>noble/g
+s/『μεγαλοψυχος』/high-souled;<br>magnanimous/g
+s/『μεγαλοψυχως』/generously;<br>magnanimously/g
+s/『μεγαλυνω』/enlarge;<br>magnify/g
 s/『μεγαλωμα』/might/g
-s/『μεγαλωνυμος』/with a great name,<br>giving glory/g
+s/『μεγαλωνυμος』/with a great name;<br>giving glory/g
 s/『μεγαλως』/greatly/g
-s/『μεγαλωστι』/far and wide,<br>over a vast space/g
+s/『μεγαλωστι』/far and wide;<br>over a vast space/g
 s/『μεγαλωσυνη』/greatness/g
-s/『μεγας』/great,<br>loud/g
+s/『μεγας』/great;<br>loud/g
 s/『μεγεδδω』/[NP]/g
 s/『μεγεδιηλ』/[NP]/g
-s/『μεγεθος』/magnitude,<br>greatness/g
-s/『μεγιστανες』/a magnate/g
+s/『μεγεθος』/magnitude;<br>greatness/g
+s/『μεγιστανες』/magnate/g
 s/『μεδεβηνα』/[NP]/g
 s/『μεεδδα』/[NP]/g
 s/『μεελεφ』/[NP]/g
 s/『μεηρα』/[NP]/g
 s/『μεηταβηλ』/[NP]/g
 s/『μεθ』/[NP]/g
-s/『μεθαρμοζω』/to dispose differently,<br>to correct/g
+s/『μεθαρμοζω』/dispose differently;<br>correct/g
 s/『μεθαχαβιν』/hiding themselves/g
-s/『μεθερμηνευω』/to translate/g
+s/『μεθερμηνευω』/translate/g
 s/『μεθη』/drunkenness/g
-s/『μεθιστημι』/to stand aside,<br>remove/g
+s/『μεθιστημι』/stand aside;<br>remove/g
 s/『μεθλα』/[NP]/g
-s/『μεθοδευω』/to treat by method: to use cunning devices,<br>employ craft/g
-s/『μεθοδος』/a following after,<br>pursuit/g
+s/『μεθοδευω』/treat by method: to use cunning devices;<br>employ craft/g
+s/『μεθοδος』/following after;<br>pursuit/g
 s/『μεθοριος』/mid-frontier/g
-s/『μεθυσκω』/to get drunk/g
+s/『μεθυσκω』/get drunk/g
 s/『μεθυσμα』/intoxicating drink/g
 s/『μεθυσος』/drunken/g
-s/『μεθυω』/to get drunk/g
+s/『μεθυω』/get drunk/g
 s/『μεθωεσιμ』/registered in a genealogy/g
-s/『μειγμα』/mixture,<br>compound/g
+s/『μειγμα』/mixture;<br>compound/g
 s/『μειδα』/[NP]/g
-s/『μειδιαω』/to smile/g
+s/『μειδιαω』/smile/g
 s/『μειζον』/louder/g
 s/『μειζων』/greater/g
 s/『μεινωμ』/[NP]/g
-s/『μειοω』/to make smaller,<br>to lessen/g
-s/『μειρακιον』/a boy,<br>lad/g
-s/『μειρακισκος』/a lad,<br>stripling/g
-s/『μειραξ』/a young girl,<br>lass/g
+s/『μειοω』/make smaller;<br>lessen/g
+s/『μειρακιον』/boy;<br>lad/g
+s/『μειρακισκος』/lad;<br>stripling/g
+s/『μειραξ』/young girl;<br>lass/g
 s/『μειχαηλος』/[NP]/g
 s/『μεκεδω』/[NP]/g
-s/『μελαθρον』/the ceiling of a room/g
-s/『μελαθροω』/to be connected or fastened by beams/g
+s/『μελαθρον』/ceiling of a room/g
+s/『μελαθροω』/connected or fastened by beams/g
 s/『μελανθιον』/black cummin/g
 s/『μελανια』/blackness: a black cloud/g
 s/『μελανοομαι』/「μελανόομαι」/g
 s/『μελας』/black/g
-s/『μελει』/to be a concern,<br>concern/g
-s/『μελεος』/idle,<br>useless/g
-s/『μελεταω』/to be concerned with/g
-s/『μελετη』/care,<br>attention/g
+s/『μελει』/a concern;<br>concern/g
+s/『μελεος』/idle;<br>useless/g
+s/『μελεταω』/concerned with/g
+s/『μελετη』/care;<br>attention/g
 s/『μελι』/honey/g
-s/『μελιζω』/to modulate,<br>sing/g
-s/『μελισσα』/a bee/g
-s/『μελισσων』/bee house,<br>beehive/g
+s/『μελιζω』/modulate;<br>sing/g
+s/『μελισσα』/bee/g
+s/『μελισσων』/bee house;<br>beehive/g
 s/『μελληθι』/[NP]/g
-s/『μελλω』/to be about to,<br>be impending/g
-s/『μελον』/retreat,<br>place where one stays for the night/g
-s/『μελος』/a member/g
+s/『μελλω』/about to;<br>impending/g
+s/『μελον』/retreat;<br>place where one stays for the night/g
+s/『μελος』/member/g
 s/『μελχα』/[NP]/g
 s/『μελχαμ』/[NP]/g
 s/『μελχηλ』/[NP]/g
@@ -8719,22 +8719,22 @@ s/『μελχισεδεκ』/[NP]/g
 s/『μελχισουε』/[NP]/g
 s/『μελχολ』/[NP]/g
 s/『μελχομ』/[NP]/g
-s/『μελωδεω』/to sing,<br>chant/g
-s/『μελωδια』/a singing,<br>chanting/g
-s/『μελωδος』/singing,<br>musical/g
+s/『μελωδεω』/sing;<br>chant/g
+s/『μελωδια』/singing;<br>chanting/g
+s/『μελωδος』/singing;<br>musical/g
 s/『μεμβρα』/[NP]/g
 s/『μεμμιος』/[NP]/g
 s/『μεμφιβοσθε』/[NP]/g
 s/『μεμφις』/[NP]/g
-s/『μεμφομαι』/to find fault/g
-s/『μεμψις』/blame,<br>censure/g
+s/『μεμφομαι』/find fault/g
+s/『μεμψις』/blame;<br>censure/g
 s/『μεν』/first of all/g
 s/『μενελαος』/[NP]/g
 s/『μενελαου』/[NP]/g
 s/『μενεσθευς』/[NP]/g
 s/『μεντοι』/actually/g
 s/『μεντοιγε』/nevertheless/g
-s/『μενω』/to stay,<br>stand fast/g
+s/『μενω』/stay;<br>stand fast/g
 s/『μεραθων』/[NP]/g
 s/『μεραμωθ』/[NP]/g
 s/『μεραρι』/[NP]/g
@@ -8742,121 +8742,121 @@ s/『μεργαβ』/[NP]/g
 s/『μεριβααλ』/[NP]/g
 s/『μεριδαρχη』/「μεριδάρχη」/g
 s/『μεριδαρχια』/office of the governor of a province/g
-s/『μεριζω』/to apportion,<br>allocate/g
+s/『μεριζω』/apportion;<br>allocate/g
 s/『μεριμνα』/anxiety/g
-s/『μεριμναω』/to be anxious,<br>care/g
+s/『μεριμναω』/anxious;<br>care/g
 s/『μεριμωθ』/[NP]/g
 s/『μερις』/portion/g
-s/『μερισμος』/apportioning,<br>allocation/g
+s/『μερισμος』/apportioning;<br>allocation/g
 s/『μεριτευω』/「μεριτεύω」/g
 s/『μεροβ』/[NP]/g
-s/『μερος』/a part,<br>in particular/g
+s/『μερος』/part;<br>in particular/g
 s/『μερρα』/[NP]/g
 s/『μερραν』/[NP]/g
 s/『μεσαζω』/「μεσάζω」/g
-s/『μεσακλον』/weaver’s beam,<br>beam of a loom/g
+s/『μεσακλον』/weaver’s beam;<br>beam of a loom/g
 s/『μεσημα』/[NP]/g
 s/『μεσημβρια』/midday/g
-s/『μεσημβρινος』/belonging to noon,<br>about noon/g
+s/『μεσημβρινος』/belonging to noon;<br>about noon/g
 s/『μεσθααλ』/wardrobe/g
-s/『μεσιτης』/a mediator/g
-s/『μεσογειος』/inland,<br>in the heart of a country/g
+s/『μεσιτης』/mediator/g
+s/『μεσογειος』/inland;<br>in the heart of a country/g
 s/『μεσολαβων』/[NP]/g
 s/『μεσολλαμ』/[NP]/g
 s/『μεσονυκτιον』/midnight/g
-s/『μεσοπορφυρος』/mixed with purple,<br>decorated with purple/g
+s/『μεσοπορφυρος』/mixed with purple;<br>decorated with purple/g
 s/『μεσοποταμια』/[NP]/g
-s/『μεσος』/in the midst,<br>in the middle/g
-s/『μεσοτης』/a middle/g
+s/『μεσος』/in the midst;<br>in the middle/g
+s/『μεσοτης』/middle/g
 s/『μεσουλαμ』/[NP]/g
-s/『μεσοω』/to be the middle/g
+s/『μεσοω』/the middle/g
 s/『μεσραιμ』/[NP]/g
 s/『μεσσααμ』/[NP]/g
-s/『μεσσαβ』/post,<br>outpost/g
+s/『μεσσαβ』/post;<br>outpost/g
 s/『μεσσαρα』/[NP]/g
 s/『μεστοομαι』/「μεστόομαι」/g
-s/『μεστος』/brimming,<br>full/g
+s/『μεστος』/brimming;<br>full/g
 s/『μεστραιμ』/[NP]/g
 s/『μεσωζεβηλ』/[NP]/g
-s/『μετα』/with,<br>amid/g
-s/『μεταβαινω』/to withdraw,<br>move on/g
-s/『μεταβαλλω』/to reverse/g
+s/『μετα』/with;<br>amid/g
+s/『μεταβαινω』/withdraw;<br>move on/g
+s/『μεταβαλλω』/reverse/g
 s/『μεταβηχας』/from Tibhath/g
-s/『μεταβολη』/a change,<br>changing/g
-s/『μεταβολια』/exchange,<br>barter/g
+s/『μεταβολη』/change;<br>changing/g
+s/『μεταβολια』/exchange;<br>barter/g
 s/『μεταβολος』/merchant/g
 s/『μεταγενης』/born after/g
-s/『μεταγινομαι』/to migrate/g
-s/『μεταγω』/to lead after,<br>change course/g
-s/『μεταδιαιταω』/to change one's way of life/g
-s/『μεταδιδωμι』/to impart,<br>give a share/g
-s/『μεταδιωκω』/to follow closely after,<br>pursue/g
-s/『μεταθεσις』/a transferal,<br>alteration/g
-s/『μεταιρω』/to take off/g
+s/『μεταγινομαι』/migrate/g
+s/『μεταγω』/lead after;<br>change course/g
+s/『μεταδιαιταω』/change one's way of life/g
+s/『μεταδιδωμι』/impart;<br>give a share/g
+s/『μεταδιωκω』/follow closely after;<br>pursue/g
+s/『μεταθεσις』/transferal;<br>alteration/g
+s/『μεταιρω』/take off/g
 s/『μεταιτιος』/being in part the cause of/g
-s/『μετακαλεω』/to beckon/g
-s/『μετακινεω』/to transpose,<br>shift/g
-s/『μετακιρναω』/to change,<br>to transform/g
-s/『μετακομιζω』/to transport/g
-s/『μεταλαμβανω』/to partake,<br>share/g
-s/『μεταλλασσω』/to interchange,<br>exchange/g
-s/『μεταλλευω』/to get by mining/g
-s/『μεταλλον』/a mine/g
-s/『μεταμελεια』/change of purpose,<br>regret/g
-s/『μεταμελομαι』/to regret/g
-s/『μεταμελος』/repentance,<br>regret/g
-s/『μεταναστευω』/to remove,<br>to cause to flee/g
-s/『μετανιστημι』/to remove/g
-s/『μετανοεω』/to reconsider,<br>yield/g
-s/『μετανοια』/reconsideration,<br>yielding/g
-s/『μεταξυ』/meantime,<br>between/g
-s/『μεταπαιδευω』/to educate differently/g
-s/『μεταπειθω』/to change a man's persuasion/g
-s/『μεταπεμπω』/to fetch/g
-s/『μεταπιπτω』/to fall differently,<br>undergo a change/g
-s/『μετασκευαζω』/to put into another dress/g
-s/『μεταστρεφω』/to reverse/g
-s/『μεταστροφη』/a turning from/g
-s/『μετασχηματιζω』/to transfigure,<br>apply/g
-s/『μετατιθημι』/to transfer,<br>alter/g
-s/『μετατρεπομαι』/to turn oneself round,<br>turn round/g
-s/『μεταφερω』/to carry over,<br>transfer/g
-s/『μεταφρασις』/a paraphrasing/g
-s/『μεταφρενον』/the part behind the midriff/g
-s/『μεταχεω』/to pour from one vessel into another,<br>to transplant/g
+s/『μετακαλεω』/beckon/g
+s/『μετακινεω』/transpose;<br>shift/g
+s/『μετακιρναω』/change;<br>transform/g
+s/『μετακομιζω』/transport/g
+s/『μεταλαμβανω』/partake;<br>share/g
+s/『μεταλλασσω』/interchange;<br>exchange/g
+s/『μεταλλευω』/get by mining/g
+s/『μεταλλον』/mine/g
+s/『μεταμελεια』/change of purpose;<br>regret/g
+s/『μεταμελομαι』/regret/g
+s/『μεταμελος』/repentance;<br>regret/g
+s/『μεταναστευω』/remove;<br>cause to flee/g
+s/『μετανιστημι』/remove/g
+s/『μετανοεω』/reconsider;<br>yield/g
+s/『μετανοια』/reconsideration;<br>yielding/g
+s/『μεταξυ』/meantime;<br>between/g
+s/『μεταπαιδευω』/educate differently/g
+s/『μεταπειθω』/change a man's persuasion/g
+s/『μεταπεμπω』/fetch/g
+s/『μεταπιπτω』/fall differently;<br>undergo a change/g
+s/『μετασκευαζω』/put into another dress/g
+s/『μεταστρεφω』/reverse/g
+s/『μεταστροφη』/turning from/g
+s/『μετασχηματιζω』/transfigure;<br>apply/g
+s/『μετατιθημι』/transfer;<br>alter/g
+s/『μετατρεπομαι』/turn oneself round;<br>turn round/g
+s/『μεταφερω』/carry over;<br>transfer/g
+s/『μεταφρασις』/paraphrasing/g
+s/『μεταφρενον』/part behind the midriff/g
+s/『μεταχεω』/pour from one vessel into another;<br>transplant/g
 s/『μετεπειτα』/afterward/g
-s/『μετερχομαι』/to come/g
-s/『μετεχω』/to associate,<br>partake of/g
-s/『μετεωριζω』/to be in suspense/g
-s/『μετεωρισμος』/a disturbance/g
-s/『μετεωρος』/raised from the ground,<br>hanging/g
-s/『μετοικεσια』/internment,<br>exile/g
-s/『μετοικεω』/to change one's abode,<br>remove to/g
-s/『μετοικια』/change of abode,<br>removal/g
-s/『μετοικιζω』/to resettle/g
-s/『μετοικος』/changing one's abode,<br>emigrating and settling elsewhere/g
-s/『μετουσια』/participation,<br>partnership/g
+s/『μετερχομαι』/come/g
+s/『μετεχω』/associate;<br>partake of/g
+s/『μετεωριζω』/in suspense/g
+s/『μετεωρισμος』/disturbance/g
+s/『μετεωρος』/raised from the ground;<br>hanging/g
+s/『μετοικεσια』/internment;<br>exile/g
+s/『μετοικεω』/change one's abode;<br>remove to/g
+s/『μετοικια』/change of abode;<br>removal/g
+s/『μετοικιζω』/resettle/g
+s/『μετοικος』/changing one's abode;<br>emigrating and settling elsewhere/g
+s/『μετουσια』/participation;<br>partnership/g
 s/『μετοχη』/association/g
-s/『μετοχος』/an associate,<br>partaker/g
-s/『μετρεω』/to measure/g
-s/『μετρησις』/measuring,<br>measurement/g
+s/『μετοχος』/associate;<br>partaker/g
+s/『μετρεω』/measure/g
+s/『μετρησις』/measuring;<br>measurement/g
 s/『μετρητης』/10 gallons/g
-s/『μετριαζω』/to be moderate,<br>keep measure/g
+s/『μετριαζω』/moderate;<br>keep measure/g
 s/『μετριος』/within measure/g
 s/『μετριως』/moderately/g
-s/『μετρον』/a measure/g
-s/『μετωπον』/the forehead/g
+s/『μετρον』/measure/g
+s/『μετωπον』/forehead/g
 s/『μεφααθ』/[NP]/g
-s/『μεχρι』/up to,<br>as far as/g
-s/『μεχωνωθ』/stands,<br>bases/g
+s/『μεχρι』/up to;<br>as far as/g
+s/『μεχωνωθ』/stands;<br>bases/g
 s/『μη』/not/g
 s/『μηδαβα』/[NP]/g
 s/『μηδαμοθεν』/from no place/g
 s/『μηδαμως』/no way/g
-s/『μηδε』/while not,<br>nor/g
+s/『μηδε』/while not;<br>nor/g
 s/『μηδεια』/[NP]/g
-s/『μηδεις』/not even one,<br>no one/g
-s/『μηδεποτε』/while not once,<br>never yet/g
+s/『μηδεις』/not even one;<br>no one/g
+s/『μηδεποτε』/while not once;<br>never yet/g
 s/『μηδης』/[NP]/g
 s/『μηδια』/[NP]/g
 s/『μηδιαν』/[NP]/g
@@ -8867,61 +8867,61 @@ s/『μηδων』/[NP]/g
 s/『μηθετερος』/neither of the two/g
 s/『μηκετι』/no more/g
 s/『μηκος』/length/g
-s/『μηκυνω』/to lengthen/g
-s/『μηλον』/an apple,<br>fruit/g
-s/『μηλωτη』/a sheepskin/g
+s/『μηκυνω』/lengthen/g
+s/『μηλον』/apple;<br>fruit/g
+s/『μηλωτη』/sheepskin/g
 s/『μημ』/「μημ」/g
-s/『μην』/surely,<br>certainly/g
-s/『μην\.1』/a month/g
+s/『μην』/surely;<br>certainly/g
+s/『μην\.1』/month/g
 s/『μηνιαιος』/monthly/g
 s/『μηνιαμα』/cause of anger or wrath/g
 s/『μηνιαω』/「μηνιάω」/g
 s/『μηνις』/wrath/g
-s/『μηνισκος』/a crescent/g
-s/『μηνιω』/to be wroth with/g
-s/『μηνυω』/to disclose,<br>inform/g
-s/『μηποτε』/lest,<br>unless/g
-s/『μηπως』/lest somehow,<br>in case somehow/g
+s/『μηνισκος』/crescent/g
+s/『μηνιω』/wroth with/g
+s/『μηνυω』/disclose;<br>inform/g
+s/『μηποτε』/lest;<br>unless/g
+s/『μηπως』/lest somehow;<br>in case somehow/g
 s/『μηριον』/「μηρίον」/g
-s/『μηρος』/the thigh/g
+s/『μηρος』/thigh/g
 s/『μηρυκαομαι』/「μηρυκάομαι」/g
-s/『μηρυκισμος』/the cud/g
-s/『μηρυομαι』/to draw up,<br>furl/g
+s/『μηρυκισμος』/cud/g
+s/『μηρυομαι』/draw up;<br>furl/g
 s/『μηρωζ』/[NP]/g
 s/『μησανευομαι』/「μησανεύομαι」/g
-s/『μητε』/neither,<br>nor/g
-s/『μητηρ』/a mother/g
-s/『μητι』/not perhaps,<br>much less/g
+s/『μητε』/neither;<br>nor/g
+s/『μητηρ』/mother/g
+s/『μητι』/not perhaps;<br>much less/g
 s/『μητρα』/womb/g
 s/『μητροπολις』/metropolis/g
-s/『μητρωος』/of a mother,<br>a mother's/g
-s/『μηχαναομαι』/to prepare,<br>make ready/g
-s/『μηχανη』/an instrument,<br>machine/g
-s/『μηχανημα』/an engine/g
-s/『μιαινω』/to taint,<br>defile/g
+s/『μητρωος』/of a mother;<br>mother's/g
+s/『μηχαναομαι』/prepare;<br>make ready/g
+s/『μηχανη』/instrument;<br>machine/g
+s/『μηχανημα』/engine/g
+s/『μιαινω』/taint;<br>defile/g
 s/『μιαιφονια』/bloodguiltiness/g
-s/『μιαιφονος』/blood-stained,<br>bloody/g
+s/『μιαιφονος』/blood-stained;<br>bloody/g
 s/『μιαμιν』/[NP]/g
 s/『μιαμινος』/[NP]/g
 s/『μιανσις』/pollution/g
 s/『μιαρος』/stained/g
-s/『μιαροφαγεω』/to eat unclean food/g
+s/『μιαροφαγεω』/eat unclean food/g
 s/『μιαροφαγια』/eating of unclean food/g
-s/『μιασμα』/taint,<br>defilement/g
-s/『μιασμος』/tainting,<br>defilement/g
-s/『μιγνυμι』/to mingle/g
+s/『μιασμα』/taint;<br>defilement/g
+s/『μιασμος』/tainting;<br>defilement/g
+s/『μιγνυμι』/mingle/g
 s/『μιθραδατης』/[NP]/g
 s/『μιι』/[NP]/g
 s/『μικρολογος』/reckoning trifles/g
-s/『μικρος』/little,<br>small/g
-s/『μικροτης』/smallness: littleness,<br>meanness/g
+s/『μικρος』/little;<br>small/g
+s/『μικροτης』/smallness: littleness;<br>meanness/g
 s/『μικρυνω』/「μικρύνω」/g
 s/『μικρως』/little/g
 s/『μιλητος』/[NP]/g
-s/『μιλτος』/red chalk,<br>ruddle/g
-s/『μιμεομαι』/to mimic/g
-s/『μιμημα』/anything imitated,<br>a counterfeit/g
-s/『μιμνησκω』/to remind,<br>remember/g
+s/『μιλτος』/red chalk;<br>ruddle/g
+s/『μιμεομαι』/mimic/g
+s/『μιμημα』/anything imitated;<br>counterfeit/g
+s/『μιμνησκω』/remind;<br>remember/g
 s/『μιναιοι』/[NP]/g
 s/『μιναιος』/[NP]/g
 s/『μιρων』/[NP]/g
@@ -8929,26 +8929,26 @@ s/『μισα』/[NP]/g
 s/『μισαβια』/[NP]/g
 s/『μισαδαι』/[NP]/g
 s/『μισαηλ』/[NP]/g
-s/『μισανθρωπος』/hating mankind,<br>misanthropic/g
+s/『μισανθρωπος』/hating mankind;<br>misanthropic/g
 s/『μισαρετος』/hater of virtue/g
 s/『μισαχ』/[NP]/g
-s/『μισγω』/to mingle with/g
-s/『μισεω』/to hate/g
+s/『μισγω』/mingle with/g
+s/『μισεω』/hate/g
 s/『μισητος』/hateful/g
 s/『μισθεω』/「μισθέω」/g
 s/『μισθιος』/hired/g
 s/『μισθος』/wages/g
-s/『μισθοω』/to hire/g
+s/『μισθοω』/hire/g
 s/『μισθωμα』/rented house/g
 s/『μισθωτος』/hired hand/g
 s/『μισοξενια』/hatred of guests or strangers/g
-s/『μισοπονηρεω』/to hate the wicked,<br>to hate the wickedness/g
+s/『μισοπονηρεω』/hate the wicked;<br>hate the wickedness/g
 s/『μισοπονηρια』/hatred of wickedness/g
 s/『μισοπονηρος』/hating knaves/g
-s/『μισος』/hate,<br>hatred/g
-s/『μισυβρις』/one who hates insolence,<br>hater of insolence/g
+s/『μισος』/hate;<br>hatred/g
+s/『μισυβρις』/one who hates insolence;<br>hater of insolence/g
 s/『μισωρ』/[NP]/g
-s/『μιτρα』/a belt/g
+s/『μιτρα』/belt/g
 s/『μιφιθιμ』/[NP]/g
 s/『μιχα』/[NP]/g
 s/『μιχαηλ』/[NP]/g
@@ -8958,39 +8958,39 @@ s/『μιχας』/[NP]/g
 s/『μιχια』/[NP]/g
 s/『μιχολ』/[NP]/g
 s/『μνα』/5000 dollars/g
-s/『μναομαι』/to remember,<br>be mindful/g
-s/『μνεια』/mention,<br>remembrance/g
-s/『μνημα』/a tomb/g
-s/『μνημειον』/memorial,<br>tomb/g
+s/『μναομαι』/remember;<br>mindful/g
+s/『μνεια』/mention;<br>remembrance/g
+s/『μνημα』/tomb/g
+s/『μνημειον』/memorial;<br>tomb/g
 s/『μνημη』/memory/g
-s/『μνημονευω』/to remember/g
-s/『μνημοσυνον』/a remembrance/g
-s/『μνησικακεω』/to bear malice/g
+s/『μνημονευω』/remember/g
+s/『μνημοσυνον』/remembrance/g
+s/『μνησικακεω』/bear malice/g
 s/『μνησικακος』/bearing malice/g
 s/『μνηστευομαι』/「μνηστεύομαι」/g
-s/『μνηστευω』/to be engaged/g
+s/『μνηστευω』/engaged/g
 s/『μογιλαλος\.1』/「μογίλαλος」/g
 s/『μογις』/hardly/g
 s/『μοζε』/[NP]/g
 s/『μοι』/me/g
-s/『μοιχαλις』/an adulteress/g
+s/『μοιχαλις』/adulteress/g
 s/『μοιχαομαι』/「μοιχάομαι」/g
-s/『μοιχαω』/to commit adultery/g
+s/『μοιχαω』/commit adultery/g
 s/『μοιχεια』/adultery/g
-s/『μοιχευω』/to commit adultery/g
-s/『μοιχος』/an adulterer/g
+s/『μοιχευω』/commit adultery/g
+s/『μοιχος』/adulterer/g
 s/『μολιβος』/lead/g
 s/『μολις』/scarcely/g
 s/『μολλαθ』/[NP]/g
 s/『μολοχ』/[NP]/g
 s/『μολοχη』/mallow/g
-s/『μολυνσις』/defilement,<br>pollution/g
-s/『μολυνω』/to dirty,<br>pollute/g
-s/『μολυσμος』/dirtiness,<br>pollution/g
+s/『μολυνσις』/defilement;<br>pollution/g
+s/『μολυνω』/dirty;<br>pollute/g
+s/『μολυσμος』/dirtiness;<br>pollution/g
 s/『μολχολ』/[NP]/g
 s/『μομδιος』/[NP]/g
 s/『μοναζω』/「μονάζω」/g
-s/『μοναρχος』/one who rules alone,<br>a monarch/g
+s/『μοναρχος』/one who rules alone;<br>monarch/g
 s/『μονι』/[NP]/g
 s/『μονιμος』/stable/g
 s/『μονιος』/solitary/g
@@ -8998,13 +8998,13 @@ s/『μονογενης』/only child/g
 s/『μονοζωνος』/lightly armed/g
 s/『μονοημερος』/lasting one day only/g
 s/『μονοκερως』/with but one horn/g
-s/『μονομαχεω』/to fight in single combat/g
-s/『μονον』/only,<br>alone/g
+s/『μονομαχεω』/fight in single combat/g
+s/『μονον』/only;<br>alone/g
 s/『μονορχις』/with one testicle/g
-s/『μονος』/only,<br>alone/g
-s/『μονοτροπος』/living alone,<br>solitary/g
-s/『μονοφαγια』/eating alone,<br>gluttony/g
-s/『μονοφαγος』/eating alone,<br>gluttonous/g
+s/『μονος』/only;<br>alone/g
+s/『μονοτροπος』/living alone;<br>solitary/g
+s/『μονοφαγια』/eating alone;<br>gluttony/g
+s/『μονοφαγος』/eating alone;<br>gluttonous/g
 s/『μονωσις』/separation from/g
 s/『μοοδι』/[NP]/g
 s/『μοολαμ』/[NP]/g
@@ -9015,7 +9015,7 @@ s/『μοοσσιας』/[NP]/g
 s/『μοουλαθι』/[NP]/g
 s/『μοοχα』/[NP]/g
 s/『μορον』/mulberry/g
-s/『μορος』/man's appointed doom,<br>fate/g
+s/『μορος』/man's appointed doom;<br>fate/g
 s/『μορφη』/form/g
 s/『μοσερι』/[NP]/g
 s/『μοσοαθ』/[NP]/g
@@ -9024,21 +9024,21 @@ s/『μοσολλαμ』/[NP]/g
 s/『μοσολλαμια』/[NP]/g
 s/『μοσολλαμος』/[NP]/g
 s/『μοσοχ』/[NP]/g
-s/『μοσφαθαιμ』/saddlebags,<br>sheepfolds?/g
-s/『μοσχαριον』/a little calf/g
-s/『μοσχευμα』/seedling,<br>shoot taken off and planted/g
-s/『μοσχος』/a calf/g
+s/『μοσφαθαιμ』/saddlebags;<br>sheepfolds?/g
+s/『μοσχαριον』/little calf/g
+s/『μοσχευμα』/seedling;<br>shoot taken off and planted/g
+s/『μοσχος』/calf/g
 s/『μοσωβαβ』/[NP]/g
-s/『μοτοω』/to plug a wound with lint,<br>to bind up/g
-s/『μου』/of me,<br>mine/g
+s/『μοτοω』/plug a wound with lint;<br>bind up/g
+s/『μου』/of me;<br>mine/g
 s/『μουσι』/[NP]/g
-s/『μουσικος』/a musician/g
+s/『μουσικος』/musician/g
 s/『μουχαιος』/[NP]/g
 s/『μοχατι』/[NP]/g
-s/『μοχθεω』/to be weary with toil,<br>to be sore distressed/g
-s/『μοχθηρος』/suffering hardship,<br>in sore distress/g
+s/『μοχθεω』/weary with toil;<br>sore distressed/g
+s/『μοχθηρος』/suffering hardship;<br>in sore distress/g
 s/『μοχθος』/toil/g
-s/『μοχλος』/a bar/g
+s/『μοχλος』/bar/g
 s/『μοχμουρ』/[NP]/g
 s/『μοχοραθι』/[NP]/g
 s/『μοωχα』/[NP]/g
@@ -9046,66 +9046,66 @@ s/『μυαλοω』/「μυαλόω」/g
 s/『μυγαλη』/「μυγάλη」/g
 s/『μυελος』/marrow/g
 s/『μυεομαι』/「μυέομαι」/g
-s/『μυθολογος』/a teller of legends,<br>romancer/g
-s/『μυθος』/a myth/g
-s/『μυια』/a fly/g
-s/『μυκτηρ』/the nose,<br>snout/g
-s/『μυκτηριζω』/to mock/g
-s/『μυκτηρισμος』/scorn,<br>contempt/g
-s/『μυλη』/a molar/g
+s/『μυθολογος』/teller of legends;<br>romancer/g
+s/『μυθος』/myth/g
+s/『μυια』/fly/g
+s/『μυκτηρ』/nose;<br>snout/g
+s/『μυκτηριζω』/mock/g
+s/『μυκτηρισμος』/scorn;<br>contempt/g
+s/『μυλη』/molar/g
 s/『μυλν』/「μύλν」/g
-s/『μυλος』/a mill/g
+s/『μυλος』/mill/g
 s/『μυλωνος』/「μύλωνος」/g
 s/『μυνδος』/[NP]/g
 s/『μυξωτηρ』/nostrils/g
-s/『μυρεψικος』/aromatic,<br>perfumed/g
+s/『μυρεψικος』/aromatic;<br>perfumed/g
 s/『μυρεψος』/one who prepares unguents. a perfumer./g
-s/『μυριας』/a myriad/g
+s/『μυριας』/myriad/g
 s/『μυριοι』/myriad/g
 s/『μυριοπλασιος』/times as many as/g
 s/『μυριοπλασιως』/ten thousand times/g
 s/『μυριοτης』/number of ten thousand/g
 s/『μυρισμος』/anointing/g
-s/『μυρμηκιαω』/to be afflicted with warts/g
+s/『μυρμηκιαω』/afflicted with warts/g
 s/『μυρμηκολεων』/ant lion/g
-s/『μυρμηξ』/a beast of prey/g
+s/『μυρμηξ』/beast of prey/g
 s/『μυροβραχης』/「μυροβραχής」/g
-s/『μυρον』/ointment,<br>perfume/g
-s/『μυρσινη』/a branch/g
+s/『μυρον』/ointment;<br>perfume/g
+s/『μυρσινη』/branch/g
 s/『μυρσινων』/[NP]/g
-s/『μυς』/the field-mouse/g
+s/『μυς』/field-mouse/g
 s/『μυσαρχης』/[NP]/g
-s/『μυσερος』/loathsome,<br>abominable/g
+s/『μυσερος』/loathsome;<br>abominable/g
 s/『μυσος』/uncleanness/g
-s/『μυσταξ』/the upper lip,<br>the moustache/g
-s/『μυστηριον』/a mystery/g
+s/『μυσταξ』/upper lip;<br>moustache/g
+s/『μυστηριον』/mystery/g
 s/『μυστης』/one initiated/g
 s/『μυστικως』/secretly/g
 s/『μυστις』/mystic/g
-s/『μυχος』/the innermost place,<br>inmost nook/g
+s/『μυχος』/innermost place;<br>inmost nook/g
 s/『μωαβ』/[NP]/g
 s/『μωαβειτης』/[NP]/g
 s/『μωαβι』/[NP]/g
 s/『μωαβιτης』/[NP]/g
-s/『μωαβιτις』/a Moabite/g
+s/『μωαβιτις』/Moabite/g
 s/『μωαβιτος』/[NP]/g
 s/『μωδαδ』/[NP]/g
 s/『μωδειν』/[NP]/g
 s/『μωεθ』/[NP]/g
-s/『μωκαομαι』/to be ridiculed/g
+s/『μωκαομαι』/ridiculed/g
 s/『μωκος』/mocking/g
 s/『μωλα』/[NP]/g
 s/『μωλαδα』/[NP]/g
 s/『μωλιδ』/[NP]/g
-s/『μωλωψ』/a welt/g
-s/『μωμαομαι』/to find flaw\/fault/g
-s/『μωμητος』/to be blamed/g
-s/『μωμος』/a flaw/g
+s/『μωλωψ』/welt/g
+s/『μωμαομαι』/find flaw\/fault/g
+s/『μωμητος』/blamed/g
+s/『μωμος』/flaw/g
 s/『μωραδ』/[NP]/g
 s/『μωραθιτης』/[NP]/g
-s/『μωραινω』/to grow insipid,<br>make insipid/g
+s/『μωραινω』/grow insipid;<br>make insipid/g
 s/『μωρασθι』/[NP]/g
-s/『μωρευω』/to make foolish,<br>to turn into foolishness/g
+s/『μωρευω』/make foolish;<br>turn into foolishness/g
 s/『μωρηδ』/[NP]/g
 s/『μωρια』/stupidity/g
 s/『μωρος』/stupid/g
@@ -9140,7 +9140,7 @@ s/『ναβδεηλ』/[NP]/g
 s/『ναβεθ』/[NP]/g
 s/『ναβι』/[NP]/g
 s/『ναβι-ααρ』/[NP]/g
-s/『ναβλα』/harp,<br>stringed instrument/g
+s/『ναβλα』/harp;<br>stringed instrument/g
 s/『ναβου』/[NP]/g
 s/『ναβουζαρδαν』/[NP]/g
 s/『ναβουζαρδας』/[NP]/g
@@ -9159,8 +9159,8 @@ s/『ναδαβαθ』/[NP]/g
 s/『ναδαβαιος』/[NP]/g
 s/『ναεθ』/[NP]/g
 s/『ναεμανι』/[NP]/g
-s/『ναζιρ』/Nazarite,<br>consecrated by Nazarite vows/g
-s/『ναζιραιος』/Nazarite,<br>consecrated by Nazarite vows/g
+s/『ναζιρ』/Nazarite;<br>consecrated by Nazarite vows/g
+s/『ναζιραιος』/Nazarite;<br>consecrated by Nazarite vows/g
 s/『ναημ』/[NP]/g
 s/『ναθαν』/[NP]/g
 s/『ναθαναηλ』/[NP]/g
@@ -9175,11 +9175,11 @@ s/『ναι\.1』/yes/g
 s/『ναιδ』/[NP]/g
 s/『ναιδος』/[NP]/g
 s/『ναιμαν』/[NP]/g
-s/『ναιω』/to inhabit,<br>to dwell/g
+s/『ναιω』/inhabit;<br>dwell/g
 s/『νακαν』/[NP]/g
 s/『νακεβ』/[NP]/g
 s/『νακκαριμ』/sheep breeders/g
-s/『ναμα』/anything flowing,<br>running water/g
+s/『ναμα』/anything flowing;<br>running water/g
 s/『ναμβρα』/[NP]/g
 s/『ναμβραν』/[NP]/g
 s/『ναμεσσι』/[NP]/g
@@ -9191,23 +9191,23 @@ s/『ναναια』/[NP]/g
 s/『ναναιος』/[NP]/g
 s/『ναος』/sanctuary/g
 s/『ναουμ』/[NP]/g
-s/『ναπη』/a wooded vale,<br>dell/g
+s/『ναπη』/wooded vale;<br>dell/g
 s/『ναργαλασαρ』/[NP]/g
 s/『ναρδος』/nard/g
-s/『ναρκαω』/to grow numb/g
+s/『ναρκαω』/grow numb/g
 s/『νασαραχ』/[NP]/g
 s/『νασβας』/[NP]/g
 s/『νασι』/[NP]/g
 s/『νασιβ』/[NP]/g
-s/『νασιβ\.1』/deputy,<br>official/g
-s/『νασιφ』/deputy,<br>official/g
+s/『νασιβ\.1』/deputy;<br>official/g
+s/『νασιφ』/deputy;<br>official/g
 s/『νασουε』/[NP]/g
 s/『ναταιμ』/[NP]/g
 s/『ναυαθ』/[NP]/g
 s/『ναυη』/[NP]/g
-s/『ναυλον』/a fare/g
-s/『ναυς』/a ship/g
-s/『ναυτικος』/a mariner/g
+s/『ναυλον』/fare/g
+s/『ναυς』/ship/g
+s/『ναυτικος』/mariner/g
 s/『ναφαγ』/[NP]/g
 s/『ναφεδδωρ』/[NP]/g
 s/『ναφεκ』/[NP]/g
@@ -9226,15 +9226,15 @@ s/『ναχεθ』/[NP]/g
 s/『ναχεμ』/[NP]/g
 s/『ναχοθ』/[NP]/g
 s/『ναχωρ』/[NP]/g
-s/『νεαζω』/to be young/g
-s/『νεανιας』/a young man/g
-s/『νεανικος』/youthful,<br>fresh/g
-s/『νεανις』/a girl/g
-s/『νεανισκος』/a young man/g
+s/『νεαζω』/young/g
+s/『νεανιας』/young man/g
+s/『νεανικος』/youthful;<br>fresh/g
+s/『νεανις』/girl/g
+s/『νεανισκος』/young man/g
 s/『νεβελ』/[NP]/g
-s/『νεβελ\.1』/vessel,<br>wine jar/g
+s/『νεβελ\.1』/vessel;<br>wine jar/g
 s/『νεβριμ』/[NP]/g
-s/『νεβρος』/the young of the deer,<br>a fawn/g
+s/『νεβρος』/young of the deer;<br>fawn/g
 s/『νεβρωδ』/[NP]/g
 s/『νεβσαν』/[NP]/g
 s/『νεελασα』/joyful/g
@@ -9243,23 +9243,23 @@ s/『νεεμια』/[NP]/g
 s/『νεεμιας』/[NP]/g
 s/『νεεσθαν』/[NP]/g
 s/『νεεσσαραν』/detained/g
-s/『νεζερ』/diadem,<br>sign of consecration/g
-s/『νεικος』/a quarrel,<br>wrangle/g
+s/『νεζερ』/diadem;<br>sign of consecration/g
+s/『νεικος』/quarrel;<br>wrangle/g
 s/『νεκρος』/dead/g
 s/『νεκωδα』/[NP]/g
 s/『νεκωδαν』/[NP]/g
 s/『νελαμιτης』/[NP]/g
 s/『νεμρα』/[NP]/g
 s/『νεμριμ』/[NP]/g
-s/『νεμω』/to graze/g
+s/『νεμω』/graze/g
 s/『νεογνος』/newborn/g
 s/『νεοκτιστος』/newly founded/g
-s/『νεος』/new,<br>young/g
-s/『νεοσσος』/a chick/g
+s/『νεος』/new;<br>young/g
+s/『νεοσσος』/chick/g
 s/『νεοτης』/youth/g
-s/『νεοττος』/young bird,<br>nestling/g
-s/『νεοφυτος』/newly sprouted,<br>a neophyte/g
-s/『νεοω』/to renovate,<br>renew/g
+s/『νεοττος』/young bird;<br>nestling/g
+s/『νεοφυτος』/newly sprouted;<br>neophyte/g
+s/『νεοω』/renovate;<br>renew/g
 s/『νεσεραχ』/[NP]/g
 s/『νεσθα』/[NP]/g
 s/『νεσιβ』/[NP]/g
@@ -9270,201 +9270,201 @@ s/『νετωφα』/[NP]/g
 s/『νετωφαθι』/[NP]/g
 s/『νετωφαθιτης』/[NP]/g
 s/『νετωφατι』/[NP]/g
-s/『νευμα』/a nod/g
-s/『νευρα』/a string/g
-s/『νευροκοπεω』/to hamstring/g
-s/『νευρον』/a sinew/g
-s/『νευω』/to nod/g
-s/『νεφελη』/a cloud/g
+s/『νευμα』/nod/g
+s/『νευρα』/string/g
+s/『νευροκοπεω』/hamstring/g
+s/『νευρον』/sinew/g
+s/『νευω』/nod/g
+s/『νεφελη』/cloud/g
 s/『νεφθαι』/naphtha/g
 s/『νεφθαλειμ』/[NP]/g
 s/『νεφθαρ』/naphtha/g
-s/『νεφος』/a cloud mass/g
-s/『νεφρος』/an emotion/g
+s/『νεφος』/cloud mass/g
+s/『νεφρος』/emotion/g
 s/『νεφωσασιμ』/[NP]/g
 s/『νεχαω』/[NP]/g
 s/『νεχωθα』/treasure?/g
 s/『νεωμα』/newly-ploughed field previously left untilled/g
-s/『νεως』/a temple/g
-s/『νεωστι』/lately,<br>just now/g
-s/『νεωτεριζω』/to attempt anything new,<br>make a violent/g
+s/『νεως』/temple/g
+s/『νεωστι』/lately;<br>just now/g
+s/『νεωτεριζω』/attempt anything new;<br>make a violent/g
 s/『νεωτερικος』/youthful/g
 s/『νη\.1』/sure as/g
-s/『νηθω』/to spin/g
+s/『νηθω』/spin/g
 s/『νηκτος』/swimming/g
-s/『νηπιοκτονος』/slaying children,<br>killing children/g
-s/『νηπιος』/a minor/g
-s/『νηπιοτης』/childhood,<br>childishness/g
+s/『νηπιοκτονος』/slaying children;<br>killing children/g
+s/『νηπιος』/minor/g
+s/『νηπιοτης』/childhood;<br>childishness/g
 s/『νηρ』/[NP]/g
 s/『νηριας』/[NP]/g
 s/『νηριγελ』/[NP]/g
 s/『νηριος』/[NP]/g
 s/『νηριου』/[NP]/g
-s/『νησος』/an island/g
-s/『νηστεια』/a fast/g
-s/『νηστευω』/to fast/g
+s/『νησος』/island/g
+s/『νηστεια』/fast/g
+s/『νηστευω』/fast/g
 s/『νηστις』/fasting/g
 s/『νηστος』/spun/g
-s/『νηχω』/to swim/g
+s/『νηχω』/swim/g
 s/『νικανωρ』/[NP]/g
-s/『νικαω』/to conquer/g
+s/『νικαω』/conquer/g
 s/『νικη』/conquest/g
 s/『νικος』/conquest/g
 s/『νινευι』/[NP]/g
 s/『νινευιτης』/[NP]/g
-s/『νιπτω』/to wash/g
+s/『νιπτω』/wash/g
 s/『νισα』/[NP]/g
 s/『νισαν』/[NP]/g
 s/『νισια』/[NP]/g
 s/『νισω』/[NP]/g
 s/『νιτρον』/carbonate of soda/g
-s/『νιφετος』/falling snow,<br>a snowstorm/g
+s/『νιφετος』/falling snow;<br>snowstorm/g
 s/『νιφις』/[NP]/g
 s/『νοεβα』/[NP]/g
 s/『νοεμα』/[NP]/g
 s/『νοεμαν』/[NP]/g
 s/『νοεμανι』/[NP]/g
 s/『νοερος』/intellectual/g
-s/『νοεω』/to perceive/g
-s/『νοημα』/a perception/g
-s/『νοημων』/thoughtful,<br>intelligent/g
-s/『νοητως』/carefully,<br>attentively/g
-s/『νοθευω』/to adulterate/g
+s/『νοεω』/perceive/g
+s/『νοημα』/perception/g
+s/『νοημων』/thoughtful;<br>intelligent/g
+s/『νοητως』/carefully;<br>attentively/g
+s/『νοθευω』/adulterate/g
 s/『νοθος』/illegitimate/g
-s/『νοθως』/insincerely,<br>disingenuously/g
+s/『νοθως』/insincerely;<br>disingenuously/g
 s/『νομας』/roaming about for pasture/g
 s/『νομβα』/[NP]/g
 s/『νομεε』/[NP]/g
-s/『νομη』/grazing,<br>spreading/g
-s/『νομιζω』/to suppose,<br>expect/g
-s/『νομικος』/legal,<br>a lawyer/g
+s/『νομη』/grazing;<br>spreading/g
+s/『νομιζω』/suppose;<br>expect/g
+s/『νομικος』/legal;<br>lawyer/g
 s/『νομιμος』/legalities/g
 s/『νομιμως』/lawfully/g
 s/『νομισμα』/currency/g
 s/『νομιστεον』/「νομιστέον」/g
 s/『νομοθεσια』/legislation/g
-s/『νομοθεσμως』/according to the law,<br>legitimately/g
-s/『νομοθετεω』/to legislate/g
-s/『νομοθετης』/a legislator/g
-s/『νομος』/a feeding-place/g
+s/『νομοθεσμως』/according to the law;<br>legitimately/g
+s/『νομοθετεω』/legislate/g
+s/『νομοθετης』/legislator/g
+s/『νομος』/feeding-place/g
 s/『νομος\.1』/law/g
-s/『νομοφυλαξ』/a guardian of the laws/g
+s/『νομοφυλαξ』/guardian of the laws/g
 s/『νοο』/[NP]/g
 s/『νοοζα』/[NP]/g
 s/『νοομ』/[NP]/g
 s/『νοομα』/[NP]/g
 s/『νοομμα』/[NP]/g
 s/『νοσερος』/of sickness/g
-s/『νοσεω』/to be diseased/g
+s/『νοσεω』/diseased/g
 s/『νοσος』/disease/g
-s/『νοσσευω』/to nest/g
-s/『νοσσια』/a brood/g
-s/『νοσσιον』/a chick/g
-s/『νοσσοποιεω』/to make a den or lair/g
-s/『νοσφιζω』/to embezzle/g
-s/『νοτος』/the south wind/g
+s/『νοσσευω』/nest/g
+s/『νοσσια』/brood/g
+s/『νοσσιον』/chick/g
+s/『νοσσοποιεω』/make a den or lair/g
+s/『νοσφιζω』/embezzle/g
+s/『νοτος』/south wind/g
 s/『νουα』/[NP]/g
-s/『νουθεσια』/prompting,<br>warning/g
-s/『νουθετεω』/to prompt,<br>warn/g
-s/『νουθετημα』/admonition,<br>warning/g
-s/『νουθετησις』/admonition,<br>warning/g
+s/『νουθεσια』/prompting;<br>warning/g
+s/『νουθετεω』/prompt;<br>warn/g
+s/『νουθετημα』/admonition;<br>warning/g
+s/『νουθετησις』/admonition;<br>warning/g
 s/『νουμ』/[NP]/g
-s/『νουμηνια』/a new month/g
+s/『νουμηνια』/new month/g
 s/『νουμηνιος』/[NP]/g
 s/『νουν』/「νουν」/g
-s/『νους』/the intellect,<br>mind/g
-s/『νυκτερινος』/by night,<br>nightly/g
-s/『νυκτερις』/a bat/g
-s/『νυκτικοραξ』/the night-raven/g
+s/『νους』/intellect;<br>mind/g
+s/『νυκτερινος』/by night;<br>nightly/g
+s/『νυκτερις』/bat/g
+s/『νυκτικοραξ』/night-raven/g
 s/『νυκτωρ』/by night/g
-s/『νυμφαγωγος』/a friend/g
+s/『νυμφαγωγος』/friend/g
 s/『νυμφευσις』/wedding/g
-s/『νυμφη』/a bride,<br>daughter-in-law/g
-s/『νυμφιος』/a groom/g
-s/『νυμφων』/the bridal chamber/g
-s/『νυν』/now,<br>the present/g
+s/『νυμφη』/bride;<br>daughter-in-law/g
+s/『νυμφιος』/groom/g
+s/『νυμφων』/bridal chamber/g
+s/『νυν』/now;<br>present/g
 s/『νυνι』/right now/g
 s/『νυξ』/night/g
-s/『νυσσω』/to pierce/g
+s/『νυσσω』/pierce/g
 s/『νυσταγμα』/slumber/g
-s/『νυσταγμος』/drowsiness,<br>dozing/g
-s/『νυσταζω』/to nod off/g
+s/『νυσταγμος』/drowsiness;<br>dozing/g
+s/『νυσταζω』/nod off/g
 s/『νωα』/[NP]/g
 s/『νωαδια』/[NP]/g
 s/『νωβαι』/[NP]/g
 s/『νωδαβ』/[NP]/g
 s/『νωε』/[NP]/g
 s/『νωεμιν』/[NP]/g
-s/『νωθροκαρδιος』/slow of mind,<br>stupid/g
+s/『νωθροκαρδιος』/slow of mind;<br>stupid/g
 s/『νωθρος』/slothful/g
 s/『νωθροτης』/slugishness/g
 s/『νωκηδ』/owner of sheep/g
 s/『νωμα』/[NP]/g
 s/『νωμαν』/[NP]/g
-s/『νωτος』/the back/g
+s/『νωτος』/back/g
 s/『νωτοφορος』/carrying on the back/g
-s/『ξανθιζω』/to make yellow/g
+s/『ξανθιζω』/make yellow/g
 s/『ξανθικος』/[NP]/g
 s/『ξανθος』/yellow/g
-s/『ξενια』/a lodging/g
-s/『ξενιζω』/to entertain,<br>be astonished/g
+s/『ξενια』/lodging/g
+s/『ξενιζω』/entertain;<br>astonished/g
 s/『ξενιον』/「ξένιον」/g
 s/『ξενιος』/[NP]/g
 s/『ξενισμος』/entertainment/g
-s/『ξενιτεια』/a living abroad/g
-s/『ξενολογεω』/to enlist strangers,<br>levy mercenaries/g
-s/『ξενος』/alien,<br>foreigner/g
-s/『ξενοτροφεω』/to entertain strangers,<br>to maintain mercenary troops/g
+s/『ξενιτεια』/living abroad/g
+s/『ξενολογεω』/enlist strangers;<br>levy mercenaries/g
+s/『ξενος』/alien;<br>foreigner/g
+s/『ξενοτροφεω』/entertain strangers;<br>maintain mercenary troops/g
 s/『ξερξης』/[NP]/g
-s/『ξεστος』/smoothed,<br>polished/g
-s/『ξηραινω』/to wither,<br>dry/g
+s/『ξεστος』/smoothed;<br>polished/g
+s/『ξηραινω』/wither;<br>dry/g
 s/『ξηρασια』/drought;<br>dryness/g
-s/『ξηρος』/withered,<br>dry/g
+s/『ξηρος』/withered;<br>dry/g
 s/『ξιφηφορος』/sword in hand/g
-s/『ξιφος』/a sword/g
-s/『ξυλαριον』/small piece of wood,<br>twig/g
+s/『ξιφος』/sword/g
+s/『ξυλαριον』/small piece of wood;<br>twig/g
 s/『ξυλινος』/of wood/g
 s/『ξυλοκοπος』/hewing/g
-s/『ξυλον』/wood,<br>timber/g
+s/『ξυλον』/wood;<br>timber/g
 s/『ξυλοφορια』/task of carrying or bearing wood/g
 s/『ξυλοφορος』/carrying wood./g
-s/『ξυλοω』/to make of wood./g
-s/『ξυραω』/to shave/g
+s/『ξυλοω』/make of wood./g
+s/『ξυραω』/shave/g
 s/『ξυρησις』/shaving/g
-s/『ξυρον』/a rasor/g
+s/『ξυρον』/rasor/g
 s/『ξυστος』/polished/g
-s/『ξυω』/to scrape,<br>plane/g
+s/『ξυω』/scrape;<br>plane/g
 s/『ο』/the/g
 s/『οβα』/[NP]/g
 s/『οββια』/[NP]/g
 s/『οβδια』/[NP]/g
-s/『οβελισκος』/a small spit/g
-s/『οβολος』/an obol/g
+s/『οβελισκος』/small spit/g
+s/『οβολος』/obol/g
 s/『ογδοηκοντα』/eighty/g
 s/『ογδοηκοστος』/eightieth/g
 s/『ογδοος』/eighth/g
 s/『ογοθολια』/[NP]/g
-s/『οδε』/further,<br>this/g
-s/『οδευω』/to be on the way,<br>journey/g
-s/『οδηγεω』/to guide/g
-s/『οδηγος』/a guide/g
-s/『οδοιπορια』/a journey/g
-s/『οδοιπορος』/a wayfarer/g
+s/『οδε』/further;<br>this/g
+s/『οδευω』/on the way;<br>journey/g
+s/『οδηγεω』/guide/g
+s/『οδηγος』/guide/g
+s/『οδοιπορια』/journey/g
+s/『οδοιπορος』/wayfarer/g
 s/『οδολλαμ』/[NP]/g
 s/『οδολλαμιτης』/[NP]/g
 s/『οδομ』/[NP]/g
 s/『οδομηρα』/[NP]/g
-s/『οδοποιεω』/to make/g
+s/『οδοποιεω』/make/g
 s/『οδορρα』/[NP]/g
-s/『οδος』/way,<br>journey/g
+s/『οδος』/way;<br>journey/g
 s/『οδουια』/[NP]/g
 s/『οδουιας』/[NP]/g
-s/『οδους』/a tooth/g
-s/『οδυναω』/to be in pain,<br>pain/g
+s/『οδους』/tooth/g
+s/『οδυναω』/in pain;<br>pain/g
 s/『οδυνη』/pain/g
 s/『οδυνηρος』/painful/g
 s/『οδυρμος』/wailing/g
-s/『οδυρομαι』/to lament,<br>bewail/g
+s/『οδυρομαι』/lament;<br>bewail/g
 s/『οζα』/[NP]/g
 s/『οζαζα』/[NP]/g
 s/『οζαζιας』/[NP]/g
@@ -9479,75 +9479,75 @@ s/『οζιηλ』/[NP]/g
 s/『οζιηλις』/[NP]/g
 s/『οζιου』/[NP]/g
 s/『οζομ』/[NP]/g
-s/『οζος』/a bough,<br>branch/g
+s/『οζος』/bough;<br>branch/g
 s/『οζουζ』/[NP]/g
 s/『οζριηλ』/[NP]/g
-s/『οζω』/to smell/g
+s/『οζω』/smell/g
 s/『οθαλι』/[NP]/g
-s/『οθεν』/from which,<br>for which reason/g
+s/『οθεν』/from which;<br>for which reason/g
 s/『οθομ』/[NP]/g
 s/『οθονιας』/[NP]/g
-s/『οθονιον』/a linen cloth/g
-s/『οιακιζω』/to steer/g
-s/『οιαξ』/the handle of the rudder,<br>the tiller/g
-s/『οιδα』/to be aware/g
-s/『οικειος』/a household member,<br>of the house/g
-s/『οικειοτης』/kindred,<br>relationship/g
-s/『οικειοω』/to make one's own/g
+s/『οθονιον』/linen cloth/g
+s/『οιακιζω』/steer/g
+s/『οιαξ』/handle of the rudder;<br>tiller/g
+s/『οιδα』/aware/g
+s/『οικειος』/household member;<br>of the house/g
+s/『οικειοτης』/kindred;<br>relationship/g
+s/『οικειοω』/make one's own/g
 s/『οικετης』/domestic/g
 s/『οικετικη』/「οἰκετική」/g
-s/『οικετις』/the mistress of the house/g
-s/『οικεω』/to dwell/g
-s/『οικημα』/a cell/g
-s/『οικησις』/the act of dwelling,<br>habitation/g
+s/『οικετις』/mistress of the house/g
+s/『οικεω』/dwell/g
+s/『οικημα』/cell/g
+s/『οικησις』/act of dwelling;<br>habitation/g
 s/『οικητηριον』/dwelling/g
 s/『οικητος』/inhabited/g
-s/『οικητωρ』/an inhabitant/g
-s/『οικια』/house,<br>household/g
-s/『οικιδιον』/a chamber/g
-s/『οικιζω』/to found as a colony/g
+s/『οικητωρ』/inhabitant/g
+s/『οικια』/house;<br>household/g
+s/『οικιδιον』/chamber/g
+s/『οικιζω』/found as a colony/g
 s/『οικογενης』/home-born/g
-s/『οικοδομεω』/to build/g
+s/『οικοδομεω』/build/g
 s/『οικοδομη』/building/g
-s/『οικοδομος』/a builder,<br>an architect/g
-s/『οικονομεω』/to administer/g
+s/『οικοδομος』/builder;<br>architect/g
+s/『οικονομεω』/administer/g
 s/『οικονομια』/administration/g
-s/『οικονομος』/an administrator/g
-s/『οικοπεδον』/the site of a house/g
-s/『οικος』/home,<br>household/g
+s/『οικονομος』/administrator/g
+s/『οικοπεδον』/site of a house/g
+s/『οικος』/home;<br>household/g
 s/『οικουμενη』/habitat/g
-s/『οικτειρω』/to have compassion/g
-s/『οικτιρημα』/mercy,<br>compassion/g
+s/『οικτειρω』/have compassion/g
+s/『οικτιρημα』/mercy;<br>compassion/g
 s/『οικτιρμος』/compassion/g
 s/『οικτιρμων』/compassionate/g
-s/『οικτιστος』/most pitiable,<br>lamentable/g
+s/『οικτιστος』/most pitiable;<br>lamentable/g
 s/『οικτος』/oh!/g
-s/『οικτρος』/pitiable,<br>in piteous plight/g
+s/『οικτρος』/pitiable;<br>in piteous plight/g
 s/『οιμμοι』/ah me!/g
-s/『οιμωγη』/loud wailing,<br>lamentation/g
-s/『οιμωζω』/to wail aloud,<br>lament/g
-s/『οινοποτεω』/to drink wine/g
-s/『οινοποτης』/a wine-drinker/g
+s/『οιμωγη』/loud wailing;<br>lamentation/g
+s/『οιμωζω』/wail aloud;<br>lament/g
+s/『οινοποτεω』/drink wine/g
+s/『οινοποτης』/wine-drinker/g
 s/『οινος』/wine/g
-s/『οινοφλυγεω』/to be drunken,<br>drunk/g
-s/『οινοχοεω』/to pour out wine for drinking/g
-s/『οινοχοος』/a cup-bearer/g
-s/『οιομαι』/to suppose/g
-s/『οιος』/a kind that,<br>what/g
-s/『οιστρηλασια』/mad passion,<br>impulse/g
-s/『οιστρος』/the gadfly,<br>breese/g
-s/『οιφι』/an ephah/g
-s/『οιχομαι』/to depart/g
-s/『οιωνιζομαι』/to take bird omens,<br>divine/g
+s/『οινοφλυγεω』/drunken;<br>drunk/g
+s/『οινοχοεω』/pour out wine for drinking/g
+s/『οινοχοος』/cup-bearer/g
+s/『οιομαι』/suppose/g
+s/『οιος』/kind that;<br>what/g
+s/『οιστρηλασια』/mad passion;<br>impulse/g
+s/『οιστρος』/gadfly;<br>breese/g
+s/『οιφι』/ephah/g
+s/『οιχομαι』/depart/g
+s/『οιωνιζομαι』/take bird omens;<br>divine/g
 s/『οιωνιζω』/「οἰωνίζω」/g
 s/『οιωνισμα』/divination by the flight/g
-s/『οιωνισμος』/a portent/g
-s/『οιωνοβρωτος』/for the birds to eat,<br>food for the birds/g
-s/『οιωνος』/a large bird,<br>bird of prey/g
+s/『οιωνισμος』/portent/g
+s/『οιωνοβρωτος』/for the birds to eat;<br>food for the birds/g
+s/『οιωνος』/large bird;<br>bird of prey/g
 s/『οκινα』/[NP]/g
-s/『οκλαζω』/to crouch down on one's hams,<br>to squat/g
-s/『οκνεω』/to hesitate/g
-s/『οκνηρια』/sluggishness,<br>laziness/g
+s/『οκλαζω』/crouch down on one's hams;<br>squat/g
+s/『οκνεω』/hesitate/g
+s/『οκνηρια』/sluggishness;<br>laziness/g
 s/『οκνηρος』/lazy/g
 s/『οκτακισχιλιοι』/eight thousand/g
 s/『οκτακισχιλιος』/「ὀκτακισχιλίος」/g
@@ -9556,253 +9556,253 @@ s/『οκταπηχυς』/eight cubits long/g
 s/『οκτω』/eight/g
 s/『οκτωκαιδεκα』/eighteen/g
 s/『οκτωκαιδεκατος』/eighteenth/g
-s/『ολβος』/happiness,<br>bliss/g
+s/『ολβος』/happiness;<br>bliss/g
 s/『ολδαν』/[NP]/g
-s/『ολεθρευω』/to destroy/g
-s/『ολεθρια』/destruction,<br>ruin/g
-s/『ολεθριος』/destructive,<br>deadly/g
-s/『ολεθρος』/ruin,<br>destruction/g
-s/『ολεθροφορος』/bringing destruction,<br>destructive/g
-s/『ολεκω』/to ruin,<br>destroy/g
+s/『ολεθρευω』/destroy/g
+s/『ολεθρια』/destruction;<br>ruin/g
+s/『ολεθριος』/destructive;<br>deadly/g
+s/『ολεθρος』/ruin;<br>destruction/g
+s/『ολεθροφορος』/bringing destruction;<br>destructive/g
+s/『ολεκω』/ruin;<br>destroy/g
 s/『ολιγοβιος』/short-lived/g
-s/『ολιγοποιεω』/to diminish the number of,<br>to make lesser or fewer/g
-s/『ολιγος』/few,<br>sparse/g
+s/『ολιγοποιεω』/diminish the number of;<br>make lesser or fewer/g
+s/『ολιγος』/few;<br>sparse/g
 s/『ολιγοστος』/fewest/g
 s/『ολιγοτης』/fewness/g
 s/『ολιγοχρονιος』/lasting/g
-s/『ολιγοψυχεω』/to get discouraged/g
-s/『ολιγοψυχια』/discouragement,<br>loss of heart/g
+s/『ολιγοψυχεω』/get discouraged/g
+s/『ολιγοψυχια』/discouragement;<br>loss of heart/g
 s/『ολιγοψυχος』/morose/g
-s/『ολιγοψυχω』/to be faint/g
-s/『ολιγοω』/to diminish/g
-s/『ολιγωρεω』/to disdain,<br>neglect/g
+s/『ολιγοψυχω』/faint/g
+s/『ολιγοω』/diminish/g
+s/『ολιγωρεω』/disdain;<br>neglect/g
 s/『ολιγωρησις』/「ὀλιγώρησις」/g
 s/『ολισθαινω』/「ὀλισθαίνω」/g
-s/『ολισθημα』/slip,<br>fall/g
-s/『ολισθρημα』/slip,<br>fall/g
-s/『ολκειον』/basin,<br>large bowl/g
+s/『ολισθημα』/slip;<br>fall/g
+s/『ολισθρημα』/slip;<br>fall/g
+s/『ολκειον』/basin;<br>large bowl/g
 s/『ολκη』/weight/g
-s/『ολλυμι』/to destroy,<br>make an end of/g
+s/『ολλυμι』/destroy;<br>make an end of/g
 s/『ολοκαρποομαι』/「ὁλοκαρπόομαι」/g
-s/『ολοκαρπωμα』/whole burnt offering,<br>sacrifice/g
-s/『ολοκαρπωσις』/a whole offering/g
+s/『ολοκαρπωμα』/whole burnt offering;<br>sacrifice/g
+s/『ολοκαρπωσις』/whole offering/g
 s/『ολοκαυτος』/completely burnt/g
-s/『ολοκαυτωμα』/a whole offering/g
-s/『ολοκαυτωσις』/holocaust,<br>whole burnt offering/g
+s/『ολοκαυτωμα』/whole offering/g
+s/『ολοκαυτωσις』/holocaust;<br>whole burnt offering/g
 s/『ολοκληρος』/intact/g
-s/『ολολυγμος』/a loud crying/g
-s/『ολολυζω』/to howl/g
+s/『ολολυγμος』/loud crying/g
+s/『ολολυζω』/howl/g
 s/『ολοπορφυρος』/all-purple/g
 s/『ολορριζι』/「ὁλορριζί」/g
 s/『ολορριζος』/with the whole root/g
-s/『ολος』/whole,<br>wholly/g
+s/『ολος』/whole;<br>wholly/g
 s/『ολοσφυρητος』/made of solid beaten metal/g
-s/『ολοσχερης』/whole,<br>entire/g
+s/『ολοσχερης』/whole;<br>entire/g
 s/『ολοσχερως』/completely;<br>perfectly/g
 s/『ολοφερνης』/[NP]/g
-s/『ολοφυρομαι』/to lament,<br>wail/g
+s/『ολοφυρομαι』/lament;<br>wail/g
 s/『ολυμπιος』/[NP]/g
-s/『ολυνθος』/a winter fig/g
-s/『ολυρα』/a kind of grain,<br>spelt/g
+s/『ολυνθος』/winter fig/g
+s/『ολυρα』/kind of grain;<br>spelt/g
 s/『ολυριτης』/bread/g
-s/『ομαλιζω』/to make even/g
-s/『ομαλισμος』/levelling,<br>being levelled/g
+s/『ομαλιζω』/make even/g
+s/『ομαλισμος』/levelling;<br>being levelled/g
 s/『ομαχαθι』/[NP]/g
 s/『ομβρημα』/rainwater/g
-s/『ομβρος』/a downpour/g
-s/『ομηρος』/a pledge for the maintenance of unity,<br>a surety/g
-s/『ομιλεω』/to keep company,<br>converse/g
+s/『ομβρος』/downpour/g
+s/『ομηρος』/pledge for the maintenance of unity;<br>surety/g
+s/『ομιλεω』/keep company;<br>converse/g
 s/『ομιλια』/company/g
 s/『ομιχλη』/fog/g
 s/『ομμα』/eye/g
 s/『ομμαιος』/[NP]/g
 s/『ομμιν』/[NP]/g
 s/『ομμωθ』/[NP]/g
-s/『ομνυω』/to swear/g
+s/『ομνυω』/swear/g
 s/『ομοεθνης』/of the same people/g
 s/『ομοεθνος』/「ὁμοέθνος」/g
 s/『ομοζηλια』/common zeal for/g
-s/『ομοθυμαδον』/unanimously,<br>with one accord/g
+s/『ομοθυμαδον』/unanimously;<br>with one accord/g
 s/『ομοιοπαθης』/of like experience/g
-s/『ομοιος』/like,<br>similar to/g
+s/『ομοιος』/like;<br>similar to/g
 s/『ομοιοτης』/likeness/g
-s/『ομοιοω』/to be like,<br>liken/g
+s/『ομοιοω』/like;<br>liken/g
 s/『ομοιωμα』/likeness/g
 s/『ομοιως』/likewise/g
 s/『ομοιωσις』/likening/g
-s/『ομολογεω』/to acknowledge,<br>agree to/g
-s/『ομολογια』/acknowledgment,<br>agreement/g
-s/『ομολογος』/agreeing,<br>of one mind/g
+s/『ομολογεω』/acknowledge;<br>agree to/g
+s/『ομολογια』/acknowledgment;<br>agreement/g
+s/『ομολογος』/agreeing;<br>of one mind/g
 s/『ομολογουμενως』/admittedly/g
-s/『ομολογως』/openly,<br>willingly/g
+s/『ομολογως』/openly;<br>willingly/g
 s/『ομομητριος』/born of the same mother/g
-s/『ομονοεω』/to be of one mind,<br>agree together/g
+s/『ομονοεω』/of one mind;<br>agree together/g
 s/『ομονοια』/oneness of mind/g
 s/『ομοπατριος』/by the same father/g
-s/『ομορεω』/to border upon,<br>march with/g
-s/『ομορος』/having the same borders with,<br>marching with/g
-s/『ομοσπονδος』/sharing in the drink-offering,<br>sharing the same cup/g
+s/『ομορεω』/border upon;<br>march with/g
+s/『ομορος』/having the same borders with;<br>marching with/g
+s/『ομοσπονδος』/sharing in the drink-offering;<br>sharing the same cup/g
 s/『ομου』/together/g
 s/『ομουσι』/[NP]/g
 s/『ομοφυλος』/of the same race/g
 s/『ομοψηφος』/having an equal right to vote with/g
 s/『ομοψυχος』/of one mind/g
-s/『ομφακιζω』/to produce or bear sour grapes/g
-s/『ομφαλος』/the navel/g
-s/『ομφαξ』/an unripe grape/g
+s/『ομφακιζω』/produce or bear sour grapes/g
+s/『ομφαλος』/navel/g
+s/『ομφαξ』/unripe grape/g
 s/『ομως』/nevertheless/g
-s/『οναγρος』/the wild ass/g
+s/『οναγρος』/wild ass/g
 s/『ονειας』/[NP]/g
-s/『ονειδιζω』/to disparage,<br>reproach/g
-s/『ονειδισμα』/insult,<br>reproach/g
-s/『ονειδισμος』/disparaging,<br>reproach/g
+s/『ονειδιζω』/disparage;<br>reproach/g
+s/『ονειδισμα』/insult;<br>reproach/g
+s/『ονειδισμος』/disparaging;<br>reproach/g
 s/『ονειδος』/disgrace/g
-s/『ονειρος』/a dream/g
+s/『ονειρος』/dream/g
 s/『ονησις』/profit/g
 s/『ονιας』/[NP]/g
-s/『ονινημι』/to assist/g
+s/『ονινημι』/assist/g
 s/『ονναμ』/[NP]/g
-s/『ονοκενταυρος』/donkey-centaur,<br>mythic creature/g
+s/『ονοκενταυρος』/donkey-centaur;<br>mythic creature/g
 s/『ονομ』/[NP]/g
-s/『ονομα』/a name,<br>notable/g
-s/『ονομαζω』/to name/g
+s/『ονομα』/name;<br>notable/g
+s/『ονομαζω』/name/g
 s/『ονομασια』/act of naming/g
 s/『ονομαστος』/notable/g
 s/『ονοματογραφια』/list of names/g
-s/『ονος』/a donkey/g
-s/『οντως』/real,<br>really/g
+s/『ονος』/donkey/g
+s/『οντως』/real;<br>really/g
 s/『ονυξ』/talons/g
-s/『ονυχιζω』/to pare nails/g
+s/『ονυχιζω』/pare nails/g
 s/『ονυχιον』/kind of onyx/g
 s/『ονυχιστηρ』/hoof/g
 s/『οξεως』/soon/g
-s/『οξος』/sharp wine,<br>cheap wine/g
-s/『οξυγραφος』/swift-writing,<br>writing fast/g
-s/『οξυθυμος』/quick to anger,<br>choleric/g
-s/『οξυνω』/to sharpen/g
+s/『οξος』/sharp wine;<br>cheap wine/g
+s/『οξυγραφος』/swift-writing;<br>writing fast/g
+s/『οξυθυμος』/quick to anger;<br>choleric/g
+s/『οξυνω』/sharpen/g
 s/『οξυς』/sharp/g
-s/『οξυτης』/sharpness,<br>pointedness/g
+s/『οξυτης』/sharpness;<br>pointedness/g
 s/『οολ』/[NP]/g
 s/『οολα』/[NP]/g
 s/『οολι』/[NP]/g
 s/『οολιβα』/[NP]/g
-s/『οπη』/an opening/g
-s/『οπηνικα』/at what point of time,<br>at what hour/g
+s/『οπη』/opening/g
+s/『οπηνικα』/at what point of time;<br>at what hour/g
 s/『οπητιον』/little awl/g
-s/『οπισθεν』/from behind,<br>in back of/g
-s/『οπισθιος』/hinder,<br>belonging to the hinder part/g
+s/『οπισθεν』/from behind;<br>in back of/g
+s/『οπισθιος』/hinder;<br>belonging to the hinder part/g
 s/『οπισθιως』/backwards/g
-s/『οπισθοτονος』/disease whereby the body is drawn back and stiffens,<br>tetanus/g
+s/『οπισθοτονος』/disease whereby the body is drawn back and stiffens;<br>tetanus/g
 s/『οπισθοφανης』/looking backwards/g
 s/『οπισθοφανως』/backwards/g
-s/『οπισω』/in back,<br>after/g
-s/『οπλη』/a hoof,<br>the solid hoof/g
-s/『οπλιτης』/heavy-armed,<br>armed/g
-s/『οπλοδοτεω』/to provide with weapons,<br>to arm/g
-s/『οπλοθηκη』/an armoury/g
-s/『οπλολογεω』/to collect arms from or of/g
-s/『οπλομαχος』/a drill sergeant,<br>armed fighter/g
-s/『οπλον』/armament,<br>weapon/g
-s/『οπλοποιεω』/to turn into weapons/g
-s/『οπλοφορος』/bearing arms: a warrior,<br>soldier/g
+s/『οπισω』/in back;<br>after/g
+s/『οπλη』/hoof;<br>solid hoof/g
+s/『οπλιτης』/heavy-armed;<br>armed/g
+s/『οπλοδοτεω』/provide with weapons;<br>arm/g
+s/『οπλοθηκη』/armoury/g
+s/『οπλολογεω』/collect arms from or of/g
+s/『οπλομαχος』/drill sergeant;<br>armed fighter/g
+s/『οπλον』/armament;<br>weapon/g
+s/『οπλοποιεω』/turn into weapons/g
+s/『οπλοφορος』/bearing arms: a warrior;<br>soldier/g
 s/『οποιος』/of what kind/g
 s/『οποταν』/whensoever/g
 s/『οποτε』/when/g
 s/『οπου』/where/g
-s/『οπταζομαι』/to be seen/g
-s/『οπτανομαι』/to see/g
+s/『οπταζομαι』/seen/g
+s/『οπτανομαι』/see/g
 s/『οπτανω』/「ὀπτάνω」/g
-s/『οπτασια』/a vision/g
-s/『οπταω』/to bake/g
+s/『οπτασια』/vision/g
+s/『οπταω』/bake/g
 s/『οπτος』/broiled/g
 s/『οπωρα』/autumn fruit/g
 s/『οπωροφυλακιον』/hut for one who guards a garden or orchard/g
-s/『οπως』/that way,<br>how/g
-s/『οραμα』/a vision/g
-s/『ορασις』/appearance,<br>vision/g
-s/『ορατης』/observer of,<br>beholder of/g
-s/『ορατικος』/able to see,<br>observant/g
+s/『οπως』/that way;<br>how/g
+s/『οραμα』/vision/g
+s/『ορασις』/appearance;<br>vision/g
+s/『ορατης』/observer of;<br>beholder of/g
+s/『ορατικος』/able to see;<br>observant/g
 s/『ορατος』/visible/g
-s/『οραω』/to view,<br>see/g
+s/『οραω』/view;<br>see/g
 s/『οργανικος』/serving as instruments/g
-s/『οργανον』/an organ,<br>instrument/g
-s/『οργη』/passion,<br>temperament/g
-s/『οργιζω』/to be impassioned,<br>anger/g
+s/『οργανον』/organ;<br>instrument/g
+s/『οργη』/passion;<br>temperament/g
+s/『οργιζω』/impassioned;<br>anger/g
 s/『οργιλος』/passionate/g
 s/『οργιλως』/「ὀργίλως」/g
-s/『ορεινη』/mountainous,<br>hill-country/g
+s/『ορεινη』/mountainous;<br>hill-country/g
 s/『ορεινος』/mountainous/g
 s/『ορεξις』/desire/g
 s/『ορεχ』/[NP]/g
 s/『ορη』/[NP]/g
-s/『ορθιος』/straight up,<br>going upwards/g
-s/『ορθος』/upright,<br>normal/g
-s/『ορθοτομεω』/to cut upright\/correctly/g
-s/『ορθοω』/to set upright/g
-s/『ορθρευω』/to rise early,<br>to be awake early/g
-s/『ορθριζω』/to get up at dawn/g
+s/『ορθιος』/straight up;<br>going upwards/g
+s/『ορθος』/upright;<br>normal/g
+s/『ορθοτομεω』/cut upright\/correctly/g
+s/『ορθοω』/set upright/g
+s/『ορθρευω』/rise early;<br>awake early/g
+s/『ορθριζω』/get up at dawn/g
 s/『ορθρινος』/at dawn/g
 s/『ορθριος』/at dawn/g
 s/『ορθρος』/dawn/g
-s/『ορθως』/uprightly,<br>normally/g
+s/『ορθως』/uprightly;<br>normally/g
 s/『ορθωσια』/[NP]/g
-s/『οριζω』/to appoint,<br>mark out/g
-s/『οριον』/a frontier/g
-s/『ορισμος』/a marking out by boundaries,<br>limitation/g
-s/『ορκιζω』/to put on\/under oath,<br>administer an oath/g
+s/『οριζω』/appoint;<br>mark out/g
+s/『οριον』/frontier/g
+s/『ορισμος』/marking out by boundaries;<br>limitation/g
+s/『ορκιζω』/put on\/under oath;<br>administer an oath/g
 s/『ορκισμος』/oath administration/g
-s/『ορκος』/an oath/g
-s/『ορκωμοσια』/oath-swearing,<br>being sworn in/g
-s/『ορμαω』/to charge/g
-s/『ορμη』/an impulse/g
-s/『ορμημα』/impulse,<br>indignation/g
-s/『ορμισκος』/a signet cord/g
-s/『ορμος』/a haven/g
+s/『ορκος』/oath/g
+s/『ορκωμοσια』/oath-swearing;<br>being sworn in/g
+s/『ορμαω』/charge/g
+s/『ορμη』/impulse/g
+s/『ορμημα』/impulse;<br>indignation/g
+s/『ορμισκος』/signet cord/g
+s/『ορμος』/haven/g
 s/『ορνα』/[NP]/g
 s/『ορναν』/[NP]/g
-s/『ορνεον』/a fowl/g
+s/『ορνεον』/fowl/g
 s/『ορνια』/[NP]/g
-s/『ορνιθιον』/a small bird/g
-s/『ορνιθοσκοπεομαι』/to observe birds,<br>to watch birds for omens/g
+s/『ορνιθιον』/small bird/g
+s/『ορνιθοσκοπεομαι』/observe birds;<br>watch birds for omens/g
 s/『ορνιου』/[NP]/g
-s/『ορνις』/a hen/g
-s/『ορος』/a mountain,<br>mount/g
-s/『ορος\.1』/a boundary,<br>landmark/g
+s/『ορνις』/hen/g
+s/『ορος』/mountain;<br>mount/g
+s/『ορος\.1』/boundary;<br>landmark/g
 s/『οροφοιτοω』/「ὀροφοιτόω」/g
-s/『οροφος』/the reeds used for thatching houses/g
-s/『οροφωμα』/ceiling,<br>canopy/g
-s/『ορτυγομητρα』/a bird which migrates with the quails/g
-s/『ορυξ』/a pickaxe/g
-s/『ορυσσω』/to dig/g
+s/『οροφος』/reeds used for thatching houses/g
+s/『οροφωμα』/ceiling;<br>canopy/g
+s/『ορτυγομητρα』/bird which migrates with the quails/g
+s/『ορυξ』/pickaxe/g
+s/『ορυσσω』/dig/g
 s/『ορυττω』/「ὀρύττω」/g
 s/『ορφα』/[NP]/g
 s/『ορφανια』/orphanhood/g
 s/『ορφανος』/orphaned/g
-s/『ορχεομαι』/to dance/g
-s/『ος』/who,<br>what/g
-s/『οσιος』/responsible,<br>devout/g
-s/『οσιοτης』/responsibility,<br>devotion/g
-s/『οσιοω』/to make holy,<br>purify/g
-s/『οσιως』/responsibly,<br>devotedly/g
+s/『ορχεομαι』/dance/g
+s/『ος』/who;<br>what/g
+s/『οσιος』/responsible;<br>devout/g
+s/『οσιοτης』/responsibility;<br>devotion/g
+s/『οσιοω』/make holy;<br>purify/g
+s/『οσιως』/responsibly;<br>devotedly/g
 s/『οσμη』/scent/g
 s/『οσομ』/[NP]/g
-s/『οσος』/as much as,<br>as many as/g
+s/『οσος』/as much as;<br>as many as/g
 s/『οσπερ』/who in fact/g
 s/『οσπριον』/pulse/g
 s/『οσσα』/[NP]/g
-s/『οστεον』/a bone/g
-s/『οστις』/who,<br>that/g
+s/『οστεον』/bone/g
+s/『οστις』/who;<br>that/g
 s/『οστισουν』/whatever/g
-s/『οστρακινος』/of clay,<br>earthenware/g
+s/『οστρακινος』/of clay;<br>earthenware/g
 s/『οστρακον』/earthenware/g
 s/『οστρακωδης』/full of potsherds/g
-s/『οσφραινομαι』/to smell/g
-s/『οσφρασια』/scent,<br>odour/g
-s/『οσφυς』/loins,<br>waist/g
-s/『οταν』/when,<br>once/g
+s/『οσφραινομαι』/smell/g
+s/『οσφρασια』/scent;<br>odour/g
+s/『οσφυς』/loins;<br>waist/g
+s/『οταν』/when;<br>once/g
 s/『οτε』/when/g
-s/『οτι』/since,<br>that/g
-s/『οτρυνω』/to stir up,<br>rouse/g
+s/『οτι』/since;<br>that/g
+s/『οτρυνω』/stir up;<br>rouse/g
 s/『ου』/not/g
 s/『ου\.1』/where/g
 s/『ουαι』/woe/g
@@ -9814,8 +9814,8 @@ s/『ουδαδαν』/[NP]/g
 s/『ουδαμου』/nowhere/g
 s/『ουδαμως』/by no means/g
 s/『ουδαν』/[NP]/g
-s/『ουδε』/not even,<br>neither/g
-s/『ουδεις』/no one,<br>not one/g
+s/『ουδε』/not even;<br>neither/g
+s/『ουδεις』/no one;<br>not one/g
 s/『ουδεποτε』/never/g
 s/『ουδεπω』/not yet/g
 s/『ουδια』/[NP]/g
@@ -9832,141 +9832,141 @@ s/『ουλαιμαραδαχ』/[NP]/g
 s/『ουλαμ』/[NP]/g
 s/『ουλαμαις』/[NP]/g
 s/『ουλαμλους』/[NP]/g
-s/『ουλη』/scar,<br>mark/g
+s/『ουλη』/scar;<br>mark/g
 s/『ουν』/then/g
 s/『ουπερ』/where/g
 s/『ουπω』/not yet/g
 s/『ουρ』/[NP]/g
-s/『ουρα』/a tail/g
-s/『ουραγεω』/to be the rear guard,<br>to bring up the rear/g
-s/『ουραγια』/the rear/g
-s/『ουρανιος』/skyward,<br>heavenly/g
+s/『ουρα』/tail/g
+s/『ουραγεω』/the rear guard;<br>bring up the rear/g
+s/『ουραγια』/rear/g
+s/『ουρανιος』/skyward;<br>heavenly/g
 s/『ουρανοθεν』/from the sky/g
-s/『ουρανος』/sky,<br>heaven/g
-s/『ουρεω』/to make water/g
+s/『ουρανος』/sky;<br>heaven/g
+s/『ουρεω』/make water/g
 s/『ουρι』/[NP]/g
 s/『ουρια』/[NP]/g
 s/『ουριας』/[NP]/g
 s/『ουριηλ』/[NP]/g
 s/『ουριος』/with a fair wind/g
 s/『ουρον』/urine/g
-s/『ους』/an ear/g
+s/『ους』/ear/g
 s/『ουσα』/[NP]/g
 s/『ουσαθι』/[NP]/g
-s/『ουσια』/subsistence,<br>property/g
+s/『ουσια』/subsistence;<br>property/g
 s/『ουτα』/[NP]/g
-s/『ουτε』/not,<br>neither/g
-s/『ουτος』/this,<br>he/g
-s/『ουτως』/so,<br>this way/g
+s/『ουτε』/not;<br>neither/g
+s/『ουτος』/this;<br>he/g
+s/『ουτως』/so;<br>this way/g
 s/『ουφι』/[NP]/g
 s/『ουφιρ』/[NP]/g
-s/『ουχι』/not,<br>not actually/g
+s/『ουχι』/not;<br>not actually/g
 s/『οφαρ』/[NP]/g
-s/『οφειλημα』/an obligation/g
-s/『οφειλω』/to owe,<br>ought/g
-s/『οφελον』/to be obliged/g
+s/『οφειλημα』/obligation/g
+s/『οφειλω』/owe;<br>ought/g
+s/『οφελον』/obliged/g
 s/『οφελος』/use/g
 s/『οφερ』/[NP]/g
 s/『οφερι』/[NP]/g
-s/『οφθαλμος』/an eye,<br>sight/g
+s/『οφθαλμος』/eye;<br>sight/g
 s/『οφθαλμοφανως』/visibly/g
 s/『οφιμιν』/[NP]/g
 s/『οφιοδηκτος』/bitten by a snake/g
 s/『οφιομαχης』/one who fights with snakes/g
-s/『οφις』/a serpent/g
+s/『οφις』/serpent/g
 s/『οφλα』/[NP]/g
-s/『οφλησις』/penalty,<br>punishment/g
+s/『οφλησις』/penalty;<br>punishment/g
 s/『οφνι』/[NP]/g
-s/『οφρυς』/the brow/g
-s/『οχεια』/a covering/g
+s/『οφρυς』/brow/g
+s/『οχεια』/covering/g
 s/『οχιηλος』/[NP]/g
-s/『οχλαγωγεω』/to draw a crowd,<br>to stir up/g
-s/『οχλεω』/to mob/g
-s/『οχλος』/a crowd,<br>mass/g
+s/『οχλαγωγεω』/draw a crowd;<br>stir up/g
+s/『οχλεω』/mob/g
+s/『οχλος』/crowd;<br>mass/g
 s/『οχοζαθ』/[NP]/g
 s/『οχοζια』/[NP]/g
 s/『οχοζιαν』/[NP]/g
 s/『οχοζιας』/[NP]/g
-s/『οχυρος』/firm,<br>lasting/g
-s/『οχυροω』/to make fast and sure,<br>fortify/g
-s/『οχυρωμα』/a stronghold/g
+s/『οχυρος』/firm;<br>lasting/g
+s/『οχυροω』/make fast and sure;<br>fortify/g
+s/『οχυρωμα』/stronghold/g
 s/『οχυρωματιον』/small fortification/g
-s/『οχυρωσις』/fortifying,<br>process of fortification/g
+s/『οχυρωσις』/fortifying;<br>process of fortification/g
 s/『οχχοφφα』/[NP]/g
-s/『οψαριον』/a fishy,<br> fish/g
+s/『οψαριον』/fishy;<br> fish/g
 s/『οψε』/late/g
 s/『οψιβα』/[NP]/g
-s/『οψιζω』/to do,<br>go/g
+s/『οψιζω』/do;<br>go/g
 s/『οψιμος』/late/g
 s/『οψιος』/evening/g
-s/『οψις』/sight,<br>face/g
-s/『οψομαι』/to see,<br>to look/g
+s/『οψις』/sight;<br>face/g
+s/『οψομαι』/see;<br>look/g
 s/『οψον』/cooked meat/g
-s/『οψοποιημα』/food,<br>meat/g
+s/『οψοποιημα』/food;<br>meat/g
 s/『οψος』/fish/g
 s/『οψωνιον』/rations/g
 s/『παγγεωργος』/master gardener/g
 s/『παγετος』/frost/g
-s/『παγιδευω』/to trap/g
-s/『παγις』/a trap/g
-s/『παγκρατης』/all-powerful,<br>all-mighty/g
-s/『παγος』/a crag/g
+s/『παγιδευω』/trap/g
+s/『παγις』/trap/g
+s/『παγκρατης』/all-powerful;<br>all-mighty/g
+s/『παγος』/crag/g
 s/『παθαια』/[NP]/g
 s/『παθαιος』/[NP]/g
-s/『παθεινος』/suffering,<br>mournful/g
+s/『παθεινος』/suffering;<br>mournful/g
 s/『παθοκρατεια』/mastery over passion/g
-s/『παθοκρατεομαι』/to be governed by passion/g
-s/『παθος』/an experience,<br>emotionalism/g
+s/『παθοκρατεομαι』/governed by passion/g
+s/『παθος』/experience;<br>emotionalism/g
 s/『παθουρης』/[NP]/g
-s/『παιαν』/paean,<br>battle cry/g
-s/『παιγνια』/play,<br>sport/g
-s/『παιγνιον』/a plaything/g
-s/『παιδαριον』/a little boy/g
+s/『παιαν』/paean;<br>battle cry/g
+s/『παιγνια』/play;<br>sport/g
+s/『παιγνιον』/plaything/g
+s/『παιδαριον』/little boy/g
 s/『παιδεια』/discipline/g
-s/『παιδευτης』/an educator,<br>disciplinarian/g
-s/『παιδευω』/to discipline/g
-s/『παιδιον』/toddler,<br>little child/g
-s/『παιδισκη』/a girl,<br>maid/g
-s/『παιδοποιεω』/to beget children/g
+s/『παιδευτης』/educator;<br>disciplinarian/g
+s/『παιδευω』/discipline/g
+s/『παιδιον』/toddler;<br>little child/g
+s/『παιδισκη』/girl;<br>maid/g
+s/『παιδοποιεω』/beget children/g
 s/『παιδοποιια』/procreation of children/g
-s/『παιζω』/to play/g
-s/『παις』/a child,<br>a boy/g
-s/『παιω』/to strike/g
+s/『παιζω』/play/g
+s/『παις』/child;<br>boy/g
+s/『παιω』/strike/g
 s/『παλαθης』/「παλάθης」/g
 s/『παλαι』/long ago/g
 s/『παλαιος』/old/g
-s/『παλαιοω』/to antiquate,<br>grow old/g
-s/『παλαιστη』/a palm’s breadth,<br>four inches/g
-s/『παλαιστρα』/a palaestra,<br>wrestling-school/g
-s/『παλαιω』/to wrestle/g
-s/『παλαιωμα』/antiquity,<br>relic of ancient times/g
+s/『παλαιοω』/antiquate;<br>grow old/g
+s/『παλαιστη』/palm’s breadth;<br>four inches/g
+s/『παλαιστρα』/palaestra;<br>wrestling-school/g
+s/『παλαιω』/wrestle/g
+s/『παλαιωμα』/antiquity;<br>relic of ancient times/g
 s/『παλιν』/again/g
-s/『παλλακη』/a mistress/g
-s/『παλλακις』/a concubine,<br>mistress/g
+s/『παλλακη』/mistress/g
+s/『παλλακις』/concubine;<br>mistress/g
 s/『παλλομαι』/「πάλλομαι」/g
-s/『παμβασιλευς』/an absolute monarch/g
-s/『παμβοτανον』/all the herbage,<br>grass/g
+s/『παμβασιλευς』/absolute monarch/g
+s/『παμβοτανον』/all the herbage;<br>grass/g
 s/『παμμελης』/in all kinds of melodies/g
 s/『παμμιαρος』/totally or utterly abominable/g
-s/『παμμιγης』/all-mingled,<br>promiscuous/g
+s/『παμμιγης』/all-mingled;<br>promiscuous/g
 s/『παμπληθης』/with the whole multitude/g
-s/『παμποικιλος』/all-variegated,<br>of rich and varied work/g
-s/『παμπονηρος』/all-depraved,<br>thoroughly knavish/g
+s/『παμποικιλος』/all-variegated;<br>of rich and varied work/g
+s/『παμπονηρος』/all-depraved;<br>thoroughly knavish/g
 s/『παμφυλια』/[NP]/g
-s/『παμφυλος』/of mingled tribes,<br>of all sorts/g
+s/『παμφυλος』/of mingled tribes;<br>of all sorts/g
 s/『παναγιος』/all-holy/g
-s/『πανδεινος』/all-dreadful,<br>terrible/g
-s/『πανδημει』/with the whole people,<br>in a mass/g
+s/『πανδεινος』/all-dreadful;<br>terrible/g
+s/『πανδημει』/with the whole people;<br>in a mass/g
 s/『πανδημον』/「πάνδημον」/g
 s/『πανεθνι』/「πανεθνί」/g
 s/『πανεπισκοπος』/all-surveying/g
-s/『πανηγυριζω』/to celebrate/g
-s/『πανηγυρις』/a party/g
+s/『πανηγυριζω』/celebrate/g
+s/『πανηγυρις』/party/g
 s/『πανηγυρισμος』/celebration of a feast/g
 s/『πανθηρ』/panther/g
 s/『πανοδυρτος』/most lamentable/g
-s/『πανοικια』/a whole household/g
-s/『πανοπλια』/panoply,<br>full armor/g
+s/『πανοικια』/whole household/g
+s/『πανοπλια』/panoply;<br>full armor/g
 s/『πανουργευμα』/great deeds/g
 s/『πανουργευω』/「πανουργεύω」/g
 s/『πανουργια』/craftiness/g
@@ -9976,286 +9976,286 @@ s/『πανταχη』/everywhere/g
 s/『πανταχοθεν』/from all over/g
 s/『πανταχου』/everywhere/g
 s/『παντελης』/absolute/g
-s/『παντελως』/quite,<br>utterly/g
-s/『παντεποπτης』/the all-seeing/g
+s/『παντελως』/quite;<br>utterly/g
+s/『παντεποπτης』/all-seeing/g
 s/『παντευχια』/in full array/g
 s/『παντη』/in every way/g
-s/『παντοδαπος』/of every kind,<br>of all sorts/g
+s/『παντοδαπος』/of every kind;<br>of all sorts/g
 s/『παντοδυναμος』/all-powerful/g
-s/『παντοθεν』/all over,<br>from every side/g
+s/『παντοθεν』/all over;<br>from every side/g
 s/『παντοιος』/of all sorts/g
 s/『παντοκρατωρ』/almighty/g
 s/『παντοτε』/always/g
 s/『παντοτροφος』/all-nourishing/g
-s/『παντοφαγια』/eating of strange meat,<br>indiscriminate eating/g
-s/『παντως』/at all,<br>universally/g
-s/『πανυ』/altogether,<br>entirely/g
+s/『παντοφαγια』/eating of strange meat;<br>indiscriminate eating/g
+s/『παντως』/at all;<br>universally/g
+s/『πανυ』/altogether;<br>entirely/g
 s/『πανυπερτατος』/highest of all/g
-s/『παππος』/a grandfather/g
-s/『παπυρος』/the papyrus/g
-s/『παρα』/from,<br>by/g
-s/『παραβαινω』/to transgress,<br>overstep/g
-s/『παραβαλλω』/to cast along,<br>set against/g
-s/『παραβασιλευω』/to reign as if one were king,<br>to govern badly/g
+s/『παππος』/grandfather/g
+s/『παπυρος』/papyrus/g
+s/『παρα』/from;<br>by/g
+s/『παραβαινω』/transgress;<br>overstep/g
+s/『παραβαλλω』/cast along;<br>set against/g
+s/『παραβασιλευω』/reign as if one were king;<br>govern badly/g
 s/『παραβασις』/transgression/g
-s/『παραβιαζομαι』/to press/g
-s/『παραβιβαζω』/to remove,<br>to put aside/g
-s/『παραβλεπω』/to look aside,<br>take a side look/g
-s/『παραβολη』/a parable/g
-s/『παραγγελλω』/to charge/g
-s/『παραγγελμα』/a message transmitted/g
-s/『παραγινομαι』/to happen by,<br>come by\/to\/along/g
-s/『παραγω』/to head along,<br>head aside/g
-s/『παραδειγμα』/a pattern/g
-s/『παραδειγματιζω』/to make a spectacle/g
-s/『παραδειγματισμος』/making an example of,<br>pointing out to public shame/g
+s/『παραβιαζομαι』/press/g
+s/『παραβιβαζω』/remove;<br>put aside/g
+s/『παραβλεπω』/look aside;<br>take a side look/g
+s/『παραβολη』/parable/g
+s/『παραγγελλω』/charge/g
+s/『παραγγελμα』/message transmitted/g
+s/『παραγινομαι』/happen by;<br>come by\/to\/along/g
+s/『παραγω』/head along;<br>head aside/g
+s/『παραδειγμα』/pattern/g
+s/『παραδειγματιζω』/make a spectacle/g
+s/『παραδειγματισμος』/making an example of;<br>pointing out to public shame/g
 s/『παραδεικυω』/「παραδεικύω」/g
 s/『παραδεισος』/paradise/g
-s/『παραδεχομαι』/to embrace,<br>admit/g
-s/『παραδιδωμι』/to betray,<br>give over/g
-s/『παραδοξαζω』/to treat with distinction;<br>to distinguish/g
-s/『παραδοξος』/paradoxical,<br>paradoxes/g
-s/『παραδοξως』/unexpectedly,<br>astonishingly/g
-s/『παραδοσις』/a tradition/g
-s/『παραδρομη』/a running beside/g
-s/『παραζευγνυμι』/to yoke beside,<br>set beside/g
-s/『παραζηλοω』/to incite/g
+s/『παραδεχομαι』/embrace;<br>admit/g
+s/『παραδιδωμι』/betray;<br>give over/g
+s/『παραδοξαζω』/treat with distinction;<br>distinguish/g
+s/『παραδοξος』/paradoxical;<br>paradoxes/g
+s/『παραδοξως』/unexpectedly;<br>astonishingly/g
+s/『παραδοσις』/tradition/g
+s/『παραδρομη』/running beside/g
+s/『παραζευγνυμι』/yoke beside;<br>set beside/g
+s/『παραζηλοω』/incite/g
 s/『παραζωνη』/belt/g
 s/『παραθαλασσιος』/by the seaside/g
 s/『παραθαρσυνω』/「παραθάρσυνω」/g
-s/『παραθεμα』/sth put alongside sth,<br>an appendage/g
-s/『παραθερμαινω』/to heat to excess/g
-s/『παραθεσις』/juxta-position,<br>neighbourhood/g
-s/『παραθηκη』/a deposit/g
-s/『παραθλιβω』/to press close,<br>to hold/g
-s/『παραινεσις』/an exhortation,<br>address/g
-s/『παραινεω』/to recommend/g
-s/『παραιρεω』/to take away from beside,<br>withdraw/g
-s/『παραιτεομαι』/to beg,<br>decline/g
+s/『παραθεμα』/sth put alongside sth;<br>appendage/g
+s/『παραθερμαινω』/heat to excess/g
+s/『παραθεσις』/juxta-position;<br>neighbourhood/g
+s/『παραθηκη』/deposit/g
+s/『παραθλιβω』/press close;<br>hold/g
+s/『παραινεσις』/exhortation;<br>address/g
+s/『παραινεω』/recommend/g
+s/『παραιρεω』/take away from beside;<br>withdraw/g
+s/『παραιτεομαι』/beg;<br>decline/g
 s/『παραιτιος』/being in part the cause/g
-s/『παρακαθευδω』/to sleep beside,<br>to guard/g
-s/『παρακαθημαι』/to be seated beside/g
-s/『παρακαθιζω』/to sit beside/g
-s/『παρακαθιστημι』/to station/g
-s/『παρακαλεω』/to counsel,<br>appeal to/g
+s/『παρακαθευδω』/sleep beside;<br>guard/g
+s/『παρακαθημαι』/seated beside/g
+s/『παρακαθιζω』/sit beside/g
+s/『παρακαθιστημι』/station/g
+s/『παρακαλεω』/counsel;<br>appeal to/g
 s/『παρακαλυμμα』/anything hung up beside/g
-s/『παρακαλυπτω』/to disguise/g
-s/『παρακαταθηκη』/a deposit/g
-s/『παρακατατιθημι』/to entrust sb to,<br>to commit sb to/g
-s/『παρακειμαι』/to be accessible/g
-s/『παρακελευομαι』/to order/g
-s/『παρακλειω』/to shut out,<br>exclude/g
-s/『παρακλησις』/counseling,<br>summons/g
+s/『παρακαλυπτω』/disguise/g
+s/『παρακαταθηκη』/deposit/g
+s/『παρακατατιθημι』/entrust sb to;<br>commit sb to/g
+s/『παρακειμαι』/accessible/g
+s/『παρακελευομαι』/order/g
+s/『παρακλειω』/shut out;<br>exclude/g
+s/『παρακλησις』/counseling;<br>summons/g
 s/『παρακλητικος』/stimulating/g
 s/『παρακλητωρ』/comforter/g
-s/『παρακλινω』/to bend/g
-s/『παρακμαζω』/to be past the prime/g
+s/『παρακλινω』/bend/g
+s/『παρακμαζω』/past the prime/g
 s/『παρακοιτος』/wife/g
-s/『παρακολουθεω』/to accompany,<br>follow/g
-s/『παρακομιζω』/to carry along with one,<br>escort/g
-s/『παρακουω』/to disregard/g
-s/『παρακρουω』/to deceive/g
-s/『παρακυπτω』/to stoop near,<br>lean over/g
-s/『παραλαλεω』/to talk at random/g
-s/『παραλαμβανω』/to take along,<br>receive/g
-s/『παραλειπω』/to leave on one side,<br>leave remaining/g
-s/『παραλια』/seaboard,<br>seashore/g
+s/『παρακολουθεω』/accompany;<br>follow/g
+s/『παρακομιζω』/carry along with one;<br>escort/g
+s/『παρακουω』/disregard/g
+s/『παρακρουω』/deceive/g
+s/『παρακυπτω』/stoop near;<br>lean over/g
+s/『παραλαλεω』/talk at random/g
+s/『παραλαμβανω』/take along;<br>receive/g
+s/『παραλειπω』/leave on one side;<br>leave remaining/g
+s/『παραλια』/seaboard;<br>seashore/g
 s/『παραλιαν』/「παραλίαν」/g
 s/『παραλιος』/coastal/g
 s/『παραλλαγη』/parallax/g
-s/『παραλλαξις』/alternation,<br>alternating motion/g
-s/『παραλλασσω』/to make things alternate,<br>to transpose/g
-s/『παραλογιζομαι』/to miscalculate,<br>defraud/g
-s/『παραλογισμος』/false reasoning,<br>deception/g
-s/『παραλυσις』/a loosening by the side: paralysis,<br>palsy/g
-s/『παραλυω』/to paralyze/g
-s/『παραμενω』/to linger/g
-s/『παραμυθεομαι』/to commiserate/g
+s/『παραλλαξις』/alternation;<br>alternating motion/g
+s/『παραλλασσω』/make things alternate;<br>transpose/g
+s/『παραλογιζομαι』/miscalculate;<br>defraud/g
+s/『παραλογισμος』/false reasoning;<br>deception/g
+s/『παραλυσις』/loosening by the side: paralysis;<br>palsy/g
+s/『παραλυω』/paralyze/g
+s/『παραμενω』/linger/g
+s/『παραμυθεομαι』/commiserate/g
 s/『παραμυθια』/consolation/g
-s/『παραμυθιον』/consolation,<br>encouragement/g
-s/『παραναγινωσκω』/to read publicly/g
-s/『παρανακλινω』/to bend/g
-s/『παραναλισκω』/to spend amiss,<br>to waste/g
-s/『παρανομεω』/to act unlawfully/g
+s/『παραμυθιον』/consolation;<br>encouragement/g
+s/『παραναγινωσκω』/read publicly/g
+s/『παρανακλινω』/bend/g
+s/『παραναλισκω』/spend amiss;<br>waste/g
+s/『παρανομεω』/act unlawfully/g
 s/『παρανομια』/lawlessness/g
-s/『παρανομος』/acting contrary to law,<br>lawless/g
-s/『παρανομως』/unlawfully,<br>wickedly/g
-s/『παραξιφις』/a knife worn beside the sword,<br>a dirk/g
-s/『παραπαν』/altogether,<br>absolutely/g
-s/『παραπεμπω』/to send past,<br>convey past/g
+s/『παρανομος』/acting contrary to law;<br>lawless/g
+s/『παρανομως』/unlawfully;<br>wickedly/g
+s/『παραξιφις』/knife worn beside the sword;<br>dirk/g
+s/『παραπαν』/altogether;<br>absolutely/g
+s/『παραπεμπω』/send past;<br>convey past/g
 s/『παραπετασμα』/that which is spread before/g
-s/『παραπηδαω』/to spring beyond,<br>transgress/g
-s/『παραπικραινω』/to exasperate/g
+s/『παραπηδαω』/spring beyond;<br>transgress/g
+s/『παραπικραινω』/exasperate/g
 s/『παραπικρασμος』/exasperation/g
-s/『παραπιπτω』/to lapse,<br>fall away/g
+s/『παραπιπτω』/lapse;<br>fall away/g
 s/『παραπληκτος』/frenzy-stricken/g
-s/『παραπληξια』/madness,<br>frenzy/g
-s/『παραπλους』/coasting,<br>aimless voyage/g
-s/『παραπομπη』/a convoying/g
-s/『παραπορευομαι』/to travel by\/around/g
-s/『παραπτωμα』/a lapse,<br>setback/g
-s/『παραπτωσις』/a falling beside/g
-s/『παραριθμεω』/to check,<br>to count over/g
-s/『παραρρεω』/to drift aside/g
-s/『παραρριπτω』/to throw beside/g
+s/『παραπληξια』/madness;<br>frenzy/g
+s/『παραπλους』/coasting;<br>aimless voyage/g
+s/『παραπομπη』/convoying/g
+s/『παραπορευομαι』/travel by\/around/g
+s/『παραπτωμα』/lapse;<br>setback/g
+s/『παραπτωσις』/falling beside/g
+s/『παραριθμεω』/check;<br>count over/g
+s/『παραρρεω』/drift aside/g
+s/『παραρριπτω』/throw beside/g
 s/『παραρρυμα』/anything drawn along the side: a leathern/g
-s/『παρασημος』/an ensign/g
-s/『παρασιωπαω』/to keep silent/g
-s/『παρασκευαζω』/to prepare/g
+s/『παρασημος』/ensign/g
+s/『παρασιωπαω』/keep silent/g
+s/『παρασκευαζω』/prepare/g
 s/『παρασκευη』/preparation/g
-s/『παραστασις』/a putting aside/g
+s/『παραστασις』/putting aside/g
 s/『παρασυμβαλλομαι』/「παρασυμβάλλομαι」/g
 s/『παραταξις』/marshalling/g
-s/『παρατασσω』/to deploy,<br>arrange/g
-s/『παρατεινω』/to stretch along/g
-s/『παρατηρεω』/to keep watch,<br>observe/g
-s/『παρατιθημι』/to pose,<br>serve/g
-s/『παρατρεχω』/to run by/g
+s/『παρατασσω』/deploy;<br>arrange/g
+s/『παρατεινω』/stretch along/g
+s/『παρατηρεω』/keep watch;<br>observe/g
+s/『παρατιθημι』/pose;<br>serve/g
+s/『παρατρεχω』/run by/g
 s/『παραυτικα』/by this time/g
-s/『παραφερω』/to defer,<br>carried away/g
-s/『παραφρονεω』/to be mad/g
+s/『παραφερω』/defer;<br>carried away/g
+s/『παραφρονεω』/mad/g
 s/『παραφρονησις』/delirium/g
-s/『παραφρων』/wandering from reason,<br>out of one's wits/g
-s/『παραφυας』/an offshoot/g
+s/『παραφρων』/wandering from reason;<br>out of one's wits/g
+s/『παραφυας』/offshoot/g
 s/『παραχρημα』/on the spot/g
-s/『παραχωρεω』/to go aside,<br>make room/g
+s/『παραχωρεω』/go aside;<br>make room/g
 s/『παρδαλεος』/of a leopard./g
-s/『παρδαλις』/a leopard/g
-s/『παρεδρευω』/to sit constantly beside,<br>attend constantly/g
+s/『παρδαλις』/leopard/g
+s/『παρεδρευω』/sit constantly beside;<br>attend constantly/g
 s/『παρεδρος』/sitting beside/g
-s/『παρειδον』/to observe by the way,<br>notice/g
-s/『παρειμι』/to be here,<br>be present/g
-s/『παρεισπορευομαι』/to infiltrate/g
-s/『παρεκλειπω』/to fail/g
-s/『παρεκτεινω』/to stretch out in line/g
-s/『παρελκυσις』/retraction,<br>delay/g
-s/『παρελκω』/to draw aside,<br>pervert/g
-s/『παρεμβαλλω』/to insert against,<br>interpose/g
-s/『παρεμβολη』/encampment,<br>barracks/g
-s/『παρεμπιπτω』/to fall in by the way,<br>creep/g
-s/『παρενοχλεω』/to further annoy/g
+s/『παρειδον』/observe by the way;<br>notice/g
+s/『παρειμι』/here;<br>present/g
+s/『παρεισπορευομαι』/infiltrate/g
+s/『παρεκλειπω』/fail/g
+s/『παρεκτεινω』/stretch out in line/g
+s/『παρελκυσις』/retraction;<br>delay/g
+s/『παρελκω』/draw aside;<br>pervert/g
+s/『παρεμβαλλω』/insert against;<br>interpose/g
+s/『παρεμβολη』/encampment;<br>barracks/g
+s/『παρεμπιπτω』/fall in by the way;<br>creep/g
+s/『παρενοχλεω』/further annoy/g
 s/『παρεξ』/besides/g
-s/『παρεξιστημι』/to be deranged,<br>to have gone mad/g
-s/『παρεπιδεικνυμι』/to point out at the same time/g
-s/『παρεπιδημος』/a stranger/g
+s/『παρεξιστημι』/deranged;<br>have gone mad/g
+s/『παρεπιδεικνυμι』/point out at the same time/g
+s/『παρεπιδημος』/stranger/g
 s/『παρεργος』/incidental/g
-s/『παρερχομαι』/to pass,<br>transgress/g
-s/『παρεχω』/to afford,<br>cause/g
-s/『παρηγορεω』/to address,<br>exhort/g
+s/『παρερχομαι』/pass;<br>transgress/g
+s/『παρεχω』/afford;<br>cause/g
+s/『παρηγορεω』/address;<br>exhort/g
 s/『παρηγορια』/comfort/g
-s/『παρθενεια』/maidenhood,<br>virginity/g
+s/『παρθενεια』/maidenhood;<br>virginity/g
 s/『παρθενια』/virginity/g
 s/『παρθενικος』/of a virgin/g
-s/『παρθενος』/virginal,<br>a virgin/g
-s/『παριημι』/to neglect,<br>be slack/g
+s/『παρθενος』/virginal;<br>virgin/g
+s/『παριημι』/neglect;<br>slack/g
 s/『παρινος』/of marble/g
 s/『παριος』/of Paros/g
-s/『παριστημι』/to stand by,<br>present/g
-s/『παροδευω』/to pass by/g
+s/『παριστημι』/stand by;<br>present/g
+s/『παροδευω』/pass by/g
 s/『παροδος』/passing/g
 s/『παροικεσια』/residency/g
-s/『παροικεω』/to reside/g
+s/『παροικεω』/reside/g
 s/『παροικησις』/residence/g
 s/『παροικια』/residency/g
-s/『παροικος』/a resident,<br>foreigner/g
-s/『παροιμια』/a proverb/g
-s/『παροιμιαζω』/to make proverbial/g
-s/『παροινεω』/to behave ill at wine,<br>play drunken tricks/g
-s/『παροιστραω』/to rage madly/g
-s/『παροξυνω』/to goad,<br>irritate/g
-s/『παροξυσμος』/goading,<br>a paroxysm/g
-s/『παρορασις』/overlooking,<br>negligence/g
-s/『παροργιζω』/to enrage,<br>provoke/g
-s/『παροργισμα』/provocation,<br>cause of anger/g
-s/『παροργισμος』/rage,<br>provocation/g
-s/『παρορμαω』/to urge on,<br>stimulate/g
+s/『παροικος』/resident;<br>foreigner/g
+s/『παροιμια』/proverb/g
+s/『παροιμιαζω』/make proverbial/g
+s/『παροινεω』/behave ill at wine;<br>play drunken tricks/g
+s/『παροιστραω』/rage madly/g
+s/『παροξυνω』/goad;<br>irritate/g
+s/『παροξυσμος』/goading;<br>paroxysm/g
+s/『παρορασις』/overlooking;<br>negligence/g
+s/『παροργιζω』/enrage;<br>provoke/g
+s/『παροργισμα』/provocation;<br>cause of anger/g
+s/『παροργισμος』/rage;<br>provocation/g
+s/『παρορμαω』/urge on;<br>stimulate/g
 s/『παροσωμ』/[NP]/g
-s/『παρουσια』/advent,<br>arrival/g
-s/『παρρησια』/candor,<br>candidly/g
-s/『παρρησιαζομαι』/to be candid,<br>have confidence/g
-s/『παρωθεω』/to push aside,<br>reject/g
+s/『παρουσια』/advent;<br>arrival/g
+s/『παρρησια』/candor;<br>candidly/g
+s/『παρρησιαζομαι』/candid;<br>have confidence/g
+s/『παρωθεω』/push aside;<br>reject/g
 s/『παρωμις』/shoulder strap/g
-s/『πας』/all,<br>every/g
-s/『πασσαλος』/a peg/g
-s/『πασσω』/to sprinkle/g
-s/『παστος』/a bridal chamber/g
+s/『πας』/all;<br>every/g
+s/『πασσαλος』/peg/g
+s/『πασσω』/sprinkle/g
+s/『παστος』/bridal chamber/g
 s/『παστοφοριον』/chamber/g
 s/『πασχα』/Passover/g
-s/『πασχω』/to experience/g
+s/『πασχω』/experience/g
 s/『πασχωρ』/[NP]/g
-s/『πατασσω』/to pat,<br>impact/g
+s/『πατασσω』/pat;<br>impact/g
 s/『παταχρον』/「παταχρον」/g
-s/『πατεω』/to trample/g
+s/『πατεω』/trample/g
 s/『πατημα』/that which is trodden/g
 s/『πατηρ』/father/g
 s/『πατητος』/trodden upon/g
-s/『πατραδελφος』/father’s brother,<br>uncle/g
-s/『πατρια』/lineage,<br>family line/g
-s/『πατριαρχης』/a patriarch/g
+s/『πατραδελφος』/father’s brother;<br>uncle/g
+s/『πατρια』/lineage;<br>family line/g
+s/『πατριαρχης』/patriarch/g
 s/『πατρικος』/paternal/g
 s/『πατριος』/belonging to one's father/g
 s/『πατρις』/own country/g
 s/『πατροκλος』/[NP]/g
 s/『πατροσωνιιμ』/[NP]/g
 s/『πατρωος』/paternal/g
-s/『παυλα』/rest,<br>a resting-point/g
+s/『παυλα』/rest;<br>resting-point/g
 s/『παυσις』/「παύσις」/g
-s/『παυω』/to stop/g
-s/『παχνη』/hoar-frost,<br>rime/g
+s/『παυω』/stop/g
+s/『παχνη』/hoar-frost;<br>rime/g
 s/『παχος』/thickness/g
-s/『παχυνω』/to get fat/g
-s/『παχυς』/thick,<br>stout/g
+s/『παχυνω』/get fat/g
+s/『παχυς』/thick;<br>stout/g
 s/『παχων』/[NP]/g
-s/『πεδαω』/to bind with fetters,<br>to bind fast/g
+s/『πεδαω』/bind with fetters;<br>bind fast/g
 s/『πεδεω』/「πεδέω」/g
-s/『πεδη』/a leg iron/g
-s/『πεδητης』/one fettered,<br>a prisoner/g
+s/『πεδη』/leg iron/g
+s/『πεδητης』/one fettered;<br>prisoner/g
 s/『πεδιας』/[NP]/g
 s/『πεδιλον』/sandals/g
 s/『πεδινος』/flat/g
-s/『πεδιον』/a plain/g
+s/『πεδιον』/plain/g
 s/『πεζη』/on foot/g
-s/『πεζικος』/on foot,<br>of/g
-s/『πεζομαχια』/a battle by land/g
+s/『πεζικος』/on foot;<br>of/g
+s/『πεζομαχια』/battle by land/g
 s/『πεζος』/on foot/g
-s/『πειθαρχεω』/to obey/g
-s/『πειθω』/to persuade/g
-s/『πειναω』/to be hungry/g
+s/『πειθαρχεω』/obey/g
+s/『πειθω』/persuade/g
+s/『πειναω』/hungry/g
 s/『πεινη』/「πείνη」/g
-s/『πειρα』/a try,<br>a trial/g
-s/『πειραζω』/to try,<br>test/g
+s/『πειρα』/try;<br>trial/g
+s/『πειραζω』/try;<br>test/g
 s/『πειρασμος』/trial/g
-s/『πειρατευω』/to pirate/g
-s/『πειρατηριον』/a pirate’s band/g
-s/『πειρατης』/a pirate/g
-s/『πειραω』/to attempt/g
-s/『πελαγος』/the open sea/g
-s/『πελας』/near,<br>hard by/g
+s/『πειρατευω』/pirate/g
+s/『πειρατηριον』/pirate’s band/g
+s/『πειρατης』/pirate/g
+s/『πειραω』/attempt/g
+s/『πελαγος』/open sea/g
+s/『πελας』/near;<br>hard by/g
 s/『πελειος』/pale/g
 s/『πελεκαν』/pelican/g
-s/『πελεκαω』/to hew/g
+s/『πελεκαω』/hew/g
 s/『πελεκητος』/hewn/g
-s/『πελεκυς』/an axe/g
+s/『πελεκυς』/axe/g
 s/『πελιοομαι』/「πελιόομαι」/g
 s/『πελμα』/sole/g
 s/『πελομαι』/「πέλομαι」/g
 s/『πελταστης』/one who bears a light shield/g
-s/『πελτη』/a small light shield/g
+s/『πελτη』/small light shield/g
 s/『πελυξ』/axe/g
 s/『πεμμα』/any kind of dressed food/g
 s/『πεμπτος』/fifth/g
-s/『πεμπω』/to dispatch,<br>send/g
-s/『πενεω』/to be poor/g
+s/『πεμπω』/dispatch;<br>send/g
+s/『πενεω』/poor/g
 s/『πενης』/poor/g
-s/『πενθερα』/a mother-in-law/g
+s/『πενθερα』/mother-in-law/g
 s/『πενθερος』/father-in-law/g
-s/『πενθεω』/to be sad/g
-s/『πενθικος』/for mourning,<br>mournful/g
+s/『πενθεω』/sad/g
+s/『πενθικος』/for mourning;<br>mournful/g
 s/『πενθος』/sadness/g
-s/『πενια』/poverty,<br>need/g
+s/『πενια』/poverty;<br>need/g
 s/『πενιχρος』/needy/g
-s/『πενομαι』/to work for one's daily bread/g
-s/『πενταετηρικος』/held every five years,<br>quinquennial/g
+s/『πενομαι』/work for one's daily bread/g
+s/『πενταετηρικος』/held every five years;<br>quinquennial/g
 s/『πενταετης』/five years old/g
 s/『πεντακις』/five times/g
 s/『πεντακισχιλιοι』/five thousand/g
@@ -10270,854 +10270,854 @@ s/『πεντεκαιδεκατος』/fifteenth/g
 s/『πεντεκαιεικοσαετος』/「πεντεκαιεικοσαετός」/g
 s/『πεντηκοντα』/fifty/g
 s/『πεντηκονταετης』/fifty years old/g
-s/『πεντηκονταρχος』/the commander of fifty men/g
+s/『πεντηκονταρχος』/commander of fifty men/g
 s/『πεντηκοστος』/fiftieth/g
 s/『πεπειρος』/ripe/g
 s/『πεποιθησις』/persuasion/g
 s/『πεποιθοτως』/confidently/g
-s/『πεπτω』/to bake/g
-s/『πεπων』/cooked by the sun,<br>ripe/g
-s/『περαινω』/to accomplish/g
+s/『πεπτω』/bake/g
+s/『πεπων』/cooked by the sun;<br>ripe/g
+s/『περαινω』/accomplish/g
 s/『περαν』/on the other side/g
-s/『περας』/an extremity,<br>limit/g
-s/『περασμος』/finishing,<br>end/g
-s/『περατης』/a wanderer/g
-s/『περδιξ』/a partridge/g
-s/『περι』/about,<br>around/g
-s/『περιαγκωνιζω』/to tie the hands behind the back/g
-s/『περιαγω』/to head around,<br>go around/g
-s/『περιαιρεω』/to disconnect,<br>remove/g
-s/『περιαντλεω』/to be drenched,<br>to be sunk in/g
-s/『περιαπτω』/to tie,<br>fasten/g
-s/『περιαργυρος』/overlaid with silver,<br>silver-plated/g
-s/『περιαργυροω』/to plate with silver/g
-s/『περιαστραπτω』/to flash around/g
-s/『περιβαλλω』/to drape,<br>clothe/g
-s/『περιβιοω』/to survive/g
-s/『περιβλεπτος』/looked at from all sides,<br>admired of all observers/g
-s/『περιβλεπω』/to look around/g
+s/『περας』/extremity;<br>limit/g
+s/『περασμος』/finishing;<br>end/g
+s/『περατης』/wanderer/g
+s/『περδιξ』/partridge/g
+s/『περι』/about;<br>around/g
+s/『περιαγκωνιζω』/tie the hands behind the back/g
+s/『περιαγω』/head around;<br>go around/g
+s/『περιαιρεω』/disconnect;<br>remove/g
+s/『περιαντλεω』/drenched;<br>sunk in/g
+s/『περιαπτω』/tie;<br>fasten/g
+s/『περιαργυρος』/overlaid with silver;<br>silver-plated/g
+s/『περιαργυροω』/plate with silver/g
+s/『περιαστραπτω』/flash around/g
+s/『περιβαλλω』/drape;<br>clothe/g
+s/『περιβιοω』/survive/g
+s/『περιβλεπτος』/looked at from all sides;<br>admired of all observers/g
+s/『περιβλεπω』/look around/g
 s/『περιβλημα』/garment/g
-s/『περιβοητος』/noised abroad,<br>much talked of/g
-s/『περιβολαιον』/a coat/g
-s/『περιβολη』/a coat/g
-s/『περιβολος』/an enclosure/g
+s/『περιβοητος』/noised abroad;<br>much talked of/g
+s/『περιβολαιον』/coat/g
+s/『περιβολη』/coat/g
+s/『περιβολος』/enclosure/g
 s/『περιγινομαι』/「περιγίνομαι」/g
-s/『περιδειπνεω』/to invite sb to eat a memorial dinner/g
+s/『περιδειπνεω』/invite sb to eat a memorial dinner/g
 s/『περιδειπνον』/feast/g
-s/『περιδεξιον』/armlet,<br>bracelet/g
-s/『περιδεω』/to bind around,<br>bandage/g
-s/『περιδιπλοω』/to wrap round,<br>to pack up/g
-s/『περιδυω』/to pull off from round,<br>strip off/g
+s/『περιδεξιον』/armlet;<br>bracelet/g
+s/『περιδεω』/bind around;<br>bandage/g
+s/『περιδιπλοω』/wrap round;<br>pack up/g
+s/『περιδυω』/pull off from round;<br>strip off/g
 s/『περιειμι』/「περίειμι」/g
 s/『περιεκτικος』/grasping/g
-s/『περιεργαζομαι』/to be a busybody/g
+s/『περιεργαζομαι』/a busybody/g
 s/『περιεργια』/over-exactness/g
-s/『περιερχομαι』/to go around/g
-s/『περιεχω』/to constrain,<br>contain/g
-s/『περιζωμα』/an apron/g
-s/『περιζωννυμι』/to wrap,<br>gird up/g
-s/『περιθεμα』/cover,<br>wrapping/g
-s/『περιιπταμαι』/to fly over and around,<br>to flutter around/g
-s/『περιιστημι』/to stand around,<br>stand clear/g
+s/『περιερχομαι』/go around/g
+s/『περιεχω』/constrain;<br>contain/g
+s/『περιζωμα』/apron/g
+s/『περιζωννυμι』/wrap;<br>gird up/g
+s/『περιθεμα』/cover;<br>wrapping/g
+s/『περιιπταμαι』/fly over and around;<br>flutter around/g
+s/『περιιστημι』/stand around;<br>stand clear/g
 s/『περικαθαιρω』/「περικαθαίρω」/g
-s/『περικαθαριζω』/to cleanse,<br>to purge away/g
+s/『περικαθαριζω』/cleanse;<br>purge away/g
 s/『περικαθαρμα』/scum/g
-s/『περικαθημαι』/to be seated/g
+s/『περικαθημαι』/seated/g
 s/『περικαθιζω』/「περικαθίζω」/g
-s/『περικαιω』/to burn round about: &mdash/g
-s/『περικαλυπτω』/to plate,<br>blindfold/g
+s/『περικαιω』/burn round about: &mdash/g
+s/『περικαλυπτω』/plate;<br>blindfold/g
 s/『περικαταληπτος』/「περικατάληπτος」/g
-s/『περικειμαι』/to confine,<br>lie around/g
-s/『περικειρω』/to shear/g
-s/『περικεφαλαια』/a helmet/g
-s/『περικλαω』/to break/g
-s/『περικλειω』/to shut in all round,<br>surround on all sides/g
+s/『περικειμαι』/confine;<br>lie around/g
+s/『περικειρω』/shear/g
+s/『περικεφαλαια』/helmet/g
+s/『περικλαω』/break/g
+s/『περικλειω』/shut in all round;<br>surround on all sides/g
 s/『περικλυζω』/「περικλύζω」/g
-s/『περικνημις』/a covering for the leg/g
-s/『περικομπεω』/to sound all around,<br>to echo/g
-s/『περικοσμεω』/to be decorated or adorned round about/g
-s/『περικρατεω』/to control;<br>to be superior to/g
-s/『περικυκλοω』/to encircle,<br>surround/g
+s/『περικνημις』/covering for the leg/g
+s/『περικομπεω』/sound all around;<br>echo/g
+s/『περικοσμεω』/decorated or adorned round about/g
+s/『περικρατεω』/control;<br>superior to/g
+s/『περικυκλοω』/encircle;<br>surround/g
 s/『περικυκλω』/round about;<br>round about/g
-s/『περιλακιζω』/to be rent round about,<br>to be torn all over/g
-s/『περιλαμβανω』/to embrace/g
-s/『περιλειπω』/to leave around/g
+s/『περιλακιζω』/rent round about;<br>torn all over/g
+s/『περιλαμβανω』/embrace/g
+s/『περιλειπω』/leave around/g
 s/『περιλημψις』/embracing/g
-s/『περιλοιπος』/remaining,<br>surviving/g
+s/『περιλοιπος』/remaining;<br>surviving/g
 s/『περιλυπος』/grief-stricken/g
-s/『περιλυω』/to dismember/g
-s/『περιμενω』/to stay around for,<br>wait for/g
-s/『περιμετρον』/the circumference/g
-s/『περινιζω』/to wash off all round/g
-s/『περιξυω』/to scrape off or away/g
-s/『περιοδευω』/to go all around/g
-s/『περιοδος』/a going round,<br>a flank march/g
-s/『περιοικοδομεω』/to build round/g
-s/『περιοικος』/neighbor,<br>neighborhood/g
-s/『περιονυχιζω』/to trim sb’s nails/g
-s/『περιουσιασμος』/wealth,<br>treasure/g
-s/『περιουσιος』/complementary,<br>superior/g
+s/『περιλυω』/dismember/g
+s/『περιμενω』/stay around for;<br>wait for/g
+s/『περιμετρον』/circumference/g
+s/『περινιζω』/wash off all round/g
+s/『περιξυω』/scrape off or away/g
+s/『περιοδευω』/go all around/g
+s/『περιοδος』/going round;<br>flank march/g
+s/『περιοικοδομεω』/build round/g
+s/『περιοικος』/neighbor;<br>neighborhood/g
+s/『περιονυχιζω』/trim sb’s nails/g
+s/『περιουσιασμος』/wealth;<br>treasure/g
+s/『περιουσιος』/complementary;<br>superior/g
 s/『περιοχεομαι』/「περιοχέομαι」/g
-s/『περιοχη』/content,<br>an enclosing/g
-s/『περιπαθως』/in violent rage,<br>passionately/g
-s/『περιπατεω』/to walk around\/along/g
-s/『περιπατος』/a walking about,<br>walking/g
-s/『περιπιπτω』/to fall amid/g
-s/『περιπλεκω』/to twine around/g
+s/『περιοχη』/content;<br>enclosing/g
+s/『περιπαθως』/in violent rage;<br>passionately/g
+s/『περιπατεω』/walk around\/along/g
+s/『περιπατος』/walking about;<br>walking/g
+s/『περιπιπτω』/fall amid/g
+s/『περιπλεκω』/twine around/g
 s/『περιπλησσω』/「περιπλήσσω」/g
-s/『περιποιεω』/to preserve,<br>acquire/g
+s/『περιποιεω』/preserve;<br>acquire/g
 s/『περιποιησις』/preservation/g
-s/『περιπολιον』/a station for/g
-s/『περιπορευομαι』/to travel/g
+s/『περιπολιον』/station for/g
+s/『περιπορευομαι』/travel/g
 s/『περιπορφυρος』/edged with purple/g
 s/『περιπτερος』/encircled by a colonnade/g
-s/『περιπτωμα』/a chance/g
-s/『περιρραινω』/to besprinkle all round/g
-s/『περιρραντιζω』/to be sprinkled/g
-s/『περιρρεω』/to flow round/g
-s/『περιρρηγνυμι』/to tear off/g
+s/『περιπτωμα』/chance/g
+s/『περιρραινω』/besprinkle all round/g
+s/『περιρραντιζω』/sprinkled/g
+s/『περιρρεω』/flow round/g
+s/『περιρρηγνυμι』/tear off/g
 s/『περισιαλοομαι』/「περισιαλόομαι」/g
-s/『περισκελης』/dry and hard all round,<br>exceeding hard/g
-s/『περισκυθιζω』/to scalp in the Scythian way/g
+s/『περισκελης』/dry and hard all round;<br>exceeding hard/g
+s/『περισκυθιζω』/scalp in the Scythian way/g
 s/『περισπασμος』/distraction/g
-s/『περισπαω』/to distract/g
+s/『περισπαω』/distract/g
 s/『περισποριον』/「περισπόριον」/g
 s/『περισσεια』/overflow/g
 s/『περισσευμα』/overflow/g
-s/『περισσευω』/to overflow,<br>be leftover/g
-s/『περισσος』/overflowing,<br>superfluous/g
-s/『περισσως』/overflowingly,<br>extravagantly/g
-s/『περιστασις』/a standing round,<br>a crowd standing round/g
-s/『περιστελλω』/to dress,<br>clothe/g
-s/『περιστερα』/a dove/g
+s/『περισσευω』/overflow;<br>leftover/g
+s/『περισσος』/overflowing;<br>superfluous/g
+s/『περισσως』/overflowingly;<br>extravagantly/g
+s/『περιστασις』/standing round;<br>crowd standing round/g
+s/『περιστελλω』/dress;<br>clothe/g
+s/『περιστερα』/dove/g
 s/『περιστηθιον』/breastplate/g
-s/『περιστολη』/adornment,<br>robe/g
+s/『περιστολη』/adornment;<br>robe/g
 s/『περιστομιον』/collar;<br>edge/g
-s/『περιστρεφω』/to turn around/g
-s/『περιστροφη』/a turning/g
+s/『περιστρεφω』/turn around/g
+s/『περιστροφη』/turning/g
 s/『περιστυλον』/peristyle/g
-s/『περισυρω』/to tear off/g
-s/『περισχιζω』/to slit and tear off/g
-s/『περιτειχιζω』/to wall all round/g
+s/『περισυρω』/tear off/g
+s/『περισχιζω』/slit and tear off/g
+s/『περιτειχιζω』/wall all round/g
 s/『περιτειχος』/surrounding wall/g
-s/『περιτεμνω』/to circumcise/g
-s/『περιτιθημι』/to put around\/on/g
+s/『περιτεμνω』/circumcise/g
+s/『περιτιθημι』/put around\/on/g
 s/『περιτομη』/circumcision/g
-s/『περιτρεπω』/to turn about,<br>divert/g
-s/『περιτρεχω』/to run around/g
-s/『περιφανως』/notably,<br>manifestly/g
-s/『περιφερεια』/the line round a circular body,<br>a periphery/g
-s/『περιφερης』/moving round,<br>surrounding/g
-s/『περιφερω』/to carry around/g
+s/『περιτρεπω』/turn about;<br>divert/g
+s/『περιτρεχω』/run around/g
+s/『περιφανως』/notably;<br>manifestly/g
+s/『περιφερεια』/line round a circular body;<br>periphery/g
+s/『περιφερης』/moving round;<br>surrounding/g
+s/『περιφερω』/carry around/g
 s/『περιφορα』/meats carried round/g
-s/『περιφρασσω』/to fence all round/g
-s/『περιφρονεω』/to disdain/g
-s/『περιφυτευω』/to plant round about/g
+s/『περιφρασσω』/fence all round/g
+s/『περιφρονεω』/disdain/g
+s/『περιφυτευω』/plant round about/g
 s/『περιχαιρω』/「περιχαίρω」/g
-s/『περιχαλαω』/to be relaxed/g
-s/『περιχαλκοω』/to plate with brass or copper/g
-s/『περιχαρακοω』/to surround with a stockade/g
+s/『περιχαλαω』/relaxed/g
+s/『περιχαλκοω』/plate with brass or copper/g
+s/『περιχαρακοω』/surround with a stockade/g
 s/『περιχαρης』/exceeding joyous/g
-s/『περιχεω』/to pour over/g
-s/『περιχρυσος』/gilded,<br>gold-plated/g
-s/『περιχρυσοω』/to gild all over,<br>to cover with gold/g
+s/『περιχεω』/pour over/g
+s/『περιχρυσος』/gilded;<br>gold-plated/g
+s/『περιχρυσοω』/gild all over;<br>cover with gold/g
 s/『περιχωρος』/surrounding territory/g
 s/『περιψημα』/slime/g
-s/『περιψυχω』/to refresh,<br>to cherish/g
-s/『περκαζω』/to turn dark/g
+s/『περιψυχω』/refresh;<br>cherish/g
+s/『περκαζω』/turn dark/g
 s/『περσεα』/[NP]/g
 s/『περσεπολις』/[NP]/g
 s/『περσης』/[NP]/g
 s/『περσικη』/[NP]/g
 s/『περσις』/[NP]/g
-s/『πεσσω』/to cook/g
-s/『πεταλον』/a leaf/g
+s/『πεσσω』/cook/g
+s/『πεταλον』/leaf/g
 s/『πεταμαι』/「πέταμαι」/g
-s/『πεταννυμι』/to spread out/g
-s/『πετασος』/a broad-brimmed felt hat/g
-s/『πεταυρον』/a perch/g
-s/『πετεινον』/a bird/g
-s/『πετεινος』/a bird/g
+s/『πεταννυμι』/spread out/g
+s/『πετασος』/broad-brimmed felt hat/g
+s/『πεταυρον』/perch/g
+s/『πετεινον』/bird/g
+s/『πετεινος』/bird/g
 s/『πετεφρης』/[NP]/g
-s/『πετομαι』/to fly/g
+s/『πετομαι』/fly/g
 s/『πετρα』/[NP]/g
-s/『πετρα\.1』/a cliff,<br>bedrock/g
-s/『πετρινος』/of rock,<br>rocky/g
+s/『πετρα\.1』/cliff;<br>bedrock/g
+s/『πετρινος』/of rock;<br>rocky/g
 s/『πετροβολος』/throwing stones/g
-s/『πετρος\.1』/a stone/g
-s/『πευκη』/the pine/g
+s/『πετρος\.1』/stone/g
+s/『πευκη』/pine/g
 s/『πευκινος』/from pine/g
 s/『πεψις』/cooking/g
-s/『πηγη』/well,<br>fountain/g
-s/『πηγμα』/anything joined together,<br>framework/g
-s/『πηγνυμι』/to pitch/g
-s/『πηδαλιουχεω』/to steer/g
-s/『πηδαω』/to leap,<br>spring/g
+s/『πηγη』/well;<br>fountain/g
+s/『πηγμα』/anything joined together;<br>framework/g
+s/『πηγνυμι』/pitch/g
+s/『πηδαλιουχεω』/steer/g
+s/『πηδαω』/leap;<br>spring/g
 s/『πηλικος』/how big\/great/g
 s/『πηλινος』/of clay/g
-s/『πηλος』/mud,<br>clay/g
-s/『πηλουργος』/a worker in clay/g
-s/『πηξις』/a fixing,<br>constructing/g
-s/『πηρα』/a pack/g
-s/『πηροω』/to lame,<br>maim/g
-s/『πηχυς』/a forearm,<br>a foot and a half/g
-s/『πιαζω』/to arrest,<br>catch/g
-s/『πιαινω』/to enrich/g
-s/『πιεζω』/to squeeze/g
-s/『πιθηκος』/an ape,<br>monkey/g
-s/『πιθος』/a wine-jar/g
+s/『πηλος』/mud;<br>clay/g
+s/『πηλουργος』/worker in clay/g
+s/『πηξις』/fixing;<br>constructing/g
+s/『πηρα』/pack/g
+s/『πηροω』/lame;<br>maim/g
+s/『πηχυς』/forearm;<br>foot and a half/g
+s/『πιαζω』/arrest;<br>catch/g
+s/『πιαινω』/enrich/g
+s/『πιεζω』/squeeze/g
+s/『πιθηκος』/ape;<br>monkey/g
+s/『πιθος』/wine-jar/g
 s/『πιθωμ』/[NP]/g
-s/『πικραινω』/to embitter/g
+s/『πικραινω』/embitter/g
 s/『πικραν』/[NP]/g
-s/『πικρασμος』/bitterness,<br>bitter feeling/g
+s/『πικρασμος』/bitterness;<br>bitter feeling/g
 s/『πικρια』/bitterness/g
 s/『πικριαι』/「πικρίαι」/g
 s/『πικρις』/bitter herb/g
 s/『πικρος』/bitter/g
 s/『πικρως』/bitterly/g
 s/『πιννινος』/of a mollusk/g
-s/『πινω』/to drink/g
+s/『πινω』/drink/g
 s/『πιοτης』/fatness/g
-s/『πιπρασκω』/to sell/g
-s/『πιπτω』/to fall/g
+s/『πιπρασκω』/sell/g
+s/『πιπτω』/fall/g
 s/『πισσα』/pitch/g
-s/『πιστευω』/to believe,<br>entrust/g
-s/『πιστις』/faith,<br>belief/g
-s/『πιστοποιεω』/to make credible;<br>to confirm the query of sb/g
+s/『πιστευω』/believe;<br>entrust/g
+s/『πιστις』/faith;<br>belief/g
+s/『πιστοποιεω』/make credible;<br>confirm the query of sb/g
 s/『πιστος』/faithful/g
-s/『πιστοω』/to make faithful/g
+s/『πιστοω』/make faithful/g
 s/『πιστως』/faithfully/g
-s/『πιτυρον』/the husks of corn,<br>bran/g
-s/『πιτυς』/a pine/g
+s/『πιτυρον』/husks of corn;<br>bran/g
+s/『πιτυς』/pine/g
 s/『πιων』/rich/g
-s/『πλαγιαζω』/to turn sideways/g
+s/『πλαγιαζω』/turn sideways/g
 s/『πλαγιος』/sideways/g
-s/『πλαγιοω』/to turn sideways/g
-s/『πλαναω』/to mislead,<br>wander/g
+s/『πλαγιοω』/turn sideways/g
+s/『πλαναω』/mislead;<br>wander/g
 s/『πλανη』/error/g
-s/『πλανησις』/a making to wander,<br>a dispersing/g
-s/『πλανητης』/a wanderer/g
+s/『πλανησις』/making to wander;<br>dispersing/g
+s/『πλανητης』/wanderer/g
 s/『πλανητις』/wanderer/g
 s/『πλανος』/errant/g
-s/『πλαξ』/a plaque,<br>tablet/g
-s/『πλασμα』/contrivance,<br>form/g
-s/『πλασσω』/to contrive,<br>form/g
-s/『πλαστιγξ』/the scale of a balance/g
-s/『πλατανος』/a plane-tree/g
-s/『πλατεια』/a street/g
+s/『πλαξ』/plaque;<br>tablet/g
+s/『πλασμα』/contrivance;<br>form/g
+s/『πλασσω』/contrive;<br>form/g
+s/『πλαστιγξ』/scale of a balance/g
+s/『πλατανος』/plane-tree/g
+s/『πλατεια』/street/g
 s/『πλατος』/breadth/g
-s/『πλατυνω』/to broaden/g
-s/『πλατυς』/broad,<br>street/g
+s/『πλατυνω』/broaden/g
+s/『πλατυς』/broad;<br>street/g
 s/『πλατυσμος』/broad space/g
 s/『πλειας』/[NP]/g
-s/『πλειστακις』/mostly,<br>most often/g
-s/『πλειστος』/the most/g
-s/『πλειων』/more,<br>majority/g
-s/『πλεκω』/to plait/g
-s/『πλεοναζω』/to increase/g
-s/『πλεονακις』/more frequently,<br>oftener/g
+s/『πλειστακις』/mostly;<br>most often/g
+s/『πλειστος』/most/g
+s/『πλειων』/more;<br>majority/g
+s/『πλεκω』/plait/g
+s/『πλεοναζω』/increase/g
+s/『πλεονακις』/more frequently;<br>oftener/g
 s/『πλεονασμα』/superfluity/g
-s/『πλεονασμος』/usury,<br>unjust gains/g
+s/『πλεονασμος』/usury;<br>unjust gains/g
 s/『πλεοναστος』/numerous/g
-s/『πλεονεκτεω』/to exploit/g
-s/『πλεονεκτης』/a greedy one\/person/g
-s/『πλεονεξια』/greed,<br>exploitation/g
-s/『πλευρα』/a side/g
-s/『πλευρον』/a rib/g
-s/『πλεω』/to sail/g
-s/『πληγη』/a plague,<br>stroke/g
+s/『πλεονεκτεω』/exploit/g
+s/『πλεονεκτης』/greedy one\/person/g
+s/『πλεονεξια』/greed;<br>exploitation/g
+s/『πλευρα』/side/g
+s/『πλευρον』/rib/g
+s/『πλεω』/sail/g
+s/『πληγη』/plague;<br>stroke/g
 s/『πληγιζω』/「πληγίζω」/g
-s/『πληθος』/multitude,<br>quantity/g
-s/『πληθυνω』/to multiply/g
-s/『πληθυς』/fulness,<br>a throng/g
-s/『πληθω』/to fill,<br>fulfill/g
-s/『πλημμελεια』/a mistake in music,<br>false note/g
-s/『πλημμελεω』/to make a false note in music/g
-s/『πλημμελημα』/a fault,<br>trespass/g
+s/『πληθος』/multitude;<br>quantity/g
+s/『πληθυνω』/multiply/g
+s/『πληθυς』/fulness;<br>throng/g
+s/『πληθω』/fill;<br>fulfill/g
+s/『πλημμελεια』/mistake in music;<br>false note/g
+s/『πλημμελεω』/make a false note in music/g
+s/『πλημμελημα』/fault;<br>trespass/g
 s/『πλημμελης』/out of tune/g
-s/『πλημμελησις』/mistake,<br>transgression/g
+s/『πλημμελησις』/mistake;<br>transgression/g
 s/『πλημμηλεω』/「πλημμηλέω」/g
 s/『πλημμυρα』/floodtide/g
-s/『πλην』/besides,<br>only/g
+s/『πλην』/besides;<br>only/g
 s/『πληρης』/full/g
-s/『πληροφορεω』/to assure/g
-s/『πληροω』/to fulfill,<br>fill/g
-s/『πληρωμα』/fullness,<br>fulfillment/g
+s/『πληροφορεω』/assure/g
+s/『πληροω』/fulfill;<br>fill/g
+s/『πληρωμα』/fullness;<br>fulfillment/g
 s/『πληρωσις』/fullness/g
-s/『πλησιαζω』/to bring near/g
-s/『πλησιον』/near,<br>neighbor/g
-s/『πλησιος』/near,<br>close to/g
-s/『πλησμονη』/repletion,<br>satisfaction/g
-s/『πλησσω』/to plague,<br>strike/g
+s/『πλησιαζω』/bring near/g
+s/『πλησιον』/near;<br>neighbor/g
+s/『πλησιος』/near;<br>close to/g
+s/『πλησμονη』/repletion;<br>satisfaction/g
+s/『πλησσω』/plague;<br>strike/g
 s/『πλινθεια』/brick-making/g
-s/『πλινθειον』/brickworks,<br>brick factory/g
-s/『πλινθευω』/to make/g
-s/『πλινθος』/a brick/g
+s/『πλινθειον』/brickworks;<br>brick factory/g
+s/『πλινθευω』/make/g
+s/『πλινθος』/brick/g
 s/『πλινθουργια』/brick-making/g
-s/『πλοιον』/a boat/g
-s/『πλοκαμος』/a lock/g
-s/『πλοκη』/a twining: anything woven,<br>a web/g
-s/『πλοκιον』/curl,<br>lock of hair/g
+s/『πλοιον』/boat/g
+s/『πλοκαμος』/lock/g
+s/『πλοκη』/twining: anything woven;<br>web/g
+s/『πλοκιον』/curl;<br>lock of hair/g
 s/『πλουσιος』/rich/g
-s/『πλουτεω』/to enrich,<br>be\/get rich/g
-s/『πλουτιζω』/to enrich/g
-s/『πλουτος』/wealth,<br>richness/g
-s/『πλυνω』/to launder,<br>wash/g
+s/『πλουτεω』/enrich;<br>be\/get rich/g
+s/『πλουτιζω』/enrich/g
+s/『πλουτος』/wealth;<br>richness/g
+s/『πλυνω』/launder;<br>wash/g
 s/『πλωτος』/floating/g
-s/『πνευμα』/spirit,<br>wind/g
+s/『πνευμα』/spirit;<br>wind/g
 s/『πνευματοφορεω』/「πνευματοφορέω」/g
-s/『πνευματοφορος』/he who has the spirit,<br>a bearer of the spirit/g
-s/『πνευμων』/the organ of/g
+s/『πνευματοφορος』/he who has the spirit;<br>bearer of the spirit/g
+s/『πνευμων』/organ of/g
 s/『πνευω』/「πνεύω」/g
-s/『πνεω』/to blow/g
-s/『πνιγμος』/a choking/g
-s/『πνιγω』/to strangle,<br>choke/g
+s/『πνεω』/blow/g
+s/『πνιγμος』/choking/g
+s/『πνιγω』/strangle;<br>choke/g
 s/『πνοη』/breath/g
-s/『ποα』/grass,<br>herb/g
-s/『ποδαγρα』/a trap for the feet/g
-s/『ποδηρης』/to the feet/g
+s/『ποα』/grass;<br>herb/g
+s/『ποδαγρα』/trap for the feet/g
+s/『ποδηρης』/feet/g
 s/『ποδιστηρ』/foot-entangling/g
-s/『ποθεινος』/longed for,<br>desired/g
-s/『ποθεν』/from where,<br>how can be/g
-s/『ποθεω』/to long for,<br>yearn after/g
-s/『ποιεω』/to do,<br>make/g
-s/『ποιημα』/a product,<br>poem/g
+s/『ποθεινος』/longed for;<br>desired/g
+s/『ποθεν』/from where;<br>how can be/g
+s/『ποθεω』/long for;<br>yearn after/g
+s/『ποιεω』/do;<br>make/g
+s/『ποιημα』/product;<br>poem/g
 s/『ποιησις』/doing/g
-s/『ποιητης』/a doer,<br>a poet/g
-s/『ποικιλια』/a marking with various colours,<br>embroidering/g
-s/『ποικιλλω』/to work in various colours,<br>to broider/g
-s/『ποικιλμα』/a broidered stuff,<br>brocade/g
-s/『ποικιλος』/various,<br>varied/g
-s/『ποικιλτης』/a broiderer/g
-s/『ποικιλτικος』/embroidered,<br>related to embroidery/g
+s/『ποιητης』/doer;<br>poet/g
+s/『ποικιλια』/marking with various colours;<br>embroidering/g
+s/『ποικιλλω』/work in various colours;<br>broider/g
+s/『ποικιλμα』/broidered stuff;<br>brocade/g
+s/『ποικιλος』/various;<br>varied/g
+s/『ποικιλτης』/broiderer/g
+s/『ποικιλτικος』/embroidered;<br>related to embroidery/g
 s/『ποικιλτος』/embroidered/g
 s/『ποικιλως』/variously/g
-s/『ποιμαινω』/to shepherd/g
+s/『ποιμαινω』/shepherd/g
 s/『ποιμενικος』/of a shepherd/g
 s/『ποιμην』/shepherd/g
 s/『ποιμνη』/flock/g
-s/『ποιμνιον』/a flock/g
-s/『ποιος』/of what kind,<br>which/g
+s/『ποιμνιον』/flock/g
+s/『ποιος』/of what kind;<br>which/g
 s/『ποκος』/wool/g
-s/『πολεμεω』/to battle/g
+s/『πολεμεω』/battle/g
 s/『πολεμικος』/of battle/g
 s/『πολεμιος』/belonging to war/g
-s/『πολεμιστης』/a warrior/g
+s/『πολεμιστης』/warrior/g
 s/『πολεμος』/battle/g
-s/『πολεμοτροφεω』/to maintain war with;<br>to keep up war/g
+s/『πολεμοτροφεω』/maintain war with;<br>keep up war/g
 s/『πολια』/old age/g
-s/『πολιορκεω』/to besiege/g
+s/『πολιορκεω』/besiege/g
 s/『πολιορκησις』/「πολιόρκησις」/g
-s/『πολιορκια』/a besieging,<br>siege/g
-s/『πολιος』/gray,<br>grizzled/g
-s/『πολις』/a city/g
+s/『πολιορκια』/besieging;<br>siege/g
+s/『πολιος』/gray;<br>grizzled/g
+s/『πολις』/city/g
 s/『πολιτεια』/citizenship/g
 s/『πολιτευμα』/government/g
-s/『πολιτευω』/to live as a citizen/g
-s/『πολιτης』/a citizen/g
+s/『πολιτευω』/live as a citizen/g
+s/『πολιτης』/citizen/g
 s/『πολλακις』/often/g
 s/『πολλαχοθεν』/from many places/g
 s/『πολλαχως』/in many ways/g
 s/『πολλοστος』/one of many/g
 s/『πολυανδριον』/「πολυάνδριον」/g
-s/『πολυγονος』/producing many at a birth,<br>prolific/g
+s/『πολυγονος』/producing many at a birth;<br>prolific/g
 s/『πολυδακρυς』/with many tears/g
 s/『πολυελεος』/very merciful/g
-s/『πολυετης』/of many years,<br>full of years/g
-s/『πολυημερευω』/to attain length of days,<br>to be long-lived/g
+s/『πολυετης』/of many years;<br>full of years/g
+s/『πολυημερευω』/attain length of days;<br>long-lived/g
 s/『πολυημερος』/of many days/g
 s/『πολυθρηνος』/much-wailing/g
 s/『πολυκεφαλος』/many-headed/g
 s/『πολυλογια』/wordiness/g
-s/『πολυμερης』/consisting of many parts,<br>manifold/g
-s/『πολυοδια』/a long journey/g
-s/『πολυορκος』/frequently swearing,<br>given to oaths/g
-s/『πολυοχλια』/great multitude,<br>crowd of people/g
+s/『πολυμερης』/consisting of many parts;<br>manifold/g
+s/『πολυοδια』/long journey/g
+s/『πολυορκος』/frequently swearing;<br>given to oaths/g
+s/『πολυοχλια』/great multitude;<br>crowd of people/g
 s/『πολυπαις』/with many children/g
 s/『πολυπειρια』/great experience/g
 s/『πολυπειρος』/very experienced/g
-s/『πολυπλασιαζω』/to be multiplied,<br>to become numerous/g
+s/『πολυπλασιαζω』/multiplied;<br>become numerous/g
 s/『πολυπλασιος』/many times over/g
-s/『πολυπληθεω』/to multiply,<br>to become numerous/g
+s/『πολυπληθεω』/multiply;<br>become numerous/g
 s/『πολυπληθια』/「πολυπληθία」/g
-s/『πολυπληθυνω』/to multiply,<br>to make numerous/g
-s/『πολυπλοκος』/much-tangled,<br>thick-wreathed/g
-s/『πολυπραγμονεω』/to be busy about many things/g
+s/『πολυπληθυνω』/multiply;<br>make numerous/g
+s/『πολυπλοκος』/much-tangled;<br>thick-wreathed/g
+s/『πολυπραγμονεω』/busy about many things/g
 s/『πολυρρημων』/「πολυρρήμων」/g
-s/『πολυς』/much,<br>many/g
+s/『πολυς』/much;<br>many/g
 s/『πολυτελης』/costly/g
-s/『πολυτοκος』/prolific,<br>giving many births/g
-s/『πολυτροπος』/various,<br>manifold/g
+s/『πολυτοκος』/prolific;<br>giving many births/g
+s/『πολυτροπος』/various;<br>manifold/g
 s/『πολυφροντις』/「πολυφροντίς」/g
-s/『πολυχρονιζω』/to live long,<br>to live many years/g
+s/『πολυχρονιζω』/live long;<br>live many years/g
 s/『πολυχρονιος』/for a long time/g
-s/『πολυωρεω』/to be very careful/g
-s/『πομα』/a drink/g
-s/『πομπευω』/to conduct,<br>escort/g
-s/『πονεω』/to toil/g
-s/『πονηρευομαι』/to be malicious,<br>to maliciously intend/g
+s/『πολυωρεω』/very careful/g
+s/『πομα』/drink/g
+s/『πομπευω』/conduct;<br>escort/g
+s/『πονεω』/toil/g
+s/『πονηρευομαι』/malicious;<br>maliciously intend/g
 s/『πονηρευω』/「πονηρεύω」/g
-s/『πονηρια』/harm,<br>malignancy/g
-s/『πονηρος』/harmful,<br>malignant/g
+s/『πονηρια』/harm;<br>malignancy/g
+s/『πονηρος』/harmful;<br>malignant/g
 s/『πονος』/pain/g
 s/『ποντοβροχος』/drowned in the sea/g
-s/『ποντοπορεω』/to pass the sea/g
-s/『ποντος\.1』/the sea/g
-s/『πορεια』/travel,<br>journey/g
-s/『πορειον』/a wagon/g
-s/『πορευομαι』/to travel,<br>go/g
-s/『πορευτος』/gone over,<br>passed/g
-s/『πορθεω』/to ravage/g
-s/『ποριζω』/to carry: to bring about,<br>to furnish/g
+s/『ποντοπορεω』/pass the sea/g
+s/『ποντος\.1』/sea/g
+s/『πορεια』/travel;<br>journey/g
+s/『πορειον』/wagon/g
+s/『πορευομαι』/travel;<br>go/g
+s/『πορευτος』/gone over;<br>passed/g
+s/『πορθεω』/ravage/g
+s/『ποριζω』/carry: to bring about;<br>furnish/g
 s/『πορισμος』/profit/g
-s/『πορνεια』/prostitution,<br>depravity/g
-s/『πορνειον』/a house of ill-fame,<br>brothel/g
-s/『πορνευω』/to prostitute,<br>be depraved/g
-s/『πορνη』/a prostitute/g
+s/『πορνεια』/prostitution;<br>depravity/g
+s/『πορνειον』/house of ill-fame;<br>brothel/g
+s/『πορνευω』/prostitute;<br>depraved/g
+s/『πορνη』/prostitute/g
 s/『πορνικος』/for harlots/g
-s/『πορνοκοπος』/fornicator,<br>whoremonger/g
-s/『πορνος』/a prostitutor,<br>male prostitute/g
-s/『πορπη』/a buckle-pin/g
-s/『πορρω』/forward,<br>far away/g
+s/『πορνοκοπος』/fornicator;<br>whoremonger/g
+s/『πορνος』/prostitutor;<br>male prostitute/g
+s/『πορπη』/buckle-pin/g
+s/『πορρω』/forward;<br>far away/g
 s/『πορρωθεν』/from afar/g
 s/『πορφυρα』/purple/g
-s/『πορφυρεος』/darkgleaming,<br>dark/g
-s/『πορφυρις』/a purple garment/g
-s/『πορφυριων』/the water-hen/g
+s/『πορφυρεος』/darkgleaming;<br>dark/g
+s/『πορφυρις』/purple garment/g
+s/『πορφυριων』/water-hen/g
 s/『πορφυρους』/purple/g
 s/『ποσακις』/how often?/g
-s/『ποσαπλως』/how many times,<br>how often/g
+s/『ποσαπλως』/how many times;<br>how often/g
 s/『ποσαχως』/in how many ways?/g
 s/『ποσιδωνιος』/[NP]/g
 s/『ποσις』/drinking/g
 s/『ποσος』/how much?/g
-s/『ποταμος』/a river/g
-s/『ποταπος』/what kind of,<br>what/g
-s/『ποτε』/once,<br>some time/g
+s/『ποταμος』/river/g
+s/『ποταπος』/what kind of;<br>what/g
+s/『ποτε』/once;<br>some time/g
 s/『ποτε\.1』/when?/g
 s/『ποτερος』/whether/g
-s/『ποτημα』/a flight/g
-s/『ποτηριον』/a cup/g
-s/『ποτιζω』/to give a drink,<br>water/g
-s/『ποτιστηριον』/a drinking trough/g
-s/『ποτον』/drink,<br>draught/g
-s/『ποτος』/drunk,<br>fit for drinking/g
-s/『ποτος\.1』/a drinking bout,<br>drink/g
+s/『ποτημα』/flight/g
+s/『ποτηριον』/cup/g
+s/『ποτιζω』/give a drink;<br>water/g
+s/『ποτιστηριον』/drinking trough/g
+s/『ποτον』/drink;<br>draught/g
+s/『ποτος』/drunk;<br>fit for drinking/g
+s/『ποτος\.1』/drinking bout;<br>drink/g
 s/『που』/about/g
 s/『που\.1』/where?/g
-s/『πους』/the foot,<br>pace/g
-s/『πραγμα』/an act,<br>matter/g
+s/『πους』/foot;<br>pace/g
+s/『πραγμα』/act;<br>matter/g
 s/『πραγματεια』/practicality/g
-s/『πραγματευομαι』/to be practical,<br>do business/g
+s/『πραγματευομαι』/practical;<br>do business/g
 s/『πραγματευω』/「πραγματεύω」/g
-s/『πραγματικος』/fit for business,<br>active/g
+s/『πραγματικος』/fit for business;<br>active/g
 s/『πρακτωρ』/bailiff/g
-s/『πραξις』/an action/g
+s/『πραξις』/action/g
 s/『πραος』/gentle/g
 s/『πραοτης』/gentleness/g
-s/『πρασια』/a group/g
-s/『πρασινος』/emerald,<br>light green/g
-s/『πρασις』/a sale/g
-s/『πρασον』/a leek/g
-s/『πρασσω』/to act,<br>enact/g
+s/『πρασια』/group/g
+s/『πρασινος』/emerald;<br>light green/g
+s/『πρασις』/sale/g
+s/『πρασον』/leek/g
+s/『πρασσω』/act;<br>enact/g
 s/『πρατος』/sold/g
 s/『πραυθυμος』/「πραΰθυμος」/g
-s/『πραυνω』/to make soft,<br>mild/g
+s/『πραυνω』/make soft;<br>mild/g
 s/『πραυς』/gentle/g
 s/『πραυτης』/gentleness/g
-s/『πρεποντως』/in fit manner,<br>meetly/g
-s/『πρεπω』/to be proper/g
-s/『πρεσβεια』/a delegation/g
-s/『πρεσβειον』/a privilege/g
-s/『πρεσβευτης』/an ambassador/g
+s/『πρεποντως』/in fit manner;<br>meetly/g
+s/『πρεπω』/proper/g
+s/『πρεσβεια』/delegation/g
+s/『πρεσβειον』/privilege/g
+s/『πρεσβευτης』/ambassador/g
 s/『πρεσβις』/age/g
-s/『πρεσβυς』/an old man/g
+s/『πρεσβυς』/old man/g
 s/『πρεσβυτατος』/oldest/g
-s/『πρεσβυτερος』/senior,<br>older/g
-s/『πρεσβυτης』/an old one/g
-s/『πρεσβυτις』/an old woman/g
-s/『πρηθω』/to blow up,<br>swell out by blowing/g
-s/『πρηνης』/prone,<br>distended/g
-s/『πριαμαι』/to buy/g
-s/『πριζω』/to saw/g
+s/『πρεσβυτερος』/senior;<br>older/g
+s/『πρεσβυτης』/old one/g
+s/『πρεσβυτις』/old woman/g
+s/『πρηθω』/blow up;<br>swell out by blowing/g
+s/『πρηνης』/prone;<br>distended/g
+s/『πριαμαι』/buy/g
+s/『πριζω』/saw/g
 s/『πριν』/before/g
-s/『πρινος』/the evergreen oak,<br>ilex/g
-s/『πριστηροειδης』/like a saw,<br>saw-shaped/g
-s/『πριω』/to saw/g
+s/『πρινος』/evergreen oak;<br>ilex/g
+s/『πριστηροειδης』/like a saw;<br>saw-shaped/g
+s/『πριω』/saw/g
 s/『πριων』/saw;<br>serrated mountain ridge/g
-s/『προ』/before,<br>ahead of/g
-s/『προαγω』/to precede,<br>lead forth/g
-s/『προαγωνιζομαι』/to fight before/g
-s/『προαδικεω』/to be the first in wronging/g
-s/『προαιρεσις』/a choosing/g
-s/『προαιρεω』/to choose before\/deliberately/g
+s/『προ』/before;<br>ahead of/g
+s/『προαγω』/precede;<br>lead forth/g
+s/『προαγωνιζομαι』/fight before/g
+s/『προαδικεω』/the first in wronging/g
+s/『προαιρεσις』/choosing/g
+s/『προαιρεω』/choose before\/deliberately/g
 s/『προαιρω』/「προαίρω」/g
 s/『προαλης』/springing forward/g
-s/『προαναμελπω』/to sing first/g
-s/『προανατασσω』/to set before oneself,<br>to prefer/g
-s/『προανατελλω』/to sprout afresh/g
-s/『προαπαγγελλω』/to forewarn sb of sth/g
-s/『προαποδεικνυμι』/to prove before/g
-s/『προαποθνησκω』/to die before/g
-s/『προασπιζω』/to defend/g
-s/『προαστειον』/the space immediately in front of/g
-s/『προβαινω』/to step ahead,<br>advance/g
-s/『προβαλλω』/to cast forth,<br>produce/g
-s/『προβασανιζω』/to torture before/g
-s/『προβασκανιον』/amulet,<br>charm/g
-s/『προβατικος』/sheepish,<br>sheep market/g
+s/『προαναμελπω』/sing first/g
+s/『προανατασσω』/set before oneself;<br>prefer/g
+s/『προανατελλω』/sprout afresh/g
+s/『προαπαγγελλω』/forewarn sb of sth/g
+s/『προαποδεικνυμι』/prove before/g
+s/『προαποθνησκω』/die before/g
+s/『προασπιζω』/defend/g
+s/『προαστειον』/space immediately in front of/g
+s/『προβαινω』/step ahead;<br>advance/g
+s/『προβαλλω』/cast forth;<br>produce/g
+s/『προβασανιζω』/torture before/g
+s/『προβασκανιον』/amulet;<br>charm/g
+s/『προβατικος』/sheepish;<br>sheep market/g
 s/『προβατον』/sheep/g
-s/『προβιβαζω』/to prompt/g
-s/『προβλεπω』/to look ahead/g
-s/『προβλημα』/a problem/g
-s/『προβλης』/forestretching,<br>jutting/g
-s/『προγινομαι』/to pre-exist/g
-s/『προγινωσκω』/to foreknow,<br>know before/g
+s/『προβιβαζω』/prompt/g
+s/『προβλεπω』/look ahead/g
+s/『προβλημα』/problem/g
+s/『προβλης』/forestretching;<br>jutting/g
+s/『προγινομαι』/pre-exist/g
+s/『προγινωσκω』/foreknow;<br>know before/g
 s/『προγνωσις』/foreknowledge/g
 s/『προγονικος』/ancestral/g
 s/『προγονος』/ancestor/g
-s/『προγραφω』/to give notice,<br>write before/g
+s/『προγραφω』/give notice;<br>write before/g
 s/『προδηλος』/conspicuous/g
-s/『προδηλοω』/to make clear beforehand,<br>shew plainly/g
-s/『προδιδωμι』/to give before/g
-s/『προδοσια』/a giving up,<br>betrayal/g
-s/『προδοτης』/a traitor,<br>betrayer/g
-s/『προδρομος』/a forerunner/g
+s/『προδηλοω』/make clear beforehand;<br>shew plainly/g
+s/『προδιδωμι』/give before/g
+s/『προδοσια』/giving up;<br>betrayal/g
+s/『προδοτης』/traitor;<br>betrayer/g
+s/『προδρομος』/forerunner/g
 s/『προειμι』/「πρόειμι」/g
-s/『προεκφερω』/to put out before/g
-s/『προεξαποστελλω』/to send out before/g
-s/『προερεω』/to predict,<br>state before/g
-s/『προερχομαι』/to come before,<br>go ahead/g
-s/『προετοιμαζω』/to prepare in advance/g
-s/『προηγεομαι』/to lead forth/g
-s/『προηγορεω』/to speak on the part of/g
+s/『προεκφερω』/put out before/g
+s/『προεξαποστελλω』/send out before/g
+s/『προερεω』/predict;<br>state before/g
+s/『προερχομαι』/come before;<br>go ahead/g
+s/『προετοιμαζω』/prepare in advance/g
+s/『προηγεομαι』/lead forth/g
+s/『προηγορεω』/speak on the part of/g
 s/『προηγορος』/one who speaks in behalf of/g
-s/『προηκω』/to have gone before,<br>be the first/g
-s/『προθεριζω』/to reap first/g
-s/『προθεσις』/presentation,<br>proposal/g
-s/『προθυμεομαι』/to be ready,<br>willing/g
-s/『προθυμια』/predisposition,<br>eagerness/g
-s/『προθυμος』/predisposed,<br>eager/g
-s/『προθυμως』/by predisposition,<br>eagerly/g
-s/『προθυρον』/a front door/g
-s/『προιημι』/to send before,<br>send on/g
-s/『προιστημι』/to protect,<br>preside/g
-s/『προκαθηγεομαι』/to go before and guide/g
-s/『προκαθημαι』/to be seated before/g
-s/『προκαθιζω』/to sit down/g
+s/『προηκω』/have gone before;<br>first/g
+s/『προθεριζω』/reap first/g
+s/『προθεσις』/presentation;<br>proposal/g
+s/『προθυμεομαι』/ready;<br>willing/g
+s/『προθυμια』/predisposition;<br>eagerness/g
+s/『προθυμος』/predisposed;<br>eager/g
+s/『προθυμως』/by predisposition;<br>eagerly/g
+s/『προθυρον』/front door/g
+s/『προιημι』/send before;<br>send on/g
+s/『προιστημι』/protect;<br>preside/g
+s/『προκαθηγεομαι』/go before and guide/g
+s/『προκαθημαι』/seated before/g
+s/『προκαθιζω』/sit down/g
 s/『προκακοομαι』/「προκακόομαι」/g
-s/『προκαλεω』/to call forth/g
-s/『προκαταλαμβανω』/to seize beforehand,<br>preoccupy/g
-s/『προκατασκευαζω』/to prepare beforehand/g
-s/『προκατασκιρροομαι』/to be hardened beforehand/g
-s/『προκειμαι』/to lie forth,<br>lie before/g
+s/『προκαλεω』/call forth/g
+s/『προκαταλαμβανω』/seize beforehand;<br>preoccupy/g
+s/『προκατασκευαζω』/prepare beforehand/g
+s/『προκατασκιρροομαι』/hardened beforehand/g
+s/『προκειμαι』/lie forth;<br>lie before/g
 s/『προκοπη』/advancement/g
-s/『προκρημνος』/beetling,<br>overhanging/g
-s/『προκρινω』/to choose before others,<br>choose by preference/g
+s/『προκρημνος』/beetling;<br>overhanging/g
+s/『προκρινω』/choose before others;<br>choose by preference/g
 s/『προκυνεω』/「προκυνέω」/g
-s/『προλαμβανω』/to overtake,<br>take over/g
-s/『προλεγω』/to foretell/g
+s/『προλαμβανω』/overtake;<br>take over/g
+s/『προλεγω』/foretell/g
 s/『προληνιον』/vat fronting a wine press/g
 s/『προλοβος』/crop/g
-s/『προμαχεω』/to fight in front/g
-s/『προμαχων』/outer fortification,<br>bulwark/g
-s/『προμηνυω』/to denounce beforehand/g
-s/『προνοεω』/to provide/g
+s/『προμαχεω』/fight in front/g
+s/『προμαχων』/outer fortification;<br>bulwark/g
+s/『προμηνυω』/denounce beforehand/g
+s/『προνοεω』/provide/g
 s/『προνοια』/provision/g
-s/『προνομευω』/to go out for foraging/g
-s/『προνομη』/a foraging,<br>a foraging expedition/g
+s/『προνομευω』/go out for foraging/g
+s/『προνομη』/foraging;<br>foraging expedition/g
 s/『προνουμηνια』/eve of the new moon/g
-s/『προοδηγος』/one who goes before to show the way,<br>leader/g
-s/『προοιδα』/to know beforehand/g
-s/『προοιμιον』/an opening/g
-s/『προοραω』/to foresee,<br>see previously/g
-s/『προπαππος』/a great-grandfather/g
+s/『προοδηγος』/one who goes before to show the way;<br>leader/g
+s/『προοιδα』/know beforehand/g
+s/『προοιμιον』/opening/g
+s/『προοραω』/foresee;<br>see previously/g
+s/『προπαππος』/great-grandfather/g
 s/『προπατωρ』/forefather/g
-s/『προπεμπω』/to dispatch ahead,<br>send forth/g
+s/『προπεμπω』/dispatch ahead;<br>send forth/g
 s/『προπετης』/rash/g
-s/『προπιπτω』/to fall/g
-s/『προπομπη』/an attending,<br>escorting/g
-s/『προπορευομαι』/to travel forth,<br>travel before/g
-s/『προπρασσω』/to do before/g
-s/『προπτυω』/to spit forth or out/g
-s/『προπτωσις』/prostration,<br>lying prostrate/g
-s/『προπυλον』/gateway,<br>entrance/g
-s/『προς』/to,<br>toward/g
+s/『προπιπτω』/fall/g
+s/『προπομπη』/attending;<br>escorting/g
+s/『προπορευομαι』/travel forth;<br>travel before/g
+s/『προπρασσω』/do before/g
+s/『προπτυω』/spit forth or out/g
+s/『προπτωσις』/prostration;<br>lying prostrate/g
+s/『προπυλον』/gateway;<br>entrance/g
+s/『προς』/to;<br>toward/g
 s/『προσαββατον』/Sabbath eve/g
-s/『προσαγγελλω』/to announce/g
-s/『προσαγορευω』/to address/g
-s/『προσαγω』/to lead toward,<br>head toward/g
-s/『προσαιτεω』/to beg/g
-s/『προσαναβαινω』/to step up to/g
-s/『προσαναβασις』/a going up,<br>ascent/g
-s/『προσαναλεγω』/to rehearse,<br>to relate/g
-s/『προσαναπαυω』/to find rest with/g
-s/『προσαναπληροω』/to fill up toward,<br>replenish/g
-s/『προσανατρεπω』/to overthrow,<br>to overturn/g
-s/『προσαναφερω』/to report/g
+s/『προσαγγελλω』/announce/g
+s/『προσαγορευω』/address/g
+s/『προσαγω』/lead toward;<br>head toward/g
+s/『προσαιτεω』/beg/g
+s/『προσαναβαινω』/step up to/g
+s/『προσαναβασις』/going up;<br>ascent/g
+s/『προσαναλεγω』/rehearse;<br>relate/g
+s/『προσαναπαυω』/find rest with/g
+s/『προσαναπληροω』/fill up toward;<br>replenish/g
+s/『προσανατρεπω』/overthrow;<br>overturn/g
+s/『προσαναφερω』/report/g
 s/『προσανοικοδομεομαι』/「προσανοικοδομέομαι」/g
-s/『προσαξιοω』/to demand besides/g
-s/『προσαποθνησκω』/to die also/g
-s/『προσαπολλυμι』/to destroy besides/g
-s/『προσαποστελλω』/to despatch besides/g
-s/『προσαπωθεω』/to be pushed away/g
+s/『προσαξιοω』/demand besides/g
+s/『προσαποθνησκω』/die also/g
+s/『προσαπολλυμι』/destroy besides/g
+s/『προσαποστελλω』/despatch besides/g
+s/『προσαπωθεω』/pushed away/g
 s/『προσαρτιως』/recently/g
-s/『προσβαινω』/to step upon/g
-s/『προσβαλλω』/to strike/g
-s/『προσβασις』/a means of approach,<br>access/g
-s/『προσβλητος』/attached,<br>overlaid/g
-s/『προσβολη』/a putting to,<br>application/g
-s/『προσγελαω』/to look laughing at/g
-s/『προσγινομαι』/to attach oneself to sb/g
-s/『προσγραφω』/to write besides,<br>add in writing/g
+s/『προσβαινω』/step upon/g
+s/『προσβαλλω』/strike/g
+s/『προσβασις』/means of approach;<br>access/g
+s/『προσβλητος』/attached;<br>overlaid/g
+s/『προσβολη』/putting to;<br>application/g
+s/『προσγελαω』/look laughing at/g
+s/『προσγινομαι』/attach oneself to sb/g
+s/『προσγραφω』/write besides;<br>add in writing/g
 s/『προσδεκτος』/acceptable;<br>acceptable to/g
-s/『προσδεομαι』/to petition toward/g
-s/『προσδεχομαι』/to welcome,<br>wait for/g
-s/『προσδιδωμι』/to give besides/g
-s/『προσδοκαω』/to expect,<br>suppose/g
+s/『προσδεομαι』/petition toward/g
+s/『προσδεχομαι』/welcome;<br>wait for/g
+s/『προσδιδωμι』/give besides/g
+s/『προσδοκαω』/expect;<br>suppose/g
 s/『προσδοκια』/expectation/g
-s/『προσεγγιζω』/to get close to/g
-s/『προσεδρευω』/to sit near/g
-s/『προσεδρια』/a besieging;<br>assiduity/g
-s/『προσειπον』/to speak to/g
-s/『προσεκκαιω』/to ignite further/g
-s/『προσεμβριμαομαι』/to continue to be indignant/g
+s/『προσεγγιζω』/get close to/g
+s/『προσεδρευω』/sit near/g
+s/『προσεδρια』/besieging;<br>assiduity/g
+s/『προσειπον』/speak to/g
+s/『προσεκκαιω』/ignite further/g
+s/『προσεμβριμαομαι』/continue to be indignant/g
 s/『προσεμπιπρημι』/「προσεμπίπρημι」/g
-s/『προσενεχομαι』/to be held by/g
-s/『προσεξηγεομαι』/to relate,<br>to recount/g
-s/『προσεπικατατεινω』/to strain still more/g
-s/『προσεπιτιμαω』/to further criticize or censure/g
-s/『προσερυθριαω』/to colour up,<br>to redden against/g
-s/『προσερχομαι』/to approach,<br>go ahead/g
-s/『προσετι』/over and above,<br>besides/g
+s/『προσενεχομαι』/held by/g
+s/『προσεξηγεομαι』/relate;<br>recount/g
+s/『προσεπικατατεινω』/strain still more/g
+s/『προσεπιτιμαω』/further criticize or censure/g
+s/『προσερυθριαω』/colour up;<br>redden against/g
+s/『προσερχομαι』/approach;<br>go ahead/g
+s/『προσετι』/over and above;<br>besides/g
 s/『προσευχη』/prayer/g
-s/『προσευχομαι』/to pray/g
-s/『προσεχοντως』/attentively,<br>carefully/g
-s/『προσεχω』/to pay attention,<br>beware/g
-s/『προσηκοντως』/suitably,<br>fitly/g
-s/『προσηκω』/to have arrived at/g
-s/『προσηλοω』/to nail to/g
-s/『προσηλυτευω』/to live among/g
+s/『προσευχομαι』/pray/g
+s/『προσεχοντως』/attentively;<br>carefully/g
+s/『προσεχω』/pay attention;<br>beware/g
+s/『προσηκοντως』/suitably;<br>fitly/g
+s/『προσηκω』/have arrived at/g
+s/『προσηλοω』/nail to/g
+s/『προσηλυτευω』/live among/g
 s/『προσηλυτος』/proselyte/g
-s/『προσημαινω』/to presignify,<br>foretell/g
+s/『προσημαινω』/presignify;<br>foretell/g
 s/『προσημειοομαι』/「προσημειόομαι」/g
-s/『προσηνης』/soft,<br>gentle/g
-s/『προσθεμα』/addition,<br>increase/g
-s/『προσθεσις』/a putting to,<br>application/g
-s/『προσθεω』/to run towards/g
-s/『προσθλιβω』/to press,<br>to squeeze against/g
-s/『προσιημι』/to send to/g
-s/『προσκαθιστημι』/to appoint besides/g
-s/『προσκαιρος』/seasonal,<br>opportunistic/g
-s/『προσκαιω』/to set on fire/g
-s/『προσκαλεω』/to summon/g
-s/『προσκαρτερεω』/to persist,<br>devote/g
-s/『προσκαταλειπω』/to leave besides as a legacy/g
+s/『προσηνης』/soft;<br>gentle/g
+s/『προσθεμα』/addition;<br>increase/g
+s/『προσθεσις』/putting to;<br>application/g
+s/『προσθεω』/run towards/g
+s/『προσθλιβω』/press;<br>squeeze against/g
+s/『προσιημι』/send to/g
+s/『προσκαθιστημι』/appoint besides/g
+s/『προσκαιρος』/seasonal;<br>opportunistic/g
+s/『προσκαιω』/set on fire/g
+s/『προσκαλεω』/summon/g
+s/『προσκαρτερεω』/persist;<br>devote/g
+s/『προσκαταλειπω』/leave besides as a legacy/g
 s/『προσκαυμα』/soot/g
-s/『προσκειμαι』/to be placed/g
-s/『προσκεφαλαιον』/a pillow/g
-s/『προσκηνιον』/space before the tent,<br>outer area/g
-s/『προσκλησις』/a judicial summons/g
-s/『προσκλινω』/to make to lean against,<br>put against/g
-s/『προσκολλαω』/to stick to,<br>bond/g
-s/『προσκομμα』/a stumbling/g
-s/『προσκοπτω』/to stumble,<br>strike against/g
-s/『προσκρουω』/to strike against/g
-s/『προσκυνεω』/to worship/g
-s/『προσκυνησις』/adoration,<br>obeisance/g
-s/『προσκυπτω』/to stoop to/g
+s/『προσκειμαι』/placed/g
+s/『προσκεφαλαιον』/pillow/g
+s/『προσκηνιον』/space before the tent;<br>outer area/g
+s/『προσκλησις』/judicial summons/g
+s/『προσκλινω』/make to lean against;<br>put against/g
+s/『προσκολλαω』/stick to;<br>bond/g
+s/『προσκομμα』/stumbling/g
+s/『προσκοπτω』/stumble;<br>strike against/g
+s/『προσκρουω』/strike against/g
+s/『προσκυνεω』/worship/g
+s/『προσκυνησις』/adoration;<br>obeisance/g
+s/『προσκυπτω』/stoop to/g
 s/『προσκυροω』/「προσκυρόω」/g
-s/『προσλαλεω』/to talk to/g
-s/『προσλαμβανω』/to take hold of/g
-s/『προσλογιζομαι』/to reckon/g
-s/『προσμαρτυρεω』/to confirm by evidence/g
-s/『προσμειδιαω』/to smile upon/g
-s/『προσμενω』/to continue on/g
+s/『προσλαλεω』/talk to/g
+s/『προσλαμβανω』/take hold of/g
+s/『προσλογιζομαι』/reckon/g
+s/『προσμαρτυρεω』/confirm by evidence/g
+s/『προσμειδιαω』/smile upon/g
+s/『προσμενω』/continue on/g
 s/『προσμιγνυμι』/「προσμίγνυμι」/g
-s/『προσνεμω』/to assign,<br>attach/g
-s/『προσνοεω』/to perceive besides/g
-s/『προσοδος』/a going/g
-s/『προσοδυρομαι』/to lament at/g
-s/『προσοζω』/to smell of,<br>be redolent of/g
-s/『προσοιγνυμι』/to shut/g
-s/『προσονομαζω』/to call by a name/g
-s/『προσοραω』/to look at,<br>behold/g
+s/『προσνεμω』/assign;<br>attach/g
+s/『προσνοεω』/perceive besides/g
+s/『προσοδος』/going/g
+s/『προσοδυρομαι』/lament at/g
+s/『προσοζω』/smell of;<br>redolent of/g
+s/『προσοιγνυμι』/shut/g
+s/『προσονομαζω』/call by a name/g
+s/『προσοραω』/look at;<br>behold/g
 s/『προσοχη』/attention/g
-s/『προσοχθιζω』/to be burdened/g
-s/『προσοχθισμα』/offence,<br>provocation/g
-s/『προσοχυροω』/to strengthen further,<br>to fortify/g
-s/『προσοψις』/appearance,<br>aspect/g
-s/『προσπαιζω』/to play/g
-s/『προσπαρακαλεω』/to call in besides,<br>invite/g
-s/『προσπασσω』/to sprinkle on/g
-s/『προσπιπτω』/to fall against\/at the feet/g
-s/『προσποιεομαι』/to make as if/g
-s/『προσπορευομαι』/to travel near,<br>approach/g
-s/『προσπυροω』/to inflame,<br>to incense still more/g
-s/『προσραινω』/to sprinkle on/g
-s/『προσσιελιζω』/to spit upon/g
-s/『προσταγη』/ordinance,<br>command/g
-s/『προσταγμα』/an ordinance/g
-s/『προσταρασσω』/to trouble further/g
-s/『προστας』/porch,<br>portico/g
-s/『προστασσω』/to ordain,<br>order/g
-s/『προστατεω』/to stand before,<br>be ruler over/g
-s/『προστατης』/one who stands before,<br>a front-rank-man/g
-s/『προστιθημι』/to add,<br>continue/g
-s/『προστιμον』/penalty,<br>fine/g
-s/『προστρεχω』/to run to\/forth/g
+s/『προσοχθιζω』/burdened/g
+s/『προσοχθισμα』/offence;<br>provocation/g
+s/『προσοχυροω』/strengthen further;<br>fortify/g
+s/『προσοψις』/appearance;<br>aspect/g
+s/『προσπαιζω』/play/g
+s/『προσπαρακαλεω』/call in besides;<br>invite/g
+s/『προσπασσω』/sprinkle on/g
+s/『προσπιπτω』/fall against\/at the feet/g
+s/『προσποιεομαι』/make as if/g
+s/『προσπορευομαι』/travel near;<br>approach/g
+s/『προσπυροω』/inflame;<br>incense still more/g
+s/『προσραινω』/sprinkle on/g
+s/『προσσιελιζω』/spit upon/g
+s/『προσταγη』/ordinance;<br>command/g
+s/『προσταγμα』/ordinance/g
+s/『προσταρασσω』/trouble further/g
+s/『προστας』/porch;<br>portico/g
+s/『προστασσω』/ordain;<br>order/g
+s/『προστατεω』/stand before;<br>ruler over/g
+s/『προστατης』/one who stands before;<br>front-rank-man/g
+s/『προστιθημι』/add;<br>continue/g
+s/『προστιμον』/penalty;<br>fine/g
+s/『προστρεχω』/run to\/forth/g
 s/『προσυπομιμνησκω』/「προσυπομιμνήσκω」/g
-s/『προσυστελλομαι』/to be reduced to a former state/g
-s/『προσυψοω』/to raise higher/g
-s/『προσφαινομαι』/to appear besides/g
+s/『προσυστελλομαι』/reduced to a former state/g
+s/『προσυψοω』/raise higher/g
+s/『προσφαινομαι』/appear besides/g
 s/『προσφατος』/fresh/g
 s/『προσφατως』/freshly/g
-s/『προσφερω』/to offer,<br>bring to/g
+s/『προσφερω』/offer;<br>bring to/g
 s/『προσφιλης』/dear/g
 s/『προσφορα』/offering/g
-s/『προσφυω』/to make to grow to/g
-s/『προσφωνεω』/to call to/g
-s/『προσχαιρω』/to rejoice at/g
-s/『προσχεω』/to pour to/g
-s/『προσχραομαι』/to put to use/g
-s/『προσχωμα』/a deposit made by water/g
-s/『προσχωρεω』/to go to,<br>approach/g
-s/『προσωθεω』/to push to/g
-s/『προσωπειον』/a mask/g
-s/『προσωπον』/face,<br>ahead of/g
-s/『προτασσω』/to ordain/g
-s/『προτεινω』/to stretch forth/g
-s/『προτειχισμα』/advanced fortification,<br>outwork/g
-s/『προτερημα』/an advantage,<br>victory/g
+s/『προσφυω』/make to grow to/g
+s/『προσφωνεω』/call to/g
+s/『προσχαιρω』/rejoice at/g
+s/『προσχεω』/pour to/g
+s/『προσχραομαι』/put to use/g
+s/『προσχωμα』/deposit made by water/g
+s/『προσχωρεω』/go to;<br>approach/g
+s/『προσωθεω』/push to/g
+s/『προσωπειον』/mask/g
+s/『προσωπον』/face;<br>ahead of/g
+s/『προτασσω』/ordain/g
+s/『προτεινω』/stretch forth/g
+s/『προτειχισμα』/advanced fortification;<br>outwork/g
+s/『προτερημα』/advantage;<br>victory/g
 s/『προτερον』/earlier/g
 s/『προτερος』/earlier/g
-s/『προτιθημι』/to propose/g
-s/『προτιμαω』/to honour/g
-s/『προτομη』/the foremost/g
-s/『προτρεπω』/to motivate/g
-s/『προτρεχω』/to run ahead/g
-s/『προυπαρχω』/to happen to be before,<br>be previously/g
+s/『προτιθημι』/propose/g
+s/『προτιμαω』/honour/g
+s/『προτομη』/foremost/g
+s/『προτρεπω』/motivate/g
+s/『προτρεχω』/run ahead/g
+s/『προυπαρχω』/happen to be before;<br>previously/g
 s/『προυποτασσω』/「προϋποτάσσω」/g
 s/『προυφισταμαι』/「προϋφίσταμαι」/g
-s/『προφαινω』/to bring forth,<br>bring to light/g
+s/『προφαινω』/bring forth;<br>bring to light/g
 s/『προφανως』/in a conspicuous or extraordinary fashion/g
-s/『προφασιζομαι』/to set up as a pretext/g
+s/『προφασιζομαι』/set up as a pretext/g
 s/『προφασις』/pretense/g
-s/『προφασιστικος』/reproachfully accusing,<br>falsely accusing/g
-s/『προφερω』/to produce/g
-s/『προφητεια』/a prophecy/g
-s/『προφητευω』/to prophesy/g
-s/『προφητης』/a prophet/g
-s/『προφητις』/a prophet/g
-s/『προφθανω』/to anticipate,. spring forth/g
-s/『προφυλακη』/a guard in front/g
-s/『προφυλαξ』/an advanced guard/g
-s/『προφυλασσω』/to keep guard before,<br>to guard/g
-s/『προχαλαω』/to be loosed beforehand,<br>to be extended/g
-s/『προχειριζομαι』/to hand forth,<br>make ready/g
-s/『προχειρος』/at hand,<br>ready/g
+s/『προφασιστικος』/reproachfully accusing;<br>falsely accusing/g
+s/『προφερω』/produce/g
+s/『προφητεια』/prophecy/g
+s/『προφητευω』/prophesy/g
+s/『προφητης』/prophet/g
+s/『προφητις』/prophet/g
+s/『προφθανω』/anticipate,. spring forth/g
+s/『προφυλακη』/guard in front/g
+s/『προφυλαξ』/advanced guard/g
+s/『προφυλασσω』/keep guard before;<br>guard/g
+s/『προχαλαω』/loosed beforehand;<br>extended/g
+s/『προχειριζομαι』/hand forth;<br>make ready/g
+s/『προχειρος』/at hand;<br>ready/g
 s/『προχωρημα』/excrement/g
-s/『πρυτανις』/a prince,<br>ruler/g
-s/『πρωην』/lately,<br>just now/g
+s/『πρυτανις』/prince;<br>ruler/g
+s/『πρωην』/lately;<br>just now/g
 s/『πρωι』/early/g
 s/『πρωιθεν』/from morning/g
 s/『πρωιμος』/early/g
 s/『πρωινος』/early/g
 s/『πρωιος』/morning/g
-s/『πρωρευς』/a captain/g
+s/『πρωρευς』/captain/g
 s/『πρωσωπον』/「πρώσωπον」/g
-s/『πρωταγωνιστης』/one who plays the first part,<br>the chief actor/g
-s/『πρωταρχος』/first-beginning,<br>primal/g
-s/『πρωτευω』/to be foremost/g
-s/『πρωτοβαθρεω』/to assume the first seat among/g
-s/『πρωτοβολεω』/to bring forth new fruit/g
+s/『πρωταγωνιστης』/one who plays the first part;<br>chief actor/g
+s/『πρωταρχος』/first-beginning;<br>primal/g
+s/『πρωτευω』/foremost/g
+s/『πρωτοβαθρεω』/assume the first seat among/g
+s/『πρωτοβολεω』/bring forth new fruit/g
 s/『πρωτογενημα』/feast of the first fruits/g
 s/『πρωτογενης』/firstborn/g
-s/『πρωτογονος』/first-born,<br>firstling/g
+s/『πρωτογονος』/first-born;<br>firstling/g
 s/『πρωτοκλισιον』/「πρωτοκλίσιον」/g
 s/『πρωτοκουρια』/first shearing/g
 s/『πρωτολογια』/prosecutor’s part/g
-s/『πρωτον』/first,<br>foremost/g
-s/『πρωτοπλαστος』/first-formed,<br>first-created/g
-s/『πρωτος』/first,<br>foremost/g
-s/『πρωτοστατης』/a vanguard/g
-s/『πρωτοτοκευω』/to invest with the privilege of primogeniture,<br>to treat as firstborn/g
-s/『πρωτοτοκεω』/to bring forth her first child;<br>to calve for the first time/g
+s/『πρωτον』/first;<br>foremost/g
+s/『πρωτοπλαστος』/first-formed;<br>first-created/g
+s/『πρωτος』/first;<br>foremost/g
+s/『πρωτοστατης』/vanguard/g
+s/『πρωτοτοκευω』/invest with the privilege of primogeniture;<br>treat as firstborn/g
+s/『πρωτοτοκεω』/bring forth her first child;<br>calve for the first time/g
 s/『πρωτοτοκια』/birthright/g
 s/『πρωτοτοκος』/firstborn/g
-s/『πταισμα』/a stumble,<br>trip/g
-s/『πταιω』/to stumble/g
-s/『πταρμος』/a sneezing/g
+s/『πταισμα』/stumble;<br>trip/g
+s/『πταιω』/stumble/g
+s/『πταρμος』/sneezing/g
 s/『πτερνα』/heel/g
 s/『πτερνη』/「πτέρνη」/g
-s/『πτερνιζω』/to strike with the heel/g
-s/『πτερνισμος』/deception,<br>cunning treachery/g
+s/『πτερνιζω』/strike with the heel/g
+s/『πτερνισμος』/deception;<br>cunning treachery/g
 s/『πτερον』/feathers/g
 s/『πτεροφευω』/「πτεροφεύω」/g
-s/『πτερυγιον』/a pinnacle,<br>flap/g
-s/『πτερυξ』/a wing/g
-s/『πτερυσσομαι』/to clap the wings/g
+s/『πτερυγιον』/pinnacle;<br>flap/g
+s/『πτερυξ』/wing/g
+s/『πτερυσσομαι』/clap the wings/g
 s/『πτερωτος』/winged/g
-s/『πτησσω』/to frighten,<br>scare/g
-s/『πτιλος』/suffering from disease of the eyelids,<br>inflamed/g
-s/『πτοεω』/to frighten/g
+s/『πτησσω』/frighten;<br>scare/g
+s/『πτιλος』/suffering from disease of the eyelids;<br>inflamed/g
+s/『πτοεω』/frighten/g
 s/『πτοη』/「πτόη」/g
 s/『πτοησις』/fright/g
 s/『πτολεμαικος』/from Ptolemy/g
 s/『πτολεμαις』/[NP]/g
-s/『πτυελος』/saliva,<br>spittle/g
+s/『πτυελος』/saliva;<br>spittle/g
 s/『πτυξις』/fold/g
 s/『πτυχη』/panel/g
-s/『πτυω』/to spit/g
-s/『πτωμα』/a corpse/g
-s/『πτωσις』/a fall/g
+s/『πτυω』/spit/g
+s/『πτωμα』/corpse/g
+s/『πτωσις』/fall/g
 s/『πτωχεια』/bankruptcy/g
-s/『πτωχευω』/to go bankrupt/g
+s/『πτωχευω』/go bankrupt/g
 s/『πτωχιζω』/「πτωχίζω」/g
-s/『πτωχος』/bankrupt,<br>beggarly/g
+s/『πτωχος』/bankrupt;<br>beggarly/g
 s/『πυγαργος』/white-rump/g
-s/『πυγμη』/the fist/g
-s/『πυθμην』/a stem/g
-s/『πυκαζω』/to make close,<br>cover/g
+s/『πυγμη』/fist/g
+s/『πυθμην』/stem/g
+s/『πυκαζω』/make close;<br>cover/g
 s/『πυκνος』/frequent/g
-s/『πυλη』/a gate/g
-s/『πυλων』/a gate/g
-s/『πυλωρος』/a gate-keeper,<br>warder/g
-s/『πυνθανομαι』/to inquire,<br>ascertain/g
-s/『πυξιον』/a wooden tablet/g
-s/『πυξος』/the box-tree/g
+s/『πυλη』/gate/g
+s/『πυλων』/gate/g
+s/『πυλωρος』/gate-keeper;<br>warder/g
+s/『πυνθανομαι』/inquire;<br>ascertain/g
+s/『πυξιον』/wooden tablet/g
+s/『πυξος』/box-tree/g
 s/『πυρ』/fire/g
-s/『πυρα』/a fire/g
-s/『πυραμις』/a pyramid/g
-s/『πυργοβαρις』/citadel,<br>fortress/g
-s/『πυργος』/a tower/g
+s/『πυρα』/fire/g
+s/『πυραμις』/pyramid/g
+s/『πυργοβαρις』/citadel;<br>fortress/g
+s/『πυργος』/tower/g
 s/『πυρειον』/pieces of wood/g
 s/『πυρετος』/fever/g
 s/『πυριζω』/「πυρίζω」/g
 s/『πυρικαυστος』/burnt in fire/g
 s/『πυρινος』/fiery red/g
-s/『πυριφλεγης』/flaming with fire,<br>blazing/g
+s/『πυριφλεγης』/flaming with fire;<br>blazing/g
 s/『πυροβολος』/giving forth fire/g
-s/『πυροπνους』/fire-breathing,<br>fiery/g
+s/『πυροπνους』/fire-breathing;<br>fiery/g
 s/『πυρος』/wheat/g
 s/『πυροφορος』/wheat-bearing/g
-s/『πυροω』/to fire,<br>refine/g
+s/『πυροω』/fire;<br>refine/g
 s/『πυρπνοος』/fire-breathing/g
-s/『πυρπολεω』/to light and keep up a fire,<br>watch a fire/g
+s/『πυρπολεω』/light and keep up a fire;<br>watch a fire/g
 s/『πυρρακης』/red/g
-s/『πυρριζω』/to be red,<br>to be inflamed/g
+s/『πυρριζω』/red;<br>inflamed/g
 s/『πυρρος』/fiery red/g
 s/『πυρροω』/「πυρρόω」/g
-s/『πυρσευω』/to light up,<br>kindle/g
-s/『πυρσος』/a firebrand,<br>torch/g
+s/『πυρσευω』/light up;<br>kindle/g
+s/『πυρσος』/firebrand;<br>torch/g
 s/『πυρφορος』/fire-bearing/g
-s/『πυρωδης』/like fire,<br>fiery/g
-s/『πυρωσις』/refining,<br>burning/g
-s/『πωγων』/the beard/g
-s/『πωλεω』/to trade,<br>sell/g
-s/『πωλος』/a foal/g
+s/『πυρωδης』/like fire;<br>fiery/g
+s/『πυρωσις』/refining;<br>burning/g
+s/『πωγων』/beard/g
+s/『πωλεω』/trade;<br>sell/g
+s/『πωλος』/foal/g
 s/『πωποτε』/ever/g
-s/『πωροω』/to callous,<br>harden/g
+s/『πωροω』/callous;<br>harden/g
 s/『πως』/somehow/g
 s/『πως\.1』/how/g
 s/『ραα』/[NP]/g
@@ -11132,33 +11132,33 @@ s/『ραβαμαγ』/[NP]/g
 s/『ραββα』/[NP]/g
 s/『ραββαθ』/[NP]/g
 s/『ραββωθ』/[NP]/g
-s/『ραβδιζω』/to beat with rods,<br>beat out/g
-s/『ραβδος』/a rod/g
+s/『ραβδιζω』/beat with rods;<br>beat out/g
+s/『ραβδος』/rod/g
 s/『ραγαι』/「Ῥάγαι」/g
-s/『ραγας』/a rent,<br>chink/g
+s/『ραγας』/rent;<br>chink/g
 s/『ραγαυ』/Reu/g
 s/『ραγεμ』/[NP]/g
 s/『ραγη』/「Ῥάγη」/g
 s/『ραγμα』/[NP]/g
-s/『ραγμα\.1』/crack,<br>fissure/g
+s/『ραγμα\.1』/crack;<br>fissure/g
 s/『ραγοι』/「Ῥάγοι」/g
 s/『ραγουηλ』/Reuel/g
 s/『ραγουηλος』/[NP]/g
-s/『ραδαμνος』/shoot,<br>twig/g
+s/『ραδαμνος』/shoot;<br>twig/g
 s/『ραδδαι』/[NP]/g
-s/『ραδιος』/easy,<br>ready/g
+s/『ραδιος』/easy;<br>ready/g
 s/『ραεμ』/[NP]/g
 s/『ραεμμαθ』/[NP]/g
 s/『ραζις』/[NP]/g
 s/『ραθαμα』/[NP]/g
 s/『ραθαμιν』/[NP]/g
-s/『ραθμ』/broom shrub,<br>broom tree/g
-s/『ραθυμεω』/to be idle/g
-s/『ραθυμια』/easiness of temper,<br>a taking things easily/g
+s/『ραθμ』/broom shrub;<br>broom tree/g
+s/『ραθυμεω』/idle/g
+s/『ραθυμια』/easiness of temper;<br>taking things easily/g
 s/『ραια』/[NP]/g
-s/『ραινω』/to sprinkle,<br>besprinkle/g
+s/『ραινω』/sprinkle;<br>besprinkle/g
 s/『ραιφαν』/[NP]/g
-s/『ρακος』/a remnant/g
+s/『ρακος』/remnant/g
 s/『ρακωδης』/ragged/g
 s/『ραμ』/[NP]/g
 s/『ραμα』/Ramah/g
@@ -11170,20 +11170,20 @@ s/『ραμια』/[NP]/g
 s/『ραμμα』/thread/g
 s/『ραμμαθ』/[NP]/g
 s/『ραμμω』/[NP]/g
-s/『ραμνος』/bramble,<br>thorn/g
+s/『ραμνος』/bramble;<br>thorn/g
 s/『ραμνων』/[NP]/g
 s/『ραμωθ』/[NP]/g
 s/『ρανα』/[NP]/g
-s/『ρανις』/a drop/g
-s/『ραντιζω』/to sprinkle/g
+s/『ρανις』/drop/g
+s/『ραντιζω』/sprinkle/g
 s/『ραντισμος』/sprinkling/g
 s/『ραντος』/spotted/g
 s/『ραουμ』/[NP]/g
 s/『ραουμος』/[NP]/g
-s/『ραπιζω』/to slap/g
-s/『ραπισμα』/a slap/g
-s/『ραπτος』/stitched,<br>patched/g
-s/『ραπτω』/to stitch together/g
+s/『ραπιζω』/slap/g
+s/『ραπισμα』/slap/g
+s/『ραπτος』/stitched;<br>patched/g
+s/『ραπτω』/stitch together/g
 s/『ραρα』/[NP]/g
 s/『ρασεφ』/[NP]/g
 s/『ρασια』/[NP]/g
@@ -11201,20 +11201,20 @@ s/『ραφες』/[NP]/g
 s/『ραφη』/[NP]/g
 s/『ραφι』/[NP]/g
 s/『ραφια』/「Ῥαφία」/g
-s/『ραφιδευτος』/patched,<br>stitched/g
+s/『ραφιδευτος』/patched;<br>stitched/g
 s/『ραφιδιν』/[NP]/g
 s/『ραφις』/[NP]/g
 s/『ραφου』/[NP]/g
 s/『ραφων』/[NP]/g
 s/『ραχηλ』/Rachel/g
-s/『ραχις』/the lower part of the back,<br>the chine/g
+s/『ραχις』/lower part of the back;<br>chine/g
 s/『ραψακης』/「Ῥαψάκης」/g
 s/『ραωβ』/[NP]/g
 s/『ραωμ』/[NP]/g
 s/『ρεβεκκα』/Rebecca/g
 s/『ρεβες』/[NP]/g
 s/『ρεγμα』/[NP]/g
-s/『ρεγχω』/to snore/g
+s/『ρεγχω』/snore/g
 s/『ρεελιας』/[NP]/g
 s/『ρεηα』/[NP]/g
 s/『ρεημα』/[NP]/g
@@ -11224,8 +11224,8 @@ s/『ρεκκαθ』/[NP]/g
 s/『ρεκομ』/[NP]/g
 s/『ρεκχα』/[NP]/g
 s/『ρεμαθ』/[NP]/g
-s/『ρεμβασμος』/whirling,<br>turning/g
-s/『ρεμβευω』/to roam,<br>to rove/g
+s/『ρεμβασμος』/whirling;<br>turning/g
+s/『ρεμβευω』/roam;<br>rove/g
 s/『ρεμβω』/「ῥέμβω」/g
 s/『ρεμμαθ』/[NP]/g
 s/『ρεμμαν』/[NP]/g
@@ -11238,91 +11238,91 @@ s/『ρεναθ』/[NP]/g
 s/『ρεννα』/[NP]/g
 s/『ρεουμ』/[NP]/g
 s/『ρεσφα』/[NP]/g
-s/『ρευμα』/that which flows,<br>a flow/g
-s/『ρεω』/to flow/g
-s/『ρηγμα』/a ruin/g
-s/『ρηγνυμι』/to gore,<br>burst/g
+s/『ρευμα』/that which flows;<br>flow/g
+s/『ρεω』/flow/g
+s/『ρηγμα』/ruin/g
+s/『ρηγνυμι』/gore;<br>burst/g
 s/『ρηγνυω』/「ῥηγνύω」/g
 s/『ρηι』/[NP]/g
-s/『ρημα』/a statement,<br>phrase/g
+s/『ρημα』/statement;<br>phrase/g
 s/『ρημωθ』/[NP]/g
 s/『ρης』/「ρης」/g
 s/『ρησαιας』/[NP]/g
-s/『ρησις』/a saying,<br>speaking/g
+s/『ρησις』/saying;<br>speaking/g
 s/『ρησφαρα』/[NP]/g
 s/『ρητινη』/pine resin/g
-s/『ρητος』/stated,<br>specified/g
+s/『ρητος』/stated;<br>specified/g
 s/『ρηφα』/[NP]/g
 s/『ρηχα』/[NP]/g
 s/『ρηχαβ』/[NP]/g
 s/『ριβα』/[NP]/g
 s/『ριβαι』/[NP]/g
-s/『ριγος』/frost,<br>cold/g
-s/『ριζα』/a root/g
-s/『ριζοω』/to root/g
-s/『ριζωμα』/a root/g
+s/『ριγος』/frost;<br>cold/g
+s/『ριζα』/root/g
+s/『ριζοω』/root/g
+s/『ριζωμα』/root/g
 s/『ρινοκορουρα』/「Ῥινοκοροῦρα」/g
-s/『ριπιζω』/to fan,<br>blow around/g
-s/『ριπιστος』/ventilated,<br>breezy/g
-s/『ριπτεω』/to toss/g
-s/『ριπτω』/to fling,<br>disperse/g
-s/『ρις』/the nose/g
+s/『ριπιζω』/fan;<br>blow around/g
+s/『ριπιστος』/ventilated;<br>breezy/g
+s/『ριπτεω』/toss/g
+s/『ριπτω』/fling;<br>disperse/g
+s/『ρις』/nose/g
 s/『ρισων』/[NP]/g
 s/『ριτωω』/「ῥίτωω」/g
 s/『ριφαθ』/[NP]/g
 s/『ροα』/「ῥοά」/g
-s/『ροα\.1』/a pomegranate/g
-s/『ροαξ』/stream,<br>drain/g
+s/『ροα\.1』/pomegranate/g
+s/『ροαξ』/stream;<br>drain/g
 s/『ροβε』/[NP]/g
 s/『ροβοαμ』/Rehoboam/g
 s/『ροβοκ』/[NP]/g
 s/『ροδιοι』/「Ῥόδιοι」/g
-s/『ροδιος』/a Rhodian/g
+s/『ροδιος』/Rhodian/g
 s/『ροδοκος』/[NP]/g
-s/『ροδον』/the rose/g
+s/『ροδον』/rose/g
 s/『ροδος』/Rhodes/g
 s/『ροδοφορος』/bearing roses/g
 s/『ροειμος』/[NP]/g
-s/『ροιζεω』/to whistle/g
-s/『ροιζος』/the whistling/g
+s/『ροιζεω』/whistle/g
+s/『ροιζος』/whistling/g
 s/『ροισκος』/「ῥοίσκος」/g
 s/『ροκομ』/[NP]/g
 s/『ρομελιας』/[NP]/g
 s/『ρομμα』/[NP]/g
-s/『ρομφαια』/a broadsword/g
+s/『ρομφαια』/broadsword/g
 s/『ροολλαμ』/[NP]/g
-s/『ροπαλον』/a club,<br>cudgel/g
-s/『ροπη』/inclination downwards,<br>the sinking of the scale/g
+s/『ροπαλον』/club;<br>cudgel/g
+s/『ροπη』/inclination downwards;<br>sinking of the scale/g
 s/『ρουβην』/Reuben/g
 s/『ρουβηνι』/[NP]/g
 s/『ρουθ』/Ruth/g
 s/『ρουμα』/[NP]/g
-s/『ρους』/flow of water,<br>current/g
+s/『ρους』/flow of water;<br>current/g
 s/『ροωβ』/[NP]/g
 s/『ροωβωθ』/[NP]/g
-s/『ροων』/a pomegranate-orchard/g
+s/『ροων』/pomegranate-orchard/g
 s/『ροως』/[NP]/g
 s/『ρυδη』/「ῥύδη」/g
 s/『ρυεω』/「ῥυέω」/g
-s/『ρυθμιζω』/to bring into measure/g
-s/『ρυθμος』/measured motion,<br>time/g
-s/『ρυμη』/a lane/g
-s/『ρυομαι』/to rescue/g
+s/『ρυθμιζω』/bring into measure/g
+s/『ρυθμος』/measured motion;<br>time/g
+s/『ρυμη』/lane/g
+s/『ρυομαι』/rescue/g
 s/『ρυπαρος』/filthy/g
 s/『ρυπος』/filth/g
-s/『ρυσις』/a flow/g
-s/『ρυστης』/saviour,<br>deliverer/g
-s/『ρυω』/to draw/g
+s/『ρυσις』/flow/g
+s/『ρυστης』/saviour;<br>deliverer/g
+s/『ρυω』/draw/g
 s/『ρωγελλιμ』/[NP]/g
 s/『ρωγηλ』/[NP]/g
 s/『ρωκειμ』/[NP]/g
-s/『ρωμαιος』/a Roman/g
+s/『ρωμαιος』/Roman/g
 s/『ρωμαλεος』/strong of body/g
 s/『ρωμεμθι-ωδ』/[NP]/g
-s/『ρωμη』/bodily strength,<br>strength/g
+s/『ρωμη』/bodily strength;<br>strength/g
 s/『ρωμη\.1』/Rome/g
-s/『ρωννυμι』/to be well/g
-s/『ρωξ』/a cleft/g
+s/『ρωννυμι』/well/g
+s/『ρωξ』/cleft/g
 s/『ρωποπωλης』/「ῥωποπώλης」/g
 s/『ρως』/[NP]/g
 s/『ρωσαι』/[NP]/g
@@ -11347,8 +11347,8 @@ s/『σαβαχα』/latticework/g
 s/『σαβαωθ』/Tsebaoth/g
 s/『σαββαιας』/[NP]/g
 s/『σαββαταιος』/[NP]/g
-s/『σαββατιζω』/to keep the Sabbath/g
-s/『σαββατον』/Sabbath,<br>week/g
+s/『σαββατιζω』/keep the Sabbath/g
+s/『σαββατον』/Sabbath;<br>week/g
 s/『σαβεε』/[NP]/g
 s/『σαβεκ』/Sabek/g
 s/『σαβερ』/[NP]/g
@@ -11361,16 +11361,16 @@ s/『σαβιν』/[NP]/g
 s/『σαβουδ』/[NP]/g
 s/『σαβχια』/[NP]/g
 s/『σαγαφ』/[NP]/g
-s/『σαγη』/pack,<br>baggage/g
+s/『σαγη』/pack;<br>baggage/g
 s/『σαγηνα』/「σαγήνα」/g
-s/『σαγηνη』/a dragnet/g
-s/『σαγμα』/a saddlebag/g
+s/『σαγηνη』/dragnet/g
+s/『σαγμα』/saddlebag/g
 s/『σαδαιεμ』/[NP]/g
 s/『σαδδαι』/[NP]/g
 s/『σαδδουκ』/[NP]/g
 s/『σαδδουκος』/[NP]/g
 s/『σαδη』/「σαδη」/g
-s/『σαδημωθ』/fields,<br>terraces/g
+s/『σαδημωθ』/fields;<br>terraces/g
 s/『σαδηρωθ』/ranks?/g
 s/『σαδουχ』/[NP]/g
 s/『σαδωκ』/[NP]/g
@@ -11379,12 +11379,12 @@ s/『σαεμηρων』/[NP]/g
 s/『σαθαρβουζανα』/[NP]/g
 s/『σαθουρ』/[NP]/g
 s/『σαθραβουζανης』/[NP]/g
-s/『σαθρος』/rotten,<br>decayed/g
-s/『σαθροω』/to make feeble,<br>to weaken/g
+s/『σαθρος』/rotten;<br>decayed/g
+s/『σαθροω』/make feeble;<br>weaken/g
 s/『σαιζα』/[NP]/g
 s/『σαις』/[NP]/g
 s/『σακαριμ』/[NP]/g
-s/『σακκος』/sackcloth,<br>a sack/g
+s/『σακκος』/sackcloth;<br>sack/g
 s/『σακχαρωνα』/[NP]/g
 s/『σαλα』/[NP]/g
 s/『σαλαβιν』/[NP]/g
@@ -11401,7 +11401,7 @@ s/『σαλαμιηλ』/[NP]/g
 s/『σαλαμιν』/[NP]/g
 s/『σαλαμιν\.1』/peace;<br>peace offerings/g
 s/『σαλεμ』/[NP]/g
-s/『σαλευω』/to sway,<br>rock/g
+s/『σαλευω』/sway;<br>rock/g
 s/『σαλεφ』/[NP]/g
 s/『σαλη』/[NP]/g
 s/『σαλημ』/[NP]/g
@@ -11418,12 +11418,12 @@ s/『σαλμαα』/[NP]/g
 s/『σαλμαν』/[NP]/g
 s/『σαλμανα』/[NP]/g
 s/『σαλμων』/[NP]/g
-s/『σαλος』/swaying,<br>rocking/g
+s/『σαλος』/swaying;<br>rocking/g
 s/『σαλουια』/[NP]/g
 s/『σαλουμ』/[NP]/g
 s/『σαλπααδ』/[NP]/g
-s/『σαλπιγξ』/a trumpet/g
-s/『σαλπιζω』/to trumpet,<br>sound the trumpet/g
+s/『σαλπιγξ』/trumpet/g
+s/『σαλπιζω』/trumpet;<br>sound the trumpet/g
 s/『σαλω』/[NP]/g
 s/『σαλωμ』/[NP]/g
 s/『σαλωμιθ』/[NP]/g
@@ -11456,7 +11456,7 @@ s/『σαματος』/[NP]/g
 s/『σαμαχια』/[NP]/g
 s/『σαμαωθ』/[NP]/g
 s/『σαμβρι』/[NP]/g
-s/『σαμβυκη』/a triangular musical instrument with four strings/g
+s/『σαμβυκη』/triangular musical instrument with four strings/g
 s/『σαμεγαρ』/[NP]/g
 s/『σαμερι』/[NP]/g
 s/『σαμες』/[NP]/g
@@ -11486,12 +11486,12 @@ s/『σαναα』/[NP]/g
 s/『σαναας』/[NP]/g
 s/『σαναβαλλατ』/[NP]/g
 s/『σαναβασσαρος』/[NP]/g
-s/『σανδαλιον』/a sandal/g
+s/『σανδαλιον』/sandal/g
 s/『σανεσαρ』/[NP]/g
 s/『σανι』/[NP]/g
 s/『σανιδος』/「σανίδος」/g
-s/『σανιδωμα』/a planking,<br>framework/g
-s/『σανιδωτος』/planked,<br>boarded over/g
+s/『σανιδωμα』/planking;<br>framework/g
+s/『σανιδωτος』/planked;<br>boarded over/g
 s/『σανιρ』/[NP]/g
 s/『σανιωρ』/[NP]/g
 s/『σανσαννα』/[NP]/g
@@ -11502,7 +11502,7 @@ s/『σαουλ\.1』/「σαουλ」/g
 s/『σαουλι』/[NP]/g
 s/『σαουρ』/[NP]/g
 s/『σαπρια』/decay/g
-s/『σαπριζω』/to make rotten or stinking/g
+s/『σαπριζω』/make rotten or stinking/g
 s/『σαπφειρος』/sapphire/g
 s/『σαπφιν』/[NP]/g
 s/『σαρα』/[NP]/g
@@ -11532,8 +11532,8 @@ s/『σαρια』/[NP]/g
 s/『σαριδ』/[NP]/g
 s/『σαριρα』/[NP]/g
 s/『σαριχ』/[NP]/g
-s/『σαρκινος』/made of flesh,<br>fleshy/g
-s/『σαρκοφαγεω』/to eat flesh/g
+s/『σαρκινος』/made of flesh;<br>fleshy/g
+s/『σαρκοφαγεω』/eat flesh/g
 s/『σαρκοφαγια』/eating flesh/g
 s/『σαρξ』/flesh/g
 s/『σαρου』/[NP]/g
@@ -11550,18 +11550,18 @@ s/『σασιμα』/[NP]/g
 s/『σαταν』/[NP]/g
 s/『σατανας』/[NP]/g
 s/『σατι』/[NP]/g
-s/『σατον』/a peck/g
+s/『σατον』/peck/g
 s/『σατραις』/[NP]/g
-s/『σατραπεια』/a satrapy,<br>the office/g
-s/『σατραπης』/a satrap,<br>viceroy/g
-s/『σατραπια』/satrapy,<br>province of a satrap/g
+s/『σατραπεια』/satrapy;<br>office/g
+s/『σατραπης』/satrap;<br>viceroy/g
+s/『σατραπια』/satrapy;<br>province of a satrap/g
 s/『σαττιν』/[NP]/g
 s/『σαυα』/[NP]/g
 s/『σαυας』/[NP]/g
 s/『σαυη』/[NP]/g
 s/『σαυναν』/[NP]/g
 s/『σαυνις』/[NP]/g
-s/『σαυρα』/a lizard/g
+s/『σαυρα』/lizard/g
 s/『σαυχαιος』/[NP]/g
 s/『σαυχιτης』/[NP]/g
 s/『σαφ』/[NP]/g
@@ -11575,7 +11575,7 @@ s/『σαφατ』/[NP]/g
 s/『σαφατια』/[NP]/g
 s/『σαφατιας』/[NP]/g
 s/『σαφεκ』/[NP]/g
-s/『σαφης』/clear,<br>plain/g
+s/『σαφης』/clear;<br>plain/g
 s/『σαφθαβηθαεμεκ』/[NP]/g
 s/『σαφθαιβαιθμε』/[NP]/g
 s/『σαφι』/[NP]/g
@@ -11594,20 +11594,20 @@ s/『σαχερδονος』/[NP]/g
 s/『σαχωλ』/prudence/g
 s/『σαων-εσβι-εμωηδ』/[NP]/g
 s/『σαωχω』/[NP]/g
-s/『σβεννυμι』/to extinguish,<br>quench/g
+s/『σβεννυμι』/extinguish;<br>quench/g
 s/『σβεστικος』/「σβεστικός」/g
 s/『σε\.1』/you/g
 s/『σεαυτου』/of yourself/g
 s/『σεβαμα』/[NP]/g
 s/『σεβανι』/[NP]/g
 s/『σεβανια』/[NP]/g
-s/『σεβασμα』/an object of veneration\/awe/g
+s/『σεβασμα』/object of veneration\/awe/g
 s/『σεβεγων』/[NP]/g
 s/『σεβεε』/[NP]/g
 s/『σεβεκαθα』/[NP]/g
 s/『σεβημα』/[NP]/g
 s/『σεβια』/[NP]/g
-s/『σεβομαι』/to venerate,<br>stand in awe of/g
+s/『σεβομαι』/venerate;<br>stand in awe of/g
 s/『σεβοχα』/[NP]/g
 s/『σεβραιμ』/[NP]/g
 s/『σεβωιμ』/[NP]/g
@@ -11623,15 +11623,15 @@ s/『σεδιουρ』/[NP]/g
 s/『σεδραχ』/[NP]/g
 s/『σεηρα』/[NP]/g
 s/『σεθεννακ』/[NP]/g
-s/『σειρα』/a cord/g
+s/『σειρα』/cord/g
 s/『σειραμ』/[NP]/g
-s/『σειρην』/siren,<br>demon of the dead living in the desert/g
+s/『σειρην』/siren;<br>demon of the dead living in the desert/g
 s/『σειρηνιος』/of a siren/g
-s/『σειρομαστης』/a lance/g
+s/『σειρομαστης』/lance/g
 s/『σειρωθα』/[NP]/g
 s/『σεισμα』/shaking/g
-s/『σεισμος』/an earthquake/g
-s/『σειω』/to shake/g
+s/『σεισμος』/earthquake/g
+s/『σειω』/shake/g
 s/『σεκελα』/[NP]/g
 s/『σεκελακ』/[NP]/g
 s/『σεκλαγ』/[NP]/g
@@ -11648,8 +11648,8 @@ s/『σελευκος』/[NP]/g
 s/『σελεφ』/[NP]/g
 s/『σεληκ』/[NP]/g
 s/『σεληκαν』/[NP]/g
-s/『σεληνη』/the moon/g
-s/『σελις』/a plank/g
+s/『σεληνη』/moon/g
+s/『σελις』/plank/g
 s/『σελλα』/[NP]/g
 s/『σελλημ』/[NP]/g
 s/『σελλημι』/[NP]/g
@@ -11679,7 +11679,7 @@ s/『σεμιραμωθ』/[NP]/g
 s/『σεμιων』/[NP]/g
 s/『σεμμα』/[NP]/g
 s/『σεμμηρ』/[NP]/g
-s/『σεμνολογεω』/to speak gravely/g
+s/『σεμνολογεω』/speak gravely/g
 s/『σεμνος』/dignified/g
 s/『σεμνοτης』/dignity/g
 s/『σεμνως』/with due reverence/g
@@ -11733,7 +11733,7 @@ s/『σηγωρ』/[NP]/g
 s/『σηδανιν』/[NP]/g
 s/『σηθ』/[NP]/g
 s/『σηιρ』/[NP]/g
-s/『σηκος』/a pen,<br>fold/g
+s/『σηκος』/pen;<br>fold/g
 s/『σηλαλεφ』/[NP]/g
 s/『σηλι』/[NP]/g
 s/『σηλω』/[NP]/g
@@ -11742,36 +11742,36 @@ s/『σηλων』/[NP]/g
 s/『σηλωνι』/[NP]/g
 s/『σηλωνιτης』/[NP]/g
 s/『σημ』/[NP]/g
-s/『σημαια』/a standard/g
-s/『σημαινω』/to signify/g
+s/『σημαια』/standard/g
+s/『σημαινω』/signify/g
 s/『σημασια』/signal;<br>mark/g
 s/『σημεα』/「σημέα」/g
 s/『σημειον』/sign/g
-s/『σημειοω』/to signify/g
-s/『σημειωσις』/sign,<br>token/g
-s/『σημερον』/today,<br>present/g
+s/『σημειοω』/signify/g
+s/『σημειωσις』/sign;<br>token/g
+s/『σημερον』/today;<br>present/g
 s/『σην』/[NP]/g
-s/『σηπη』/decay,<br>putrefaction/g
-s/『σηπω』/to rot/g
+s/『σηπη』/decay;<br>putrefaction/g
+s/『σηπω』/rot/g
 s/『σηρων』/[NP]/g
-s/『σης』/a moth/g
+s/『σης』/moth/g
 s/『σητοβρωτον』/「σητόβρωτον」/g
-s/『σηψις』/decay,<br>putrefaction/g
+s/『σηψις』/decay;<br>putrefaction/g
 s/『σηων』/[NP]/g
-s/『σθενος』/strength,<br>might/g
-s/『σθενω』/to have strength/g
+s/『σθενος』/strength;<br>might/g
+s/『σθενω』/have strength/g
 s/『σιαγονιον』/cheek/g
-s/『σιαγων』/the cheek/g
+s/『σιαγων』/cheek/g
 s/『σιαν』/[NP]/g
 s/『σιβα』/[NP]/g
-s/『σιβυνη』/a hunting spear,<br>a spear/g
-s/『σιγαω』/to keep silent/g
+s/『σιβυνη』/hunting spear;<br>spear/g
+s/『σιγαω』/keep silent/g
 s/『σιγη』/silence/g
 s/『σιγηρος』/silent/g
 s/『σιδη』/[NP]/g
 s/『σιδηρεος』/of iron/g
-s/『σιδηριον』/an implement/g
-s/『σιδηροδεσμος』/with bonds of iron,<br>unyielding/g
+s/『σιδηριον』/implement/g
+s/『σιδηροδεσμος』/with bonds of iron;<br>unyielding/g
 s/『σιδηρος』/iron/g
 s/『σιδων』/[NP]/g
 s/『σιδωνιος』/[NP]/g
@@ -11804,116 +11804,116 @@ s/『σιρωνων』/crescents/g
 s/『σισαρα』/[NP]/g
 s/『σισιννης』/[NP]/g
 s/『σισοη』/curl of hair/g
-s/『σιτεομαι』/to take food,<br>eat/g
+s/『σιτεομαι』/take food;<br>eat/g
 s/『σιτευτος』/fattened/g
-s/『σιτιον』/grain,<br>corn: food made from grain/g
-s/『σιτοβολων』/a granary/g
+s/『σιτιον』/grain;<br>corn: food made from grain/g
+s/『σιτοβολων』/granary/g
 s/『σιτοδεια』/want of corn/g
-s/『σιτοδοσια』/an allowance of wheat/g
-s/『σιτομετρεω』/to give a wheat allowance/g
+s/『σιτοδοσια』/allowance of wheat/g
+s/『σιτομετρεω』/give a wheat allowance/g
 s/『σιτοποιος』/of baking/g
 s/『σιτος』/wheat/g
 s/『σιφ』/[NP]/g
 s/『σιων』/[NP]/g
 s/『σιωνα』/[NP]/g
-s/『σιωπαω』/to be still/g
+s/『σιωπαω』/still/g
 s/『σιωπη』/silence/g
-s/『σιωπησις』/covering,<br>veil/g
+s/『σιωπησις』/covering;<br>veil/g
 s/『σιωρ』/[NP]/g
-s/『σκαλλω』/to stir up,<br>hoe/g
+s/『σκαλλω』/stir up;<br>hoe/g
 s/『σκαμβη』/「σκαμβή」/g
-s/『σκανδαλιζω』/to ensnare/g
-s/『σκανδαλον』/a snare/g
-s/『σκαπτω』/to delve,<br>dig/g
-s/『σκαφη』/a skiff/g
+s/『σκανδαλιζω』/ensnare/g
+s/『σκανδαλον』/snare/g
+s/『σκαπτω』/delve;<br>dig/g
+s/『σκαφη』/skiff/g
 s/『σκαφος』/boat/g
 s/『σκεδιαζω』/「σκεδιάζω」/g
-s/『σκελιζω』/to overthrow,<br>to upset/g
-s/『σκελος』/the leg/g
-s/『σκεπαζω』/to shelter/g
+s/『σκελιζω』/overthrow;<br>upset/g
+s/『σκελος』/leg/g
+s/『σκεπαζω』/shelter/g
 s/『σκεπαρνον』/「σκεπάρνον」/g
 s/『σκεπαρνω』/「σκεπάρνῳ」/g
-s/『σκεπασις』/shelter,<br>protection/g
-s/『σκεπαστης』/protector,<br>defender/g
+s/『σκεπασις』/shelter;<br>protection/g
+s/『σκεπαστης』/protector;<br>defender/g
 s/『σκεπεινος』/sheltered/g
 s/『σκεπη』/shelter/g
 s/『σκεπης』/「σκέπης」/g
-s/『σκεπτομαι』/to look carefully for/g
-s/『σκευαζω』/to prepare,<br>make ready/g
-s/『σκευασια』/a preparing,<br>dressing/g
+s/『σκεπτομαι』/look carefully for/g
+s/『σκευαζω』/prepare;<br>make ready/g
+s/『σκευασια』/preparing;<br>dressing/g
 s/『σκευη』/equipment/g
-s/『σκευος』/a vessel,<br>jar/g
-s/『σκηνη』/a tent/g
+s/『σκευος』/vessel;<br>jar/g
+s/『σκηνη』/tent/g
 s/『σκηνοπηγια』/Booths/g
-s/『σκηνος』/a tent/g
-s/『σκηνοω』/to pitch a tent,<br>camp/g
-s/『σκηνωμα』/a camp,<br>tent/g
+s/『σκηνος』/tent/g
+s/『σκηνοω』/pitch a tent;<br>camp/g
+s/『σκηνωμα』/camp;<br>tent/g
 s/『σκηνωσις』/dwelling/g
-s/『σκηπτρον』/a staff/g
-s/『σκια』/shadow,<br>shade/g
-s/『σκιαγραφος』/drawing in light and shade,<br>sketching./g
-s/『σκιαδιον』/fabric roof or sunshade,<br>tilt/g
-s/『σκιαζω』/to overshadow/g
-s/『σκιρταω』/to leap/g
-s/『σκιρτεω』/to leap/g
+s/『σκηπτρον』/staff/g
+s/『σκια』/shadow;<br>shade/g
+s/『σκιαγραφος』/drawing in light and shade;<br>sketching./g
+s/『σκιαδιον』/fabric roof or sunshade;<br>tilt/g
+s/『σκιαζω』/overshadow/g
+s/『σκιρταω』/leap/g
+s/『σκιρτεω』/leap/g
 s/『σκληριαν』/「σκληρίαν」/g
 s/『σκληροκαρδια』/hard-heartedness/g
-s/『σκληροκαρδιος』/hard-hearted,<br>stubborn/g
-s/『σκληρος』/hard,<br>harsh/g
+s/『σκληροκαρδιος』/hard-hearted;<br>stubborn/g
+s/『σκληρος』/hard;<br>harsh/g
 s/『σκληροτης』/hardness/g
 s/『σκληροτραχηλος』/stiff-necked/g
-s/『σκληρυνω』/to harden/g
+s/『σκληρυνω』/harden/g
 s/『σκληρως』/hardly/g
-s/『σκνιψ』/small fly,<br>gnat/g
-s/『σκολιαζω』/to be crooked,<br>to be perverse/g
-s/『σκολιος』/warped,<br>crooked/g
+s/『σκνιψ』/small fly;<br>gnat/g
+s/『σκολιαζω』/crooked;<br>perverse/g
+s/『σκολιος』/warped;<br>crooked/g
 s/『σκολιοτης』/crookedness/g
 s/『σκολιως』/perversely/g
-s/『σκολοψ』/a pale/g
+s/『σκολοψ』/pale/g
 s/『σκοπελον』/mound/g
-s/『σκοπευω』/to keep watch,<br>to watch closely/g
-s/『σκοπεω』/to scope out,<br>look out for/g
-s/『σκοπη』/lookout-place,<br>watchtower/g
-s/『σκοπια』/a lookout-place,<br>a mountain-peak/g
-s/『σκοπος』/focus,<br>aim/g
+s/『σκοπευω』/keep watch;<br>watch closely/g
+s/『σκοπεω』/scope out;<br>look out for/g
+s/『σκοπη』/lookout-place;<br>watchtower/g
+s/『σκοπια』/lookout-place;<br>mountain-peak/g
+s/『σκοπος』/focus;<br>aim/g
 s/『σκορακισμος』/contemptuous behaviour/g
 s/『σκορδον』/garlic/g
 s/『σκορπιδιον』/device for firing or shooting arrows/g
-s/『σκορπιζω』/to scatter/g
-s/『σκορπιος』/a scorpion/g
+s/『σκορπιζω』/scatter/g
+s/『σκορπιος』/scorpion/g
 s/『σκορπισμος』/scattering/g
-s/『σκοταζω』/to become dark,<br>to remain in darkness/g
+s/『σκοταζω』/become dark;<br>remain in darkness/g
 s/『σκοτεινος』/dark/g
 s/『σκοτια』/darkness/g
-s/『σκοτιζω』/to darken/g
-s/『σκοτομηνη』/a moonless night./g
-s/『σκοτος』/the dark/g
-s/『σκοτοω』/to obscure,<br>darken/g
-s/『σκυβαλιζω』/to suffer contempt/g
+s/『σκοτιζω』/darken/g
+s/『σκοτομηνη』/moonless night./g
+s/『σκοτος』/dark/g
+s/『σκοτοω』/obscure;<br>darken/g
+s/『σκυβαλιζω』/suffer contempt/g
 s/『σκυβαλον』/scrap/g
 s/『σκυθαι』/[NP]/g
 s/『σκυθης』/[NP]/g
 s/『σκυθοπολιται』/[NP]/g
-s/『σκυθρωπαζω』/to look angry/g
+s/『σκυθρωπαζω』/look angry/g
 s/『σκυθρωπος』/gloomy/g
 s/『σκυθρωπως』/sullenly/g
-s/『σκυλεια』/act of despoiling,<br>plundering/g
-s/『σκυλευω』/to spoil/g
-s/『σκυλμος』/vexation,<br>cruel treatment/g
+s/『σκυλεια』/act of despoiling;<br>plundering/g
+s/『σκυλευω』/spoil/g
+s/『σκυλμος』/vexation;<br>cruel treatment/g
 s/『σκυλον』/spoil/g
-s/『σκυμνος』/a cub/g
-s/『σκυταλη』/a staff,<br>cudgel/g
-s/『σκωληξ』/a worm/g
-s/『σκωλον』/thorn,<br>prickle/g
-s/『σκωπτω』/to hoot,<br>mock/g
+s/『σκυμνος』/cub/g
+s/『σκυταλη』/staff;<br>cudgel/g
+s/『σκωληξ』/worm/g
+s/『σκωλον』/thorn;<br>prickle/g
+s/『σκωπτω』/hoot;<br>mock/g
 s/『σμαραγδιτης』/emerald/g
-s/『σμαραγδος』/an emerald/g
+s/『σμαραγδος』/emerald/g
 s/『σμηγμα』/soap/g
-s/『σμικρυνω』/to diminish the number of;<br>to reduce/g
-s/『σμιλαξ』/the convolvulus/g
+s/『σμικρυνω』/diminish the number of;<br>reduce/g
+s/『σμιλαξ』/convolvulus/g
 s/『σμιριτης』/emery powder/g
 s/『σμυρνα\.1』/myrrh/g
-s/『σμυρνινος』/of myrrh,<br>made of myrrh/g
+s/『σμυρνινος』/of myrrh;<br>made of myrrh/g
 s/『σοβακ』/[NP]/g
 s/『σοβαλ』/[NP]/g
 s/『σοβνια』/[NP]/g
@@ -11923,7 +11923,7 @@ s/『σοδομιται』/[NP]/g
 s/『σοδομιτης』/[NP]/g
 s/『σοδομων』/[NP]/g
 s/『σοηνη』/[NP]/g
-s/『σοι』/to you/g
+s/『σοι』/you/g
 s/『σοκχωθ』/[NP]/g
 s/『σοκχωθα』/[NP]/g
 s/『σοκχωθβαινιθ』/[NP]/g
@@ -11940,10 +11940,10 @@ s/『σοομ』/carnelian/g
 s/『σορ』/[NP]/g
 s/『σορε』/[NP]/g
 s/『σορος』/[NP]/g
-s/『σορος\.1』/a coffin/g
+s/『σορος\.1』/coffin/g
 s/『σος』/your/g
 s/『σοσομαι』/[NP]/g
-s/『σου』/of you,<br>your/g
+s/『σου』/of you;<br>your/g
 s/『σουα』/[NP]/g
 s/『σουαλ』/[NP]/g
 s/『σουβα』/[NP]/g
@@ -11980,641 +11980,641 @@ s/『σουφ』/[NP]/g
 s/『σουφι』/[NP]/g
 s/『σουφιρ』/[NP]/g
 s/『σοφια』/wisdom/g
-s/『σοφιζω』/to make wise,<br>sophisticated/g
-s/『σοφιστης』/a master of one's craft/g
+s/『σοφιζω』/make wise;<br>sophisticated/g
+s/『σοφιστης』/master of one's craft/g
 s/『σοφονιας』/[NP]/g
 s/『σοφος』/wise/g
 s/『σοφως』/wisely/g
 s/『σοχοχα』/[NP]/g
-s/『σπαδων』/a eunuch/g
-s/『σπαιρω』/to gasp/g
+s/『σπαδων』/eunuch/g
+s/『σπαιρω』/gasp/g
 s/『σπανια』/[NP]/g
-s/『σπανιζω』/to be rare,<br>scarce/g
-s/『σπανιος』/rare,<br>scarce/g
-s/『σπανις』/scarcity,<br>rareness/g
-s/『σπαρασσω』/to mangle/g
-s/『σπαργανον』/a swathing band/g
-s/『σπαργανοω』/to bundle up/g
+s/『σπανιζω』/rare;<br>scarce/g
+s/『σπανιος』/rare;<br>scarce/g
+s/『σπανις』/scarcity;<br>rareness/g
+s/『σπαρασσω』/mangle/g
+s/『σπαργανον』/swathing band/g
+s/『σπαργανοω』/bundle up/g
 s/『σπαρτη』/[NP]/g
 s/『σπαρτιαται』/[NP]/g
-s/『σπαρτιον』/a cord/g
-s/『σπασμος』/a convulsion,<br>spasm/g
-s/『σπαταλαω』/to be self-gratifying/g
-s/『σπαταλη』/lewdness,<br>wantonness/g
-s/『σπαω』/to draw/g
-s/『σπειρα』/a band,<br>company/g
+s/『σπαρτιον』/cord/g
+s/『σπασμος』/convulsion;<br>spasm/g
+s/『σπαταλαω』/self-gratifying/g
+s/『σπαταλη』/lewdness;<br>wantonness/g
+s/『σπαω』/draw/g
+s/『σπειρα』/band;<br>company/g
 s/『σπειρηδον』/in coils/g
-s/『σπειρω』/to sow/g
-s/『σπενδω』/to make a libation\/drink-offering,<br>pour out/g
+s/『σπειρω』/sow/g
+s/『σπενδω』/make a libation\/drink-offering;<br>pour out/g
 s/『σπερμα』/seed/g
-s/『σπερματιζω』/to go to seed,<br>to seed/g
+s/『σπερματιζω』/go to seed;<br>seed/g
 s/『σπερματισμος』/insemination/g
-s/『σπευδω』/to hurry/g
-s/『σπηλαιον』/a cave/g
-s/『σπιθαμη』/the space one can span with the thumb and little finger,<br>a span/g
-s/『σπιλοω』/to stain/g
-s/『σπινθηρ』/a spark/g
+s/『σπευδω』/hurry/g
+s/『σπηλαιον』/cave/g
+s/『σπιθαμη』/space one can span with the thumb and little finger;<br>span/g
+s/『σπιλοω』/stain/g
+s/『σπινθηρ』/spark/g
 s/『σπλαγχνιζω』/「σπλαγχνίζω」/g
-s/『σπλαγχνισμος』/the eating of internal organs of a sacrificial victim or pagan sacrifices/g
-s/『σπλαγχνον』/sensitivity,<br>innards/g
+s/『σπλαγχνισμος』/eating of internal organs of a sacrificial victim or pagan sacrifices/g
+s/『σπλαγχνον』/sensitivity;<br>innards/g
 s/『σπλαγχνοφαγος』/eating internal organs of a sacrificial victim/g
-s/『σποδια』/a heap of ashes,<br>ashes/g
+s/『σποδια』/heap of ashes;<br>ashes/g
 s/『σποδοειδης』/ashy/g
 s/『σποδος』/ashes/g
 s/『σποδοω』/「σποδόω」/g
 s/『σπονδειον』/cup or bowl from which the drink offering was poured/g
-s/『σπονδη』/a drink-offering/g
+s/『σπονδη』/drink-offering/g
 s/『σπονδυλος』/「σπόνδυλος」/g
 s/『σπορα』/sowing/g
 s/『σποριμον』/「σπόριμον」/g
-s/『σποριμος』/a grain field,<br>sown/g
+s/『σποριμος』/grain field;<br>sown/g
 s/『σπορος』/grain/g
-s/『σπουδαζω』/to be diligent/g
+s/『σπουδαζω』/diligent/g
 s/『σπουδαιος』/diligent/g
-s/『σπουδαιοτης』/earnestness,<br>care displayed/g
+s/『σπουδαιοτης』/earnestness;<br>care displayed/g
 s/『σπουδαιως』/diligently/g
-s/『σπουδη』/diligence,<br>haste/g
-s/『σταγων』/a drop/g
-s/『σταδιον』/a tenth of a mile/g
-s/『σταζω』/to drop,<br>let fall/g
+s/『σπουδη』/diligence;<br>haste/g
+s/『σταγων』/drop/g
+s/『σταδιον』/tenth of a mile/g
+s/『σταζω』/drop;<br>let fall/g
 s/『σταθμιον』/「σταθμίον」/g
 s/『σταθμος』/weight/g
 s/『σταθμποω』/「σταθμπόω」/g
 s/『σταις』/flour of spelt mixed and made into dough/g
 s/『στακτη』/myrrh oil/g
-s/『σταλαγμος』/a dropping,<br>dripping/g
-s/『σταλαζω』/to drop,<br>to drip/g
-s/『σταμνος』/a jug/g
-s/『στασιαζω』/to rebel,<br>revolt/g
-s/『στασιμος』/standing,<br>stationary/g
-s/『στασις』/a stance,<br>standoff/g
-s/『σταυροω』/to crucify/g
-s/『σταφις』/stavesacre,<br>Delphinium Staphisagria/g
+s/『σταλαγμος』/dropping;<br>dripping/g
+s/『σταλαζω』/drop;<br>drip/g
+s/『σταμνος』/jug/g
+s/『στασιαζω』/rebel;<br>revolt/g
+s/『στασιμος』/standing;<br>stationary/g
+s/『στασις』/stance;<br>standoff/g
+s/『σταυροω』/crucify/g
+s/『σταφις』/stavesacre;<br>Delphinium Staphisagria/g
 s/『σταφυλη』/grapes/g
-s/『σταχυς\.1』/a head of grain/g
-s/『στεαρ』/suet,<br>dough/g
-s/『στεατοομαι』/to be fatted/g
-s/『στεγαζω』/to cover/g
-s/『στεγη』/a roof/g
+s/『σταχυς\.1』/head of grain/g
+s/『στεαρ』/suet;<br>dough/g
+s/『στεατοομαι』/fatted/g
+s/『στεγαζω』/cover/g
+s/『στεγη』/roof/g
 s/『στεγνος』/waterproof/g
-s/『στεγω』/to cover,<br>resist/g
+s/『στεγω』/cover;<br>resist/g
 s/『στειρος』/barren/g
-s/『στειροω』/to prove barren,<br>to be childless/g
-s/『στελεχος』/a trunk/g
-s/『στελλω』/to post,<br>send/g
+s/『στειροω』/prove barren;<br>childless/g
+s/『στελεχος』/trunk/g
+s/『στελλω』/post;<br>send/g
 s/『στεμφυλον』/「στεμφυλόν」/g
-s/『στεναγμος』/a groaning/g
-s/『στεναζω』/to groan/g
-s/『στενακτος』/to be mourned,<br>giving cause for grief/g
-s/『στενος』/narrow,<br>a strait/g
+s/『στεναγμος』/groaning/g
+s/『στεναζω』/groan/g
+s/『στενακτος』/mourned;<br>giving cause for grief/g
+s/『στενος』/narrow;<br>strait/g
 s/『στενοτητα』/「στενότητα」/g
-s/『στενοχωρεω』/to distress/g
+s/『στενοχωρεω』/distress/g
 s/『στενοχωρια』/distress/g
-s/『στενω』/to moan/g
-s/『στενως』/presenting a threat,<br>offering difficulties/g
-s/『στεργω』/to love/g
+s/『στενω』/moan/g
+s/『στενως』/presenting a threat;<br>offering difficulties/g
+s/『στεργω』/love/g
 s/『στερεος』/solid/g
-s/『στερεοω』/to make solid,<br>solidify/g
-s/『στερεωμα』/solidity,<br>a solid/g
+s/『στερεοω』/make solid;<br>solidify/g
+s/『στερεωμα』/solidity;<br>solid/g
 s/『στερεωσις』/obstinacy/g
-s/『στερισκω』/to deprive/g
-s/『στερνον』/the breast,<br>chest/g
+s/『στερισκω』/deprive/g
+s/『στερνον』/breast;<br>chest/g
 s/『στεφανη』/anything that encircles/g
-s/『στεφανηφορεω』/to wear a wreath/g
-s/『στεφανος\.1』/a wreath,<br>laurel/g
-s/『στεφανοω』/to laurel/g
+s/『στεφανηφορεω』/wear a wreath/g
+s/『στεφανος\.1』/wreath;<br>laurel/g
+s/『στεφανοω』/laurel/g
 s/『στεφανω』/「στεφάνω」/g
-s/『στεφος』/a crown,<br>wreath/g
-s/『στεφω』/to put round/g
-s/『στηθοδεσμις』/breastband,<br>girdle/g
+s/『στεφος』/crown;<br>wreath/g
+s/『στεφω』/put round/g
+s/『στηθοδεσμις』/breastband;<br>girdle/g
 s/『στηθος』/chest/g
 s/『στηθυνιον』/breast/g
-s/『στηκω』/to stand/g
-s/『στηλη』/a block,<br>post/g
+s/『στηκω』/stand/g
+s/『στηλη』/block;<br>post/g
 s/『στηλογραφια』/inscription or title/g
-s/『στηλοω』/to set up as a monument/g
-s/『στημων』/the warp/g
+s/『στηλοω』/set up as a monument/g
+s/『στημων』/warp/g
 s/『στηρ』/fat/g
-s/『στηριγμα』/a support/g
-s/『στηριζω』/to steady,<br>be steadfast/g
+s/『στηριγμα』/support/g
+s/『στηριζω』/steady;<br>steadfast/g
 s/『στιβαρος』/stout/g
 s/『στιβαρως』/stoutly/g
 s/『στιβι』/stibium/g
 s/『στιβιζω』/「στιβίζω」/g
-s/『στιγμα』/a puncture/g
-s/『στιγμη』/an instant/g
+s/『στιγμα』/puncture/g
+s/『στιγμη』/instant/g
 s/『στικτος』/punctured/g
-s/『στιλβω』/to glisten/g
+s/『στιλβω』/glisten/g
 s/『στιλβων』/「στίλβων」/g
-s/『στιλβωσις』/gleam,<br>shining/g
+s/『στιλβωσις』/gleam;<br>shining/g
 s/『στιμιζω』/「στιμίζω」/g
 s/『στιππινος』/「στίππινος」/g
-s/『στιππυον』/the coarse fibre of flax or hemp,<br>tow/g
-s/『στιχιζω』/to be arranged in a row/g
-s/『στιχος』/a row/g
-s/『στοα』/an arcade/g
-s/『στοιβαζω』/to pile up,<br>pack together/g
-s/『στοιβη』/a cushion/g
-s/『στοιχειον』/the elements/g
-s/『στοιχειωσις』/elementary exposition,<br>fashion of the elements/g
-s/『στοιχεω』/to align/g
-s/『στολη』/a robe/g
-s/『στολιζω』/to put in trim/g
-s/『στολισμος』/clothing,<br>outfit/g
-s/『στολιστης』/who had charge of the sacred vestments,<br>the keeper of the sacred robes/g
-s/『στολος』/an equipment/g
-s/『στομα』/mouth,<br>edge/g
-s/『στομωμα』/a mouth,<br>entrance/g
-s/『στοργη』/love,<br>affection/g
+s/『στιππυον』/coarse fibre of flax or hemp;<br>tow/g
+s/『στιχιζω』/arranged in a row/g
+s/『στιχος』/row/g
+s/『στοα』/arcade/g
+s/『στοιβαζω』/pile up;<br>pack together/g
+s/『στοιβη』/cushion/g
+s/『στοιχειον』/elements/g
+s/『στοιχειωσις』/elementary exposition;<br>fashion of the elements/g
+s/『στοιχεω』/align/g
+s/『στολη』/robe/g
+s/『στολιζω』/put in trim/g
+s/『στολισμος』/clothing;<br>outfit/g
+s/『στολιστης』/who had charge of the sacred vestments;<br>keeper of the sacred robes/g
+s/『στολος』/equipment/g
+s/『στομα』/mouth;<br>edge/g
+s/『στομωμα』/mouth;<br>entrance/g
+s/『στοργη』/love;<br>affection/g
 s/『στορνυμι』/「στόρνυμι」/g
-s/『στοχαζομαι』/to aim/g
+s/『στοχαζομαι』/aim/g
 s/『στοχαζω』/「στοχάζω」/g
-s/『στοχαστης』/conjecturer,<br>diviner/g
+s/『στοχαστης』/conjecturer;<br>diviner/g
 s/『στραγγαλαομαι』/「στραγγαλάομαι」/g
 s/『στραγγαλια』/knot/g
 s/『στραγγαλις』/chain/g
 s/『στραγγαλοομαι』/「στραγγαλόομαι」/g
-s/『στραγγαλωδης』/knotted,<br>tortuous/g
-s/『στραγγιζω』/to squeeze out/g
-s/『στρατεια』/a campaign,<br>war/g
-s/『στρατευμα』/a campaign,<br>a soldier/g
-s/『στρατευω』/to campaign,<br>soldier/g
-s/『στρατηγεω』/to be general/g
-s/『στρατηγημα』/strategem,<br>trick/g
-s/『στρατηγια』/the office,<br>dignity/g
-s/『στρατηγος』/a general/g
-s/『στρατια』/an army/g
-s/『στρατιωτης』/a soldier/g
+s/『στραγγαλωδης』/knotted;<br>tortuous/g
+s/『στραγγιζω』/squeeze out/g
+s/『στρατεια』/campaign;<br>war/g
+s/『στρατευμα』/campaign;<br>soldier/g
+s/『στρατευω』/campaign;<br>soldier/g
+s/『στρατηγεω』/general/g
+s/『στρατηγημα』/strategem;<br>trick/g
+s/『στρατηγια』/office;<br>dignity/g
+s/『στρατηγος』/general/g
+s/『στρατια』/army/g
+s/『στρατιωτης』/soldier/g
 s/『στρατιωτις』/soldier/g
 s/『στρατοκηρυξ』/herald of the army/g
 s/『στρατοπεδεια』/encampment/g
-s/『στρατοπεδευω』/to bivouac/g
-s/『στρατοπεδον』/a bivouac/g
-s/『στρατος』/an encamped army/g
-s/『στρεβλη』/rack,<br>instrument of torture/g
-s/『στρεβλος』/twisted,<br>crooked/g
-s/『στρεβλοω』/to stretch/g
+s/『στρατοπεδευω』/bivouac/g
+s/『στρατοπεδον』/bivouac/g
+s/『στρατος』/encamped army/g
+s/『στρεβλη』/rack;<br>instrument of torture/g
+s/『στρεβλος』/twisted;<br>crooked/g
+s/『στρεβλοω』/stretch/g
 s/『στρεβλωτηριον』/rack/g
-s/『στρεμμα』/a wrench,<br>strain/g
-s/『στρεπτος』/flexible,<br>pliant/g
+s/『στρεμμα』/wrench;<br>strain/g
+s/『στρεπτος』/flexible;<br>pliant/g
 s/『στρερεω』/「στρερέω」/g
-s/『στρεφω』/to turn,<br>be turned around/g
+s/『στρεφω』/turn;<br>turned around/g
 s/『στρηνος』/wantonness/g
 s/『στριφνος』/hard or tough meat/g
-s/『στροβεω』/to twist,<br>twirl/g
+s/『στροβεω』/twist;<br>twirl/g
 s/『στρογγυλον』/「στρογγύλον」/g
-s/『στρογγυλος』/round,<br>spherical/g
-s/『στρουθιον』/a little sparrow/g
-s/『στρουθος』/the sparrow/g
-s/『στροφευς』/the socket/g
-s/『στροφη』/a turning/g
-s/『στροφιγξ』/the pivot,<br>axle/g
-s/『στροφος』/a twisted band/g
+s/『στρογγυλος』/round;<br>spherical/g
+s/『στρουθιον』/little sparrow/g
+s/『στρουθος』/sparrow/g
+s/『στροφευς』/socket/g
+s/『στροφη』/turning/g
+s/『στροφιγξ』/pivot;<br>axle/g
+s/『στροφος』/twisted band/g
 s/『στροφωτος』/turning on pivots/g
 s/『στρωμα』/anything spread/g
-s/『στρωμνη』/a bed spread/g
-s/『στρωννυμι』/to spread,<br>make a bed/g
-s/『στυγεω』/to hate,<br>abominate/g
-s/『στυγναζω』/to be gloomy/g
-s/『στυγνος』/hated,<br>abhorred/g
-s/『στυλος』/a pillar/g
+s/『στρωμνη』/bed spread/g
+s/『στρωννυμι』/spread;<br>make a bed/g
+s/『στυγεω』/hate;<br>abominate/g
+s/『στυγναζω』/gloomy/g
+s/『στυγνος』/hated;<br>abhorred/g
+s/『στυλος』/pillar/g
 s/『στυρακινος』/made of storax/g
 s/『συ』/you/g
 s/『συβαι』/[NP]/g
-s/『συγγελαω』/to laugh with sb/g
+s/『συγγελαω』/laugh with sb/g
 s/『συγγενεια』/relatives/g
-s/『συγγενης』/a relative/g
-s/『συγγινομαι』/to get acquainted with/g
+s/『συγγενης』/relative/g
+s/『συγγινομαι』/get acquainted with/g
 s/『συγγινωσκω』/「συγγινώσκω」/g
 s/『συγγνωμη』/consent/g
 s/『συγγνωμονεω』/「συγγνωμονέω」/g
-s/『συγγνωστος』/to be pardoned,<br>pardonable/g
-s/『συγγραφευς』/one who collects and writes down historic facts,<br>an historian/g
-s/『συγγραφη』/a writing/g
-s/『συγγραφω』/to write/g
-s/『συγγυμνασια』/shared training,<br>training together/g
-s/『συγκαθημαι』/to sit together/g
-s/『συγκαθιζω』/to sit down together\/with/g
-s/『συγκαθυφαινω』/to be interwoven/g
-s/『συγκαιω』/to burn up/g
-s/『συγκαλεω』/to call together/g
-s/『συγκαλυμμα』/covering,<br>protection/g
-s/『συγκαλυπτω』/to conceal/g
-s/『συγκαμπτω』/to bend together\/over/g
-s/『συγκαταβαινω』/to step down together/g
+s/『συγγνωστος』/pardoned;<br>pardonable/g
+s/『συγγραφευς』/one who collects and writes down historic facts;<br>historian/g
+s/『συγγραφη』/writing/g
+s/『συγγραφω』/write/g
+s/『συγγυμνασια』/shared training;<br>training together/g
+s/『συγκαθημαι』/sit together/g
+s/『συγκαθιζω』/sit down together\/with/g
+s/『συγκαθυφαινω』/interwoven/g
+s/『συγκαιω』/burn up/g
+s/『συγκαλεω』/call together/g
+s/『συγκαλυμμα』/covering;<br>protection/g
+s/『συγκαλυπτω』/conceal/g
+s/『συγκαμπτω』/bend together\/over/g
+s/『συγκαταβαινω』/step down together/g
 s/『συγκαταγηραω』/「συγκαταγηράω」/g
-s/『συγκατακληρονομεομαι』/to inherit with,<br>to receive a common inheritance with sb/g
-s/『συγκαταμιγνυμι』/to mix in with,<br>mingle/g
-s/『συγκατατιθεμαι』/to consent to/g
-s/『συγκαταφερω』/to bear down together/g
-s/『συγκατεσθιω』/to eat up,<br>devour with/g
-s/『συγκειμαι』/to lie together/g
-s/『συγκεντεω』/to pierce together,<br>to stab at once/g
-s/『συγκεραννυμι』/to commingle,<br>compose/g
-s/『συγκερατιζομαι』/to fight with the horns on the side of sb/g
-s/『συγκεραυνοω』/to strike with/g
+s/『συγκατακληρονομεομαι』/inherit with;<br>receive a common inheritance with sb/g
+s/『συγκαταμιγνυμι』/mix in with;<br>mingle/g
+s/『συγκατατιθεμαι』/consent to/g
+s/『συγκαταφερω』/bear down together/g
+s/『συγκατεσθιω』/eat up;<br>devour with/g
+s/『συγκειμαι』/lie together/g
+s/『συγκεντεω』/pierce together;<br>stab at once/g
+s/『συγκεραννυμι』/commingle;<br>compose/g
+s/『συγκερατιζομαι』/fight with the horns on the side of sb/g
+s/『συγκεραυνοω』/strike with/g
 s/『συγκλαζω』/「συγκλάζω」/g
-s/『συγκλαιω』/to weep with/g
+s/『συγκλαιω』/weep with/g
 s/『συγκλασμος』/breaking/g
-s/『συγκλαω』/to break off/g
+s/『συγκλαω』/break off/g
 s/『συγκλεισμα』/rim/g
-s/『συγκλεισμος』/closed place,<br>refuge/g
+s/『συγκλεισμος』/closed place;<br>refuge/g
 s/『συγκλειστον』/「σύγκλειστον」/g
 s/『συγκλειστος』/「σύγκλειστος」/g
-s/『συγκλειω』/to confine,<br>catch/g
-s/『συγκληρονομεω』/to be joint heir,<br>to be heir with/g
-s/『συγκλητος』/called together,<br>summoned/g
-s/『συγκλυζω』/to wash over,<br>to overwhelm/g
+s/『συγκλειω』/confine;<br>catch/g
+s/『συγκληρονομεω』/joint heir;<br>heir with/g
+s/『συγκλητος』/called together;<br>summoned/g
+s/『συγκλυζω』/wash over;<br>overwhelm/g
 s/『συγκοιτος』/「συγκοίτος」/g
-s/『συγκολλαω』/to glue/g
-s/『συγκομιζω』/to obtain together,<br>gather up/g
-s/『συγκοπτω』/to cut up/g
-s/『συγκρασις』/a mixing together,<br>commixture/g
-s/『συγκριμα』/composition,<br>concert/g
-s/『συγκρινω』/to compare,<br>interpret/g
-s/『συγκρισις』/an interpretation/g
-s/『συγκροτεω』/to strike together/g
-s/『συγκρουσμος』/collision,<br>clashing together/g
-s/『συγκρυπτω』/to cover up/g
-s/『συγκρυφω』/to cover,<br>to hide/g
-s/『συγκτιζω』/to join with/g
-s/『συγκυπτω』/to stoop together\/over/g
+s/『συγκολλαω』/glue/g
+s/『συγκομιζω』/obtain together;<br>gather up/g
+s/『συγκοπτω』/cut up/g
+s/『συγκρασις』/mixing together;<br>commixture/g
+s/『συγκριμα』/composition;<br>concert/g
+s/『συγκρινω』/compare;<br>interpret/g
+s/『συγκρισις』/interpretation/g
+s/『συγκροτεω』/strike together/g
+s/『συγκρουσμος』/collision;<br>clashing together/g
+s/『συγκρυπτω』/cover up/g
+s/『συγκρυφω』/cover;<br>hide/g
+s/『συγκτιζω』/join with/g
+s/『συγκυπτω』/stoop together\/over/g
 s/『συγκυροω』/「συγκυρόω」/g
-s/『συγχαιρω』/to congratulate/g
-s/『συγχεω』/to confuse,<br>confound/g
-s/『συγχρονιζω』/to spend time,<br>to continue/g
+s/『συγχαιρω』/congratulate/g
+s/『συγχεω』/confuse;<br>confound/g
+s/『συγχρονιζω』/spend time;<br>continue/g
 s/『συγχυσις』/confusion/g
-s/『συγχωρεω』/to come together,<br>meet/g
+s/『συγχωρεω』/come together;<br>meet/g
 s/『συγχωρητεον』/「συγχωρητέον」/g
-s/『συζευγνυμι』/to yoke together/g
+s/『συζευγνυμι』/yoke together/g
 s/『συζηγης』/「συζηγής」/g
-s/『συζωννυμι』/to gird/g
+s/『συζωννυμι』/gird/g
 s/『συηνη』/[NP]/g
-s/『συκαμινον』/the fruit of the/g
-s/『συκαμινος』/a mulberry tree/g
-s/『συκη』/a fig tree/g
-s/『συκον』/a fig/g
-s/『συκοφαντεω』/to inform against,<br>extort/g
-s/『συκοφαντης』/a false accuser,<br>slanderer/g
+s/『συκαμινον』/fruit of the/g
+s/『συκαμινος』/mulberry tree/g
+s/『συκη』/fig tree/g
+s/『συκον』/fig/g
+s/『συκοφαντεω』/inform against;<br>extort/g
+s/『συκοφαντης』/false accuser;<br>slanderer/g
 s/『συκοφαντια』/false accusation;<br>oppression/g
 s/『συκων』/fig yard/g
-s/『συλαω』/to rob/g
-s/『συλλαλεω』/to converse,<br>confer/g
-s/『συλλαμβανω』/to take hold of,<br>conceive/g
-s/『συλλεγω』/to collect/g
+s/『συλαω』/rob/g
+s/『συλλαλεω』/converse;<br>confer/g
+s/『συλλαμβανω』/take hold of;<br>conceive/g
+s/『συλλεγω』/collect/g
 s/『συλλημ』/[NP]/g
-s/『συλληψις』/a taking together: a seizing,<br>arresting/g
-s/『συλλογη』/a gathering,<br>collecting/g
-s/『συλλογιζομαι』/to take account together,<br>infer/g
+s/『συλληψις』/taking together: a seizing;<br>arresting/g
+s/『συλλογη』/gathering;<br>collecting/g
+s/『συλλογιζομαι』/take account together;<br>infer/g
 s/『συλλογισμος』/computation/g
-s/『συλλοιδορεω』/to join in reviling/g
-s/『συλλοχαω』/to gather,<br>to recruit/g
-s/『συλλοχισμος』/muster roll,<br>enrollment/g
-s/『συλλυπεω』/to grieve altogether/g
-s/『συλλυω』/to help in loosing/g
+s/『συλλοιδορεω』/join in reviling/g
+s/『συλλοχαω』/gather;<br>recruit/g
+s/『συλλοχισμος』/muster roll;<br>enrollment/g
+s/『συλλυπεω』/grieve altogether/g
+s/『συλλυω』/help in loosing/g
 s/『συμαερ』/[NP]/g
 s/『συμαερι』/[NP]/g
 s/『συμαριμ』/[NP]/g
-s/『συμβαινω』/to converge,<br>occur/g
-s/『συμβαλλω』/to conjecture,<br>join/g
-s/『συμβασταζω』/to be compared with/g
-s/『συμβιβαζω』/to conclude,<br>reconcile/g
-s/『συμβιοω』/to live with/g
-s/『συμβιωσις』/living with,<br>shared life/g
-s/『συμβιωτης』/companion,<br>confidant/g
-s/『συμβλημα』/juncture,<br>seam/g
-s/『συμβλησις』/juncture,<br>seam/g
+s/『συμβαινω』/converge;<br>occur/g
+s/『συμβαλλω』/conjecture;<br>join/g
+s/『συμβασταζω』/compared with/g
+s/『συμβιβαζω』/conclude;<br>reconcile/g
+s/『συμβιοω』/live with/g
+s/『συμβιωσις』/living with;<br>shared life/g
+s/『συμβιωτης』/companion;<br>confidant/g
+s/『συμβλημα』/juncture;<br>seam/g
+s/『συμβλησις』/juncture;<br>seam/g
 s/『συμβοηθος』/assisting/g
-s/『συμβολη』/a coming together,<br>meeting/g
-s/『συμβολοκοπεω』/to share in meals or parties,<br>to revel/g
-s/『συμβολον』/a sign/g
-s/『συμβοσκομαι』/to feed with,<br>to graze with/g
-s/『συμβουλευτης』/adviser,<br>counsellor/g
-s/『συμβουλευω』/to advise,<br>intend/g
+s/『συμβολη』/coming together;<br>meeting/g
+s/『συμβολοκοπεω』/share in meals or parties;<br>revel/g
+s/『συμβολον』/sign/g
+s/『συμβοσκομαι』/feed with;<br>graze with/g
+s/『συμβουλευτης』/adviser;<br>counsellor/g
+s/『συμβουλευω』/advise;<br>intend/g
 s/『συμβουλια』/advice/g
-s/『συμβουλιον』/advisement,<br>council/g
+s/『συμβουλιον』/advisement;<br>council/g
 s/『συμβουλος』/advisor/g
-s/『συμβραβευω』/to be assessor with,<br>to become fellow arbitrator/g
+s/『συμβραβευω』/assessor with;<br>become fellow arbitrator/g
 s/『συμεων』/[NP]/g
-s/『συμμαχεω』/to be an ally,<br>to be in alliance/g
-s/『συμμαχια』/an alliance offensive and defensive/g
-s/『συμμαχομαι』/to fight along with/g
-s/『συμμαχος』/fighting along with,<br>allied with/g
-s/『συμμετεχω』/to partake of/g
+s/『συμμαχεω』/an ally;<br>in alliance/g
+s/『συμμαχια』/alliance offensive and defensive/g
+s/『συμμαχομαι』/fight along with/g
+s/『συμμαχος』/fighting along with;<br>allied with/g
+s/『συμμετεχω』/partake of/g
 s/『συμμετρια』/commensurability/g
 s/『συμμετρος』/commensurate with/g
-s/『συμμιαινω』/to be defiled with/g
-s/『συμμιγης』/commingled,<br>promiscuous/g
-s/『συμμιγνυμι』/to mix together,<br>commingle/g
-s/『συμμικτος』/commingled,<br>promiscuous/g
+s/『συμμιαινω』/defiled with/g
+s/『συμμιγης』/commingled;<br>promiscuous/g
+s/『συμμιγνυμι』/mix together;<br>commingle/g
+s/『συμμικτος』/commingled;<br>promiscuous/g
 s/『συμμιξις』/commixture/g
-s/『συμμισγω』/to meet/g
-s/『συμμισοπονηρεω』/to feel common hatred of what is bad/g
-s/『συμμολυνω』/to defile oneself/g
+s/『συμμισγω』/meet/g
+s/『συμμισοπονηρεω』/feel common hatred of what is bad/g
+s/『συμμολυνω』/defile oneself/g
 s/『συμοβορ』/[NP]/g
 s/『συμοων』/[NP]/g
-s/『συμπαθεια』/fellow-feeling,<br>sympathy/g
-s/『συμπαθεω』/to sympathesize/g
+s/『συμπαθεια』/fellow-feeling;<br>sympathy/g
+s/『συμπαθεω』/sympathesize/g
 s/『συμπαθης』/sympathetic/g
-s/『συμπαιζω』/to play/g
-s/『συμπαραγινομαι』/to come by together/g
-s/『συμπαραλαμβανω』/to take along with/g
-s/『συμπαραμενω』/to linger together/g
-s/『συμπαρειμι』/to be here with/g
-s/『συμπαριστημι』/to place beside one also/g
-s/『συμπας』/all together,<br>all at once/g
-s/『συμπασχω』/to experience together/g
-s/『συμπατεω』/to tread together,<br>trample under foot/g
-s/『συμπειθω』/to join/g
-s/『συμπεραινω』/to finish off/g
-s/『συμπεριλαμβανω』/to embrace/g
-s/『συμπεριφερω』/to carry round along with/g
-s/『συμπινω』/to drink with/g
-s/『συμπιπτω』/to collapse/g
-s/『συμπλεκτος』/plaited,<br>woven together/g
-s/『συμπλεκω』/to twine together/g
-s/『συμπληροω』/to fill up,<br>fulfill/g
-s/『συμπληρωσις』/fulfilment,<br>completion/g
+s/『συμπαιζω』/play/g
+s/『συμπαραγινομαι』/come by together/g
+s/『συμπαραλαμβανω』/take along with/g
+s/『συμπαραμενω』/linger together/g
+s/『συμπαρειμι』/here with/g
+s/『συμπαριστημι』/place beside one also/g
+s/『συμπας』/all together;<br>all at once/g
+s/『συμπασχω』/experience together/g
+s/『συμπατεω』/tread together;<br>trample under foot/g
+s/『συμπειθω』/join/g
+s/『συμπεραινω』/finish off/g
+s/『συμπεριλαμβανω』/embrace/g
+s/『συμπεριφερω』/carry round along with/g
+s/『συμπινω』/drink with/g
+s/『συμπιπτω』/collapse/g
+s/『συμπλεκτος』/plaited;<br>woven together/g
+s/『συμπλεκω』/twine together/g
+s/『συμπληροω』/fill up;<br>fulfill/g
+s/『συμπληρωσις』/fulfilment;<br>completion/g
 s/『συμπλοκων』/「συμπλοκῶν」/g
-s/『συμποδιζω』/to tie the feet together/g
-s/『συμποιεω』/to help in doing/g
-s/『συμπολεμεω』/to join in war/g
-s/『συμπονεω』/to work with/g
-s/『συμπορευομαι』/to converge,<br>travel with/g
-s/『συμπορπαομαι』/to be fastened or pinned together/g
-s/『συμποσια』/a drinking together/g
-s/『συμποσιον』/a party/g
-s/『συμποτης』/a fellow-drinker,<br>boon-companion/g
-s/『συμπραγματευομαι』/to assist in transacting/g
-s/『συμπροπεμπω』/to join in escorting/g
+s/『συμποδιζω』/tie the feet together/g
+s/『συμποιεω』/help in doing/g
+s/『συμπολεμεω』/join in war/g
+s/『συμπονεω』/work with/g
+s/『συμπορευομαι』/converge;<br>travel with/g
+s/『συμπορπαομαι』/fastened together;<br>pinned together/g
+s/『συμποσια』/drinking together/g
+s/『συμποσιον』/party/g
+s/『συμποτης』/fellow-drinker;<br>boon-companion/g
+s/『συμπραγματευομαι』/assist in transacting/g
+s/『συμπροπεμπω』/join in escorting/g
 s/『συμπροσειμι』/「συμπρόσειμι」/g
-s/『συμπροσπλεκομαι』/to contend or struggle hard/g
-s/『συμπτωμα』/a chance,<br>casualty/g
+s/『συμπροσπλεκομαι』/contend;<br>struggle hard/g
+s/『συμπτωμα』/chance;<br>casualty/g
 s/『συμφεροντως』/profitably/g
-s/『συμφερω』/to be advantageous,<br>bring together/g
-s/『συμφευγω』/to flee along with/g
-s/『συμφλεγω』/to burn to cinders/g
-s/『συμφλογιζω』/to be burnt together/g
-s/『συμφορα』/an event,<br>circumstance/g
-s/『συμφοραζω』/to wail/g
-s/『συμφορος』/happening with,<br>accompanying/g
-s/『συμφρασσω』/to press/g
-s/『συμφρονεω』/to be of one mind with,<br>to agree/g
-s/『συμφρυγω』/to burn up,<br>to parch/g
-s/『συμφυρω』/to knead together: beat black and blue/g
+s/『συμφερω』/advantageous;<br>bring together/g
+s/『συμφευγω』/flee along with/g
+s/『συμφλεγω』/burn to cinders/g
+s/『συμφλογιζω』/burnt together/g
+s/『συμφορα』/event;<br>circumstance/g
+s/『συμφοραζω』/wail/g
+s/『συμφορος』/happening with;<br>accompanying/g
+s/『συμφρασσω』/press/g
+s/『συμφρονεω』/of one mind with;<br>agree/g
+s/『συμφρυγω』/burn up;<br>parch/g
+s/『συμφυρω』/knead together: beat black and blue/g
 s/『συμφυτος』/planted together/g
-s/『συμφυω』/to sprout together/g
-s/『συμφωνεω』/to agree/g
-s/『συμφωνια』/a symphony,<br>concert/g
+s/『συμφυω』/sprout together/g
+s/『συμφωνεω』/agree/g
+s/『συμφωνια』/symphony;<br>concert/g
 s/『συμφωνον』/「σύμφωνον」/g
 s/『συμφωνος』/agreement/g
-s/『συμφωνως』/in harmony with,<br>harmoniously with/g
-s/『συμψαω』/to sweep away/g
-s/『συν』/with,<br>[definite object marker]/g
-s/『συναγελαζομαι』/to be gathered together/g
+s/『συμφωνως』/in harmony with;<br>harmoniously with/g
+s/『συμψαω』/sweep away/g
+s/『συν』/with;<br>[definite object marker]/g
+s/『συναγελαζομαι』/gathered together/g
 s/『συναγμα』/collection/g
-s/『συναγω』/to gather/g
+s/『συναγω』/gather/g
 s/『συναγωγη』/gathering/g
-s/『συναδω』/to sing with/g
-s/『συναθροιζω』/to congregate,<br>collect/g
-s/『συναινεω』/to join in praising/g
-s/『συνακολουθεω』/to accompany/g
-s/『συναλγεω』/to share in suffering,<br>sympathise/g
-s/『συναλλαγμα』/a mutual agreement,<br>covenant/g
-s/『συναλοαω』/to thresh out together,<br>to grind to powder/g
-s/『συναναβαινω』/to step up with,<br>go up with\/together/g
-s/『συνανακειμαι』/to recline with,<br>recline together/g
-s/『συναναμιγνυμι』/to get mixed up with/g
-s/『συναναμιξις』/combination with another,<br>league/g
-s/『συναναμισγω』/to have fellowship with/g
-s/『συναναπαυομαι』/to have respite with,<br>be refreshed/g
-s/『συναναστρεφω』/to wrestle with/g
-s/『συναναστροφη』/living with,<br>intercourse/g
-s/『συναναφερω』/to carry up together/g
-s/『συναναφυρω』/to knead up together/g
-s/『συνανταω』/to meet with/g
+s/『συναδω』/sing with/g
+s/『συναθροιζω』/congregate;<br>collect/g
+s/『συναινεω』/join in praising/g
+s/『συνακολουθεω』/accompany/g
+s/『συναλγεω』/share in suffering;<br>sympathise/g
+s/『συναλλαγμα』/mutual agreement;<br>covenant/g
+s/『συναλοαω』/thresh out together;<br>grind to powder/g
+s/『συναναβαινω』/step up with;<br>go up with\/together/g
+s/『συνανακειμαι』/recline with;<br>recline together/g
+s/『συναναμιγνυμι』/get mixed up with/g
+s/『συναναμιξις』/combination with another;<br>league/g
+s/『συναναμισγω』/have fellowship with/g
+s/『συναναπαυομαι』/have respite with;<br>refreshed/g
+s/『συναναστρεφω』/wrestle with/g
+s/『συναναστροφη』/living with;<br>intercourse/g
+s/『συναναφερω』/carry up together/g
+s/『συναναφυρω』/knead up together/g
+s/『συνανταω』/meet with/g
 s/『συναντη』/meeting/g
-s/『συναντημα』/event,<br>fate/g
-s/『συναντησις』/a meeting/g
-s/『συναντιλαμβανομαι』/to relieve together,<br>assist/g
-s/『συναπαγω』/to head off with,<br>lead off with/g
-s/『συναποθνησκω』/to die with,<br>die together/g
-s/『συναποκρυπτω』/to be hidden with sth/g
-s/『συναπολλυμι』/to destroy with/g
-s/『συναποστελλω』/to send off together/g
-s/『συναπτω』/to tie/g
-s/『συναριθμεω』/to reckon in,<br>to take into the account/g
-s/『συναρπαζω』/to catch hold of/g
+s/『συναντημα』/event;<br>fate/g
+s/『συναντησις』/meeting/g
+s/『συναντιλαμβανομαι』/relieve together;<br>assist/g
+s/『συναπαγω』/head off with;<br>lead off with/g
+s/『συναποθνησκω』/die with;<br>die together/g
+s/『συναποκρυπτω』/hidden with sth/g
+s/『συναπολλυμι』/destroy with/g
+s/『συναποστελλω』/send off together/g
+s/『συναπτω』/tie/g
+s/『συναριθμεω』/reckon in;<br>take into the account/g
+s/『συναρπαζω』/catch hold of/g
 s/『συναρχια』/joint administration/g
-s/『συνασπιζω』/to be a shield-fellow/g
-s/『συναυλιζομαι』/to congregate/g
-s/『συναυξανω』/to grow together/g
-s/『συναφιστημι』/to draw into revolt together/g
+s/『συνασπιζω』/a shield-fellow/g
+s/『συναυλιζομαι』/congregate/g
+s/『συναυξανω』/grow together/g
+s/『συναφιστημι』/draw into revolt together/g
 s/『συναψις』/alliance/g
-s/『συνδακνω』/to bite together/g
-s/『συνδειπνεω』/to dine/g
-s/『συνδειπνος』/a companion at table/g
-s/『συνδεσμος』/a connection/g
-s/『συνδεω』/to connect,<br>bind together/g
-s/『συνδιωκω』/to chase away together,<br>join in the chase/g
-s/『συνδουλος』/a fellow subject/g
-s/『συνδραω』/to do together,<br>help in doing/g
+s/『συνδακνω』/bite together/g
+s/『συνδειπνεω』/dine/g
+s/『συνδειπνος』/companion at table/g
+s/『συνδεσμος』/connection/g
+s/『συνδεω』/connect;<br>bind together/g
+s/『συνδιωκω』/chase away together;<br>join in the chase/g
+s/『συνδουλος』/fellow subject/g
+s/『συνδραω』/do together;<br>help in doing/g
 s/『συνδρομη』/convergence/g
-s/『συνδυαζω』/to join two and two,<br>couple/g
-s/『συνεγγιζω』/to draw near together/g
+s/『συνδυαζω』/join two and two;<br>couple/g
+s/『συνεγγιζω』/draw near together/g
 s/『συνεγγυς』/near together/g
-s/『συνεγειρω』/to raise together/g
-s/『συνεδρευω』/to sit together,<br>sit in council/g
-s/『συνεδρια』/a sitting together,<br>a circle of friends/g
-s/『συνεδριαζω』/to sit among,<br>to meet in council/g
-s/『συνεδριον』/a council/g
+s/『συνεγειρω』/raise together/g
+s/『συνεδρευω』/sit together;<br>sit in council/g
+s/『συνεδρια』/sitting together;<br>circle of friends/g
+s/『συνεδριαζω』/sit among;<br>meet in council/g
+s/『συνεδριον』/council/g
 s/『συνεδρος』/sitting with in council/g
-s/『συνεθιζω』/to accustom/g
-s/『συνειδησις』/consciousness,<br>conscience/g
-s/『συνειδω』/to be conscious,<br>aware/g
-s/『συνεικω』/to give way to,<br>to yield to/g
-s/『συνειμι』/to be with/g
-s/『συνειπον』/to speak with/g
-s/『συνεισερχομαι』/to enter with/g
-s/『συνεκκεντεω』/to pierce through at once/g
-s/『συνεκπολεμεω』/to fight with sb on behalf of sb/g
+s/『συνεθιζω』/accustom/g
+s/『συνειδησις』/consciousness;<br>conscience/g
+s/『συνειδω』/conscious;<br>aware/g
+s/『συνεικω』/give way to;<br>yield to/g
+s/『συνειμι』/with/g
+s/『συνειπον』/speak with/g
+s/『συνεισερχομαι』/enter with/g
+s/『συνεκκεντεω』/pierce through at once/g
+s/『συνεκπολεμεω』/fight with sb on behalf of sb/g
 s/『συνεκπορευομαι』/「συνεκπορεύομαι」/g
-s/『συνεκτρεφω』/to rear up along with/g
-s/『συνεκτριβω』/to destroy all at once/g
+s/『συνεκτρεφω』/rear up along with/g
+s/『συνεκτριβω』/destroy all at once/g
 s/『συνεκτροφος』/「συνεκτρόφος」/g
-s/『συνελαυνω』/to reconcile/g
-s/『συνελευσις』/gathering,<br>meeting of people/g
-s/『συνελκω』/to draw together,<br>to draw up/g
-s/『συνεξερχομαι』/to go/g
-s/『συνεξορμαω』/to help to urge on/g
-s/『συνεπακολουθεω』/to follow closely/g
-s/『συνεπισκεπτομαι』/to muster;<br>to be numbered among/g
-s/『συνεπισταμαι』/to be privy to/g
-s/『συνεπισχυω』/to join in supporting/g
-s/『συνεπιτιθημι』/to put on together/g
-s/『συνεπομαι』/to consort with,<br>accompany/g
-s/『συνεργεω』/to work with,<br>work together/g
-s/『συνεργος』/a co-worker/g
-s/『συνεριζω』/to contend on the side of,<br>together with/g
-s/『συνερχομαι』/to come with,<br>come together/g
-s/『συνεσθιω』/to eat with/g
+s/『συνελαυνω』/reconcile/g
+s/『συνελευσις』/gathering;<br>meeting of people/g
+s/『συνελκω』/draw together;<br>draw up/g
+s/『συνεξερχομαι』/go/g
+s/『συνεξορμαω』/help to urge on/g
+s/『συνεπακολουθεω』/follow closely/g
+s/『συνεπισκεπτομαι』/muster;<br>numbered among/g
+s/『συνεπισταμαι』/privy to/g
+s/『συνεπισχυω』/join in supporting/g
+s/『συνεπιτιθημι』/put on together/g
+s/『συνεπομαι』/consort with;<br>accompany/g
+s/『συνεργεω』/work with;<br>work together/g
+s/『συνεργος』/co-worker/g
+s/『συνεριζω』/contend on the side of;<br>together with/g
+s/『συνερχομαι』/come with;<br>come together/g
+s/『συνεσθιω』/eat with/g
 s/『συνεσις』/comprehension/g
 s/『συνεταιρις』/companion/g
-s/『συνεταιρος』/a companion,<br>partner/g
+s/『συνεταιρος』/companion;<br>partner/g
 s/『συνετιζω』/「συνετίζω」/g
-s/『συνετος』/comprehending,<br>intelligent/g
-s/『συνετως』/wisely,<br>with understanding/g
-s/『συνευδοκεω』/to be content,<br>consent/g
+s/『συνετος』/comprehending;<br>intelligent/g
+s/『συνετως』/wisely;<br>with understanding/g
+s/『συνευδοκεω』/content;<br>consent/g
 s/『συνευφραινομαι』/「συνευφραίνομαι」/g
 s/『συνεχης』/holding together/g
-s/『συνεχω』/to block up\/in,<br>confine/g
-s/『συνηθεια』/a common practice,<br>custom/g
+s/『συνεχω』/block up\/in;<br>confine/g
+s/『συνηθεια』/common practice;<br>custom/g
 s/『συνηθης』/dwelling/g
 s/『συνηλικος』/「συνήλικος」/g
-s/『συνηχεω』/to sound together/g
-s/『συνθελω』/to have the same wish as,<br>to consent with/g
-s/『συνθεσις』/a putting together,<br>composition/g
-s/『συνθετος』/put together,<br>composite/g
-s/『συνθηκη』/a composition/g
-s/『συνθημα』/anything agreed upon,<br>a preconcerted signal/g
-s/『συνθλαω』/to dash to pieces/g
-s/『συνθλιβω』/to press in on/g
-s/『συνιημι』/to comprehend/g
-s/『συνιστημι』/to introduce,<br>establish/g
+s/『συνηχεω』/sound together/g
+s/『συνθελω』/have the same wish as;<br>consent with/g
+s/『συνθεσις』/putting together;<br>composition/g
+s/『συνθετος』/put together;<br>composite/g
+s/『συνθηκη』/composition/g
+s/『συνθημα』/anything agreed upon;<br>preconcerted signal/g
+s/『συνθλαω』/dash to pieces/g
+s/『συνθλιβω』/press in on/g
+s/『συνιημι』/comprehend/g
+s/『συνιστημι』/introduce;<br>establish/g
 s/『συνιστωρ』/knowing along with/g
-s/『συννεφεω』/to cloud over/g
-s/『συννεφης』/clouded over,<br>cloudy/g
-s/『συννοεω』/to meditate/g
-s/『συννους』/in deep thought,<br>thoughtful/g
+s/『συννεφεω』/cloud over/g
+s/『συννεφης』/clouded over;<br>cloudy/g
+s/『συννοεω』/meditate/g
+s/『συννους』/in deep thought;<br>thoughtful/g
 s/『συννυμφος』/sister-in-law/g
-s/『συνοδευω』/to be on the way with/g
+s/『συνοδευω』/on the way with/g
 s/『συνοδια』/caravan/g
 s/『συνοδος』/meeting;<br>assembly/g
-s/『συνοδυναομαι』/to suffer together/g
-s/『συνοικεω』/to dwell with/g
+s/『συνοδυναομαι』/suffer together/g
+s/『συνοικεω』/dwell with/g
 s/『συνοικησις』/cohabitation/g
-s/『συνοικιζω』/to make to live with/g
-s/『συνοικοδομεω』/to compose/g
-s/『συνολκη』/drawing,<br>inhaling/g
+s/『συνοικιζω』/make to live with/g
+s/『συνοικοδομεω』/compose/g
+s/『συνολκη』/drawing;<br>inhaling/g
 s/『συνολον』/「σύνολον」/g
 s/『συνολος』/all together/g
-s/『συνομολογεω』/to say the same thing with,<br>to agree with/g
-s/『συνουλωσις』/complete scar forming,<br>healing of a wound/g
+s/『συνομολογεω』/say the same thing with;<br>agree with/g
+s/『συνουλωσις』/complete scar forming;<br>healing of a wound/g
 s/『συνουσιασμος』/sexual intercourse/g
 s/『συνοχη』/conflict/g
 s/『συνταγη』/assignation;<br>preplanned signal/g
 s/『συνταγμα』/that which is put together in order/g
-s/『συνταξις』/a putting together,<br>arranging/g
-s/『συνταρασσω』/to throw all together into confusion,<br>to confound/g
-s/『συντασσω』/to coordinate,<br>arrange/g
+s/『συνταξις』/putting together;<br>arranging/g
+s/『συνταρασσω』/throw all together into confusion;<br>confound/g
+s/『συντασσω』/coordinate;<br>arrange/g
 s/『συντελεια』/consummation/g
-s/『συντελεω』/to consummate,<br>finish/g
-s/『συντεμνω』/to make concise/g
-s/『συντηρεω』/to keep together,<br>preserve/g
-s/『συντιθημι』/to conspire,<br>conclude/g
-s/『συντιμησις』/valuation,<br>assessment/g
-s/『συντομος』/a short/g
+s/『συντελεω』/consummate;<br>finish/g
+s/『συντεμνω』/make concise/g
+s/『συντηρεω』/keep together;<br>preserve/g
+s/『συντιθημι』/conspire;<br>conclude/g
+s/『συντιμησις』/valuation;<br>assessment/g
+s/『συντομος』/short/g
 s/『συντομως』/concisely/g
-s/『συντρεφω』/to feed together/g
-s/『συντρεχω』/to run together/g
-s/『συντριβη』/crushing,<br>breaking/g
-s/『συντριβω』/to fracture,<br>smash/g
-s/『συντριμμα』/a fracture/g
+s/『συντρεφω』/feed together/g
+s/『συντρεχω』/run together/g
+s/『συντριβη』/crushing;<br>breaking/g
+s/『συντριβω』/fracture;<br>smash/g
+s/『συντριμμα』/fracture/g
 s/『συντριμμος』/ruin;<br>crushing/g
-s/『συντριψις』/ruin,<br>destruction/g
-s/『συντροφια』/a being reared together,<br>common nurture/g
-s/『συντροφος』/a foster brother/g
-s/『συντροχαζω』/to run together/g
-s/『συντυγχανω』/to contact/g
-s/『συνυφαινω』/to weave together/g
+s/『συντριψις』/ruin;<br>destruction/g
+s/『συντροφια』/being reared together;<br>common nurture/g
+s/『συντροφος』/foster brother/g
+s/『συντροχαζω』/run together/g
+s/『συντυγχανω』/contact/g
+s/『συνυφαινω』/weave together/g
 s/『συνυφη』/sth woven of the same stuff/g
-s/『συνωμοτης』/a confederate/g
-s/『συνωρις』/a pair of horses/g
+s/『συνωμοτης』/confederate/g
+s/『συνωρις』/pair of horses/g
 s/『συρα』/[NP]/g
 s/『συρια』/[NP]/g
 s/『συριακη』/[NP]/g
-s/『συριγμα』/the sound of a pipe/g
-s/『συριγμος』/a whistling,<br>hissing/g
+s/『συριγμα』/sound of a pipe/g
+s/『συριγμος』/whistling;<br>hissing/g
 s/『συριγξ』/pipe/g
-s/『συριζω』/to play the/g
+s/『συριζω』/play the/g
 s/『συρισμος』/hissing;<br>bleating/g
 s/『συριστι』/in the Syrian language/g
 s/『συρος』/[NP]/g
-s/『συρραπτω』/to sew/g
-s/『συρω』/to drag/g
+s/『συρραπτω』/sew/g
+s/『συρω』/drag/g
 s/『συρων』/[NP]/g
-s/『συς』/wild swine,<br>boar/g
-s/『συσκηνια』/a dwelling in one tent/g
-s/『συσκηνος』/one who lives in the same tent,<br>a messmate/g
+s/『συς』/wild swine;<br>boar/g
+s/『συσκηνια』/dwelling in one tent/g
+s/『συσκηνος』/one who lives in the same tent;<br>messmate/g
 s/『συσκιαζον』/「συσκιάζον」/g
-s/『συσκιαζω』/to shade quite over,<br>throw a shade over/g
-s/『συσκιος』/closely shaded,<br>thickly shaded/g
-s/『συσκοταζω』/to grow dark/g
-s/『συσπαω』/to draw together,<br>draw up/g
+s/『συσκιαζω』/shade quite over;<br>throw a shade over/g
+s/『συσκιος』/closely shaded;<br>thickly shaded/g
+s/『συσκοταζω』/grow dark/g
+s/『συσπαω』/draw together;<br>draw up/g
 s/『συσσεισμος』/earthquake;<br>commotion of air/g
-s/『συσσειω』/to shake together/g
-s/『συσσημον』/a signal/g
-s/『συσσυρω』/to pull down,<br>to pull about/g
-s/『συστασις』/an alliance/g
-s/『συστελλω』/to wrap up/g
+s/『συσσειω』/shake together/g
+s/『συσσημον』/signal/g
+s/『συσσυρω』/pull down;<br>pull about/g
+s/『συστασις』/alliance/g
+s/『συστελλω』/wrap up/g
 s/『συστεμα』/community;<br>band/g
-s/『συστημα』/a system/g
-s/『συστρεμμα』/anything twisted up together: a body of men,<br>a crowd/g
-s/『συστρεφω』/to wind up,<br>collect/g
+s/『συστημα』/system/g
+s/『συστρεμμα』/anything twisted up together: a body of men;<br>crowd/g
+s/『συστρεφω』/wind up;<br>collect/g
 s/『συστροφη』/conspiracy/g
-s/『συσφιγγω』/to condense/g
+s/『συσφιγγω』/condense/g
 s/『συχεμ』/[NP]/g
 s/『συχεμι』/[NP]/g
 s/『συχνος』/long/g
 s/『σφαγη』/slaughter/g
-s/『σφαγιαζω』/to slay,<br>to sacrifice/g
-s/『σφαγιον』/a victim/g
-s/『σφαζω』/to slaughter/g
-s/『σφαιρωτηρ』/a thong/g
-s/『σφακελιζω』/to be gangrened/g
+s/『σφαγιαζω』/slay;<br>sacrifice/g
+s/『σφαγιον』/victim/g
+s/『σφαζω』/slaughter/g
+s/『σφαιρωτηρ』/thong/g
+s/『σφακελιζω』/gangrened/g
 s/『σφαλερος』/likely to make one stumble/g
-s/『σφαλλω』/to make to fall,<br>throw down/g
-s/『σφαλμα』/stumble,<br>false step/g
-s/『σφενδοναω』/to sling,<br>to use the sling/g
-s/『σφενδονη』/a sling/g
-s/『σφενδονητης』/a slinger/g
-s/『σφηκια』/hornet,<br>wasp/g
-s/『σφην』/a wedge/g
-s/『σφηνοω』/to close,<br>to lock/g
-s/『σφηξ』/a wasp/g
+s/『σφαλλω』/make to fall;<br>throw down/g
+s/『σφαλμα』/stumble;<br>false step/g
+s/『σφενδοναω』/sling;<br>use the sling/g
+s/『σφενδονη』/sling/g
+s/『σφενδονητης』/slinger/g
+s/『σφηκια』/hornet;<br>wasp/g
+s/『σφην』/wedge/g
+s/『σφηνοω』/close;<br>lock/g
+s/『σφηξ』/wasp/g
 s/『σφιγγια』/pinching/g
-s/『σφιγγω』/to bind tight,<br>bind fast/g
-s/『σφοδρα』/vehemently,<br>tremendously/g
-s/『σφοδρος』/vehement,<br>violent/g
+s/『σφιγγω』/bind tight;<br>bind fast/g
+s/『σφοδρα』/vehemently;<br>tremendously/g
+s/『σφοδρος』/vehement;<br>violent/g
 s/『σφοδρως』/vehemently/g
-s/『σφονδυλος』/a vertebra/g
-s/『σφραγιζω』/to seal,<br>certify/g
-s/『σφραγις』/a seal/g
-s/『σφυρα』/a hammer/g
+s/『σφονδυλος』/vertebra/g
+s/『σφραγιζω』/seal;<br>certify/g
+s/『σφραγις』/seal/g
+s/『σφυρα』/hammer/g
 s/『σφυροκοπεω』/「σφυροκοπέω」/g
 s/『σφυροκοπος』/one who hammers/g
-s/『σχαζω』/to let loose/g
+s/『σχαζω』/let loose/g
 s/『σχεδια』/[NP]/g
-s/『σχεδια\.1』/a raft,<br>float/g
+s/『σχεδια\.1』/raft;<br>float/g
 s/『σχεδον』/almost/g
-s/『σχετλιαζω』/to complain of hardship,<br>to complain angrily/g
+s/『σχετλιαζω』/complain of hardship;<br>complain angrily/g
 s/『σχετλιος』/unwearying/g
-s/『σχημα』/a figure,<br>scheme/g
+s/『σχημα』/figure;<br>scheme/g
 s/『σχιδαξ』/bars/g
-s/『σχιζα』/a piece of wood cleft off,<br>a lath/g
-s/『σχιζω』/to split,<br>cut out/g
-s/『σχινος』/the mastich-tree/g
+s/『σχιζα』/piece of wood cleft off;<br>lath/g
+s/『σχιζω』/split;<br>cut out/g
+s/『σχινος』/mastich-tree/g
 s/『σχισμας』/「σχισμάς」/g
-s/『σχισμη』/a cleft/g
+s/『σχισμη』/cleft/g
 s/『σχισμν』/「σχίσμν」/g
-s/『σχιστος』/parted,<br>divided/g
-s/『σχοινιον』/a cord/g
-s/『σχοινισμα』/a cord/g
-s/『σχοινισμος』/a fencing with ropes/g
-s/『σχοινος』/a rush/g
-s/『σχολαζω』/to be vacant,<br>devote/g
+s/『σχιστος』/parted;<br>divided/g
+s/『σχοινιον』/cord/g
+s/『σχοινισμα』/cord/g
+s/『σχοινισμος』/fencing with ropes/g
+s/『σχοινος』/rush/g
+s/『σχολαζω』/vacant;<br>devote/g
 s/『σχολαστης』/one who lives at ease/g
-s/『σχολη』/a school,<br>leisure/g
+s/『σχολη』/school;<br>leisure/g
 s/『σωβ』/[NP]/g
 s/『σωβα』/[NP]/g
 s/『σωβαβ』/[NP]/g
@@ -12625,7 +12625,7 @@ s/『σωβηκ』/[NP]/g
 s/『σωγαλ』/[NP]/g
 s/『σωγαρ』/[NP]/g
 s/『σωε』/[NP]/g
-s/『σωζω』/to save/g
+s/『σωζω』/save/g
 s/『σωηα』/[NP]/g
 s/『σωθαλα』/[NP]/g
 s/『σωθελε』/[NP]/g
@@ -12637,27 +12637,27 @@ s/『σωμα』/body/g
 s/『σωμαν』/[NP]/g
 s/『σωμανιτις』/[NP]/g
 s/『σωματικος』/bodily/g
-s/『σωματοποιεω』/to make into a body,<br>to consolidate/g
+s/『σωματοποιεω』/make into a body;<br>consolidate/g
 s/『σωματοφυλαξ』/bodyguard/g
 s/『σωμηρ』/[NP]/g
-s/『σωος』/safe,<br>unharmed/g
-s/『σωρευω』/to heap/g
-s/『σωρηδον』/by heaps,<br>in heaps/g
+s/『σωος』/safe;<br>unharmed/g
+s/『σωρευω』/heap/g
+s/『σωρηδον』/by heaps;<br>in heaps/g
 s/『σωρηκ』/「σωρήκ」/g
 s/『σωρης』/[NP]/g
 s/『σωρηχ』/[NP]/g
 s/『σωρθ』/[NP]/g
 s/『σωριν』/[NP]/g
-s/『σωρος』/a heap/g
+s/『σωρος』/heap/g
 s/『σωσαν』/[NP]/g
 s/『σωσηκ』/[NP]/g
 s/『σωσιμ』/[NP]/g
 s/『σωσιπατρος』/[NP]/g
 s/『σωσον』/[NP]/g
 s/『σωστρατος』/[NP]/g
-s/『σωτηρ』/a savior/g
+s/『σωτηρ』/savior/g
 s/『σωτηρια』/safety/g
-s/『σωτηριος』/salvation,<br>saving/g
+s/『σωτηριος』/salvation;<br>saving/g
 s/『σωυε』/[NP]/g
 s/『σωφ』/[NP]/g
 s/『σωφα』/[NP]/g
@@ -12688,132 +12688,132 @@ s/『ταβερεμμαν』/[NP]/g
 s/『ταβλαι』/[NP]/g
 s/『ταβληθ』/[NP]/g
 s/『ταγμα』/sequence/g
-s/『ταινια』/a band,<br>riband/g
+s/『ταινια』/band;<br>riband/g
 s/『τακτικος』/fit for ordering/g
 s/『τακτος』/arranged/g
 s/『ταλαιπορος』/「ταλαίπορος」/g
-s/『ταλαιπωρεω』/to be wretched/g
+s/『ταλαιπωρεω』/wretched/g
 s/『ταλαιπωρια』/wretchedness/g
 s/『ταλαιπωρος』/wretched/g
-s/『ταλαντον』/10,000 dollars,<br>a talent/g
-s/『ταλας』/suffering,<br>wretched/g
+s/『ταλαντον』/10,000 dollars;<br>talent/g
+s/『ταλας』/suffering;<br>wretched/g
 s/『ταλμαν』/[NP]/g
-s/『ταμειον』/a chamber/g
-s/『ταμιας』/one who carves and distributes,<br>a dispenser/g
+s/『ταμειον』/chamber/g
+s/『ταμιας』/one who carves and distributes;<br>dispenser/g
 s/『ταμιευομαι』/「ταμιεύομαι」/g
-s/『ταμιευω』/to be controller/g
+s/『ταμιευω』/controller/g
 s/『ταναθαν』/[NP]/g
 s/『ταναχ』/[NP]/g
 s/『ταναχι』/[NP]/g
 s/『τανιν』/[NP]/g
 s/『τανις』/[NP]/g
 s/『τανυ』/[NP]/g
-s/『τανυω』/to stretch,<br>strain/g
+s/『τανυω』/stretch;<br>strain/g
 s/『τανω』/[NP]/g
-s/『ταξις』/order,<br>arrangement/g
+s/『ταξις』/order;<br>arrangement/g
 s/『ταπειναω』/「ταπεινάω」/g
 s/『ταπεινος』/humble/g
 s/『ταπεινοτης』/lowness/g
 s/『ταπεινοφρων』/lowly in mind/g
-s/『ταπεινοω』/to humble,<br>bring low/g
+s/『ταπεινοω』/humble;<br>bring low/g
 s/『ταπεινφρονεω』/「ταπεινφρονέω」/g
 s/『ταπεινωσις』/humiliation/g
 s/『ταραθ』/[NP]/g
-s/『ταρασσω』/to stir up,<br>trouble/g
-s/『ταραχη』/a stirring/g
-s/『ταραχος』/stir,<br>disturbance/g
-s/『ταραχωδης』/troublous,<br>turbulent/g
-s/『ταριχευω』/to preserve the body by artificial means,<br>to embalm/g
+s/『ταρασσω』/stir up;<br>trouble/g
+s/『ταραχη』/stirring/g
+s/『ταραχος』/stir;<br>disturbance/g
+s/『ταραχωδης』/troublous;<br>turbulent/g
+s/『ταριχευω』/preserve the body by artificial means;<br>embalm/g
 s/『ταρσεις』/[NP]/g
-s/『ταρσος\.1』/a stand/g
+s/『ταρσος\.1』/stand/g
 s/『ταρταρος』/Tartarus/g
 s/『ταρφαλλαιοι』/[NP]/g
-s/『τασσω』/to arrange,<br>appoint/g
+s/『τασσω』/arrange;<br>appoint/g
 s/『ταταμ』/[NP]/g
 s/『ταταμι』/[NP]/g
-s/『ταυρηδον』/like a bull,<br>savagely/g
-s/『ταυρος』/a bull/g
+s/『ταυρηδον』/like a bull;<br>savagely/g
+s/『ταυρος』/bull/g
 s/『ταφεθ』/[NP]/g
-s/『ταφη』/a graveyard,<br>burial/g
+s/『ταφη』/graveyard;<br>burial/g
 s/『ταφνας』/[NP]/g
-s/『ταφος』/a grave/g
+s/『ταφος』/grave/g
 s/『ταφου』/[NP]/g
 s/『ταφουγ』/[NP]/g
-s/『ταφρος』/a ditch,<br>trench/g
+s/『ταφρος』/ditch;<br>trench/g
 s/『ταχα』/perhaps/g
 s/『ταχεως』/quickly/g
 s/『ταχινος』/quick/g
-s/『ταχιον』/more quickly,<br>quicker/g
+s/『ταχιον』/more quickly;<br>quicker/g
 s/『ταχιστα』/quickest/g
 s/『ταχος』/quickness/g
 s/『ταχυ』/quickly/g
-s/『ταχυνω』/to be quick/g
+s/『ταχυνω』/quick/g
 s/『ταχυς』/quick/g
-s/『τε』/both,<br>and/g
-s/『τεγος』/a roof/g
+s/『τε』/both;<br>and/g
+s/『τεγος』/roof/g
 s/『τεθνηκω』/「τεθνήκω」/g
-s/『τεινω』/to stretch/g
+s/『τεινω』/stretch/g
 s/『τειχηρεσις』/「τειχήρεσις」/g
-s/『τειχηρης』/enclosed by walls,<br>beleaguered/g
-s/『τειχιζω』/to build a wall,<br>be built/g
-s/『τειχιστης』/builder,<br>mason/g
-s/『τειχος』/a wall/g
-s/『τεκμηριον』/a token/g
-s/『τεκνον』/a child/g
-s/『τεκνοποιεω』/to bear children/g
+s/『τειχηρης』/enclosed by walls;<br>beleaguered/g
+s/『τειχιζω』/build a wall;<br>built/g
+s/『τειχιστης』/builder;<br>mason/g
+s/『τειχος』/wall/g
+s/『τεκμηριον』/token/g
+s/『τεκνον』/child/g
+s/『τεκνοποιεω』/bear children/g
 s/『τεκνοφονος』/child-murdering./g
-s/『τεκταινω』/to devise,<br>to plan/g
+s/『τεκταινω』/devise;<br>plan/g
 s/『τεκτονικος』/practised/g
-s/『τεκτων』/a carpenter,<br>craftsman/g
+s/『τεκτων』/carpenter;<br>craftsman/g
 s/『τελαμιν』/[NP]/g
-s/『τελαμων』/a broad strap for bearing/g
-s/『τελειος』/complete,<br>accomplished/g
-s/『τελειοτης』/completeness,<br>accomplishment/g
-s/『τελειοω』/to complete,<br>accomplish/g
+s/『τελαμων』/broad strap for bearing/g
+s/『τελειος』/complete;<br>accomplished/g
+s/『τελειοτης』/completeness;<br>accomplishment/g
+s/『τελειοω』/complete;<br>accomplish/g
 s/『τελειως』/completely/g
 s/『τελειωσις』/completion/g
 s/『τελεμ』/[NP]/g
-s/『τελεος』/to an extremity,<br>completely/g
-s/『τελεσιουργεω』/to accomplish fully,<br>to perfect/g
-s/『τελεσφορεω』/to bear to completion\/maturity/g
+s/『τελεος』/extremity;<br>completely/g
+s/『τελεσιουργεω』/accomplish fully;<br>perfect/g
+s/『τελεσφορεω』/bear to completion\/maturity/g
 s/『τελεσφορος』/bringing to an end/g
 s/『τελετη』/initiation/g
 s/『τελευταιος』/last/g
-s/『τελευταω』/to meet an end/g
-s/『τελευτη』/an end/g
-s/『τελεω』/to perform,<br>finish/g
+s/『τελευταω』/meet an end/g
+s/『τελευτη』/end/g
+s/『τελεω』/perform;<br>finish/g
 s/『τελημ』/[NP]/g
 s/『τελισκομαι』/「τελίσκομαι」/g
 s/『τελμων』/[NP]/g
-s/『τελος』/completion,<br>sales tax/g
+s/『τελος』/completion;<br>sales tax/g
 s/『τελωνεομαι』/「τελωνέομαι」/g
 s/『τεμα』/[NP]/g
-s/『τεμενος』/a piece of land cut off,<br>assigned as a domain/g
-s/『τεμνω』/to cut/g
-s/『τενων』/any tight-stretched band,<br>a sinew/g
-s/『τερας』/an omen/g
+s/『τεμενος』/piece of land cut off;<br>assigned as a domain/g
+s/『τεμνω』/cut/g
+s/『τενων』/any tight-stretched band;<br>sinew/g
+s/『τερας』/omen/g
 s/『τερασσω』/「τεράσσω」/g
-s/『τερατευομαι』/to talk marvels/g
+s/『τερατευομαι』/talk marvels/g
 s/『τερατοποιος』/working wonders/g
-s/『τερατοσκοπος』/an observer of omens/g
-s/『τερεβινθος』/a terebinth/g
+s/『τερατοσκοπος』/observer of omens/g
+s/『τερεβινθος』/terebinth/g
 s/『τερεμινθος』/terebinth tree;<br>fruit from terebinth tree/g
 s/『τερετον』/「τέρετον」/g
-s/『τερμα』/an end,<br>boundary/g
-s/『τερπνος』/delightsome,<br>delightful/g
+s/『τερμα』/end;<br>boundary/g
+s/『τερπνος』/delightsome;<br>delightful/g
 s/『τερπνοτης』/delightfulness/g
-s/『τερπω』/to cheer/g
-s/『τερψις』/enjoyment,<br>delight/g
+s/『τερπω』/cheer/g
+s/『τερψις』/enjoyment;<br>delight/g
 s/『τεσσαρακοντα』/forty/g
 s/『τεσσαρακοστος』/fortieth/g
 s/『τεσσαρες』/four/g
 s/『τεσσαρεσκαιδεκατος』/fourteenth/g
 s/『τεταγμενως』/in orderly manner/g
-s/『τεταρτος』/the fourth/g
+s/『τεταρτος』/fourth/g
 s/『τετραγωνος』/four-cornered/g
-s/『τετραδραχμον』/a coin of four drachms,<br>a tedradrachm/g
-s/『τετραινω』/to bore through,<br>pierce/g
-s/『τετρακισμυριοι』/four times ten thousand,<br>forty thousand/g
+s/『τετραδραχμον』/coin of four drachms;<br>tedradrachm/g
+s/『τετραινω』/bore through;<br>pierce/g
+s/『τετρακισμυριοι』/four times ten thousand;<br>forty thousand/g
 s/『τετρακισχιλιοι』/four thousand/g
 s/『τετρακοσιοι』/four hundred/g
 s/『τετρακοσιοστος』/four hundredth/g
@@ -12821,91 +12821,91 @@ s/『τετραμερης』/quadripartite/g
 s/『τετραμηνος』/of four months/g
 s/『τετραπεδος』/with four surfaces/g
 s/『τετραπλως』/in a fourfold way/g
-s/『τετραπους』/a quadruped,<br>beast/g
-s/『τετρας』/four,<br>fourth/g
+s/『τετραπους』/quadruped;<br>beast/g
+s/『τετρας』/four;<br>fourth/g
 s/『τετραστιχος』/arranged in four rows/g
-s/『τευχω』/to make ready,<br>make/g
+s/『τευχω』/make ready;<br>make/g
 s/『τεφρα』/ashes/g
 s/『τεφων』/[NP]/g
-s/『τεχναζω』/to employ art/g
-s/『τεχναομαι』/to make by art,<br>to execute skilfully/g
-s/『τεχνη』/a craft/g
-s/『τεχνιτης』/a craftsman/g
-s/『τεχνιτις』/craftswoman,<br>artisan/g
+s/『τεχναζω』/employ art/g
+s/『τεχναομαι』/make by art;<br>execute skilfully/g
+s/『τεχνη』/craft/g
+s/『τεχνιτης』/craftsman/g
+s/『τεχνιτις』/craftswoman;<br>artisan/g
 s/『τηγανιζω』/「τηγανίζω」/g
-s/『τηγανον』/frying pan,<br>saucepan/g
+s/『τηγανον』/frying pan;<br>saucepan/g
 s/『τηγανος』/「τηγάνος」/g
 s/『τηθ』/「τηθ」/g
-s/『τηκτος』/melted,<br>molten/g
-s/『τηκω』/to melt/g
-s/『τηλαυγημα』/bright spot,<br>whitened place/g
-s/『τηλαυγης』/far-shining,<br>far-beaming/g
-s/『τηλαυγησις』/brightness,<br>splendour/g
-s/『τηλικουτος』/so tremendous,<br>such an extreme/g
-s/『τηρεω』/to keep/g
+s/『τηκτος』/melted;<br>molten/g
+s/『τηκω』/melt/g
+s/『τηλαυγημα』/bright spot;<br>whitened place/g
+s/『τηλαυγης』/far-shining;<br>far-beaming/g
+s/『τηλαυγησις』/brightness;<br>splendour/g
+s/『τηλικουτος』/so tremendous;<br>such an extreme/g
+s/『τηρεω』/keep/g
 s/『τηρησις』/custody/g
-s/『τιαρα』/a tiara/g
+s/『τιαρα』/tiara/g
 s/『τιγρης』/[NP]/g
 s/『τιγρις』/[NP]/g
-s/『τιθημι』/to put,<br>make/g
-s/『τιθηνεω』/to nurse,<br>to bring up/g
+s/『τιθημι』/put;<br>make/g
+s/『τιθηνεω』/nurse;<br>bring up/g
 s/『τιθηνια』/nursing/g
 s/『τιθηνος』/nursing/g
-s/『τικτω』/to give birth,<br>produce/g
-s/『τιλλω』/to pick/g
-s/『τιμαω』/to honor,<br>value/g
-s/『τιμη』/honor,<br>value/g
-s/『τιμημα』/an estimate,<br>valuation/g
+s/『τικτω』/give birth;<br>produce/g
+s/『τιλλω』/pick/g
+s/『τιμαω』/honor;<br>value/g
+s/『τιμη』/honor;<br>value/g
+s/『τιμημα』/estimate;<br>valuation/g
 s/『τιμιος』/precious/g
-s/『τιμογραφεω』/to tax by assessment/g
+s/『τιμογραφεω』/tax by assessment/g
 s/『τιμοθεος』/[NP]/g
-s/『τιμωρεω』/to castigate,<br>be punished/g
+s/『τιμωρεω』/castigate;<br>punished/g
 s/『τιμωρητης』/avenger/g
-s/『τιμωρια』/castigation,<br>vengeance/g
+s/『τιμωρια』/castigation;<br>vengeance/g
 s/『τιναγμα』/「τινάγμα」/g
-s/『τινω』/to pay the price/g
-s/『τις』/anyone,<br>someone/g
-s/『τις\.1』/who?,<br>what?/g
-s/『τιταν』/titan,<br>giant/g
+s/『τινω』/pay the price/g
+s/『τις』/anyone;<br>someone/g
+s/『τις\.1』/who?;<br>what?/g
+s/『τιταν』/titan;<br>giant/g
 s/『τιτος』/[NP]/g
 s/『τιτραω』/「τιτράω」/g
-s/『τιτρωσκω』/to wound/g
-s/『τμητος』/cut,<br>shaped by cutting/g
+s/『τιτρωσκω』/wound/g
+s/『τμητος』/cut;<br>shaped by cutting/g
 s/『τοι』/actually/g
 s/『τοιγαρουν』/for then actually/g
 s/『τοινυν』/now actually/g
-s/『τοιος』/quality,<br>such/g
+s/『τοιος』/quality;<br>such/g
 s/『τοιοσδε』/such/g
-s/『τοιουτος』/such,<br>such as these/g
-s/『τοιχος』/a wall/g
+s/『τοιουτος』/such;<br>such as these/g
+s/『τοιχος』/wall/g
 s/『τοκας』/for breeding/g
-s/『τοκετος』/a birth/g
+s/『τοκετος』/birth/g
 s/『τοκος』/interest/g
 s/『τολβανης』/[NP]/g
-s/『τολμα』/courage,<br>to undertake/g
+s/『τολμα』/courage;<br>undertake/g
 s/『τολμαν』/[NP]/g
-s/『τολμαω』/to dare/g
+s/『τολμαω』/dare/g
 s/『τολμηρος』/hardihood/g
 s/『τολμηροτερον』/more daringly/g
-s/『τολυπη』/a clew/g
-s/『τομη』/the end left after cutting,<br>the stump/g
+s/『τολυπη』/clew/g
+s/『τομη』/end left after cutting;<br>stump/g
 s/『τομις』/knife/g
 s/『τομμαν』/[NP]/g
-s/『τομος\.1』/a slice/g
-s/『τονος』/that by which a thing is stretched,<br>a rope/g
-s/『τοξευμα』/an arrow/g
-s/『τοξευω』/to shoot with the bow/g
+s/『τομος\.1』/slice/g
+s/『τονος』/that by which a thing is stretched;<br>rope/g
+s/『τοξευμα』/arrow/g
+s/『τοξευω』/shoot with the bow/g
 s/『τοξικος』/for the bow/g
-s/『τοξον』/a bow/g
-s/『τοξοτης』/an archer/g
-s/『τοπαζιον』/a topaz/g
-s/『τοπαρχης』/a district governor/g
+s/『τοξον』/bow/g
+s/『τοξοτης』/archer/g
+s/『τοπαζιον』/topaz/g
+s/『τοπαρχης』/district governor/g
 s/『τοπαρχια』/district/g
-s/『τοπος』/a place,<br>locality/g
+s/『τοπος』/place;<br>locality/g
 s/『τορευτος』/worked in relief/g
 s/『τορευτων』/「τορευτῶν」/g
-s/『τοσος』/so great,<br>so vast/g
-s/『τοσουτος』/as much,<br>so many/g
+s/『τοσος』/so great;<br>so vast/g
+s/『τοσουτος』/as much;<br>so many/g
 s/『τοτε』/at that/g
 s/『τουβαν』/[NP]/g
 s/『τουβιας』/[NP]/g
@@ -12914,124 +12914,124 @@ s/『τουναντιον』/on the contrary/g
 s/『τουτο』/this/g
 s/『τοφολ』/[NP]/g
 s/『τοχος』/[NP]/g
-s/『τραγελαφος』/the goat-stag/g
-s/『τραγος』/a goat,<br>he-goat/g
-s/『τρανος』/clear,<br>articulate/g
-s/『τραπεζα』/a table,<br>bank/g
-s/『τραυμα』/a wound/g
-s/『τραυματιας』/a wounded one/g
-s/『τραυματιζω』/to traumatize/g
+s/『τραγελαφος』/goat-stag/g
+s/『τραγος』/goat;<br>he-goat/g
+s/『τρανος』/clear;<br>articulate/g
+s/『τραπεζα』/table;<br>bank/g
+s/『τραυμα』/wound/g
+s/『τραυματιας』/wounded one/g
+s/『τραυματιζω』/traumatize/g
 s/『τραχηλαω』/「τραχηλάω」/g
-s/『τραχηλος』/the neck/g
+s/『τραχηλος』/neck/g
 s/『τραχυς』/rough/g
-s/『τραχυτης』/roughness,<br>ruggedness/g
+s/『τραχυτης』/roughness;<br>ruggedness/g
 s/『τρεις』/three/g
-s/『τρεμω』/to tremble/g
-s/『τρεπω』/to turn/g
-s/『τρεφω』/to nurture,<br>maintain/g
-s/『τρεχω』/to run/g
-s/『τρεω』/to flee from fear,<br>flee away/g
-s/『τριακας』/the number thirty/g
+s/『τρεμω』/tremble/g
+s/『τρεπω』/turn/g
+s/『τρεφω』/nurture;<br>maintain/g
+s/『τρεχω』/run/g
+s/『τρεω』/flee from fear;<br>flee away/g
+s/『τριακας』/number thirty/g
 s/『τριακοντα』/thirty/g
 s/『τριακονταετος』/「τριακονταετός」/g
 s/『τριακοσιοι』/three hundred/g
-s/『τριακοστος』/the thirtieth/g
-s/『τριβολος』/a thistle/g
-s/『τριβος』/a path/g
-s/『τριβω』/to rub: to rub/g
+s/『τριακοστος』/thirtieth/g
+s/『τριβολος』/thistle/g
+s/『τριβος』/path/g
+s/『τριβω』/rub: to rub/g
 s/『τριβων』/practised/g
 s/『τριετης』/of three years;<br>three years old/g
-s/『τριετιζω』/to be three years old/g
+s/『τριετιζω』/three years old/g
 s/『τριημερια』/period of three days/g
-s/『τριηρης』/a trireme/g
-s/『τρικυμια』/the third wave,<br>a huge wave/g
-s/『τριμεριζω』/to divide into three parts,<br>to apportion in thirds/g
+s/『τριηρης』/trireme/g
+s/『τρικυμια』/third wave;<br>huge wave/g
+s/『τριμεριζω』/divide into three parts;<br>apportion in thirds/g
 s/『τριμηνος』/three months/g
-s/『τριοδους』/with three teeth,<br>three-pronged/g
+s/『τριοδους』/with three teeth;<br>three-pronged/g
 s/『τριπλασιως』/three times over/g
-s/『τριπλοος』/triple,<br>threefold/g
+s/『τριπλοος』/triple;<br>threefold/g
 s/『τριπολις』/[NP]/g
 s/『τρις』/three times/g
 s/『τρισαθλιος』/thrice-unhappy/g
-s/『τρισαλιτηριος』/thrice-sinful,<br>thoroughly evil/g
+s/『τρισαλιτηριος』/thrice-sinful;<br>thoroughly evil/g
 s/『τρισκαιδεκα』/[M]/g
 s/『τρισκαιδεκατος』/thirteenth/g
 s/『τρισμυριοι』/thrice ten thousand/g
-s/『τρισσευω』/to do for the third time/g
+s/『τρισσευω』/do for the third time/g
 s/『τρισσος』/threefold/g
-s/『τρισσοω』/to do for the third time/g
-s/『τρισσως』/threefoldly,<br>three times/g
-s/『τριστατης』/III knight,<br>officer?/g
+s/『τρισσοω』/do for the third time/g
+s/『τρισσως』/threefoldly;<br>three times/g
+s/『τριστατης』/III knight;<br>officer?/g
 s/『τρισχιλιοι』/three thousand/g
 s/『τρισχιλιος』/three thousand/g
 s/『τριταιος』/on the third day/g
 s/『τριταιων』/「τριταίων」/g
 s/『τριτος』/third/g
-s/『τριχαπτος』/plated or woven with hair/g
+s/『τριχαπτος』/plated with hair;<br>woven with hair/g
 s/『τριχινας』/「τριχίνας」/g
 s/『τριχινος』/made of hair/g
-s/『τριχωμα』/a growth of hair,<br>hair/g
+s/『τριχωμα』/growth of hair;<br>hair/g
 s/『τριωροφος』/three-storied/g
-s/『τρομεω』/to tremble,<br>quake/g
+s/『τρομεω』/tremble;<br>quake/g
 s/『τρομος』/trembling/g
-s/『τροπαιον』/a trophy/g
-s/『τροπεω』/to turn/g
-s/『τροπη』/a turning/g
+s/『τροπαιον』/trophy/g
+s/『τροπεω』/turn/g
+s/『τροπη』/turning/g
 s/『τροπια』/「τροπιά」/g
-s/『τροπος』/manner,<br>by means/g
-s/『τροποω』/to furnish the oar with its thong/g
+s/『τροπος』/manner;<br>by means/g
+s/『τροποω』/furnish the oar with its thong/g
 s/『τροφεια』/service as wet nurse/g
-s/『τροφευω』/to serve as a wet nurse,<br>to nurse/g
-s/『τροφη』/nourishment,<br>provisions/g
-s/『τροφος』/a nurse/g
-s/『τροφοφορεω』/to bring/g
+s/『τροφευω』/serve as a wet nurse;<br>nurse/g
+s/『τροφη』/nourishment;<br>provisions/g
+s/『τροφος』/nurse/g
+s/『τροφοφορεω』/bring/g
 s/『τροχαντηρ』/bone-crusher/g
-s/『τροχια』/a rut,<br>track/g
+s/『τροχια』/rut;<br>track/g
 s/『τροχιαιος』/worked by a wheel/g
 s/『τροχιας』/「τροχιάς」/g
-s/『τροχιζω』/to turn round on the wheel,<br>torture/g
+s/『τροχιζω』/turn round on the wheel;<br>torture/g
 s/『τροχιος』/round/g
 s/『τροχισκος』/earring/g
-s/『τροχος』/a wheel/g
-s/『τρυβλιον』/a dish/g
-s/『τρυγαω』/to pick/g
+s/『τροχος』/wheel/g
+s/『τρυβλιον』/dish/g
+s/『τρυγαω』/pick/g
 s/『τρυγητης』/gatherer of grapes/g
 s/『τρυγητος』/vintage/g
-s/『τρυγιας』/lees of wine,<br>dregs/g
-s/『τρυγων』/a turtledove/g
-s/『τρυμαλια』/a hole/g
-s/『τρυπαω』/to have a hole/g
+s/『τρυγιας』/lees of wine;<br>dregs/g
+s/『τρυγων』/turtledove/g
+s/『τρυμαλια』/hole/g
+s/『τρυπαω』/have a hole/g
 s/『τρυφανω』/「τρυφάνω」/g
-s/『τρυφαω』/to indulge/g
-s/『τρυφερευομαι』/to be delicate,<br>to be dainty/g
-s/『τρυφερος』/delicate,<br>dainty/g
-s/『τρυφεροτης』/delicacy,<br>daintiness/g
+s/『τρυφαω』/indulge/g
+s/『τρυφερευομαι』/delicate;<br>dainty/g
+s/『τρυφερος』/delicate;<br>dainty/g
+s/『τρυφεροτης』/delicacy;<br>daintiness/g
 s/『τρυφη』/self-indulgence/g
-s/『τρυφημα』/that in which one takes pride,<br>a pride/g
+s/『τρυφημα』/that in which one takes pride;<br>pride/g
 s/『τρυφων』/[NP]/g
-s/『τρυχω』/to be tormented,<br>to be vexed/g
-s/『τρωγλη』/a hole formed by gnawing,<br>a mouse's hole/g
+s/『τρυχω』/tormented;<br>vexed/g
+s/『τρωγλη』/hole formed by gnawing;<br>mouse's hole/g
 s/『τρωγλν』/「τρώγλν」/g
 s/『τρωγλοδυται』/[NP]/g
-s/『τυγχανω』/to attain,<br>be ordinary/g
-s/『τυλοω』/to make knobby/g
-s/『τυμπανιζω』/to beat/g
-s/『τυμπανιστρια』/drum player,<br>drummer/g
-s/『τυμπανον』/a drum/g
-s/『τυπος』/pattern,<br>type/g
-s/『τυποω』/to form,<br>mould/g
-s/『τυπτω』/to strike,<br>beat/g
-s/『τυραννεω』/to rule as a tyrant,<br>to tyrannize/g
-s/『τυραννικος』/for a despotic ruler,<br>royal/g
-s/『τυραννις』/kingly power,<br>sovereignty/g
-s/『τυραννος\.1』/a tyrant/g
+s/『τυγχανω』/attain;<br>ordinary/g
+s/『τυλοω』/make knobby/g
+s/『τυμπανιζω』/beat/g
+s/『τυμπανιστρια』/drum player;<br>drummer/g
+s/『τυμπανον』/drum/g
+s/『τυπος』/pattern;<br>type/g
+s/『τυποω』/form;<br>mould/g
+s/『τυπτω』/strike;<br>beat/g
+s/『τυραννεω』/rule as a tyrant;<br>tyrannize/g
+s/『τυραννικος』/for a despotic ruler;<br>royal/g
+s/『τυραννις』/kingly power;<br>sovereignty/g
+s/『τυραννος\.1』/tyrant/g
 s/『τυριος』/[NP]/g
 s/『τυρος』/[NP]/g
 s/『τυρος\.1』/cheese/g
-s/『τυροω』/to curdle,<br>to make into cheese/g
+s/『τυροω』/curdle;<br>make into cheese/g
 s/『τυφλος』/blind/g
-s/『τυφλοω』/to blind/g
-s/『τυφος』/smoke,<br>vapour/g
+s/『τυφλοω』/blind/g
+s/『τυφος』/smoke;<br>vapour/g
 s/『τυχη』/luck/g
 s/『τωβ』/[NP]/g
 s/『τωβεια』/[NP]/g
@@ -13043,258 +13043,258 @@ s/『τωβιηλ』/[NP]/g
 s/『τωβιθ』/[NP]/g
 s/『τωβιν』/[NP]/g
 s/『τωβιτ』/[NP]/g
-s/『υαινα』/the hyaena/g
+s/『υαινα』/hyaena/g
 s/『υαινης』/「ὑαίνης」/g
 s/『υακινθινος』/hyacinth blue/g
 s/『υακινθος』/hyacinth/g
 s/『υαλος』/glass/g
-s/『υβριζω』/to be insolent,<br>insult/g
-s/『υβρις』/insolence,<br>insult/g
-s/『υβριστης』/an insulter/g
-s/『υβριστικος』/given to wantonness,<br>wanton/g
-s/『υβριστος』/wanton,<br>insolent/g
-s/『υβριστρια』/an insolent,<br>haughty woman/g
-s/『υγιαζω』/to heal;<br>to recover/g
-s/『υγιαινω』/to be healthy/g
+s/『υβριζω』/insolent;<br>insult/g
+s/『υβρις』/insolence;<br>insult/g
+s/『υβριστης』/insulter/g
+s/『υβριστικος』/given to wantonness;<br>wanton/g
+s/『υβριστος』/wanton;<br>insolent/g
+s/『υβριστρια』/insolent;<br>haughty woman/g
+s/『υγιαζω』/heal;<br>recover/g
+s/『υγιαινω』/healthy/g
 s/『υγιεια』/health/g
 s/『υγιης』/healthy/g
-s/『υγιως』/soundly,<br>fairly/g
-s/『υγραινω』/to wet,<br>moisten/g
+s/『υγιως』/soundly;<br>fairly/g
+s/『υγραινω』/wet;<br>moisten/g
 s/『υγρασια』/moisture;<br>moisture/g
 s/『υγρος』/wet/g
 s/『υδασπης』/[NP]/g
-s/『υδραγωγος』/aqueduct,<br>conduit/g
-s/『υδρευω』/to draw/g
+s/『υδραγωγος』/aqueduct;<br>conduit/g
+s/『υδρευω』/draw/g
 s/『υδρια』/water jar/g
 s/『υδρισκη』/small jar/g
-s/『υδροποτεω』/to drink water/g
+s/『υδροποτεω』/drink water/g
 s/『υδροφορος』/carrying water/g
 s/『υδωρ』/water/g
 s/『υειος』/belonging to swine/g
-s/『υετιζω』/to cause rain,<br>to bring rain/g
+s/『υετιζω』/cause rain;<br>bring rain/g
 s/『υετος』/rain/g
 s/『υιος』/son/g
-s/『υλακτεω』/to bark,<br>bay/g
-s/『υλη』/the forest/g
+s/『υλακτεω』/bark;<br>bay/g
+s/『υλη』/forest/g
 s/『υλοτομος』/cutting/g
-s/『υλωδης』/woody,<br>wooded/g
+s/『υλωδης』/woody;<br>wooded/g
 s/『υμας』/you/g
 s/『υμεις』/you/g
-s/『υμεναιος』/hymenaeus,<br>the wedding/g
+s/『υμεναιος』/hymenaeus;<br>wedding/g
 s/『υμετερος』/your/g
-s/『υμιν』/to you/g
-s/『υμνεω』/to sing a hymn/g
-s/『υμνησις』/singing in praise,<br>praising/g
-s/『υμνητος』/sung of,<br>praised/g
-s/『υμνογραφος』/hymnographer,<br>psalmist/g
-s/『υμνος』/a hymn/g
-s/『υμνωδεω』/to sing a hymn/g
+s/『υμιν』/you/g
+s/『υμνεω』/sing a hymn/g
+s/『υμνησις』/singing in praise;<br>praising/g
+s/『υμνητος』/sung of;<br>praised/g
+s/『υμνογραφος』/hymnographer;<br>psalmist/g
+s/『υμνος』/hymn/g
+s/『υμνωδεω』/sing a hymn/g
 s/『υμων』/your/g
-s/『υπαγορευω』/to dictate/g
-s/『υπαγω』/to head off,<br>go/g
-s/『υπαιθρος』/sub Dio,<br>in the open air/g
+s/『υπαγορευω』/dictate/g
+s/『υπαγω』/head off;<br>go/g
+s/『υπαιθρος』/sub Dio;<br>in the open air/g
 s/『υπακοη』/listening/g
-s/『υπακουω』/to listen to/g
-s/『υπανδρος』/under a husband,<br>married/g
-s/『υπανταω』/to meet/g
-s/『υπαντησις』/a meeting/g
-s/『υπαρ』/a waking vision/g
+s/『υπακουω』/listen to/g
+s/『υπανδρος』/under a husband;<br>married/g
+s/『υπανταω』/meet/g
+s/『υπαντησις』/meeting/g
+s/『υπαρ』/waking vision/g
 s/『υπαρξις』/belonging/g
 s/『υπαρχοντα』/belongings/g
 s/『υπαρχος』/commanding under/g
-s/『υπαρχω』/to happen to be,<br>belong/g
-s/『υπασπιστης』/a shield-bearer,<br>armour-bearer/g
-s/『υπατος』/supremus,<br>the highest/g
-s/『υπεικω』/to comply/g
-s/『υπεκρεω』/to flow out under/g
+s/『υπαρχω』/happen to be;<br>belong/g
+s/『υπασπιστης』/shield-bearer;<br>armour-bearer/g
+s/『υπατος』/supremus;<br>highest/g
+s/『υπεικω』/comply/g
+s/『υπεκρεω』/flow out under/g
 s/『υπεναντιος』/contrary/g
-s/『υπεξαιρεω』/to take away/g
-s/『υπερ』/over,<br>for/g
+s/『υπεξαιρεω』/take away/g
+s/『υπερ』/over;<br>for/g
 s/『υπεραγαν』/「ὑπεράγαν」/g
 s/『υπεραγοντως』/exceedingly/g
-s/『υπεραγω』/to be pre-eminent;<br>to be higher/g
-s/『υπεραινετος』/to be praised exceedingly/g
-s/『υπεραιρω』/to lift over\/up/g
-s/『υπεραλλομαι』/to leap over/g
+s/『υπεραγω』/pre-eminent;<br>higher/g
+s/『υπεραινετος』/praised exceedingly/g
+s/『υπεραιρω』/lift over\/up/g
+s/『υπεραλλομαι』/leap over/g
 s/『υπερανω』/up\/far above/g
 s/『υπερανωθεν』/from above/g
 s/『υπεραρσις』/high water mark/g
-s/『υπερασπιζω』/to shield/g
-s/『υπερασπισμος』/covering with a shield,<br>protection/g
-s/『υπερασπιστης』/a protector/g
-s/『υπερασπιστρια』/one who holds a shield,<br>protector/g
-s/『υπερβαινω』/to overstep/g
+s/『υπερασπιζω』/shield/g
+s/『υπερασπισμος』/covering with a shield;<br>protection/g
+s/『υπερασπιστης』/protector/g
+s/『υπερασπιστρια』/one who holds a shield;<br>protector/g
+s/『υπερβαινω』/overstep/g
 s/『υπερβαλλοντως』/surpassingly/g
-s/『υπερβαλλω』/to surpass,<br>overstep/g
-s/『υπερβολη』/surpassing,<br>preeminence/g
-s/『υπερδυναμοω』/to overcome,<br>to overpower/g
-s/『υπερειδον』/to overlook/g
-s/『υπερειδω』/to put under as a support/g
-s/『υπερεκχεω』/to overflow/g
+s/『υπερβαλλω』/surpass;<br>overstep/g
+s/『υπερβολη』/surpassing;<br>preeminence/g
+s/『υπερδυναμοω』/overcome;<br>overpower/g
+s/『υπερειδον』/overlook/g
+s/『υπερειδω』/put under as a support/g
+s/『υπερεκχεω』/overflow/g
 s/『υπερενδοξος』/exceedingly glorious/g
-s/『υπερεχω』/to excel,<br>prevail/g
+s/『υπερεχω』/excel;<br>prevail/g
 s/『υπερηφανευομαι』/「ὑπερηφανεύομαι」/g
-s/『υπερηφανευω』/to behave arrogantly/g
-s/『υπερηφανεω』/overweening,<br>arrogant/g
+s/『υπερηφανευω』/behave arrogantly/g
+s/『υπερηφανεω』/overweening;<br>arrogant/g
 s/『υπερηφανια』/pride/g
 s/『υπερηφανος』/proud/g
 s/『υπερηφανως』/proudly/g
 s/『υπερηφονος』/「ὑπερήφονος」/g
 s/『υπερθυρον』/lintel/g
-s/『υπεριημι』/to outdo/g
-s/『υπερισχυω』/to prevail over/g
-s/『υπερκειμαι』/to lie/g
-s/『υπερκεραω』/to outflank,<br>to attack the wings of/g
-s/『υπερκρατεω』/to overpower/g
-s/『υπερμαχεω』/to fight for/g
-s/『υπερμαχος』/a champion,<br>defender/g
+s/『υπεριημι』/outdo/g
+s/『υπερισχυω』/prevail over/g
+s/『υπερκειμαι』/lie/g
+s/『υπερκεραω』/outflank;<br>attack the wings of/g
+s/『υπερκρατεω』/overpower/g
+s/『υπερμαχεω』/fight for/g
+s/『υπερμαχος』/champion;<br>defender/g
 s/『υπερμεγεθης』/exceedingly difficult/g
 s/『υπερμηκης』/exceeding long/g
-s/『υπερογκος』/swollen,<br>excessive/g
-s/『υπερορασις』/contempt,<br>disdain/g
-s/『υπεροραω』/to overlook/g
-s/『υπεροχη』/excellence,<br>prominence/g
+s/『υπερογκος』/swollen;<br>excessive/g
+s/『υπερορασις』/contempt;<br>disdain/g
+s/『υπεροραω』/overlook/g
+s/『υπεροχη』/excellence;<br>prominence/g
 s/『υπεροψις』/「ὑπερόψις」/g
-s/『υπερπλεοναζω』/to increase beyond\/further/g
+s/『υπερπλεοναζω』/increase beyond\/further/g
 s/『υπερριπτω』/「ὑπερρίπτω」/g
-s/『υπερτηκω』/to melt exceedingly/g
-s/『υπερτιθημι』/to set higher,<br>erect/g
-s/『υπερτιμαω』/to honour exceedingly/g
-s/『υπερυμνητος』/highly praised,<br>highly extolled/g
-s/『υπερυψοω』/to elevate\/lift on high/g
-s/『υπερφερης』/excellent,<br>surpassing/g
-s/『υπερφερω』/to bear/g
+s/『υπερτηκω』/melt exceedingly/g
+s/『υπερτιθημι』/set higher;<br>erect/g
+s/『υπερτιμαω』/honour exceedingly/g
+s/『υπερυμνητος』/highly praised;<br>highly extolled/g
+s/『υπερυψοω』/elevate\/lift on high/g
+s/『υπερφερης』/excellent;<br>surpassing/g
+s/『υπερφερω』/bear/g
 s/『υπερφοβος』/「ὑπερφόβος」/g
-s/『υπερφρονεω』/to be overly intuitive,<br>be frantic/g
-s/『υπερφωνεω』/to outbawl/g
+s/『υπερφρονεω』/overly intuitive;<br>frantic/g
+s/『υπερφωνεω』/outbawl/g
 s/『υπερχαρης』/overjoyed/g
-s/『υπερχεω』/to overflow/g
-s/『υπερχομαι』/to go/g
+s/『υπερχεω』/overflow/g
+s/『υπερχομαι』/go/g
 s/『υπερωον』/upstairs/g
 s/『υπευθυνος』/liable to give account for/g
-s/『υπευλαβεομαι』/to be cautious of,<br>to shrink from/g
-s/『υπεχω』/to undergo/g
-s/『υπηκοος』/listening,<br>a listener/g
-s/『υπηρεσια』/the body of rowers and sailors,<br>the ship's crew/g
-s/『υπηρετεω』/to officiate,<br>serve/g
-s/『υπηρετης』/an officer/g
-s/『υπισχνεομαι』/to promise/g
-s/『υπνος』/slumber,<br>sleep/g
-s/『υπνοω』/to sleep/g
-s/『υπνωδης』/sleepy,<br>drowsy/g
-s/『υπο』/under,<br>by/g
-s/『υποβαλλω』/to suborn,<br>get to commit perjury/g
-s/『υποβλεπω』/to look up from under/g
-s/『υπογειος』/under the earth,<br>subterraneous/g
-s/『υπογραμμος』/a specimen/g
-s/『υπογραφω』/to write under an inscription,<br>subjoin/g
-s/『υπογυος』/close at hand,<br>approaching/g
-s/『υποδειγμα』/an example/g
-s/『υποδεικνυμι』/to give an example,<br>indicate/g
-s/『υποδεχομαι』/to harbor,<br>entertain/g
-s/『υποδεω』/to put shoes on/g
+s/『υπευλαβεομαι』/cautious of;<br>shrink from/g
+s/『υπεχω』/undergo/g
+s/『υπηκοος』/listening;<br>listener/g
+s/『υπηρεσια』/body of rowers and sailors;<br>ship's crew/g
+s/『υπηρετεω』/officiate;<br>serve/g
+s/『υπηρετης』/officer/g
+s/『υπισχνεομαι』/promise/g
+s/『υπνος』/slumber;<br>sleep/g
+s/『υπνοω』/sleep/g
+s/『υπνωδης』/sleepy;<br>drowsy/g
+s/『υπο』/under;<br>by/g
+s/『υποβαλλω』/suborn;<br>get to commit perjury/g
+s/『υποβλεπω』/look up from under/g
+s/『υπογειος』/under the earth;<br>subterraneous/g
+s/『υπογραμμος』/specimen/g
+s/『υπογραφω』/write under an inscription;<br>subjoin/g
+s/『υπογυος』/close at hand;<br>approaching/g
+s/『υποδειγμα』/example/g
+s/『υποδεικνυμι』/give an example;<br>indicate/g
+s/『υποδεχομαι』/harbor;<br>entertain/g
+s/『υποδεω』/put shoes on/g
 s/『υποδημα』/shoe/g
-s/『υποδυτης』/a garment under a coat of mail/g
-s/『υποδυω』/to put on under/g
-s/『υποζυγιον』/a beast of burden/g
-s/『υποζωννυμι』/to undergird/g
+s/『υποδυτης』/garment under a coat of mail/g
+s/『υποδυω』/put on under/g
+s/『υποζυγιον』/beast of burden/g
+s/『υποζωννυμι』/undergird/g
 s/『υποθεμα』/dish placed under a cup/g
-s/『υποθεσις』/that which is placed under,<br>a foundation/g
-s/『υποκαιω』/to burn by applying fire below/g
-s/『υποκαλυπτω』/to fold over,<br>to drape over/g
+s/『υποθεσις』/that which is placed under;<br>foundation/g
+s/『υποκαιω』/burn by applying fire below/g
+s/『υποκαλυπτω』/fold over;<br>drape over/g
 s/『υποκατω』/underneath/g
 s/『υποκατωθεν』/from underneath/g
-s/『υποκειμαι』/to lie under/g
-s/『υποκρινομαι』/to play-act/g
+s/『υποκειμαι』/lie under/g
+s/『υποκρινομαι』/play-act/g
 s/『υποκρισις』/play-acting/g
-s/『υποκριτης』/a play-actor/g
-s/『υπολαμβανω』/to take up,<br>suppose/g
+s/『υποκριτης』/play-actor/g
+s/『υπολαμβανω』/take up;<br>suppose/g
 s/『υπολειμμα』/remnant;<br>remainder/g
-s/『υπολειπω』/to leave below\/behind/g
-s/『υπολημψις』/prejudice,<br>assumption/g
-s/『υποληνιον』/an under-trough,<br>vat/g
-s/『υπολοιπος』/left behind,<br>staying behind/g
-s/『υπολυσις』/loosening,<br>weakening/g
-s/『υπολυω』/to untie/g
+s/『υπολειπω』/leave below\/behind/g
+s/『υπολημψις』/prejudice;<br>assumption/g
+s/『υποληνιον』/under-trough;<br>vat/g
+s/『υπολοιπος』/left behind;<br>staying behind/g
+s/『υπολυσις』/loosening;<br>weakening/g
+s/『υπολυω』/untie/g
 s/『υπομασθιος』/「ὑπομάσθιος」/g
-s/『υπομενω』/to endure,<br>stay behind/g
-s/『υπομιμνησκω』/to remind/g
-s/『υπομνημα』/a remembrance,<br>memorial/g
-s/『υπομνηματιζομαι』/to be recorded/g
-s/『υπομνηματισμος』/remembrance,<br>remembering/g
+s/『υπομενω』/endure;<br>stay behind/g
+s/『υπομιμνησκω』/remind/g
+s/『υπομνημα』/remembrance;<br>memorial/g
+s/『υπομνηματιζομαι』/recorded/g
+s/『υπομνηματισμος』/remembrance;<br>remembering/g
 s/『υπομνηματογραφος』/recorder/g
 s/『υπομνησις』/remembrance/g
 s/『υπομονη』/endurance/g
-s/『υπονοεω』/to suspect/g
-s/『υπονοημα』/supposition,<br>consideration/g
-s/『υπονοθευω』/to procure by corruption,<br>to labour underhand/g
+s/『υπονοεω』/suspect/g
+s/『υπονοημα』/supposition;<br>consideration/g
+s/『υπονοθευω』/procure by corruption;<br>labour underhand/g
 s/『υπονοια』/suspicion/g
-s/『υπονυσσω』/to prick/g
-s/『υποπιπτω』/to fall under/g
-s/『υποποδιον』/a footstool/g
-s/『υποπτευω』/to be suspicious/g
+s/『υπονυσσω』/prick/g
+s/『υποπιπτω』/fall under/g
+s/『υποποδιον』/footstool/g
+s/『υποπτευω』/suspicious/g
 s/『υποπτος』/looked at from beneath/g
-s/『υποπυρριζω』/to become red/g
-s/『υπορραπτω』/to stitch underneath/g
-s/『υποσημαινω』/to give secret signs of,<br>to indicate/g
-s/『υποσκελιζω』/to trip up one's heels,<br>upset/g
-s/『υποσκελισμα』/fall brought by tripping up,<br>stumble/g
-s/『υποστασις』/essence,<br>substructure/g
-s/『υποστελλω』/to be aloof,<br>draw back/g
-s/『υποστημα』/station of soldiers,<br>camp/g
+s/『υποπυρριζω』/become red/g
+s/『υπορραπτω』/stitch underneath/g
+s/『υποσημαινω』/give secret signs of;<br>indicate/g
+s/『υποσκελιζω』/trip up one's heels;<br>upset/g
+s/『υποσκελισμα』/fall brought by tripping up;<br>stumble/g
+s/『υποστασις』/essence;<br>substructure/g
+s/『υποστελλω』/aloof;<br>draw back/g
+s/『υποστημα』/station of soldiers;<br>camp/g
 s/『υποστηριγμα』/undergirding support/g
-s/『υποστηριζω』/to underprop,<br>sustain/g
-s/『υποστρεφω』/to return/g
-s/『υποστρωννυω』/to spread under/g
-s/『υποσχαζω』/to cause to collapse/g
-s/『υποσχεσις』/an undertaking,<br>engagement/g
-s/『υποτασσω』/to subordinate,<br>subject/g
-s/『υποτιθημι』/to submit,<br>risk/g
+s/『υποστηριζω』/underprop;<br>sustain/g
+s/『υποστρεφω』/return/g
+s/『υποστρωννυω』/spread under/g
+s/『υποσχαζω』/cause to collapse/g
+s/『υποσχεσις』/undertaking;<br>engagement/g
+s/『υποτασσω』/subordinate;<br>subject/g
+s/『υποτιθημι』/submit;<br>risk/g
 s/『υποτιτθια』/「ὑποτίτθια」/g
-s/『υπουργος』/rendering service,<br>serviceable/g
-s/『υποφαινω』/to bring to light from under/g
-s/『υποφαυσις』/a light shewing through a small hole: a narrow opening/g
-s/『υποφερω』/to bear up under/g
-s/『υποφρικος』/shuddering a little,<br>seized by a light shudder/g
+s/『υπουργος』/rendering service;<br>serviceable/g
+s/『υποφαινω』/bring to light from under/g
+s/『υποφαυσις』/light shewing through a small hole: a narrow opening/g
+s/『υποφερω』/bear up under/g
+s/『υποφρικος』/shuddering a little;<br>seized by a light shudder/g
 s/『υποχειριος』/under the hand/g
-s/『υποχονδριον』/soft part of the body below the cartilage and above the navel,<br>part under the ribs/g
-s/『υποχρεως』/indebted,<br>in debt/g
+s/『υποχονδριον』/soft part of the body below the cartilage and above the navel;<br>part under the ribs/g
+s/『υποχρεως』/indebted;<br>in debt/g
 s/『υποχυτηρ』/「ὑποχύτηρ」/g
-s/『υποχωρεω』/to withdraw/g
-s/『υποψια』/suspicion,<br>jealousy/g
-s/『υπτιαζω』/to bend oneself back,<br>to carry one's head high/g
-s/『υπτιος』/laid back,<br>laid on one's back/g
-s/『υπωπιον』/the part of the face under the eyes/g
+s/『υποχωρεω』/withdraw/g
+s/『υποψια』/suspicion;<br>jealousy/g
+s/『υπτιαζω』/bend oneself back;<br>carry one's head high/g
+s/『υπτιος』/laid back;<br>laid on one's back/g
+s/『υπωπιον』/part of the face under the eyes/g
 s/『υρκανος』/[NP]/g
-s/『υς』/a sow/g
+s/『υς』/sow/g
 s/『υσσωπος』/hyssop/g
-s/『υστερεω』/to lack,<br>fail/g
+s/『υστερεω』/lack;<br>fail/g
 s/『υστερημα』/lack/g
-s/『υστεροβουλια』/deliberation after the facts,<br>remorse/g
+s/『υστεροβουλια』/deliberation after the facts;<br>remorse/g
 s/『υστερον』/later/g
 s/『υστερος』/latter/g
-s/『υφαινω』/to weave/g
-s/『υφαιρεω』/to seize underneath/g
-s/『υφαντης』/a weaver/g
+s/『υφαινω』/weave/g
+s/『υφαιρεω』/seize underneath/g
+s/『υφαντης』/weaver/g
 s/『υφαντος』/woven/g
-s/『υφαπτω』/to set on fire from underneath/g
-s/『υφασμα』/a woven robe,<br>web/g
-s/『υφιστημι』/to lay down/g
-s/『υφοραω』/to look at from below,<br>view with suspicion/g
-s/『υψαυχενεω』/to carry the neck high,<br>to show off/g
-s/『υψηλοκαρδιος』/haughty,<br>proud-hearted/g
-s/『υψηλος』/high,<br>lofty/g
+s/『υφαπτω』/set on fire from underneath/g
+s/『υφασμα』/woven robe;<br>web/g
+s/『υφιστημι』/lay down/g
+s/『υφοραω』/look at from below;<br>view with suspicion/g
+s/『υψαυχενεω』/carry the neck high;<br>show off/g
+s/『υψηλοκαρδιος』/haughty;<br>proud-hearted/g
+s/『υψηλος』/high;<br>lofty/g
 s/『υψιστε』/「ὕψιστε」/g
-s/『υψιστος』/highest,<br>most high/g
-s/『υψος』/height,<br>on high/g
-s/『υψοω』/to elevate,<br>lift up/g
+s/『υψιστος』/highest;<br>most high/g
+s/『υψος』/height;<br>on high/g
+s/『υψοω』/elevate;<br>lift up/g
 s/『υψωμα』/elevation/g
-s/『υψωσις』/lifting up high,<br>exaltation/g
-s/『υω』/to send rain,<br>to rain/g
+s/『υψωσις』/lifting up high;<br>exaltation/g
+s/『υω』/send rain;<br>rain/g
 s/『φααθμωαβ』/[NP]/g
 s/『φαγαιηλ』/[NP]/g
 s/『φαγγαι』/[NP]/g
-s/『φαγω』/to swallow,<br>eat/g
+s/『φαγω』/swallow;<br>eat/g
 s/『φαγωρ』/[NP]/g
 s/『φαδαηλ』/[NP]/g
 s/『φαδαια』/[NP]/g
@@ -13307,22 +13307,22 @@ s/『φαδων』/[NP]/g
 s/『φαζ』/refined gold/g
 s/『φαθαια』/[NP]/g
 s/『φαθουρα』/[NP]/g
-s/『φαιδρος』/bright,<br>beaming/g
+s/『φαιδρος』/bright;<br>beaming/g
 s/『φαιθων』/[NP]/g
-s/『φαινω』/to shine,<br>appear/g
+s/『φαινω』/shine;<br>appear/g
 s/『φαιος』/gray/g
 s/『φαισουρ』/[NP]/g
 s/『φακαρεθ-σαβιη』/[NP]/g
 s/『φακεε』/[NP]/g
 s/『φακειας』/[NP]/g
-s/『φακος』/a lentil/g
+s/『φακος』/lentil/g
 s/『φακουα』/[NP]/g
 s/『φακουδ』/[NP]/g
-s/『φαλαγξ』/a line of battle,<br>battle-array/g
+s/『φαλαγξ』/line of battle;<br>battle-array/g
 s/『φαλαι』/[NP]/g
 s/『φαλαια』/[NP]/g
-s/『φαλακρος』/baldheaded,<br>bald/g
-s/『φαλακρωμα』/baldness,<br>bald head/g
+s/『φαλακρος』/baldheaded;<br>bald/g
+s/『φαλακρωμα』/baldness;<br>bald head/g
 s/『φαλαλ』/[NP]/g
 s/『φαλαρις』/[NP]/g
 s/『φαλδας』/[NP]/g
@@ -13340,16 +13340,16 @@ s/『φαλτια』/[NP]/g
 s/『φαλτιας』/[NP]/g
 s/『φαλτιηλ』/[NP]/g
 s/『φαλωχ』/[NP]/g
-s/『φανερος』/exposed,<br>exposure/g
-s/『φανεροω』/to expose,<br>disclose/g
+s/『φανερος』/exposed;<br>exposure/g
+s/『φανεροω』/expose;<br>disclose/g
 s/『φανερως』/openly/g
 s/『φανουηλ』/[NP]/g
-s/『φανταζομαι』/to become visible,<br>appear/g
-s/『φαντασια』/pomp,<br>an apparition/g
-s/『φαντασιοκοπεω』/to play a role,<br>to act in pretence/g
-s/『φαντασμα』/an apparition/g
+s/『φανταζομαι』/become visible;<br>appear/g
+s/『φαντασια』/pomp;<br>apparition/g
+s/『φαντασιοκοπεω』/play a role;<br>act in pretence/g
+s/『φαντασμα』/apparition/g
 s/『φαρα』/[NP]/g
-s/『φαραγξ』/a gorge/g
+s/『φαραγξ』/gorge/g
 s/『φαραθωμ』/[NP]/g
 s/『φαραθων』/[NP]/g
 s/『φαραθωνι』/[NP]/g
@@ -13362,18 +13362,18 @@ s/『φαραω』/[NP]/g
 s/『φαρδαθα』/[NP]/g
 s/『φαρες』/[NP]/g
 s/『φαρες\.1』/half-mina/g
-s/『φαρετρα』/a quiver/g
+s/『φαρετρα』/quiver/g
 s/『φαρζελλαιου』/[NP]/g
 s/『φαριδα』/[NP]/g
-s/『φαρμακευω』/to administer a drug/g
+s/『φαρμακευω』/administer a drug/g
 s/『φαρμακια』/「φαρμακία」/g
-s/『φαρμακον』/a drug,<br>medicine/g
-s/『φαρμακος』/a sorcerer/g
+s/『φαρμακον』/drug;<br>medicine/g
+s/『φαρμακος』/sorcerer/g
 s/『φαρναχ』/[NP]/g
 s/『φαρουαιμ』/[NP]/g
 s/『φαρουριμ』/courts/g
 s/『φαρσαννεσταιν』/[NP]/g
-s/『φαρυγξ』/the throat,<br>gullet/g
+s/『φαρυγξ』/throat;<br>gullet/g
 s/『φαρφαρ』/[NP]/g
 s/『φασγα』/[NP]/g
 s/『φασεκ』/[NP]/g
@@ -13382,31 +13382,31 @@ s/『φασεχ』/Passover/g
 s/『φαση』/[NP]/g
 s/『φασηλις』/[NP]/g
 s/『φασιρων』/[NP]/g
-s/『φασκω』/to assert,<br>claim/g
-s/『φασμα』/an apparition,<br>phantom/g
+s/『φασκω』/assert;<br>claim/g
+s/『φασμα』/apparition;<br>phantom/g
 s/『φασοδομιν』/[NP]/g
 s/『φασουρ』/[NP]/g
 s/『φασσορος』/[NP]/g
 s/『φασσουρ』/[NP]/g
 s/『φασφα』/[NP]/g
-s/『φατνη』/a manger/g
-s/『φατνοω』/to roof/g
+s/『φατνη』/manger/g
+s/『φατνοω』/roof/g
 s/『φατνωμα』/coffered ceiling/g
-s/『φαυλιζω』/to trivialize/g
+s/『φαυλιζω』/trivialize/g
 s/『φαυλισμα』/contemptible act/g
-s/『φαυλισμος』/contempt,<br>contemptibility/g
+s/『φαυλισμος』/contempt;<br>contemptibility/g
 s/『φαυλιστρια』/「φαυλίστρια」/g
 s/『φαυλος』/foul/g
-s/『φαυλοτης』/meanness,<br>paltriness/g
+s/『φαυλοτης』/meanness;<br>paltriness/g
 s/『φαυσις』/shining/g
 s/『φαχαραθ』/[NP]/g
 s/『φαχεραθ-ασεβωιν』/[NP]/g
 s/『φεγγιθ』/[NP]/g
 s/『φεγγος』/brilliance/g
 s/『φεδεια』/[NP]/g
-s/『φειδομαι』/to spare,<br>refrain/g
-s/『φειδω』/a sparing/g
-s/『φειδωλος』/sparing,<br>thrifty/g
+s/『φειδομαι』/spare;<br>refrain/g
+s/『φειδω』/sparing/g
+s/『φειδωλος』/sparing;<br>thrifty/g
 s/『φεισων』/[NP]/g
 s/『φελεθθι』/[NP]/g
 s/『φελεθθι\.1』/Peletite/g
@@ -13416,7 +13416,7 @@ s/『φελεττι』/[NP]/g
 s/『φελητι』/[NP]/g
 s/『φελιηλ』/[NP]/g
 s/『φελλανι』/[NP]/g
-s/『φελμουνι』/a certain person/g
+s/『φελμουνι』/certain person/g
 s/『φελωθι』/[NP]/g
 s/『φελωνι』/[NP]/g
 s/『φεννανα』/[NP]/g
@@ -13424,34 +13424,34 @@ s/『φερεζαιος』/[NP]/g
 s/『φερεζαιου』/[NP]/g
 s/『φερεζι』/[NP]/g
 s/『φεριδα』/[NP]/g
-s/『φερνη』/a dowry/g
-s/『φερνιζω』/to pay the bridal price,<br>to obtain as wife/g
-s/『φερω』/to carry,<br>bring/g
+s/『φερνη』/dowry/g
+s/『φερνιζω』/pay the bridal price;<br>obtain as wife/g
+s/『φερω』/carry;<br>bring/g
 s/『φεση』/[NP]/g
 s/『φεσηχι』/[NP]/g
 s/『φεσσηε』/[NP]/g
 s/『φεταια』/[NP]/g
-s/『φευγω』/to flee/g
-s/『φευκτος』/to be shunned/g
+s/『φευγω』/flee/g
+s/『φευκτος』/shunned/g
 s/『φη』/「φη」/g
-s/『φημη』/an expression,<br>message/g
-s/『φημι』/to express,<br>claim/g
+s/『φημη』/expression;<br>message/g
+s/『φημι』/express;<br>claim/g
 s/『φθαιηλ』/[NP]/g
-s/『φθανω』/to spring,<br>attain/g
-s/『φθαρμα』/corrupted thing or act/g
-s/『φθαρτος』/corruptible,<br>perishable/g
-s/『φθεγγομαι』/to enunciate,<br>speak/g
-s/『φθεγμα』/the sound of the voice,<br>a voice/g
-s/『φθειριζω』/to pick the lice off/g
-s/『φθειρω』/to corrupt/g
+s/『φθανω』/spring;<br>attain/g
+s/『φθαρμα』/corrupted thing/g
+s/『φθαρτος』/corruptible;<br>perishable/g
+s/『φθεγγομαι』/enunciate;<br>speak/g
+s/『φθεγμα』/sound of the voice;<br>voice/g
+s/『φθειριζω』/pick the lice off/g
+s/『φθειρω』/corrupt/g
 s/『φθινω』/「φθίνω」/g
-s/『φθογγος』/enunciation,<br>a tone/g
-s/『φθονερος』/envious,<br>jealous/g
-s/『φθονεω』/to envy/g
+s/『φθογγος』/enunciation;<br>tone/g
+s/『φθονερος』/envious;<br>jealous/g
+s/『φθονεω』/envy/g
 s/『φθονος』/envy/g
 s/『φθορα』/corruption/g
 s/『φθορευς』/corruptor/g
-s/『φιαλη』/a bowl/g
+s/『φιαλη』/bowl/g
 s/『φιδων』/[NP]/g
 s/『φιθων』/[NP]/g
 s/『φικολ』/[NP]/g
@@ -13459,109 +13459,109 @@ s/『φιλαγαθος』/fond of good/g
 s/『φιλαδελφια』/brotherly fondness/g
 s/『φιλαδελφος』/fond of brothers/g
 s/『φιλαμαρτημων』/loving sin/g
-s/『φιλανθρωπεω』/to treat humanely/g
-s/『φιλανθρωπια』/philanthropy,<br>humanity/g
-s/『φιλανθρωπος』/loving mankind,<br>humane/g
+s/『φιλανθρωπεω』/treat humanely/g
+s/『φιλανθρωπια』/philanthropy;<br>humanity/g
+s/『φιλανθρωπος』/loving mankind;<br>humane/g
 s/『φιλανθρωπως』/humanely/g
 s/『φιλαργυρεω』/「φιλαργυρέω」/g
 s/『φιλαργυρια』/avarice/g
 s/『φιλαργυρος』/avaricious/g
-s/『φιλαρχια』/love of rule,<br>lust of power/g
+s/『φιλαρχια』/love of rule;<br>lust of power/g
 s/『φιλελεημων』/merciful/g
-s/『φιλεχθρεω』/to exercise enmity against,<br>to be ready to quarrel with/g
-s/『φιλεω』/to like,<br>be fond of/g
+s/『φιλεχθρεω』/exercise enmity against;<br>ready to quarrel with/g
+s/『φιλεω』/like;<br>fond of/g
 s/『φιληκοια』/fondness for listening to/g
 s/『φιλημα』/affection/g
 s/『φιλια』/friendship/g
-s/『φιλιαζω』/to be friends with,<br>to act friendly towards/g
+s/『φιλιαζω』/friends with;<br>act friendly towards/g
 s/『φιλιππος』/[NP]/g
 s/『φιλογεωργος』/fond of a country life/g
 s/『φιλογυναιος』/fond of women/g
 s/『φιλοδοξια』/love of honour/g
 s/『φιλοκοσμος』/loving ornament/g
-s/『φιλομαθεω』/to be fond of learning/g
-s/『φιλομαθης』/fond of learning,<br>eager after knowledge/g
+s/『φιλομαθεω』/fond of learning/g
+s/『φιλομαθης』/fond of learning;<br>eager after knowledge/g
 s/『φιλομητωρ』/[NP]/g
 s/『φιλομητωρ\.1』/loving one's mother/g
-s/『φιλονεικεω』/to be fond of strife,<br>engage in eager rivalry/g
-s/『φιλονεικια』/a quarrel/g
+s/『φιλονεικεω』/fond of strife;<br>engage in eager rivalry/g
+s/『φιλονεικια』/quarrel/g
 s/『φιλονεικος』/quarrelsome/g
 s/『φιλοπατωρ』/[NP]/g
 s/『φιλοπολιτης』/loving one's fellow-citizens/g
-s/『φιλοπονεω』/to love labour,<br>work hard/g
-s/『φιλοπονια』/love of labour,<br>laboriousness/g
+s/『φιλοπονεω』/love labour;<br>work hard/g
+s/『φιλοπονια』/love of labour;<br>laboriousness/g
 s/『φιλος』/friend/g
-s/『φιλοσοφεω』/to love knowledge,<br>pursue it/g
+s/『φιλοσοφεω』/love knowledge;<br>pursue it/g
 s/『φιλοσοφια』/philosophy/g
-s/『φιλοσοφος』/a philosopher/g
-s/『φιλοστοργια』/tender love,<br>affectionateness/g
+s/『φιλοσοφος』/philosopher/g
+s/『φιλοστοργια』/tender love;<br>affectionateness/g
 s/『φιλοστοργος』/cherishing/g
 s/『φιλοστοργως』/kindly/g
-s/『φιλοτεκνια』/love of one’s children,<br>parental love/g
+s/『φιλοτεκνια』/love of one’s children;<br>parental love/g
 s/『φιλοτεκνος』/fond of children/g
-s/『φιλοτιμια』/the character of the/g
-s/『φιλοτιμος』/loving honour,<br>covetous of honour/g
+s/『φιλοτιμια』/character of the/g
+s/『φιλοτιμος』/loving honour;<br>covetous of honour/g
 s/『φιλοτιμως』/honourably;<br>diligently/g
-s/『φιλοφρονεω』/to be of a friendly disposition towards,<br>to be of a kindly mind towards/g
+s/『φιλοφρονεω』/of a friendly disposition towards;<br>of a kindly mind towards/g
 s/『φιλοφρονως』/amicably/g
-s/『φιλοψυχος』/loving one's life,<br>cowardly/g
-s/『φιλτρον』/a love-charm/g
-s/『φιμος』/a muzzle/g
-s/『φιμοω』/to muzzle,<br>silence/g
+s/『φιλοψυχος』/loving one's life;<br>cowardly/g
+s/『φιλτρον』/love-charm/g
+s/『φιμος』/muzzle/g
+s/『φιμοω』/muzzle;<br>silence/g
 s/『φινεες』/[NP]/g
 s/『φινοε』/[NP]/g
 s/『φινω』/[NP]/g
 s/『φινων』/[NP]/g
 s/『φιρα』/[NP]/g
 s/『φισων』/[NP]/g
-s/『φλεγμαινω』/to be heated,<br>inflamed/g
-s/『φλεγμονη』/heat,<br>passion/g
-s/『φλεγω』/to burn,<br>burn up/g
-s/『φλεψ』/a vein/g
-s/『φλια』/the doorposts,<br>jambs/g
-s/『φλογιζω』/to set ablaze/g
+s/『φλεγμαινω』/heated;<br>inflamed/g
+s/『φλεγμονη』/heat;<br>passion/g
+s/『φλεγω』/burn;<br>burn up/g
+s/『φλεψ』/vein/g
+s/『φλια』/doorposts;<br>jambs/g
+s/『φλογιζω』/set ablaze/g
 s/『φλογινος』/blazing/g
-s/『φλοιος』/the bark/g
-s/『φλοξ』/a blaze/g
+s/『φλοιος』/bark/g
+s/『φλοξ』/blaze/g
 s/『φλυαρος』/babbling/g
-s/『φλυκτις』/blister,<br>pustule/g
-s/『φοβεριζω』/to terrify,<br>to scare/g
-s/『φοβερισμος』/terror,<br>terrifying deed/g
-s/『φοβεροειδης』/terrible to behold,<br>terrible of form/g
-s/『φοβερος』/fearful,<br>fearsome/g
+s/『φλυκτις』/blister;<br>pustule/g
+s/『φοβεριζω』/terrify;<br>scare/g
+s/『φοβερισμος』/terror;<br>terrifying deed/g
+s/『φοβεροειδης』/terrible to behold;<br>terrible of form/g
+s/『φοβερος』/fearful;<br>fearsome/g
 s/『φοβερως』/fearfully;<br>frightening/g
-s/『φοβεω』/to be afraid,<br>fear/g
-s/『φοβητρον』/a horror/g
-s/『φοβος』/fear,<br>awe/g
+s/『φοβεω』/afraid;<br>fear/g
+s/『φοβητρον』/horror/g
+s/『φοβος』/fear;<br>awe/g
 s/『φογωρ』/[NP]/g
-s/『φοιβαω』/to cleanse,<br>purify/g
+s/『φοιβαω』/cleanse;<br>purify/g
 s/『φοινικες』/[NP]/g
 s/『φοινικη』/[NP]/g
 s/『φοινικους』/purple/g
 s/『φοινικων』/[NP]/g
-s/『φοινιξ\.1』/a palm tree,<br>a palm/g
+s/『φοινιξ\.1』/palm tree;<br>palm/g
 s/『φοινισσα』/[NP]/g
 s/『φολλαθι』/[NP]/g
-s/『φονευς』/a murderer/g
-s/『φονευτης』/slayer,<br>murderer/g
-s/『φονευω』/to murder/g
-s/『φονοκτονεω』/to defile with murder/g
-s/『φονοκτονια』/murder,<br>deed of murder/g
+s/『φονευς』/murderer/g
+s/『φονευτης』/slayer;<br>murderer/g
+s/『φονευω』/murder/g
+s/『φονοκτονεω』/defile with murder/g
+s/『φονοκτονια』/murder;<br>deed of murder/g
 s/『φονος』/murder/g
-s/『φονωδης』/murderous,<br>bloodthirsty/g
-s/『φορα』/a carrying/g
+s/『φονωδης』/murderous;<br>bloodthirsty/g
+s/『φορα』/carrying/g
 s/『φορβεα』/halter/g
-s/『φορειον』/a litter/g
-s/『φορεω』/to bear,<br>wear/g
+s/『φορειον』/litter/g
+s/『φορεω』/bear;<br>wear/g
 s/『φορθομμιν』/nobles/g
-s/『φορολογεω』/to levy tribute from/g
-s/『φορολογητος』/tributary to,<br>paying tribute to/g
+s/『φορολογεω』/levy tribute from/g
+s/『φορολογητος』/tributary to;<br>paying tribute to/g
 s/『φορολογια』/levying tribute;<br>tribute/g
 s/『φορολογος』/levying tribute/g
 s/『φορος』/[NP]/g
 s/『φορος\.1』/income tax/g
-s/『φορτιζω』/to overload/g
-s/『φορτιον』/cargo,<br>a load/g
+s/『φορτιζω』/overload/g
+s/『φορτιον』/cargo;<br>load/g
 s/『φουα』/[NP]/g
 s/『φουαι』/[NP]/g
 s/『φουασουδ』/[NP]/g
@@ -13570,81 +13570,81 @@ s/『φουλ』/[NP]/g
 s/『φουτιηλ』/[NP]/g
 s/『φρααθων』/[NP]/g
 s/『φρααθωνιτης』/[NP]/g
-s/『φραγμος』/a fence,<br>fencing/g
-s/『φραζω』/to explain/g
+s/『φραγμος』/fence;<br>fencing/g
+s/『φραζω』/explain/g
 s/『φραζων』/「φραζών」/g
-s/『φρασσω』/to restrain/g
+s/『φρασσω』/restrain/g
 s/『φρεαρ』/pit/g
 s/『φρενοομαι』/「φρενόομαι」/g
-s/『φρην』/feeling,<br>wits/g
-s/『φρικασμος』/shudder,<br>trembling/g
-s/『φρικη』/a shuddering,<br>shivering/g
-s/『φρικτος』/to be shuddered at,<br>horrible/g
-s/『φρικτως』/awfully,<br>horribly/g
-s/『φρικωδης』/that causes shuddering,<br>horrible/g
-s/『φρισσω』/to bristle/g
+s/『φρην』/feeling;<br>wits/g
+s/『φρικασμος』/shudder;<br>trembling/g
+s/『φρικη』/shuddering;<br>shivering/g
+s/『φρικτος』/shuddered at;<br>horrible/g
+s/『φρικτως』/awfully;<br>horribly/g
+s/『φρικωδης』/that causes shuddering;<br>horrible/g
+s/『φρισσω』/bristle/g
 s/『φριττω』/「φρίττω」/g
-s/『φρονεω』/to feel,<br>sense/g
-s/『φρονημα』/attitude,<br>sensibility/g
-s/『φρονησις』/prudence,<br>insight/g
-s/『φρονιμος』/prudent,<br>conceited/g
-s/『φροντιζω』/to take care/g
-s/『φροντις』/thought,<br>care/g
+s/『φρονεω』/feel;<br>sense/g
+s/『φρονημα』/attitude;<br>sensibility/g
+s/『φρονησις』/prudence;<br>insight/g
+s/『φρονιμος』/prudent;<br>conceited/g
+s/『φροντιζω』/take care/g
+s/『φροντις』/thought;<br>care/g
 s/『φροντιστεον』/「φροντιστέον」/g
-s/『φρουρα』/a looking out,<br>watch/g
+s/『φρουρα』/looking out;<br>watch/g
 s/『φρουραι』/[NP]/g
-s/『φρουρεω』/to sentinel,<br>guard/g
-s/『φρουριον』/a watch-post,<br>garrisoned fort/g
-s/『φρουροω』/to set garrison in,<br>to guard/g
+s/『φρουρεω』/sentinel;<br>guard/g
+s/『φρουριον』/watch-post;<br>garrisoned fort/g
+s/『φρουροω』/set garrison in;<br>guard/g
 s/『φρυαγμα』/bellowing/g
 s/『φρυαζω』/「φρυάζω」/g
-s/『φρυασσω』/to be tumultuous/g
-s/『φρυγανον』/a stick/g
+s/『φρυασσω』/tumultuous/g
+s/『φρυγανον』/stick/g
 s/『φρυγιον』/firewood/g
-s/『φρυγω』/to roast/g
+s/『φρυγω』/roast/g
 s/『φρυξ』/[NP]/g
 s/『φυγαδευτηριον』/refuge;<br>place of refuge/g
-s/『φυγαδευω』/to drive from a country,<br>banish/g
+s/『φυγαδευω』/drive from a country;<br>banish/g
 s/『φυγαδιον』/place of refuge/g
 s/『φυγας』/one who flees/g
-s/『φυγη』/a flight/g
-s/『φυη』/growth,<br>stature/g
+s/『φυγη』/flight/g
+s/『φυη』/growth;<br>stature/g
 s/『φυκος』/rouge/g
-s/『φυλαγμα』/observance,<br>obligation/g
-s/『φυλακη』/prison,<br>watch/g
+s/『φυλαγμα』/observance;<br>obligation/g
+s/『φυλακη』/prison;<br>watch/g
 s/『φυλακιζομαι』/「φυλακίζομαι」/g
 s/『φυλακισσα』/keeper/g
-s/『φυλαξ』/a guard/g
+s/『φυλαξ』/guard/g
 s/『φυλαρχης』/chief of a tribe/g
-s/『φυλαρχος』/the chief of a/g
-s/『φυλασσω』/to guard,<br>keep/g
-s/『φυλη』/a tribe/g
+s/『φυλαρχος』/chief of a/g
+s/『φυλασσω』/guard;<br>keep/g
+s/『φυλη』/tribe/g
 s/『φυλιστιιμ』/[NP]/g
-s/『φυλλον』/a leaf/g
-s/『φυλον』/a race,<br>tribe/g
-s/『φυραμα』/a batch/g
-s/『φυρασις』/mixing,<br>kneading/g
-s/『φυραω』/to knead/g
-s/『φυρδην』/mixedly,<br>in utter confusion/g
+s/『φυλλον』/leaf/g
+s/『φυλον』/race;<br>tribe/g
+s/『φυραμα』/batch/g
+s/『φυρασις』/mixing;<br>kneading/g
+s/『φυραω』/knead/g
+s/『φυρδην』/mixedly;<br>in utter confusion/g
 s/『φυρμος』/disorder/g
 s/『φυρομαι』/「φύρομαι」/g
-s/『φυρω』/to mix/g
-s/『φυσαω』/to blow/g
-s/『φυσητηρ』/an instrument for blowing,<br>blowpipe/g
+s/『φυρω』/mix/g
+s/『φυσαω』/blow/g
+s/『φυσητηρ』/instrument for blowing;<br>blowpipe/g
 s/『φυσις』/nature/g
 s/『φυτεια』/planting/g
-s/『φυτευμα』/a plant/g
-s/『φυτευω』/to plant/g
-s/『φυτον』/a plant/g
-s/『φυω』/to sprout/g
-s/『φωνεω』/to call,<br>crow/g
-s/『φωνη』/a voice,<br>sound/g
+s/『φυτευμα』/plant/g
+s/『φυτευω』/plant/g
+s/『φυτον』/plant/g
+s/『φυω』/sprout/g
+s/『φωνεω』/call;<br>crow/g
+s/『φωνη』/voice;<br>sound/g
 s/『φωραομαι』/「φωράομαι」/g
 s/『φως』/light/g
-s/『φωστηρ』/a light source,<br>beacon/g
-s/『φωταγωγεω』/to guide with a light,<br>to light the path of sb/g
+s/『φωστηρ』/light source;<br>beacon/g
+s/『φωταγωγεω』/guide with a light;<br>light the path of sb/g
 s/『φωτεινος』/luminous/g
-s/『φωτιζω』/to illuminate,<br>enlighten/g
+s/『φωτιζω』/illuminate;<br>enlighten/g
 s/『φωτισμος』/illumination/g
 s/『χαβασιν』/[NP]/g
 s/『χαββα』/[NP]/g
@@ -13660,47 +13660,47 @@ s/『χαβωρ』/[NP]/g
 s/『χαδιασαι』/[NP]/g
 s/『χαθλως』/[NP]/g
 s/『χαιλων』/[NP]/g
-s/『χαινω』/to open wide/g
+s/『χαινω』/open wide/g
 s/『χαιρεας』/[NP]/g
-s/『χαιρετιζω』/to greet,<br>to salute/g
-s/『χαιρω』/to rejoice,<br>hail/g
+s/『χαιρετιζω』/greet;<br>salute/g
+s/『χαιρω』/rejoice;<br>hail/g
 s/『χαλαζα』/[NP]/g
 s/『χαλαζα\.1』/hail/g
 s/『χαλαζη』/hail/g
 s/『χαλαμακ』/[NP]/g
 s/『χαλαννη』/[NP]/g
 s/『χαλαστα』/「χάλαστα」/g
-s/『χαλαστον』/festoon,<br>chain/g
+s/『χαλαστον』/festoon;<br>chain/g
 s/『χαλαχ』/[NP]/g
-s/『χαλαω』/to lower/g
-s/『χαλβανη』/the resinous extract of the galbanum plant,<br>galbanum/g
+s/『χαλαω』/lower/g
+s/『χαλβανη』/resinous extract of the galbanum plant;<br>galbanum/g
 s/『χαλδαια』/[NP]/g
 s/『χαλδαικος』/「Χαλδαϊκός」/g
 s/『χαλδαιος』/[NP]/g
 s/『χαλδαιστι』/「Χαλδαϊστί」/g
 s/『χαλεβ』/[NP]/g
-s/『χαλεπαινω』/to be severe,<br>sore/g
-s/『χαλεπος』/fierce,<br>difficult/g
+s/『χαλεπαινω』/severe;<br>sore/g
+s/『χαλεπος』/fierce;<br>difficult/g
 s/『χαληλ』/[NP]/g
 s/『χαλια』/[NP]/g
-s/『χαλινος』/a bridle/g
-s/『χαλιξ』/a small stone,<br>pebble/g
+s/『χαλινος』/bridle/g
+s/『χαλιξ』/small stone;<br>pebble/g
 s/『χαλκαλ』/[NP]/g
-s/『χαλκειον』/a smith's shop,<br>forge/g
+s/『χαλκειον』/smith's shop;<br>forge/g
 s/『χαλκειος』/of copper/g
 s/『χαλκεος』/of brass/g
-s/『χαλκευς』/a coppersmith/g
-s/『χαλκευω』/to make of copper/g
-s/『χαλκιον』/a copper pot/g
-s/『χαλκοπλαστης』/bronze-worker,<br>copper-shaper/g
-s/『χαλκος』/copper,<br>brass/g
+s/『χαλκευς』/coppersmith/g
+s/『χαλκευω』/make of copper/g
+s/『χαλκιον』/copper pot/g
+s/『χαλκοπλαστης』/bronze-worker;<br>copper-shaper/g
+s/『χαλκος』/copper;<br>brass/g
 s/『χαλου』/[NP]/g
 s/『χαλφι』/[NP]/g
 s/『χαλχαλ』/[NP]/g
 s/『χαμ』/[NP]/g
 s/『χαμααμ』/[NP]/g
 s/『χαμαι』/on the ground/g
-s/『χαμαιλεων』/the chameleon/g
+s/『χαμαιλεων』/chameleon/g
 s/『χαμαιπετης』/falling to the ground/g
 s/『χαμανιμ』/Chamanim/g
 s/『χαμματα』/[NP]/g
@@ -13720,20 +13720,20 @@ s/『χαος』/chaos/g
 s/『χαρα』/joy/g
 s/『χαρααθ』/[NP]/g
 s/『χαραδαθ』/[NP]/g
-s/『χαραδριος』/the curlew/g
+s/『χαραδριος』/curlew/g
 s/『χαραιφι』/[NP]/g
 s/『χαρακα』/[NP]/g
-s/『χαρακοβολια』/throwing up a mound,<br>erection of a palisade/g
-s/『χαρακοω』/to fence by a palisade,<br>fortify/g
-s/『χαρακτηρ』/a character/g
-s/『χαρακωσις』/a palisading/g
-s/『χαραξ』/a palisade/g
-s/『χαρασσω』/to make sharp/g
+s/『χαρακοβολια』/throwing up a mound;<br>erection of a palisade/g
+s/『χαρακοω』/fence by a palisade;<br>fortify/g
+s/『χαρακτηρ』/character/g
+s/『χαρακωσις』/palisading/g
+s/『χαραξ』/palisade/g
+s/『χαρασσω』/make sharp/g
 s/『χαρεα』/[NP]/g
 s/『χαρημ』/[NP]/g
-s/『χαριεις』/graceful,<br>beautiful/g
-s/『χαριζομαι』/to grant,<br>be gracious/g
-s/『χαρις』/grace,<br>regards/g
+s/『χαριεις』/graceful;<br>beautiful/g
+s/『χαριζομαι』/grant;<br>gracious/g
+s/『χαρις』/grace;<br>regards/g
 s/『χαριστηριος』/for thanksgiving/g
 s/『χαριτοομαι』/「χαριτόομαι」/g
 s/『χαρκαμυς』/[NP]/g
@@ -13743,15 +13743,15 @@ s/『χαρμη』/[NP]/g
 s/『χαρμι』/[NP]/g
 s/『χαρμιν』/[NP]/g
 s/『χαρμις』/[NP]/g
-s/『χαρμονη』/a joy/g
-s/『χαρμοσυνη』/joyfulness,<br>delight/g
-s/『χαρμοσυνος』/joyful,<br>glad/g
+s/『χαρμονη』/joy/g
+s/『χαρμοσυνη』/joyfulness;<br>delight/g
+s/『χαρμοσυνος』/joyful;<br>glad/g
 s/『χαροπος』/bright/g
 s/『χαρουβ』/[NP]/g
 s/『χαρραν』/[NP]/g
 s/『χαρρι』/[NP]/g
 s/『χαρσιθ』/potsherd/g
-s/『χαρτηρια』/stock of papyrus,<br>paper/g
+s/『χαρτηρια』/stock of papyrus;<br>paper/g
 s/『χαρτης』/paper/g
 s/『χαρτιον』/papyrus roll/g
 s/『χαρχαμις』/[NP]/g
@@ -13766,7 +13766,7 @@ s/『χασιλ』/[NP]/g
 s/『χασκω』/yawn/g
 s/『χασλων』/[NP]/g
 s/『χασλωνιιμ』/[NP]/g
-s/『χασμα』/a chasm/g
+s/『χασμα』/chasm/g
 s/『χασφω』/[NP]/g
 s/『χαταρωθι』/[NP]/g
 s/『χαττους』/[NP]/g
@@ -13779,24 +13779,24 @@ s/『χεβρων』/[NP]/g
 s/『χεβρωνι』/[NP]/g
 s/『χεβρωνις』/[NP]/g
 s/『χεζραθ』/[NP]/g
-s/『χειλος』/a lip,<br>shore/g
-s/『χειμαζω』/to be storm-tossed/g
+s/『χειλος』/lip;<br>shore/g
+s/『χειμαζω』/storm-tossed/g
 s/『χειμαρρους』/ravine/g
 s/『χειμερινος』/of winter/g
-s/『χειμεριος』/wintry,<br>stormy/g
+s/『χειμεριος』/wintry;<br>stormy/g
 s/『χειμων』/winter/g
-s/『χειρ』/the hand/g
-s/『χειραγωγεω』/to lead by the hand/g
+s/『χειρ』/hand/g
+s/『χειραγωγεω』/lead by the hand/g
 s/『χειρεω』/「χειρέω」/g
-s/『χειριζω』/to handle,<br>to administer/g
+s/『χειριζω』/handle;<br>administer/g
 s/『χειριστως』/in a worse way/g
 s/『χειρογραφον』/handwriting/g
 s/『χειρονομια』/gesticulation/g
 s/『χειροομαι』/「χειρόομαι」/g
 s/『χειροπεδη』/handcuff/g
 s/『χειροποιητος』/handmade/g
-s/『χειροτονια』/a voting/g
-s/『χειροω』/to bring into hand,<br>to manage/g
+s/『χειροτονια』/voting/g
+s/『χειροω』/bring into hand;<br>manage/g
 s/『χειρων』/worse/g
 s/『χελαιων』/[NP]/g
 s/『χελβα』/[NP]/g
@@ -13807,7 +13807,7 @@ s/『χελεθθι』/[NP]/g
 s/『χελεουδ』/[NP]/g
 s/『χελεων』/[NP]/g
 s/『χελια』/[NP]/g
-s/『χελιδων』/the swallow/g
+s/『χελιδων』/swallow/g
 s/『χελκαθ』/[NP]/g
 s/『χελκανα』/[NP]/g
 s/『χελκατ』/[NP]/g
@@ -13820,19 +13820,19 @@ s/『χελουβ』/[NP]/g
 s/『χελους』/[NP]/g
 s/『χελυνιον』/jaw/g
 s/『χελχα』/[NP]/g
-s/『χελωνη』/a tortoise/g
+s/『χελωνη』/tortoise/g
 s/『χελωνις』/「χελώνις」/g
 s/『χεναρα』/[NP]/g
 s/『χενερεθ』/[NP]/g
 s/『χερεθ』/excommunication?/g
 s/『χερεθθι』/[NP]/g
-s/『χερεθθι\.1』/Cheretites,<br>Cretans?/g
+s/『χερεθθι\.1』/Cheretites;<br>Cretans?/g
 s/『χερμελ』/[NP]/g
 s/『χερουβ』/cherubim/g
 s/『χερσαιος』/of dry land/g
-s/『χερσευω』/to be dry land,<br>to lie waste/g
+s/『χερσευω』/dry land;<br>lie waste/g
 s/『χερσοομαι』/「χερσόομαι」/g
-s/『χερσος』/dry land,<br>land/g
+s/『χερσος』/dry land;<br>land/g
 s/『χερσοω』/「χερσόω」/g
 s/『χετ』/[NP]/g
 s/『χετταια』/[NP]/g
@@ -13843,41 +13843,41 @@ s/『χεττιιν』/[NP]/g
 s/『χεττιιν\.1』/linen garments?;<br>houses?/g
 s/『χεττουρα』/[NP]/g
 s/『χεφιρα』/[NP]/g
-s/『χεω』/to pour out/g
+s/『χεω』/pour out/g
 s/『χηζιρ』/[NP]/g
-s/『χηλη』/hoof,<br>cloven hoof/g
-s/『χηρα』/a widow/g
+s/『χηλη』/hoof;<br>cloven hoof/g
+s/『χηρα』/widow/g
 s/『χηρεια』/widowhood/g
 s/『χηρειος』/widowed/g
 s/『χηρευσις』/widowhood/g
-s/『χηρευω』/to be bereaved/g
+s/『χηρευω』/bereaved/g
 s/『χθες』/yesterday/g
 s/『χθιζος』/of yesterday/g
-s/『χιδρον』/groat,<br>hulled kernel/g
-s/『χιλιαρχια』/the office/g
+s/『χιδρον』/groat;<br>hulled kernel/g
+s/『χιλιαρχια』/office/g
 s/『χιλιαρχος』/commander/g
-s/『χιλιας』/a thousand/g
-s/『χιλιοι』/a thousand/g
-s/『χιλιοπλασιως』/a thousandfold more,<br>a thousand times over/g
-s/『χιλιος』/a thousand,<br>of thousand/g
+s/『χιλιας』/thousand/g
+s/『χιλιοι』/thousand/g
+s/『χιλιοπλασιως』/thousandfold more;<br>thousand times over/g
+s/『χιλιος』/thousand;<br>of thousand/g
 s/『χιλουων』/[NP]/g
-s/『χιμαιρα』/a she-goat/g
-s/『χιμαρος』/a he-goat/g
+s/『χιμαιρα』/she-goat/g
+s/『χιμαρος』/he-goat/g
 s/『χιναναδαβ』/[NP]/g
 s/『χιονα』/「χιόνα」/g
-s/『χιονοομαι』/to be snowed upon/g
+s/『χιονοομαι』/snowed upon/g
 s/『χιραμ』/[NP]/g
-s/『χιτων』/a shirt/g
+s/『χιτων』/shirt/g
 s/『χιων』/snow/g
 s/『χλαινα』/pallium./g
-s/『χλαμυς』/a robe/g
-s/『χλευαζω』/to joke/g
+s/『χλαμυς』/robe/g
+s/『χλευαζω』/joke/g
 s/『χλευασμα』/object of mockery/g
-s/『χλευασμος』/a joke/g
+s/『χλευασμος』/joke/g
 s/『χλιδων』/「χλίδων」/g
 s/『χλοη\.1』/verdure/g
 s/『χλοηφορος』/bearing green grass/g
-s/『χλωριζω』/to be greenish/g
+s/『χλωριζω』/greenish/g
 s/『χλωρος』/green/g
 s/『χλωροτης』/greenness/g
 s/『χνουν』/「χνοῦν」/g
@@ -13892,37 +13892,37 @@ s/『χοδλι』/[NP]/g
 s/『χοδολλογομορ』/[NP]/g
 s/『χοευς』/chous/g
 s/『χοθωνωθ』/garments/g
-s/『χοινιξ』/a quart/g
+s/『χοινιξ』/quart/g
 s/『χοιρογρυλλιον』/「χοιρογρύλλιον」/g
-s/『χοιρογρυλλιος』/rabbit,<br>coney/g
+s/『χοιρογρυλλιος』/rabbit;<br>coney/g
 s/『χολασεωλα』/[NP]/g
 s/『χολδαι』/[NP]/g
-s/『χολερα』/cholera,<br>nausea/g
+s/『χολερα』/cholera;<br>nausea/g
 s/『χολη』/gall/g
 s/『χολθι』/[NP]/g
 s/『χολοδ』/[NP]/g
-s/『χολος』/gall,<br>bile/g
+s/『χολος』/gall;<br>bile/g
 s/『χολουβ』/[NP]/g
 s/『χονδριτης』/of course meal/g
 s/『χορβε』/[NP]/g
-s/『χορδη』/gut-string,<br>the string/g
-s/『χορεια』/a dance/g
+s/『χορδη』/gut-string;<br>string/g
+s/『χορεια』/dance/g
 s/『χορευουσαι』/「χορεύουσαι」/g
-s/『χορευω』/to dance a round/g
-s/『χορηγεω』/to contribute/g
-s/『χορηγια』/the office of a/g
-s/『χορηγος』/a chorus leader/g
-s/『χοριον』/the membrane that encloses the fetus,<br>the afterbirth/g
+s/『χορευω』/dance a round/g
+s/『χορηγεω』/contribute/g
+s/『χορηγια』/office of a/g
+s/『χορηγος』/chorus leader/g
+s/『χοριον』/membrane that encloses the fetus;<br>afterbirth/g
 s/『χορος』/dancing/g
 s/『χορραθ』/[NP]/g
 s/『χορραιος』/[NP]/g
 s/『χορρι』/[NP]/g
-s/『χορταζω』/to satisfy/g
-s/『χορτασια』/a being fed,<br>feasting/g
-s/『χορτασμα』/sustenance,<br>fodder/g
-s/『χορτομανεω』/to run to grass,<br>to grow rank/g
-s/『χορτος』/grass,<br>a plant/g
-s/『χορτωδης』/of grass,<br>grass-like/g
+s/『χορταζω』/satisfy/g
+s/『χορτασια』/being fed;<br>feasting/g
+s/『χορτασμα』/sustenance;<br>fodder/g
+s/『χορτομανεω』/run to grass;<br>grow rank/g
+s/『χορτος』/grass;<br>plant/g
+s/『χορτωδης』/of grass;<br>grass-like/g
 s/『χορχορ』/[NP]/g
 s/『χοσαμαιος』/[NP]/g
 s/『χουθ』/[NP]/g
@@ -13933,62 +13933,62 @@ s/『χουσαρσαθαιμ』/[NP]/g
 s/『χουσαρσαθωμ』/[NP]/g
 s/『χουσι』/[NP]/g
 s/『χουχι』/[NP]/g
-s/『χοω』/to throw/g
-s/『χραομαι』/to resort to,<br>treat/g
-s/『χραω』/to lend,<br>use/g
+s/『χοω』/throw/g
+s/『χραομαι』/resort to;<br>treat/g
+s/『χραω』/lend;<br>use/g
 s/『χρεια』/need/g
-s/『χρεμετιζω』/to neigh,<br>whinny/g
+s/『χρεμετιζω』/neigh;<br>whinny/g
 s/『χρεμετισμος』/neighing/g
 s/『χρεοκοπεομαι』/「χρεοκοπέομαι」/g
-s/『χρεος』/that which one needs must pay,<br>an obligation/g
+s/『χρεος』/that which one needs must pay;<br>obligation/g
 s/『χρεους』/「χρέους」/g
 s/『χρεοφειλετου』/「χρεοφειλέτου」/g
-s/『χρεωφειλετης』/a debtor/g
+s/『χρεωφειλετης』/debtor/g
 s/『χρη』/need be/g
-s/『χρηζω』/to need/g
-s/『χρημα』/proceeds,<br>fund/g
-s/『χρηματιζω』/to deal with,<br>be called/g
-s/『χρηματισμος』/dealing with,<br>response/g
-s/『χρηματιστηριον』/a place for transacting business,<br>a counting-house/g
-s/『χρησιμευω』/to be useful/g
-s/『χρησιμος』/serviceable,<br>useful/g
+s/『χρηζω』/need/g
+s/『χρημα』/proceeds;<br>fund/g
+s/『χρηματιζω』/deal with;<br>called/g
+s/『χρηματισμος』/dealing with;<br>response/g
+s/『χρηματιστηριον』/place for transacting business;<br>counting-house/g
+s/『χρησιμευω』/useful/g
+s/『χρησιμος』/serviceable;<br>useful/g
 s/『χρησις』/usage/g
 s/『χρησμολογιζω』/「χρησμολογίζω」/g
-s/『χρηστευομαι』/to be kind/g
-s/『χρηστοηθεια』/goodness of heart,<br>generosity of spirit/g
-s/『χρηστος』/suitable,<br>kind/g
+s/『χρηστευομαι』/kind/g
+s/『χρηστοηθεια』/goodness of heart;<br>generosity of spirit/g
+s/『χρηστος』/suitable;<br>kind/g
 s/『χρηστοτης』/kindness/g
 s/『χρηστως』/well/g
 s/『χρινω』/「χρίνω」/g
 s/『χρισις』/anointing/g
-s/『χρισμα』/unguent,<br>anointing/g
+s/『χρισμα』/unguent;<br>anointing/g
 s/『χριστος』/Anointed/g
-s/『χριω』/to anoint/g
-s/『χροα』/colour of the skin,<br>complexion/g
-s/『χρονιζω』/to delay/g
-s/『χρονισκος』/a short time/g
-s/『χρονος』/time,<br>while/g
-s/『χρυσαυγεω』/to shine like gold/g
-s/『χρυσεος』/of gold,<br>golden/g
-s/『χρυσιον』/a gold piece,<br>gold leaf/g
+s/『χριω』/anoint/g
+s/『χροα』/colour of the skin;<br>complexion/g
+s/『χρονιζω』/delay/g
+s/『χρονισκος』/short time/g
+s/『χρονος』/time;<br>while/g
+s/『χρυσαυγεω』/shine like gold/g
+s/『χρυσεος』/of gold;<br>golden/g
+s/『χρυσιον』/gold piece;<br>gold leaf/g
 s/『χρυσοειδης』/like gold/g
-s/『χρυσολιθος』/a chrysolite/g
+s/『χρυσολιθος』/chrysolite/g
 s/『χρυσος』/gold/g
 s/『χρυσουργος』/goldsmith/g
-s/『χρυσοφορεω』/to wear golden ornaments/g
+s/『χρυσοφορεω』/wear golden ornaments/g
 s/『χρυσοχαλινος』/with gold-studded bridle/g
 s/『χρυσοχοος』/one who melts gold/g
-s/『χρυσοω』/to gild/g
+s/『χρυσοω』/gild/g
 s/『χρυσωμα』/wrought gold/g
-s/『χρωμα』/the skin/g
-s/『χρως』/the skin/g
+s/『χρωμα』/skin/g
+s/『χρως』/skin/g
 s/『χυδαιος』/numerous/g
 s/『χυλος』/juice/g
 s/『χυμα』/confused mass;<br>largeness/g
 s/『χυτην』/「χυτήν」/g
-s/『χυτος』/poured,<br>shed/g
-s/『χυτρα』/a pot/g
-s/『χυτροκαυλος』/laver,<br>basin/g
+s/『χυτος』/poured;<br>shed/g
+s/『χυτρα』/pot/g
+s/『χυτροκαυλος』/laver;<br>basin/g
 s/『χωβα』/[NP]/g
 s/『χωβαι』/[NP]/g
 s/『χωζηβα』/[NP]/g
@@ -13996,91 +13996,91 @@ s/『χωθαμ』/[NP]/g
 s/『χωθαν』/[NP]/g
 s/『χωθαρ』/capital/g
 s/『χωθαρεθ』/capital/g
-s/『χωλαινω』/to be/g
+s/『χωλαινω』/be/g
 s/『χωλος』/lame/g
-s/『χωμα』/an embankment/g
+s/『χωμα』/embankment/g
 s/『χωμαριμ』/idolatrous priests/g
-s/『χωματιζω』/to embank or fortify with earthen mounds or dykes/g
+s/『χωματιζω』/embank with earthen mounds/g
 s/『χωνενια』/[NP]/g
 s/『χωνενιας』/[NP]/g
-s/『χωνευμα』/a molten image/g
-s/『χωνευσις』/smelting,<br>casting/g
-s/『χωνευτηριον』/a smelting-furnace/g
-s/『χωνευτης』/smelter,<br>caster of metal/g
-s/『χωνευτος』/formed of cast metal,<br>molten/g
-s/『χωνευω』/to cast into a mould/g
-s/『χωρα』/territory,<br>estate/g
-s/『χωρεω』/to have\/make room,<br>hold/g
+s/『χωνευμα』/molten image/g
+s/『χωνευσις』/smelting;<br>casting/g
+s/『χωνευτηριον』/smelting-furnace/g
+s/『χωνευτης』/smelter;<br>caster of metal/g
+s/『χωνευτος』/formed of cast metal;<br>molten/g
+s/『χωνευω』/cast into a mould/g
+s/『χωρα』/territory;<br>estate/g
+s/『χωρεω』/have\/make room;<br>hold/g
 s/『χωρηβ』/[NP]/g
-s/『χωριζω』/to separate,<br>depart/g
+s/『χωριζω』/separate;<br>depart/g
 s/『χωριον』/area/g
-s/『χωρις』/barring,<br>apart from/g
+s/『χωρις』/barring;<br>apart from/g
 s/『χωρισμος』/「χωρίσμος」/g
-s/『χωροβατεω』/to explore,<br>to survey/g
+s/『χωροβατεω』/explore;<br>survey/g
 s/『χωσαι』/「χῶσαι」/g
-s/『ψαλις』/a pair of scissors/g
-s/『ψαλλω』/to play/g
-s/『ψαλμος』/a psalm/g
-s/『ψαλτηριον』/a stringed instrument/g
-s/『ψαλτης』/harpist or psalm singer,<br>cantor/g
-s/『ψαλτος』/sung as psalms,<br>sung to the harp/g
-s/『ψαλτωδεω』/to sing psalms,<br>to sing to the harp/g
+s/『ψαλις』/pair of scissors/g
+s/『ψαλλω』/play/g
+s/『ψαλμος』/psalm/g
+s/『ψαλτηριον』/stringed instrument/g
+s/『ψαλτης』/psalm singer;<br>cantor/g
+s/『ψαλτος』/sung as psalms;<br>sung to the harp/g
+s/『ψαλτωδεω』/sing psalms;<br>sing to the harp/g
 s/『ψαλτωδος』/psalm singer/g
 s/『ψαλω』/「ψάλω」/g
 s/『ψαμμος』/sand/g
 s/『ψαμμωτος』/of plaster/g
 s/『ψαρος』/dappled/g
-s/『ψαυω』/to touch/g
+s/『ψαυω』/touch/g
 s/『ψεκας』/drop/g
-s/『ψελιον』/a bracelet/g
-s/『ψελλιζω』/to falter in speech,<br>speak inarticulately/g
+s/『ψελιον』/bracelet/g
+s/『ψελλιζω』/falter in speech;<br>speak inarticulately/g
 s/『ψευδης』/false/g
 s/『ψευδοθυριον』/secret door/g
 s/『ψευδοθυρις』/secret door/g
-s/『ψευδολογεω』/to speak falsely,<br>spread false reports/g
-s/『ψευδομαι』/to lie/g
-s/『ψευδομαρτυρεω』/to testify falsely/g
-s/『ψευδομαρτυς』/a false witness/g
-s/『ψευδοπροφητης』/a false prophet/g
-s/『ψευδος』/a falsehood,<br>fallacy/g
-s/『ψευδω』/to balk,<br>deceive/g
-s/『ψευστης』/a liar/g
-s/『ψηλαφαω』/to feel,<br>grope for/g
-s/『ψηλαφησις』/feeling,<br>touching/g
+s/『ψευδολογεω』/speak falsely;<br>spread false reports/g
+s/『ψευδομαι』/lie/g
+s/『ψευδομαρτυρεω』/testify falsely/g
+s/『ψευδομαρτυς』/false witness/g
+s/『ψευδοπροφητης』/false prophet/g
+s/『ψευδος』/falsehood;<br>fallacy/g
+s/『ψευδω』/balk;<br>deceive/g
+s/『ψευστης』/liar/g
+s/『ψηλαφαω』/feel;<br>grope for/g
+s/『ψηλαφησις』/feeling;<br>touching/g
 s/『ψηλαφητος』/that can be felt/g
-s/『ψηφισμα』/a proposition carried by vote/g
-s/『ψηφολογεω』/to pave with mosaic/g
-s/『ψηφος』/a pebble,<br>vote/g
-s/『ψιθυριζω』/to whisper,<br>say into the ear/g
-s/『ψιθυρισμος』/a whisper/g
+s/『ψηφισμα』/proposition carried by vote/g
+s/『ψηφολογεω』/pave with mosaic/g
+s/『ψηφος』/pebble;<br>vote/g
+s/『ψιθυριζω』/whisper;<br>say into the ear/g
+s/『ψιθυρισμος』/whisper/g
 s/『ψιθυρος』/whispering: slanderous/g
 s/『ψιλος』/bare/g
-s/『ψιλοω』/to strip bare,<br>to pluck off/g
-s/『ψοα』/muscles of the pelvis or loins/g
+s/『ψιλοω』/strip bare;<br>pluck off/g
+s/『ψοα』/muscles of loins/g
 s/『ψοαν』/「ψόαν」/g
-s/『ψογιζω』/to censure,<br>to criticize/g
-s/『ψογος』/a blame/g
+s/『ψογιζω』/censure;<br>criticize/g
+s/『ψογος』/blame/g
 s/『ψονθομφανηχ』/[NP]/g
-s/『ψοφεω』/to make an inarticulate noise,<br>to sound/g
-s/『ψοφος』/any inarticulate sound,<br>a sound/g
-s/『ψυα』/muscles of the pelvis or loins/g
-s/『ψυγμος』/drying,<br>drying place/g
-s/『ψυκτηρ』/a wine-cooler/g
+s/『ψοφεω』/make an inarticulate noise;<br>sound/g
+s/『ψοφος』/any inarticulate sound;<br>sound/g
+s/『ψυα』/muscles of loins/g
+s/『ψυγμος』/drying;<br>drying place/g
+s/『ψυκτηρ』/wine-cooler/g
 s/『ψυλλος』/flea/g
-s/『ψυχαγωγια』/a winning of souls,<br>persuasion/g
+s/『ψυχαγωγια』/winning of souls;<br>persuasion/g
 s/『ψυχη』/soul/g
-s/『ψυχικος』/soulish,<br>psychological/g
-s/『ψυχικως』/heartily,<br>from the heart/g
+s/『ψυχικος』/soulish;<br>psychological/g
+s/『ψυχικως』/heartily;<br>from the heart/g
 s/『ψυχος』/cold/g
-s/『ψυχουλκεομαι』/to draw the last breath/g
+s/『ψυχουλκεομαι』/draw the last breath/g
 s/『ψυχρος』/cold/g
-s/『ψυχω』/to cool/g
-s/『ψωμιζω』/to provide,<br>feed/g
-s/『ψωμος』/a morsel/g
-s/『ψωρα』/the itch,<br>scurvy/g
-s/『ψωραγριαω』/to have malignant itch/g
+s/『ψυχω』/cool/g
+s/『ψωμιζω』/provide;<br>feed/g
+s/『ψωμος』/morsel/g
+s/『ψωρα』/itch;<br>scurvy/g
+s/『ψωραγριαω』/have malignant itch/g
 s/『ω\.1』/oh!/g
-s/『ωα』/border,<br>collar/g
+s/『ωα』/border;<br>collar/g
 s/『ωβαδιος』/[NP]/g
 s/『ωβηδ』/[NP]/g
 s/『ωβηθ』/[NP]/g
@@ -14089,16 +14089,16 @@ s/『ωβωθ』/[NP]/g
 s/『ωγ』/[NP]/g
 s/『ωδ』/[NP]/g
 s/『ωδε』/here/g
-s/『ωδη』/a song/g
+s/『ωδη』/song/g
 s/『ωδηδ』/[NP]/g
 s/『ωδιηλ』/[NP]/g
-s/『ωδιν』/a contraction/g
-s/『ωδινω』/to have contractions/g
-s/『ωδος』/a singer/g
+s/『ωδιν』/contraction/g
+s/『ωδινω』/have contractions/g
+s/『ωδος』/singer/g
 s/『ωδουε』/[NP]/g
 s/『ωδουια』/[NP]/g
 s/『ωδωρ』/「ὥδωρ」/g
-s/『ωθεω』/to thrust,<br>push/g
+s/『ωθεω』/thrust;<br>push/g
 s/『ωθηρι』/[NP]/g
 s/『ωιμ』/[NP]/g
 s/『ωκιδηλος』/[NP]/g
@@ -14111,11 +14111,11 @@ s/『ωμαν』/[NP]/g
 s/『ωμαρ』/[NP]/g
 s/『ωμια』/shoulder;<br>side/g
 s/『ωμοι』/woes me/g
-s/『ωμολινον』/flax,<br>raw rough cloth/g
+s/『ωμολινον』/flax;<br>raw rough cloth/g
 s/『ωμος』/shoulder/g
 s/『ωμοτης』/rawness/g
-s/『ωμοτοκεω』/to miscarry/g
-s/『ωμοφρων』/savage-minded,<br>savage/g
+s/『ωμοτοκεω』/miscarry/g
+s/『ωμοφρων』/savage-minded;<br>savage/g
 s/『ων』/[NP]/g
 s/『ωναμ』/[NP]/g
 s/『ωνας』/[NP]/g
@@ -14123,30 +14123,30 @@ s/『ωνι』/[NP]/g
 s/『ωνους』/[NP]/g
 s/『ωνω』/[NP]/g
 s/『ωξ』/[NP]/g
-s/『ωον』/an egg/g
+s/『ωον』/egg/g
 s/『ωουδας』/[NP]/g
 s/『ωρ』/[NP]/g
 s/『ωρα』/hour/g
 s/『ωραι』/[NP]/g
 s/『ωραιζομαι』/「ὡραΐζομαι」/g
 s/『ωραιομαι』/「ὡραίομαι」/g
-s/『ωραιος』/attractive,<br>seasonable/g
+s/『ωραιος』/attractive;<br>seasonable/g
 s/『ωραιοτης』/ripeness of fruits/g
 s/『ωραιουμαι』/「ὡραιοῦμαι」/g
-s/『ωραισμος』/elegance,<br>adornment/g
+s/『ωραισμος』/elegance;<br>adornment/g
 s/『ωραμ』/[NP]/g
 s/『ωρηβ』/[NP]/g
 s/『ωρηρ』/[NP]/g
 s/『ωριμος』/ripe/g
 s/『ωριων』/[NP]/g
 s/『ωρυμα』/roaring/g
-s/『ωρυομαι』/to roar/g
+s/『ωρυομαι』/roar/g
 s/『ωρωναιμ』/[NP]/g
 s/『ωρωνην』/[NP]/g
 s/『ωρωνιν』/[NP]/g
 s/『ωρωνιτου』/[NP]/g
 s/『ως』/[NP]/g
-s/『ως\.1』/as,<br>how/g
+s/『ως\.1』/as;<br>how/g
 s/『ωσα』/[NP]/g
 s/『ωσαια』/[NP]/g
 s/『ωσαιαν』/[NP]/g
@@ -14157,21 +14157,21 @@ s/『ωσαν』/[NP]/g
 s/『ωσανει』/as it were/g
 s/『ωσαρ』/[NP]/g
 s/『ωσαυτως』/similarly/g
-s/『ωσει』/as if,<br>about/g
+s/『ωσει』/as if;<br>about/g
 s/『ωση』/[NP]/g
 s/『ωσηε』/[NP]/g
 s/『ωσιμ』/[NP]/g
 s/『ωσπερ』/just as/g
-s/『ωστε』/as such,<br>that/g
+s/『ωστε』/as such;<br>that/g
 s/『ωτιον』/ear/g
 s/『ωτοτμητος』/with ears cut off/g
 s/『ωφαζ』/[NP]/g
 s/『ωφαλ』/[NP]/g
 s/『ωφε』/[NP]/g
 s/『ωφελεια』/use/g
-s/『ωφελεω』/to be useful,<br>assist/g
-s/『ωφελημα』/a useful/g
+s/『ωφελεω』/useful;<br>assist/g
+s/『ωφελημα』/useful/g
 s/『ωφιρ』/[NP]/g
 s/『ωχαζαμ』/[NP]/g
 s/『ωχεω』/「ὠχέω」/g
-s/『ωχρος』/pale,<br>wan/g
+s/『ωχρος』/pale;<br>wan/g
