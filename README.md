@@ -1,13 +1,16 @@
 # LXX-Rahlfs-1935
 
 <b>Objectives:</b><br />
-01. generate word lists of LXX (Rahlfs, 1935) in unicode characters (accented and unaccented)<br />
-02. integrate data available at Open Scripture Septuagint Project; check and correct data if necessary<br />
-03. generate a dictionary file to describe morphological codes in LXXM; integrate James Tauber's work <a href='https://github.com/jtauber/greek-inflexion'>HERE</a><br />
-04. generate a dataset on modern Greek pronunciation for the whole text<br />
-05. generate a dataset on interlinear English gloss for the whole text<br />
-06. work out differences between LXX and KJV versifications<br />
+01. generate word lists of LXX (Rahlfs, 1935) in unicode characters (accented, unaccented & koine)<br />
+02. integrate data available at Open Scripture Septuagint Project<br />
+03a. integrate corrections on morphology from James Tauber's work <a href='https://github.com/jtauber/greek-inflexion'>HERE (... work in progress)</a><br />
+03b. generate short descriptions on morphology codes
+04. generate a dataset on SBL transliteration for the whole text
+05. generate a dataset on modern Greek pronunciation for the whole text<br />
+06. generate a dataset on English gloss for the whole text<br />
+07. work out differences between LXX and KJV versifications<br />
 - relate CATSS data with ETCBC data on Hebrew bible<br />
+- compile a LXX analytical lexicon based on all data available in this repository
 - generate a sqlite database<br />
 - create end-users file for use in bible software(s) / application(s)<br />
 <br />
