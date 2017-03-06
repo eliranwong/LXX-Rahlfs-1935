@@ -26,4 +26,4 @@ s/Χ/χ/g
 s/Ψ/ψ/g
 s/Ω/ω/g
 # convert σ or ς to ϲ to work with KoineGreek.ttf
-s/[σς]/ϲ/g
+s/[σςϛ]/ϲ/g
