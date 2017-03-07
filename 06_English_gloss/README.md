@@ -12,4 +12,4 @@ In case someone interested in how this set of glossary come from, building block
 1. started with brief definitions for some (not all) Greek words in <a href='https://github.com/openscriptures/GreekResources'>Open Scripture Septuagint Project</a>.<br>
 2. glossaries taken from LJS, MLJS with based on mapping data in <a href='https://github.com/openscriptures/GreekResources'>Open Scripture Septuagint Project</a>.<br>
 3. checking, comparing various Greek lexicons, including LJS, MLJS, BDAG, LEH (3rd edition), etc.<br>
-4. For the rest of proper names (4247 entries), which had not been matched in procedures mentioned above, are given both modified words from transliteration and pronunciation datasets.
+4. For the rest of proper names (4247 entries), which had not been matched in procedures mentioned above, are given modified words both from transliteration and pronunciation datasets.
