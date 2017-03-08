@@ -12,8 +12,8 @@
 06. generate a dataset on English gloss for the whole text<br />
 07. integrate data on Strong's number available at Open Scripture Septuagint Project<br />
 08. work out differences between LXX and KJV versifications<br />
+09. compile a LXX analytical lexicon based on all data available in this repository<br />
 - relate CATSS data with ETCBC data on Hebrew bible<br />
-- compile a LXX analytical lexicon based on all data available in this repository
 - generate a sqlite database<br />
 - create end-users file for use in bible software(s) / application(s)<br />
 <br />
