@@ -1,0 +1,3411 @@
+APF	Acc Plur Fem
+APFC	Acc Plur Fem Compar
+APM	Acc Plur Masc
+APMC	Acc Plur Masc Compar
+APN	Acc Plur Neut
+APNC	Acc Plur Neut Compar
+APNS	Acc Plur Neut Superlative
+ASF	Acc Sing Fem
+ASFC	Acc Sing Fem Compar
+ASFS	Acc Sing Fem Superlative
+ASM	Acc Sing Masc
+ASMC	Acc Sing Masc Compar
+ASN	Acc Sing Neut
+ASNC	Acc Sing Neut Compar
+ASNS	Acc Sing Neut Superlative
+DPF	Dat Plur Fem
+DPFC	Dat Plur Fem Compar
+DPM	Dat Plur Masc
+DPMC	Dat Plur Masc Compar
+DPN	Dat Plur Neut
+DPNS	Dat Plur Neut Superlative
+DSF	Dat Sing Fem
+DSFC	Dat Sing Fem Compar
+DSFS	Dat Sing Fem Superlative
+DSM	Dat Sing Masc
+DSMC	Dat Sing Masc Compar
+DSMS	Dat Sing Masc Superlative
+DSN	Dat Sing Neut
+DSNC	Dat Sing Neut Compar
+GPF	Gen Plur Fem
+GPFS	Gen Plur Fem Superlative
+GPM	Gen Plur Masc
+GPMC	Gen Plur Masc Compar
+GPN	Gen Plur Neut
+GPNC	Gen Plur Neut Compar
+GPNS	Gen Plur Neut Superlative
+GSF	Gen Sing Fem
+GSFC	Gen Sing Fem Compar
+GSM	Gen Sing Masc
+GSMC	Gen Sing Masc Compar
+GSMS	Gen Sing Masc Superlative
+GSN	Gen Sing Neut
+GSNS	Gen Sing Neut Superlative
+NPF	Nom Plur Fem
+NPFC	Nom Plur Fem Compar
+NPFS	Nom Plur Fem Superlative
+NPM	Nom Plur Masc
+NPMC	Nom Plur Masc Compar
+NPN	Nom Plur Neut
+NPNC	Nom Plur Neut Compar
+NSF	Nom Sing Fem
+NSFC	Nom Sing Fem Compar
+NSFS	Nom Sing Fem Superlative
+NSM	Nom Sing Masc
+NSMC	Nom Sing Masc Compar
+NSMS	Nom Sing Masc Superlative
+NSN	Nom Sing Neut
+NSNC	Nom Sing Neut Compar
+VPF	Voc Plur Fem
+VPM	Voc Plur Masc
+VPMC	Voc Plur Masc Compar
+VSF	Voc Sing Fem
+VSM	Voc Sing Masc
+VSMS	Voc Sing Masc Superlative
+APF	Acc Plur Fem
+APFC	Acc Plur Fem Compar
+APFS	Acc Plur Fem Superlative
+APM	Acc Plur Masc
+APMC	Acc Plur Masc Compar
+APMS	Acc Plur Masc Superlative
+APN	Acc Plur Neut
+APNC	Acc Plur Neut Compar
+APNS	Acc Plur Neut Superlative
+ASF	Acc Sing Fem
+ASFC	Acc Sing Fem Compar
+ASFS	Acc Sing Fem Superlative
+ASM	Acc Sing Masc
+ASMC	Acc Sing Masc Compar
+ASMS	Acc Sing Masc Superlative
+ASNC	Acc Sing Neut Compar
+ASNS	Acc Sing Neut Superlative
+B	
+D	Dat
+DP	Dat Plur
+DPF	Dat Plur Fem
+DPFS	Dat Plur Fem Superlative
+DPM	Dat Plur Masc
+DPMS	Dat Plur Masc Superlative
+DPN	Dat Plur Neut
+DPNS	Dat Plur Neut Superlative
+DS	Dat Sing
+DSF	Dat Sing Fem
+DSFS	Dat Sing Fem Superlative
+DSM	Dat Sing Masc
+DSMS	Dat Sing Masc Superlative
+DSN	Dat Sing Neut
+DSNS	Dat Sing Neut Superlative
+GPF	Gen Plur Fem
+GPFS	Gen Plur Fem Superlative
+GPM	Gen Plur Masc
+GPMS	Gen Plur Masc Superlative
+GPN	Gen Plur Neut
+GPNC	Gen Plur Neut Compar
+GPNS	Gen Plur Neut Superlative
+GSF	Gen Sing Fem
+GSFS	Gen Sing Fem Superlative
+GSM	Gen Sing Masc
+GSMS	Gen Sing Masc Superlative
+GSN	Gen Sing Neut
+GSNS	Gen Sing Neut Superlative
+NPF	Nom Plur Fem
+NPFC	Nom Plur Fem Compar
+NPFS	Nom Plur Fem Superlative
+NPM	Nom Plur Masc
+NPMC	Nom Plur Masc Compar
+NPMS	Nom Plur Masc Superlative
+NPN	Nom Plur Neut
+NPNC	Nom Plur Neut Compar
+NPNS	Nom Plur Neut Superlative
+NSF	Nom Sing Fem
+NSFC	Nom Sing Fem Compar
+NSFS	Nom Sing Fem Superlative
+NSM	Nom Sing Masc
+NSMC	Nom Sing Masc Compar
+NSMS	Nom Sing Masc Superlative
+NSN	Nom Sing Neut
+NSNC	Nom Sing Neut Compar
+NSNS	Nom Sing Neut Superlative
+VPM	Voc Plur Masc
+VSF	Voc Sing Fem
+VSM	Voc Sing Masc
+VSMS	Voc Sing Masc Superlative
+APF	Acc Plur Fem
+APFC	Acc Plur Fem Compar
+APM	Acc Plur Masc
+APMC	Acc Plur Masc Compar
+APMS	Acc Plur Masc Superlative
+APN	Acc Plur Neut
+APNC	Acc Plur Neut Compar
+APNS	Acc Plur Neut Superlative
+ASF	Acc Sing Fem
+ASFC	Acc Sing Fem Compar
+ASFS	Acc Sing Fem Superlative
+ASM	Acc Sing Masc
+ASMC	Acc Sing Masc Compar
+ASMS	Acc Sing Masc Superlative
+ASNC	Acc Sing Neut Compar
+ASNS	Acc Sing Neut Superlative
+B	
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPMC	Dat Plur Masc Compar
+DPMS	Dat Plur Masc Superlative
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSFC	Dat Sing Fem Compar
+DSM	Dat Sing Masc
+DSMC	Dat Sing Masc Compar
+DSMS	Dat Sing Masc Superlative
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPMC	Gen Plur Masc Compar
+GPMS	Gen Plur Masc Superlative
+GPN	Gen Plur Neut
+GSF	Gen Sing Fem
+GSFC	Gen Sing Fem Compar
+GSFS	Gen Sing Fem Superlative
+GSM	Gen Sing Masc
+GSMC	Gen Sing Masc Compar
+GSN	Gen Sing Neut
+GSNC	Gen Sing Neut Compar
+NPF	Nom Plur Fem
+NPFC	Nom Plur Fem Compar
+NPM	Nom Plur Masc
+NPMC	Nom Plur Masc Compar
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSFC	Nom Sing Fem Compar
+NSFS	Nom Sing Fem Superlative
+NSM	Nom Sing Masc
+NSMC	Nom Sing Masc Compar
+NSMS	Nom Sing Masc Superlative
+NSN	Nom Sing Neut
+NSNC	Nom Sing Neut Compar
+VPM	Voc Plur Masc
+VPNS	Voc Plur Neut Superlative
+VSF	Voc Sing Fem
+VSM	Voc Sing Masc
+VSMC	Voc Sing Masc Compar
+VSMS	Voc Sing Masc Superlative
+VSN	Voc Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APMC	Acc Plur Masc Compar
+APMS	Acc Plur Masc Superlative
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+ASMC	Acc Sing Masc Compar
+ASNS	Acc Sing Neut Superlative
+B	
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPMC	Dat Plur Masc Compar
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSFS	Dat Sing Fem Superlative
+DSM	Dat Sing Masc
+DSMS	Dat Sing Masc Superlative
+DSN	Dat Sing Neut
+DSNS	Dat Sing Neut Superlative
+GPF	Gen Plur Fem
+GPFC	Gen Plur Fem Compar
+GPM	Gen Plur Masc
+GPMC	Gen Plur Masc Compar
+GPN	Gen Plur Neut
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSMS	Gen Sing Masc Superlative
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPFC	Nom Plur Fem Compar
+NPM	Nom Plur Masc
+NPMC	Nom Plur Masc Compar
+NPN	Nom Plur Neut
+NPNC	Nom Plur Neut Compar
+NSF	Nom Sing Fem
+NSFC	Nom Sing Fem Compar
+NSFS	Nom Sing Fem Superlative
+NSM	Nom Sing Masc
+NSMC	Nom Sing Masc Compar
+NSMS	Nom Sing Masc Superlative
+NSN	Nom Sing Neut
+NSNC	Nom Sing Neut Compar
+NSNS	Nom Sing Neut Superlative
+VPM	Voc Plur Masc
+VPN	Voc Plur Neut
+VSF	Voc Sing Fem
+VSM	Voc Sing Masc
+VSMC	Voc Sing Masc Compar
+VSN	Voc Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASM	Acc Sing Masc
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSM	Dat Sing Masc
+GSM	Gen Sing Masc
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+DPF	Dat Plur Fem
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+APNC	Acc Plur Neut Compar
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+ASNC	Acc Sing Neut Compar
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPMS	Nom Plur Masc Superlative
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSMC	Nom Sing Masc Compar
+NSN	Nom Sing Neut
+VPM	Voc Plur Masc
+VSM	Voc Sing Masc
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APMC	Acc Plur Masc Compar
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASFC	Acc Sing Fem Compar
+ASM	Acc Sing Masc
+ASMC	Acc Sing Masc Compar
+ASNC	Acc Sing Neut Compar
+DPM	Dat Plur Masc
+DSF	Dat Sing Fem
+DSFC	Dat Sing Fem Compar
+DSM	Dat Sing Masc
+DSMC	Dat Sing Masc Compar
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GSM	Gen Sing Masc
+GSMC	Gen Sing Masc Compar
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPMC	Nom Plur Masc Compar
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSFC	Nom Sing Fem Compar
+NSM	Nom Sing Masc
+NSMC	Nom Sing Masc Compar
+NSN	Nom Sing Neut
+NPM	Nom Plur Masc
+NSM	Nom Sing Masc
+APF	Acc Plur Fem
+APFC	Acc Plur Fem Compar
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASFS	Acc Sing Fem Superlative
+ASM	Acc Sing Masc
+ASMS	Acc Sing Masc Superlative
+ASNC	Acc Sing Neut Compar
+ASNS	Acc Sing Neut Superlative
+B	
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPMS	Dat Plur Masc Superlative
+DPN	Dat Plur Neut
+DPNS	Dat Plur Neut Superlative
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GPNS	Gen Plur Neut Superlative
+GSF	Gen Sing Fem
+GSFS	Gen Sing Fem Superlative
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPMS	Nom Plur Masc Superlative
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSFC	Nom Sing Fem Compar
+NSFS	Nom Sing Fem Superlative
+NSM	Nom Sing Masc
+NSMC	Nom Sing Masc Compar
+NSN	Nom Sing Neut
+NSNC	Nom Sing Neut Compar
+VSMS	Voc Sing Masc Superlative
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASM	Acc Sing Masc
+GSM	Gen Sing Masc
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+APN	Acc Plur Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GSM	Gen Sing Masc
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPMS	Nom Plur Masc Superlative
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSMS	Nom Sing Masc Superlative
+NSN	Nom Sing Neut
+APN	Acc Plur Neut
+DPM	Dat Plur Masc
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+NSM	Nom Sing Masc
+NSM	Nom Sing Masc
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASFC	Acc Sing Fem Compar
+ASM	Acc Sing Masc
+B	
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NPNC	Nom Plur Neut Compar
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+NSNC	Nom Sing Neut Compar
+DPM	Dat Plur Masc
+GSM	Gen Sing Masc
+NPM	Nom Plur Masc
+AS	Acc Sing
+DS	Dat Sing
+GS	Gen Sing
+NS	Nom Sing
+NSM	Nom Sing Masc
+APN	Acc Plur Neut
+C	Compar
+DSF	Dat Sing Fem
+ADF	Acc Dual Fem
+ADM	Acc Dual Masc
+ADN	Acc Dual Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+DP	Dat Plur
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DS	Dat Sing
+DSF	Dat Sing Fem
+GDF	Gen Dual Fem
+GDM	Gen Dual Masc
+GDN	Gen Dual Neut
+GPF	Gen Plur Fem
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NDF	Nom Dual Fem
+NDM	Nom Dual Masc
+NDN	Nom Dual Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NSM	Nom Sing Masc
+ASN	Acc Sing Neut
+A	Acc
+AP	Acc Plur
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+AS	Acc Sing
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+ASN	Acc Sing Neut
+D	Dat
+DP	Dat Plur
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DS	Dat Sing
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+G	Gen
+G/D	Gen/Dat
+GP	Gen Plur
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+N	Nom
+NM	Nom Masc
+NP	Nom Plur
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NS	Nom Sing
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+S	Sing
+SF	Sing Fem
+SM	Sing Masc
+SN	Sing Neut
+VPF	Voc Plur Fem
+VPM	Voc Plur Masc
+VPN	Voc Plur Neut
+VS	Voc Sing
+VSF	Voc Sing Fem
+VSM	Voc Sing Masc
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+AS	Acc Sing
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DS	Dat Sing
+DSF	Dat Sing Fem
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NS	Nom Sing
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+VPF	Voc Plur Fem
+VSF	Voc Sing Fem
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+DPF	Dat Plur Fem
+DS	Dat Sing
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GS	Gen Sing
+GSF	Gen Sing Fem
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+VPF	Voc Plur Fem
+VPM	Voc Plur Masc
+VPN	Voc Plur Neut
+VSF	Voc Sing Fem
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+ASM	Acc Sing Masc
+DPM	Dat Plur Masc
+DSM	Dat Sing Masc
+GPM	Gen Plur Masc
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VPM	Voc Plur Masc
+VSM	Voc Sing Masc
+APF	Acc Plur Fem
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DSF	Dat Sing Fem
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPF	Nom Plur Fem
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+VPF	Voc Plur Fem
+APM	Acc Plur Masc
+ASM	Acc Sing Masc
+DPM	Dat Plur Masc
+DSM	Dat Sing Masc
+GPM	Gen Plur Masc
+GSM	Gen Sing Masc
+NPM	Nom Plur Masc
+NS	Nom Sing
+NSM	Nom Sing Masc
+VPM	Voc Plur Masc
+VSM	Voc Sing Masc
+AP	Acc Plur
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APMC	Acc Plur Masc Compar
+APN	Acc Plur Neut
+AS	Acc Sing
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DP	Dat Plur
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DS	Dat Sing
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GP	Gen Plur
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPMS	Gen Plur Masc Superlative
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NP	Nom Plur
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NS	Nom Sing
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VPM	Voc Plur Masc
+VSF	Voc Sing Fem
+VSM	Voc Sing Masc
+VSN	Voc Sing Neut
+ASM	Acc Sing Masc
+NSM	Nom Sing Masc
+NSM	Nom Sing Masc
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GSN	Gen Sing Neut
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSN	Nom Sing Neut
+VPN	Voc Plur Neut
+VSN	Voc Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+AS	Acc Sing
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DS	Dat Sing
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VPF	Voc Plur Fem
+VPM	Voc Plur Masc
+VSF	Voc Sing Fem
+VSM	Voc Sing Masc
+ASM	Acc Sing Masc
+GSM	Gen Sing Masc
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VPM	Voc Plur Masc
+VSF	Voc Sing Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+AS	Acc Sing
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+N	Nom
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VPN	Voc Plur Neut
+VSN	Voc Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DS	Dat Sing
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPM	Dat Plur Masc
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+VSF	Voc Sing Fem
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VPF	Voc Plur Fem
+VSF	Voc Sing Fem
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VPF	Voc Plur Fem
+VSF	Voc Sing Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASM	Acc Sing Masc
+ASN	Acc Sing Neut
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPN	Nom Plur Neut
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VSN	Voc Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+AS	Acc Sing
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DS	Dat Sing
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VSM	Voc Sing Masc
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+ASM	Acc Sing Masc
+DPM	Dat Plur Masc
+DSM	Dat Sing Masc
+GPM	Gen Plur Masc
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+VSF	Voc Sing Fem
+VSM	Voc Sing Masc
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+DSF	Dat Sing Fem
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPM	Dat Plur Masc
+DSM	Dat Sing Masc
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GSM	Gen Sing Masc
+NPM	Nom Plur Masc
+NSM	Nom Sing Masc
+VPM	Voc Plur Masc
+VSM	Voc Sing Masc
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPM	Gen Plur Masc
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+VSF	Voc Sing Fem
+APM	Acc Plur Masc
+DPM	Dat Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+ASM	Acc Sing Masc
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+ASN	Acc Sing Neut
+DP	Dat Plur
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DS	Dat Sing
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GP	Gen Plur
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VPM	Voc Plur Masc
+VPN	Voc Plur Neut
+VSF	Voc Sing Fem
+VSM	Voc Sing Masc
+VSN	Voc Sing Neut
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+ASN	Acc Sing Neut
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+GSM	Gen Sing Masc
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+AS	Acc Sing
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+ASN	Acc Sing Neut
+D	Dat
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NS	Nom Sing
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+AP	Acc Plur
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+AS	Acc Sing
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+ASN	Acc Sing Neut
+DP	Dat Plur
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DS	Dat Sing
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GP	Gen Plur
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GS	Gen Sing
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NP	Nom Plur
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NS	Nom Sing
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+VS	Voc Sing
+NS	Nom Sing
+APF	Acc Plur Fem
+APM	Acc Plur Masc
+APN	Acc Plur Neut
+ASF	Acc Sing Fem
+ASM	Acc Sing Masc
+ASN	Acc Sing Neut
+DPF	Dat Plur Fem
+DPM	Dat Plur Masc
+DPN	Dat Plur Neut
+DSF	Dat Sing Fem
+DSM	Dat Sing Masc
+DSN	Dat Sing Neut
+GPF	Gen Plur Fem
+GPM	Gen Plur Masc
+GPN	Gen Plur Neut
+GSF	Gen Sing Fem
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NPN	Nom Plur Neut
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+GSM	Gen Sing Masc
+GSN	Gen Sing Neut
+NPF	Nom Plur Fem
+NPM	Nom Plur Masc
+NSF	Nom Sing Fem
+NSM	Nom Sing Masc
+NSN	Nom Sing Neut
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAD3P	Aor Act Imperative 3rd Plur
+AAD3S	Aor Act Imperative 3rd Sing
+AAI1P	Aor Act Ind 1st Plur
+AAI1S	Aor Act Ind 1st Sing
+AAI2P	Aor Act Ind 2nd Plur
+AAI2S	Aor Act Ind 2nd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+AAN	Aor Act Infin
+AAO3P	Aor Act Opt 3rd Plur
+AAO3S	Aor Act Opt 3rd Sing
+AAPAPF	Aor Act Part Acc Plur Fem
+AAPAPM	Aor Act Part Acc Plur Masc
+AAPAPN	Aor Act Part Acc Plur Neut
+AAPASF	Aor Act Part Acc Sing Fem
+AAPASM	Aor Act Part Acc Sing Masc
+AAPASN	Aor Act Part Acc Sing Neut
+AAPDPF	Aor Act Part Dat Plur Fem
+AAPDPM	Aor Act Part Dat Plur Masc
+AAPDSF	Aor Act Part Dat Sing Fem
+AAPDSM	Aor Act Part Dat Sing Masc
+AAPGPM	Aor Act Part Gen Plur Masc
+AAPGSF	Aor Act Part Gen Sing Fem
+AAPGSM	Aor Act Part Gen Sing Masc
+AAPGSN	Aor Act Part Gen Sing Neut
+AAPNPF	Aor Act Part Nom Plur Fem
+AAPNPM	Aor Act Part Nom Plur Masc
+AAPNPN	Aor Act Part Nom Plur Neut
+AAPNSF	Aor Act Part Nom Sing Fem
+AAPNSM	Aor Act Part Nom Sing Masc
+AAPNSN	Aor Act Part Nom Sing Neut
+AAS1P	Aor Act Subj 1st Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+AAS3P	Aor Act Subj 3rd Plur
+AAS3S	Aor Act Subj 3rd Sing
+AMD2P	Aor Mid Imperative 2nd Plur
+AMD2S	Aor Mid Imperative 2nd Sing
+AMD3P	Aor Mid Imperative 3rd Plur
+AMD3S	Aor Mid Imperative 3rd Sing
+AMI1P	Aor Mid Ind 1st Plur
+AMI1S	Aor Mid Ind 1st Sing
+AMI2P	Aor Mid Ind 2nd Plur
+AMI2S	Aor Mid Ind 2nd Sing
+AMI3P	Aor Mid Ind 3rd Plur
+AMI3S	Aor Mid Ind 3rd Sing
+AMN	Aor Mid Infin
+AMO1S	Aor Mid Opt 1st Sing
+AMPAPM	Aor Mid Part Acc Plur Masc
+AMPASM	Aor Mid Part Acc Sing Masc
+AMPDPM	Aor Mid Part Dat Plur Masc
+AMPDPN	Aor Mid Part Dat Plur Neut
+AMPGPF	Aor Mid Part Gen Plur Fem
+AMPGPM	Aor Mid Part Gen Plur Masc
+AMPGSF	Aor Mid Part Gen Sing Fem
+AMPGSM	Aor Mid Part Gen Sing Masc
+AMPGSN	Aor Mid Part Gen Sing Neut
+AMPNPF	Aor Mid Part Nom Plur Fem
+AMPNPM	Aor Mid Part Nom Plur Masc
+AMPNSF	Aor Mid Part Nom Sing Fem
+AMPNSM	Aor Mid Part Nom Sing Masc
+AMPNSN	Aor Mid Part Nom Sing Neut
+AMS1P	Aor Mid Subj 1st Plur
+AMS1S	Aor Mid Subj 1st Sing
+AMS2P	Aor Mid Subj 2nd Plur
+AMS2S	Aor Mid Subj 2nd Sing
+AMS3P	Aor Mid Subj 3rd Plur
+AMS3S	Aor Mid Subj 3rd Sing
+APD2P	Aor Pass Imperative 2nd Plur
+APD2S	Aor Pass Imperative 2nd Sing
+APD3S	Aor Pass Imperative 3rd Sing
+API1P	Aor Pass Ind 1st Plur
+API1S	Aor Pass Ind 1st Sing
+API2P	Aor Pass Ind 2nd Plur
+API2S	Aor Pass Ind 2nd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+APN	Acc Plur Neut
+APO3S	Aor Pass Opt 3rd Sing
+APPAPM	Aor Pass Part Acc Plur Masc
+APPAPN	Aor Pass Part Acc Plur Neut
+APPASF	Aor Pass Part Acc Sing Fem
+APPASM	Aor Pass Part Acc Sing Masc
+APPASN	Aor Pass Part Acc Sing Neut
+APPDPN	Aor Pass Part Dat Plur Neut
+APPDSF	Aor Pass Part Dat Sing Fem
+APPDSM	Aor Pass Part Dat Sing Masc
+APPDSN	Aor Pass Part Dat Sing Neut
+APPGPF	Aor Pass Part Gen Plur Fem
+APPGPM	Aor Pass Part Gen Plur Masc
+APPGPN	Aor Pass Part Gen Plur Neut
+APPGSF	Aor Pass Part Gen Sing Fem
+APPGSM	Aor Pass Part Gen Sing Masc
+APPGSN	Aor Pass Part Gen Sing Neut
+APPNPF	Aor Pass Part Nom Plur Fem
+APPNPM	Aor Pass Part Nom Plur Masc
+APPNPN	Aor Pass Part Nom Plur Neut
+APPNSF	Aor Pass Part Nom Sing Fem
+APPNSM	Aor Pass Part Nom Sing Masc
+APPNSN	Aor Pass Part Nom Sing Neut
+APS1P	Aor Pass Subj 1st Plur
+APS1S	Aor Pass Subj 1st Sing
+APS2P	Aor Pass Subj 2nd Plur
+APS2S	Aor Pass Subj 2nd Sing
+APS3P	Aor Pass Subj 3rd Plur
+APS3S	Aor Pass Subj 3rd Sing
+FAI1P	Fut Act Ind 1st Plur
+FAI1S	Fut Act Ind 1st Sing
+FAI2P	Fut Act Ind 2nd Plur
+FAI2S	Fut Act Ind 2nd Sing
+FAI3P	Fut Act Ind 3rd Plur
+FAI3S	Fut Act Ind 3rd Sing
+FAN	Fut Act Infin
+FAPAPN	Fut Act Part Acc Plur Neut
+FAPNPM	Fut Act Part Nom Plur Masc
+FAPNSM	Fut Act Part Nom Sing Masc
+FMI1P	Fut Mid Ind 1st Plur
+FMI1S	Fut Mid Ind 1st Sing
+FMI2P	Fut Mid Ind 2nd Plur
+FMI2S	Fut Mid Ind 2nd Sing
+FMI3P	Fut Mid Ind 3rd Plur
+FMI3S	Fut Mid Ind 3rd Sing
+FMPASN	Fut Mid Part Acc Sing Neut
+FPI1P	Fut Pass Ind 1st Plur
+FPI1S	Fut Pass Ind 1st Sing
+FPI2P	Fut Pass Ind 2nd Plur
+FPI2S	Fut Pass Ind 2nd Sing
+FPI3P	Fut Pass Ind 3rd Plur
+FPI3S	Fut Pass Ind 3rd Sing
+FPPGPN	Fut Pass Part Gen Plur Neut
+IAI1P	Imperf Act Ind 1st Plur
+IAI1S	Imperf Act Ind 1st Sing
+IAI2P	Imperf Act Ind 2nd Plur
+IAI2S	Imperf Act Ind 2nd Sing
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1P	Imperf Mid Ind 1st Plur
+IMI1S	Imperf Mid Ind 1st Sing
+IMI2P	Imperf Mid Ind 2nd Plur
+IMI2S	Imperf Mid Ind 2nd Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+IPI1P	Imperf Pass Ind 1st Plur
+IPI1S	Imperf Pass Ind 1st Sing
+IPI2P	Imperf Pass Ind 2nd Plur
+IPI3P	Imperf Pass Ind 3rd Plur
+IPI3S	Imperf Pass Ind 3rd Sing
+PAD2P	Pres Act Imperative 2nd Plur
+PAD2S	Pres Act Imperative 2nd Sing
+PAD3P	Pres Act Imperative 3rd Plur
+PAD3S	Pres Act Imperative 3rd Sing
+PAI1P	Pres Act Ind 1st Plur
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI2S	Pres Act Ind 2nd Sing
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAO2P	Pres Act Opt 2nd Plur
+PAO3P	Pres Act Opt 3rd Plur
+PAO3S	Pres Act Opt 3rd Sing
+PAPAPF	Pres Act Part Acc Plur Fem
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPAPN	Pres Act Part Acc Plur Neut
+PAPASF	Pres Act Part Acc Sing Fem
+PAPASM	Pres Act Part Acc Sing Masc
+PAPASN	Pres Act Part Acc Sing Neut
+PAPDPF	Pres Act Part Dat Plur Fem
+PAPDPM	Pres Act Part Dat Plur Masc
+PAPDPN	Pres Act Part Dat Plur Neut
+PAPDSF	Pres Act Part Dat Sing Fem
+PAPDSM	Pres Act Part Dat Sing Masc
+PAPDSN	Pres Act Part Dat Sing Neut
+PAPGPF	Pres Act Part Gen Plur Fem
+PAPGPM	Pres Act Part Gen Plur Masc
+PAPGPN	Pres Act Part Gen Plur Neut
+PAPGSF	Pres Act Part Gen Sing Fem
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPGSN	Pres Act Part Gen Sing Neut
+PAPNPF	Pres Act Part Nom Plur Fem
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNPN	Pres Act Part Nom Plur Neut
+PAPNSF	Pres Act Part Nom Sing Fem
+PAPNSM	Pres Act Part Nom Sing Masc
+PAPNSN	Pres Act Part Nom Sing Neut
+PAPVPM	Pres Act Part Voc Plur Masc
+PAS1P	Pres Act Subj 1st Plur
+PAS1S	Pres Act Subj 1st Sing
+PAS2P	Pres Act Subj 2nd Plur
+PAS2S	Pres Act Subj 2nd Sing
+PAS3P	Pres Act Subj 3rd Plur
+PAS3S	Pres Act Subj 3rd Sing
+PMD2P	Pres Mid Imperative 2nd Plur
+PMD2S	Pres Mid Imperative 2nd Sing
+PMD3P	Pres Mid Imperative 3rd Plur
+PMD3S	Pres Mid Imperative 3rd Sing
+PMI1P	Pres Mid Ind 1st Plur
+PMI1S	Pres Mid Ind 1st Sing
+PMI2P	Pres Mid Ind 2nd Plur
+PMI2S	Pres Mid Ind 2nd Sing
+PMI3P	Pres Mid Ind 3rd Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMPAPF	Pres Mid Part Acc Plur Fem
+PMPAPM	Pres Mid Part Acc Plur Masc
+PMPASF	Pres Mid Part Acc Sing Fem
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPASN	Pres Mid Part Acc Sing Neut
+PMPDPF	Pres Mid Part Dat Plur Fem
+PMPDPM	Pres Mid Part Dat Plur Masc
+PMPDPN	Pres Mid Part Dat Plur Neut
+PMPDSM	Pres Mid Part Dat Sing Masc
+PMPDSN	Pres Mid Part Dat Sing Neut
+PMPGPF	Pres Mid Part Gen Plur Fem
+PMPGPM	Pres Mid Part Gen Plur Masc
+PMPGPN	Pres Mid Part Gen Plur Neut
+PMPGSF	Pres Mid Part Gen Sing Fem
+PMPGSM	Pres Mid Part Gen Sing Masc
+PMPGSN	Pres Mid Part Gen Sing Neut
+PMPNPF	Pres Mid Part Nom Plur Fem
+PMPNPM	Pres Mid Part Nom Plur Masc
+PMPNSF	Pres Mid Part Nom Sing Fem
+PMPNSM	Pres Mid Part Nom Sing Masc
+PMPNSN	Pres Mid Part Nom Sing Neut
+PMS1P	Pres Mid Subj 1st Plur
+PMS1S	Pres Mid Subj 1st Sing
+PMS2P	Pres Mid Subj 2nd Plur
+PMS2S	Pres Mid Subj 2nd Sing
+PMS3P	Pres Mid Subj 3rd Plur
+PMS3S	Pres Mid Subj 3rd Sing
+PPD2P	Pres Pass Imperative 2nd Plur
+PPD2S	Pres Pass Imperative 2nd Sing
+PPD3P	Pres Pass Imperative 3rd Plur
+PPD3S	Pres Pass Imperative 3rd Sing
+PPI1P	Pres Pass Ind 1st Plur
+PPI1S	Pres Pass Ind 1st Sing
+PPI2P	Pres Pass Ind 2nd Plur
+PPI2S	Pres Pass Ind 2nd Sing
+PPI3P	Pres Pass Ind 3rd Plur
+PPI3S	Pres Pass Ind 3rd Sing
+PPN	Pres Pass Infin
+PPPAPF	Pres Pass Part Acc Plur Fem
+PPPAPM	Pres Pass Part Acc Plur Masc
+PPPAPN	Pres Pass Part Acc Plur Neut
+PPPASF	Pres Pass Part Acc Sing Fem
+PPPASM	Pres Pass Part Acc Sing Masc
+PPPASN	Pres Pass Part Acc Sing Neut
+PPPDPM	Pres Pass Part Dat Plur Masc
+PPPDPN	Pres Pass Part Dat Plur Neut
+PPPDSF	Pres Pass Part Dat Sing Fem
+PPPDSM	Pres Pass Part Dat Sing Masc
+PPPDSN	Pres Pass Part Dat Sing Neut
+PPPGPM	Pres Pass Part Gen Plur Masc
+PPPGPN	Pres Pass Part Gen Plur Neut
+PPPGSF	Pres Pass Part Gen Sing Fem
+PPPGSM	Pres Pass Part Gen Sing Masc
+PPPGSN	Pres Pass Part Gen Sing Neut
+PPPNPF	Pres Pass Part Nom Plur Fem
+PPPNPM	Pres Pass Part Nom Plur Masc
+PPPNPN	Pres Pass Part Nom Plur Neut
+PPPNSF	Pres Pass Part Nom Sing Fem
+PPPNSM	Pres Pass Part Nom Sing Masc
+PPPNSN	Pres Pass Part Nom Sing Neut
+PPS1P	Pres Pass Subj 1st Plur
+PPS1S	Pres Pass Subj 1st Sing
+PPS2P	Pres Pass Subj 2nd Plur
+PPS3P	Pres Pass Subj 3rd Plur
+PPS3S	Pres Pass Subj 3rd Sing
+XAD2P	Perf Act Imperative 2nd Plur
+XAI1P	Perf Act Ind 1st Plur
+XAI1S	Perf Act Ind 1st Sing
+XAI2P	Perf Act Ind 2nd Plur
+XAI2S	Perf Act Ind 2nd Sing
+XAI3P	Perf Act Ind 3rd Plur
+XAI3S	Perf Act Ind 3rd Sing
+XAN	Perf Act Infin
+XAPAPM	Perf Act Part Acc Plur Masc
+XAPAPN	Perf Act Part Acc Plur Neut
+XAPASF	Perf Act Part Acc Sing Fem
+XAPASM	Perf Act Part Acc Sing Masc
+XAPASN	Perf Act Part Acc Sing Neut
+XAPDPM	Perf Act Part Dat Plur Masc
+XAPDSM	Perf Act Part Dat Sing Masc
+XAPDSN	Perf Act Part Dat Sing Neut
+XAPGPM	Perf Act Part Gen Plur Masc
+XAPGPN	Perf Act Part Gen Plur Neut
+XAPGSF	Perf Act Part Gen Sing Fem
+XAPGSM	Perf Act Part Gen Sing Masc
+XAPNPF	Perf Act Part Nom Plur Fem
+XAPNPM	Perf Act Part Nom Plur Masc
+XAPNPN	Perf Act Part Nom Plur Neut
+XAPNSF	Perf Act Part Nom Sing Fem
+XAPNSM	Perf Act Part Nom Sing Masc
+XAPNSN	Perf Act Part Nom Sing Neut
+XAS1P	Perf Act Subj 1st Plur
+XAS1S	Perf Act Subj 1st Sing
+XMI1P	Perf Mid Ind 1st Plur
+XMI1S	Perf Mid Ind 1st Sing
+XMI2P	Perf Mid Ind 2nd Plur
+XMI2S	Perf Mid Ind 2nd Sing
+XMI3P	Perf Mid Ind 3rd Plur
+XMI3S	Perf Mid Ind 3rd Sing
+XMN	Perf Mid Infin
+XMPAPM	Perf Mid Part Acc Plur Masc
+XMPASF	Perf Mid Part Acc Sing Fem
+XMPASM	Perf Mid Part Acc Sing Masc
+XMPDPF	Perf Mid Part Dat Plur Fem
+XMPDPM	Perf Mid Part Dat Plur Masc
+XMPGPM	Perf Mid Part Gen Plur Masc
+XMPGSF	Perf Mid Part Gen Sing Fem
+XMPNPM	Perf Mid Part Nom Plur Masc
+XMPNSM	Perf Mid Part Nom Sing Masc
+XPD2S	Perf Pass Imperative 2nd Sing
+XPI1P	Perf Pass Ind 1st Plur
+XPI1S	Perf Pass Ind 1st Sing
+XPI2P	Perf Pass Ind 2nd Plur
+XPI2S	Perf Pass Ind 2nd Sing
+XPI3P	Perf Pass Ind 3rd Plur
+XPI3S	Perf Pass Ind 3rd Sing
+XPN	Perf Pass Infin
+XPPAPF	Perf Pass Part Acc Plur Fem
+XPPAPM	Perf Pass Part Acc Plur Masc
+XPPAPN	Perf Pass Part Acc Plur Neut
+XPPASF	Perf Pass Part Acc Sing Fem
+XPPASM	Perf Pass Part Acc Sing Masc
+XPPASN	Perf Pass Part Acc Sing Neut
+XPPDPM	Perf Pass Part Dat Plur Masc
+XPPDPN	Perf Pass Part Dat Plur Neut
+XPPDSF	Perf Pass Part Dat Sing Fem
+XPPDSM	Perf Pass Part Dat Sing Masc
+XPPDSN	Perf Pass Part Dat Sing Neut
+XPPGPF	Perf Pass Part Gen Plur Fem
+XPPGPM	Perf Pass Part Gen Plur Masc
+XPPGPN	Perf Pass Part Gen Plur Neut
+XPPGSF	Perf Pass Part Gen Sing Fem
+XPPGSM	Perf Pass Part Gen Sing Masc
+XPPGSN	Perf Pass Part Gen Sing Neut
+XPPNPF	Perf Pass Part Nom Plur Fem
+XPPNPM	Perf Pass Part Nom Plur Masc
+XPPNPN	Perf Pass Part Nom Plur Neut
+XPPNSF	Perf Pass Part Nom Sing Fem
+XPPNSM	Perf Pass Part Nom Sing Masc
+XPPNSN	Perf Pass Part Nom Sing Neut
+XPPVPM	Perf Pass Part Voc Plur Masc
+XPPVSF	Perf Pass Part Voc Sing Fem
+XPPVSM	Perf Pass Part Voc Sing Masc
+YAI2P	Pluperf Act Ind 2nd Plur
+YAI3P	Pluperf Act Ind 3rd Plur
+YAI3S	Pluperf Act Ind 3rd Sing
+YMI3P	Pluperf Mid Ind 3rd Plur
+YMI3S	Pluperf Mid Ind 3rd Sing
+YPI3S	Pluperf Pass Ind 3rd Sing
+AAD2S	Aor Act Imperative 2nd Sing
+AAI1S	Aor Act Ind 1st Sing
+AAI2S	Aor Act Ind 2nd Sing
+AAN	Aor Act Infin
+AMI1S	Aor Mid Ind 1st Sing
+FAI2S	Fut Act Ind 2nd Sing
+FAI3P	Fut Act Ind 3rd Plur
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+IMI2S	Imperf Mid Ind 2nd Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+IPI3P	Imperf Pass Ind 3rd Plur
+IPI3S	Imperf Pass Ind 3rd Sing
+PAD2P	Pres Act Imperative 2nd Plur
+PAD2S	Pres Act Imperative 2nd Sing
+PAD3P	Pres Act Imperative 3rd Plur
+PAD3S	Pres Act Imperative 3rd Sing
+PAI	Pres Act Ind
+PAI1P	Pres Act Ind 1st Plur
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI2S	Pres Act Ind 2nd Sing
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAO1S	Pres Act Opt 1st Sing
+PAO3P	Pres Act Opt 3rd Plur
+PAO3S	Pres Act Opt 3rd Sing
+PAPAPF	Pres Act Part Acc Plur Fem
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPAPN	Pres Act Part Acc Plur Neut
+PAPASF	Pres Act Part Acc Sing Fem
+PAPASM	Pres Act Part Acc Sing Masc
+PAPASN	Pres Act Part Acc Sing Neut
+PAPDPF	Pres Act Part Dat Plur Fem
+PAPDPM	Pres Act Part Dat Plur Masc
+PAPDPN	Pres Act Part Dat Plur Neut
+PAPDSF	Pres Act Part Dat Sing Fem
+PAPDSM	Pres Act Part Dat Sing Masc
+PAPDSN	Pres Act Part Dat Sing Neut
+PAPGPF	Pres Act Part Gen Plur Fem
+PAPGPM	Pres Act Part Gen Plur Masc
+PAPGPN	Pres Act Part Gen Plur Neut
+PAPGSF	Pres Act Part Gen Sing Fem
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPGSN	Pres Act Part Gen Sing Neut
+PAPNPF	Pres Act Part Nom Plur Fem
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNPN	Pres Act Part Nom Plur Neut
+PAPNSF	Pres Act Part Nom Sing Fem
+PAPNSM	Pres Act Part Nom Sing Masc
+PAPNSN	Pres Act Part Nom Sing Neut
+PAPVPM	Pres Act Part Voc Plur Masc
+PAPVSM	Pres Act Part Voc Sing Masc
+PAS1P	Pres Act Subj 1st Plur
+PAS1S	Pres Act Subj 1st Sing
+PAS2P	Pres Act Subj 2nd Plur
+PAS2S	Pres Act Subj 2nd Sing
+PAS3P	Pres Act Subj 3rd Plur
+PAS3S	Pres Act Subj 3rd Sing
+PMD2P	Pres Mid Imperative 2nd Plur
+PMD2S	Pres Mid Imperative 2nd Sing
+PMD3P	Pres Mid Imperative 3rd Plur
+PMD3S	Pres Mid Imperative 3rd Sing
+PMI1P	Pres Mid Ind 1st Plur
+PMI1S	Pres Mid Ind 1st Sing
+PMI2P	Pres Mid Ind 2nd Plur
+PMI2S	Pres Mid Ind 2nd Sing
+PMI3P	Pres Mid Ind 3rd Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMO2S	Pres Mid Opt 2nd Sing
+PMO3S	Pres Mid Opt 3rd Sing
+PMPAPF	Pres Mid Part Acc Plur Fem
+PMPAPM	Pres Mid Part Acc Plur Masc
+PMPAPN	Pres Mid Part Acc Plur Neut
+PMPASF	Pres Mid Part Acc Sing Fem
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPASN	Pres Mid Part Acc Sing Neut
+PMPDPF	Pres Mid Part Dat Plur Fem
+PMPDPM	Pres Mid Part Dat Plur Masc
+PMPDPN	Pres Mid Part Dat Plur Neut
+PMPDSF	Pres Mid Part Dat Sing Fem
+PMPDSM	Pres Mid Part Dat Sing Masc
+PMPDSN	Pres Mid Part Dat Sing Neut
+PMPGPF	Pres Mid Part Gen Plur Fem
+PMPGPM	Pres Mid Part Gen Plur Masc
+PMPGPN	Pres Mid Part Gen Plur Neut
+PMPGSF	Pres Mid Part Gen Sing Fem
+PMPGSM	Pres Mid Part Gen Sing Masc
+PMPGSN	Pres Mid Part Gen Sing Neut
+PMPNPF	Pres Mid Part Nom Plur Fem
+PMPNPM	Pres Mid Part Nom Plur Masc
+PMPNPN	Pres Mid Part Nom Plur Neut
+PMPNSF	Pres Mid Part Nom Sing Fem
+PMPNSM	Pres Mid Part Nom Sing Masc
+PMPNSN	Pres Mid Part Nom Sing Neut
+PMPVPM	Pres Mid Part Voc Plur Masc
+PMPVPN	Pres Mid Part Voc Plur Neut
+PMS1P	Pres Mid Subj 1st Plur
+PMS1S	Pres Mid Subj 1st Sing
+PMS2P	Pres Mid Subj 2nd Plur
+PMS2S	Pres Mid Subj 2nd Sing
+PMS3P	Pres Mid Subj 3rd Plur
+PMS3S	Pres Mid Subj 3rd Sing
+PPD2S	Pres Pass Imperative 2nd Sing
+PPD3P	Pres Pass Imperative 3rd Plur
+PPI1P	Pres Pass Ind 1st Plur
+PPI1S	Pres Pass Ind 1st Sing
+PPI2S	Pres Pass Ind 2nd Sing
+PPI3P	Pres Pass Ind 3rd Plur
+PPI3S	Pres Pass Ind 3rd Sing
+PPN	Pres Pass Infin
+PPPAPF	Pres Pass Part Acc Plur Fem
+PPPAPM	Pres Pass Part Acc Plur Masc
+PPPAPN	Pres Pass Part Acc Plur Neut
+PPPASM	Pres Pass Part Acc Sing Masc
+PPPASN	Pres Pass Part Acc Sing Neut
+PPPDSM	Pres Pass Part Dat Sing Masc
+PPPGPF	Pres Pass Part Gen Plur Fem
+PPPGPM	Pres Pass Part Gen Plur Masc
+PPPGSM	Pres Pass Part Gen Sing Masc
+PPPGSN	Pres Pass Part Gen Sing Neut
+PPPNPF	Pres Pass Part Nom Plur Fem
+PPPNPM	Pres Pass Part Nom Plur Masc
+PPPNPN	Pres Pass Part Nom Plur Neut
+PPPNSF	Pres Pass Part Nom Sing Fem
+PPPNSM	Pres Pass Part Nom Sing Masc
+PPPNSN	Pres Pass Part Nom Sing Neut
+PPS3S	Pres Pass Subj 3rd Sing
+AAI1S	Aor Act Ind 1st Sing
+IAI1P	Imperf Act Ind 1st Plur
+IAI1S	Imperf Act Ind 1st Sing
+IAI2P	Imperf Act Ind 2nd Plur
+IAI2S	Imperf Act Ind 2nd Sing
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1P	Imperf Mid Ind 1st Plur
+IMI1S	Imperf Mid Ind 1st Sing
+IMI2P	Imperf Mid Ind 2nd Plur
+IMI2S	Imperf Mid Ind 2nd Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+IPI3P	Imperf Pass Ind 3rd Plur
+IPI3S	Imperf Pass Ind 3rd Sing
+PMI1P	Pres Mid Ind 1st Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMPNPM	Pres Mid Part Nom Plur Masc
+AAD2S	Aor Act Imperative 2nd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAN	Aor Act Infin
+AAPAPM	Aor Act Part Acc Plur Masc
+AAS1P	Aor Act Subj 1st Plur
+AMI3S	Aor Mid Ind 3rd Sing
+FAN	Fut Act Infin
+FAPNPM	Fut Act Part Nom Plur Masc
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+IMI2S	Imperf Mid Ind 2nd Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+IPI3P	Imperf Pass Ind 3rd Plur
+IPI3S	Imperf Pass Ind 3rd Sing
+PAD2P	Pres Act Imperative 2nd Plur
+PAD2S	Pres Act Imperative 2nd Sing
+PAD3P	Pres Act Imperative 3rd Plur
+PAD3S	Pres Act Imperative 3rd Sing
+PAI1P	Pres Act Ind 1st Plur
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI2S	Pres Act Ind 2nd Sing
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAPAPF	Pres Act Part Acc Plur Fem
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPAPN	Pres Act Part Acc Plur Neut
+PAPASF	Pres Act Part Acc Sing Fem
+PAPASM	Pres Act Part Acc Sing Masc
+PAPASN	Pres Act Part Acc Sing Neut
+PAPDPF	Pres Act Part Dat Plur Fem
+PAPDPM	Pres Act Part Dat Plur Masc
+PAPDPN	Pres Act Part Dat Plur Neut
+PAPDSF	Pres Act Part Dat Sing Fem
+PAPDSM	Pres Act Part Dat Sing Masc
+PAPGPF	Pres Act Part Gen Plur Fem
+PAPGPM	Pres Act Part Gen Plur Masc
+PAPGPN	Pres Act Part Gen Plur Neut
+PAPGSF	Pres Act Part Gen Sing Fem
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPGSN	Pres Act Part Gen Sing Neut
+PAPNPF	Pres Act Part Nom Plur Fem
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNPN	Pres Act Part Nom Plur Neut
+PAPNSF	Pres Act Part Nom Sing Fem
+PAPNSM	Pres Act Part Nom Sing Masc
+PAPNSN	Pres Act Part Nom Sing Neut
+PAPVPM	Pres Act Part Voc Plur Masc
+PAPVSF	Pres Act Part Voc Sing Fem
+PAS1P	Pres Act Subj 1st Plur
+PAS1S	Pres Act Subj 1st Sing
+PAS2P	Pres Act Subj 2nd Plur
+PAS2S	Pres Act Subj 2nd Sing
+PAS3P	Pres Act Subj 3rd Plur
+PAS3S	Pres Act Subj 3rd Sing
+PMD2P	Pres Mid Imperative 2nd Plur
+PMD2S	Pres Mid Imperative 2nd Sing
+PMD3P	Pres Mid Imperative 3rd Plur
+PMD3S	Pres Mid Imperative 3rd Sing
+PMI1P	Pres Mid Ind 1st Plur
+PMI1S	Pres Mid Ind 1st Sing
+PMI2P	Pres Mid Ind 2nd Plur
+PMI2S	Pres Mid Ind 2nd Sing
+PMI3P	Pres Mid Ind 3rd Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMP3P	Pres Mid Part 3rd Plur
+PMPAPF	Pres Mid Part Acc Plur Fem
+PMPAPM	Pres Mid Part Acc Plur Masc
+PMPAPN	Pres Mid Part Acc Plur Neut
+PMPASF	Pres Mid Part Acc Sing Fem
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPASN	Pres Mid Part Acc Sing Neut
+PMPDPM	Pres Mid Part Dat Plur Masc
+PMPDPN	Pres Mid Part Dat Plur Neut
+PMPDSF	Pres Mid Part Dat Sing Fem
+PMPDSM	Pres Mid Part Dat Sing Masc
+PMPGPF	Pres Mid Part Gen Plur Fem
+PMPGPM	Pres Mid Part Gen Plur Masc
+PMPGPN	Pres Mid Part Gen Plur Neut
+PMPGSF	Pres Mid Part Gen Sing Fem
+PMPGSM	Pres Mid Part Gen Sing Masc
+PMPGSN	Pres Mid Part Gen Sing Neut
+PMPNDM	Pres Mid Part Nom Dual Masc
+PMPNPF	Pres Mid Part Nom Plur Fem
+PMPNPM	Pres Mid Part Nom Plur Masc
+PMPNPN	Pres Mid Part Nom Plur Neut
+PMPNSF	Pres Mid Part Nom Sing Fem
+PMPNSM	Pres Mid Part Nom Sing Masc
+PMPNSN	Pres Mid Part Nom Sing Neut
+PMPVPN	Pres Mid Part Voc Plur Neut
+PMPVSM	Pres Mid Part Voc Sing Masc
+PMS2P	Pres Mid Subj 2nd Plur
+PMS2S	Pres Mid Subj 2nd Sing
+PMS3P	Pres Mid Subj 3rd Plur
+PMS3S	Pres Mid Subj 3rd Sing
+PPD2S	Pres Pass Imperative 2nd Sing
+PPD3S	Pres Pass Imperative 3rd Sing
+PPI1S	Pres Pass Ind 1st Sing
+PPI3S	Pres Pass Ind 3rd Sing
+PPN	Pres Pass Infin
+PPPAPF	Pres Pass Part Acc Plur Fem
+PPPAPN	Pres Pass Part Acc Plur Neut
+PPPASF	Pres Pass Part Acc Sing Fem
+PPPASM	Pres Pass Part Acc Sing Masc
+PPPASN	Pres Pass Part Acc Sing Neut
+PPPDSM	Pres Pass Part Dat Sing Masc
+PPPGSF	Pres Pass Part Gen Sing Fem
+PPPNSM	Pres Pass Part Nom Sing Masc
+PPPNSN	Pres Pass Part Nom Sing Neut
+PPS2S	Pres Pass Subj 2nd Sing
+PPS3S	Pres Pass Subj 3rd Sing
+XMI1S	Perf Mid Ind 1st Sing
+IAI1P	Imperf Act Ind 1st Plur
+IAI1S	Imperf Act Ind 1st Sing
+IAI2P	Imperf Act Ind 2nd Plur
+IAI2S	Imperf Act Ind 2nd Sing
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+IMI2P	Imperf Mid Ind 2nd Plur
+IMI2S	Imperf Mid Ind 2nd Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+IPI3S	Imperf Pass Ind 3rd Sing
+AAD2S	Aor Act Imperative 2nd Sing
+APS3P	Aor Pass Subj 3rd Plur
+FMI1S	Fut Mid Ind 1st Sing
+FPI3S	Fut Pass Ind 3rd Sing
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1P	Imperf Mid Ind 1st Plur
+PAD2P	Pres Act Imperative 2nd Plur
+PAD2S	Pres Act Imperative 2nd Sing
+PAD3P	Pres Act Imperative 3rd Plur
+PAD3S	Pres Act Imperative 3rd Sing
+PAI1P	Pres Act Ind 1st Plur
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI2S	Pres Act Ind 2nd Sing
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAPAPF	Pres Act Part Acc Plur Fem
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPAPN	Pres Act Part Acc Plur Neut
+PAPASF	Pres Act Part Acc Sing Fem
+PAPASM	Pres Act Part Acc Sing Masc
+PAPASN	Pres Act Part Acc Sing Neut
+PAPDPM	Pres Act Part Dat Plur Masc
+PAPDSF	Pres Act Part Dat Sing Fem
+PAPDSM	Pres Act Part Dat Sing Masc
+PAPDSN	Pres Act Part Dat Sing Neut
+PAPGPF	Pres Act Part Gen Plur Fem
+PAPGPM	Pres Act Part Gen Plur Masc
+PAPGPN	Pres Act Part Gen Plur Neut
+PAPGSF	Pres Act Part Gen Sing Fem
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPGSN	Pres Act Part Gen Sing Neut
+PAPNPF	Pres Act Part Nom Plur Fem
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNPN	Pres Act Part Nom Plur Neut
+PAPNSF	Pres Act Part Nom Sing Fem
+PAPNSM	Pres Act Part Nom Sing Masc
+PAPNSN	Pres Act Part Nom Sing Neut
+PAPVSM	Pres Act Part Voc Sing Masc
+PAS1P	Pres Act Subj 1st Plur
+PAS2P	Pres Act Subj 2nd Plur
+PAS2S	Pres Act Subj 2nd Sing
+PAS3P	Pres Act Subj 3rd Plur
+PAS3S	Pres Act Subj 3rd Sing
+PMD2P	Pres Mid Imperative 2nd Plur
+PMD2S	Pres Mid Imperative 2nd Sing
+PMD3P	Pres Mid Imperative 3rd Plur
+PMD3S	Pres Mid Imperative 3rd Sing
+PMI2P	Pres Mid Ind 2nd Plur
+PMI2S	Pres Mid Ind 2nd Sing
+PMI3P	Pres Mid Ind 3rd Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMPAPM	Pres Mid Part Acc Plur Masc
+PMPAPN	Pres Mid Part Acc Plur Neut
+PMPASF	Pres Mid Part Acc Sing Fem
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPASN	Pres Mid Part Acc Sing Neut
+PMPDPM	Pres Mid Part Dat Plur Masc
+PMPDSF	Pres Mid Part Dat Sing Fem
+PMPDSM	Pres Mid Part Dat Sing Masc
+PMPGPM	Pres Mid Part Gen Plur Masc
+PMPGPN	Pres Mid Part Gen Plur Neut
+PMPGSF	Pres Mid Part Gen Sing Fem
+PMPGSM	Pres Mid Part Gen Sing Masc
+PMPNPF	Pres Mid Part Nom Plur Fem
+PMPNPM	Pres Mid Part Nom Plur Masc
+PMPNSF	Pres Mid Part Nom Sing Fem
+PMPNSM	Pres Mid Part Nom Sing Masc
+PMPNSN	Pres Mid Part Nom Sing Neut
+PMS2S	Pres Mid Subj 2nd Sing
+PMS3S	Pres Mid Subj 3rd Sing
+PPI3P	Pres Pass Ind 3rd Plur
+PPI3S	Pres Pass Ind 3rd Sing
+PPPAPN	Pres Pass Part Acc Plur Neut
+PPPASM	Pres Pass Part Acc Sing Masc
+PPPDPM	Pres Pass Part Dat Plur Masc
+PPPDSN	Pres Pass Part Dat Sing Neut
+PPPGPM	Pres Pass Part Gen Plur Masc
+PPPNSM	Pres Pass Part Nom Sing Masc
+XMPNSF	Perf Mid Part Nom Sing Fem
+AAI3P	Aor Act Ind 3rd Plur
+IAI1P	Imperf Act Ind 1st Plur
+IAI1S	Imperf Act Ind 1st Sing
+IAI2P	Imperf Act Ind 2nd Plur
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+IPI3P	Imperf Pass Ind 3rd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAN	Aor Act Infin
+AAS3S	Aor Act Subj 3rd Sing
+FAI2S	Fut Act Ind 2nd Sing
+FAI3S	Fut Act Ind 3rd Sing
+IAI1S	Imperf Act Ind 1st Sing
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI3S	Imperf Mid Ind 3rd Sing
+PAD2P	Pres Act Imperative 2nd Plur
+PAD2S	Pres Act Imperative 2nd Sing
+PAD3S	Pres Act Imperative 3rd Sing
+PAI1P	Pres Act Ind 1st Plur
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI2S	Pres Act Ind 2nd Sing
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAPAPF	Pres Act Part Acc Plur Fem
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPAPN	Pres Act Part Acc Plur Neut
+PAPASF	Pres Act Part Acc Sing Fem
+PAPASM	Pres Act Part Acc Sing Masc
+PAPASN	Pres Act Part Acc Sing Neut
+PAPDPF	Pres Act Part Dat Plur Fem
+PAPDPM	Pres Act Part Dat Plur Masc
+PAPDSM	Pres Act Part Dat Sing Masc
+PAPGPM	Pres Act Part Gen Plur Masc
+PAPGSF	Pres Act Part Gen Sing Fem
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPNPF	Pres Act Part Nom Plur Fem
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNPN	Pres Act Part Nom Plur Neut
+PAPNSF	Pres Act Part Nom Sing Fem
+PAPNSM	Pres Act Part Nom Sing Masc
+PAPNSN	Pres Act Part Nom Sing Neut
+PAS2S	Pres Act Subj 2nd Sing
+PAS3P	Pres Act Subj 3rd Plur
+PAS3S	Pres Act Subj 3rd Sing
+PMD2P	Pres Mid Imperative 2nd Plur
+PMD2S	Pres Mid Imperative 2nd Sing
+PMD3P	Pres Mid Imperative 3rd Plur
+PMD3S	Pres Mid Imperative 3rd Sing
+PMI1P	Pres Mid Ind 1st Plur
+PMI1S	Pres Mid Ind 1st Sing
+PMI2S	Pres Mid Ind 2nd Sing
+PMI3P	Pres Mid Ind 3rd Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMPAPF	Pres Mid Part Acc Plur Fem
+PMPAPM	Pres Mid Part Acc Plur Masc
+PMPASF	Pres Mid Part Acc Sing Fem
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPASN	Pres Mid Part Acc Sing Neut
+PMPDSM	Pres Mid Part Dat Sing Masc
+PMPGPF	Pres Mid Part Gen Plur Fem
+PMPGPM	Pres Mid Part Gen Plur Masc
+PMPGSM	Pres Mid Part Gen Sing Masc
+PMPNPM	Pres Mid Part Nom Plur Masc
+PMPNSF	Pres Mid Part Nom Sing Fem
+PMPNSM	Pres Mid Part Nom Sing Masc
+PMPNSN	Pres Mid Part Nom Sing Neut
+PMS3P	Pres Mid Subj 3rd Plur
+PMS3S	Pres Mid Subj 3rd Sing
+PPD3P	Pres Pass Imperative 3rd Plur
+PPD3S	Pres Pass Imperative 3rd Sing
+PPI3P	Pres Pass Ind 3rd Plur
+PPI3S	Pres Pass Ind 3rd Sing
+PPPAPM	Pres Pass Part Acc Plur Masc
+PPPAPN	Pres Pass Part Acc Plur Neut
+PPPASM	Pres Pass Part Acc Sing Masc
+PPPASN	Pres Pass Part Acc Sing Neut
+PPPGSM	Pres Pass Part Gen Sing Masc
+PPPNSF	Pres Pass Part Nom Sing Fem
+PPPNSM	Pres Pass Part Nom Sing Masc
+PPPNSN	Pres Pass Part Nom Sing Neut
+PPS3S	Pres Pass Subj 3rd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+IAI1S	Imperf Act Ind 1st Sing
+IAI2P	Imperf Act Ind 2nd Plur
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+IPI3S	Imperf Pass Ind 3rd Sing
+FMI2S	Fut Mid Ind 2nd Sing
+IAI3P	Imperf Act Ind 3rd Plur
+PAD2P	Pres Act Imperative 2nd Plur
+PAI1P	Pres Act Ind 1st Plur
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI2S	Pres Act Ind 2nd Sing
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPASM	Pres Act Part Acc Sing Masc
+PAPDSN	Pres Act Part Dat Sing Neut
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPNPF	Pres Act Part Nom Plur Fem
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNSM	Pres Act Part Nom Sing Masc
+PAS1S	Pres Act Subj 1st Sing
+PMD2S	Pres Mid Imperative 2nd Sing
+PMI1P	Pres Mid Ind 1st Plur
+PMI1S	Pres Mid Ind 1st Sing
+PMI2P	Pres Mid Ind 2nd Plur
+PMI2S	Pres Mid Ind 2nd Sing
+PMI3P	Pres Mid Ind 3rd Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMO2S	Pres Mid Opt 2nd Sing
+PMPAPF	Pres Mid Part Acc Plur Fem
+PMPAPM	Pres Mid Part Acc Plur Masc
+PMPAPN	Pres Mid Part Acc Plur Neut
+PMPASF	Pres Mid Part Acc Sing Fem
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPASN	Pres Mid Part Acc Sing Neut
+PMPDPM	Pres Mid Part Dat Plur Masc
+PMPDPN	Pres Mid Part Dat Plur Neut
+PMPDSM	Pres Mid Part Dat Sing Masc
+PMPGPF	Pres Mid Part Gen Plur Fem
+PMPGPM	Pres Mid Part Gen Plur Masc
+PMPGPN	Pres Mid Part Gen Plur Neut
+PMPGSF	Pres Mid Part Gen Sing Fem
+PMPGSM	Pres Mid Part Gen Sing Masc
+PMPNPF	Pres Mid Part Nom Plur Fem
+PMPNPM	Pres Mid Part Nom Plur Masc
+PMPNPN	Pres Mid Part Nom Plur Neut
+PMPNSF	Pres Mid Part Nom Sing Fem
+PMPNSM	Pres Mid Part Nom Sing Masc
+PMPNSN	Pres Mid Part Nom Sing Neut
+PMPVPM	Pres Mid Part Voc Plur Masc
+PMS1P	Pres Mid Subj 1st Plur
+PMS2S	Pres Mid Subj 2nd Sing
+PPI3S	Pres Pass Ind 3rd Sing
+PPPAPN	Pres Pass Part Acc Plur Neut
+PPPGPM	Pres Pass Part Gen Plur Masc
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+IMI2S	Imperf Mid Ind 2nd Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+AAS1P	Aor Act Subj 1st Plur
+AMPNPM	Aor Mid Part Nom Plur Masc
+IAI3P	Imperf Act Ind 3rd Plur
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+PAD3S	Pres Act Imperative 3rd Sing
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAO3S	Pres Act Opt 3rd Sing
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPASM	Pres Act Part Acc Sing Masc
+PAPASN	Pres Act Part Acc Sing Neut
+PAPGPM	Pres Act Part Gen Plur Masc
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNSM	Pres Act Part Nom Sing Masc
+PAPNSN	Pres Act Part Nom Sing Neut
+PAS1S	Pres Act Subj 1st Sing
+PAS3P	Pres Act Subj 3rd Plur
+PMD2P	Pres Mid Imperative 2nd Plur
+PMD2S	Pres Mid Imperative 2nd Sing
+PMI1P	Pres Mid Ind 1st Plur
+PMI1S	Pres Mid Ind 1st Sing
+PMI2P	Pres Mid Ind 2nd Plur
+PMI2S	Pres Mid Ind 2nd Sing
+PMI3P	Pres Mid Ind 3rd Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMO1S	Pres Mid Opt 1st Sing
+PMO3P	Pres Mid Opt 3rd Plur
+PMO3S	Pres Mid Opt 3rd Sing
+PMPAPM	Pres Mid Part Acc Plur Masc
+PMPAPN	Pres Mid Part Acc Plur Neut
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPASN	Pres Mid Part Acc Sing Neut
+PMPDPM	Pres Mid Part Dat Plur Masc
+PMPDSM	Pres Mid Part Dat Sing Masc
+PMPGPM	Pres Mid Part Gen Plur Masc
+PMPGSM	Pres Mid Part Gen Sing Masc
+PMPGSN	Pres Mid Part Gen Sing Neut
+PMPNPM	Pres Mid Part Nom Plur Masc
+PMPNSF	Pres Mid Part Nom Sing Fem
+PMPNSM	Pres Mid Part Nom Sing Masc
+PMS1P	Pres Mid Subj 1st Plur
+PMS1S	Pres Mid Subj 1st Sing
+PMS2P	Pres Mid Subj 2nd Plur
+PMS2S	Pres Mid Subj 2nd Sing
+PMS3P	Pres Mid Subj 3rd Plur
+PMS3S	Pres Mid Subj 3rd Sing
+PPI2P	Pres Pass Ind 2nd Plur
+PPI3P	Pres Pass Ind 3rd Plur
+PPPAPM	Pres Pass Part Acc Plur Masc
+IAI1S	Imperf Act Ind 1st Sing
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+IMI2S	Imperf Mid Ind 2nd Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+IAI1S	Imperf Act Ind 1st Sing
+IAI2S	Imperf Act Ind 2nd Sing
+PAD2P	Pres Act Imperative 2nd Plur
+PAD3S	Pres Act Imperative 3rd Sing
+PAI1P	Pres Act Ind 1st Plur
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI2S	Pres Act Ind 2nd Sing
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPASF	Pres Act Part Acc Sing Fem
+PAPGPM	Pres Act Part Gen Plur Masc
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNSM	Pres Act Part Nom Sing Masc
+PAS1S	Pres Act Subj 1st Sing
+PAS2S	Pres Act Subj 2nd Sing
+PAS3P	Pres Act Subj 3rd Plur
+PAS3S	Pres Act Subj 3rd Sing
+PMI1P	Pres Mid Ind 1st Plur
+PMI1S	Pres Mid Ind 1st Sing
+PMI2P	Pres Mid Ind 2nd Plur
+PMI3P	Pres Mid Ind 3rd Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMPAPM	Pres Mid Part Acc Plur Masc
+PMPAPN	Pres Mid Part Acc Plur Neut
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPDPM	Pres Mid Part Dat Plur Masc
+PMPGPF	Pres Mid Part Gen Plur Fem
+PMPGPM	Pres Mid Part Gen Plur Masc
+PMPGPN	Pres Mid Part Gen Plur Neut
+PMPNPM	Pres Mid Part Nom Plur Masc
+PMPNPN	Pres Mid Part Nom Plur Neut
+PMPNSM	Pres Mid Part Nom Sing Masc
+PMS3P	Pres Mid Subj 3rd Plur
+PPD3P	Pres Pass Imperative 3rd Plur
+PPD3S	Pres Pass Imperative 3rd Sing
+PPI3S	Pres Pass Ind 3rd Sing
+PPPAPN	Pres Pass Part Acc Plur Neut
+IAI2S	Imperf Act Ind 2nd Sing
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+IPI3S	Imperf Pass Ind 3rd Sing
+IMI2S	Imperf Mid Ind 2nd Sing
+PAD2S	Pres Act Imperative 2nd Sing
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI2S	Pres Act Ind 2nd Sing
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAO3S	Pres Act Opt 3rd Sing
+PAPASM	Pres Act Part Acc Sing Masc
+PAPDPM	Pres Act Part Dat Plur Masc
+PAPDSM	Pres Act Part Dat Sing Masc
+PAPGPM	Pres Act Part Gen Plur Masc
+PAPGSF	Pres Act Part Gen Sing Fem
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNSM	Pres Act Part Nom Sing Masc
+PAS2S	Pres Act Subj 2nd Sing
+PAS3P	Pres Act Subj 3rd Plur
+PMI3S	Pres Mid Ind 3rd Sing
+PMN	Pres Mid Infin
+PMPAPN	Pres Mid Part Acc Plur Neut
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPASN	Pres Mid Part Acc Sing Neut
+PMPGSF	Pres Mid Part Gen Sing Fem
+PMPNSF	Pres Mid Part Nom Sing Fem
+PMPNSN	Pres Mid Part Nom Sing Neut
+PPI3S	Pres Pass Ind 3rd Sing
+PPPNSN	Pres Pass Part Nom Sing Neut
+IAI1S	Imperf Act Ind 1st Sing
+IAI2S	Imperf Act Ind 2nd Sing
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+IMI2S	Imperf Mid Ind 2nd Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+IMI3S	Imperf Mid Ind 3rd Sing
+IPI3P	Imperf Pass Ind 3rd Plur
+AAS2P	Aor Act Subj 2nd Plur
+AAS3P	Aor Act Subj 3rd Plur
+AMI1S	Aor Mid Ind 1st Sing
+FMI3S	Fut Mid Ind 3rd Sing
+IAI1P	Imperf Act Ind 1st Plur
+IAI2P	Imperf Act Ind 2nd Plur
+IAI2S	Imperf Act Ind 2nd Sing
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IAS2P	Imperf Act Subj 2nd Plur
+IAS2S	Imperf Act Subj 2nd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+PAD2S	Pres Act Imperative 2nd Sing
+PAD3P	Pres Act Imperative 3rd Plur
+PAD3S	Pres Act Imperative 3rd Sing
+PAI1P	Pres Act Ind 1st Plur
+PAI1S	Pres Act Ind 1st Sing
+PAI2P	Pres Act Ind 2nd Plur
+PAI2S	Pres Act Ind 2nd Sing
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+PAN	Pres Act Infin
+PAO2P	Pres Act Opt 2nd Plur
+PAO3P	Pres Act Opt 3rd Plur
+PAO3S	Pres Act Opt 3rd Sing
+PAPAPF	Pres Act Part Acc Plur Fem
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPAPN	Pres Act Part Acc Plur Neut
+PAPASF	Pres Act Part Acc Sing Fem
+PAPASM	Pres Act Part Acc Sing Masc
+PAPASN	Pres Act Part Acc Sing Neut
+PAPDPM	Pres Act Part Dat Plur Masc
+PAPDPN	Pres Act Part Dat Plur Neut
+PAPDSF	Pres Act Part Dat Sing Fem
+PAPDSM	Pres Act Part Dat Sing Masc
+PAPDSN	Pres Act Part Dat Sing Neut
+PAPGPF	Pres Act Part Gen Plur Fem
+PAPGPM	Pres Act Part Gen Plur Masc
+PAPGPN	Pres Act Part Gen Plur Neut
+PAPGSF	Pres Act Part Gen Sing Fem
+PAPGSM	Pres Act Part Gen Sing Masc
+PAPGSN	Pres Act Part Gen Sing Neut
+PAPNPF	Pres Act Part Nom Plur Fem
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNPN	Pres Act Part Nom Plur Neut
+PAPNSF	Pres Act Part Nom Sing Fem
+PAPNSM	Pres Act Part Nom Sing Masc
+PAPNSN	Pres Act Part Nom Sing Neut
+PAPVPM	Pres Act Part Voc Plur Masc
+PAS1P	Pres Act Subj 1st Plur
+PAS1S	Pres Act Subj 1st Sing
+PAS2S	Pres Act Subj 2nd Sing
+PAS3P	Pres Act Subj 3rd Plur
+PAS3S	Pres Act Subj 3rd Sing
+PMS2S	Pres Mid Subj 2nd Sing
+IAI1S	Imperf Act Ind 1st Sing
+IAI2S	Imperf Act Ind 2nd Sing
+IAI3P	Imperf Act Ind 3rd Plur
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1P	Imperf Mid Ind 1st Plur
+IMI1S	Imperf Mid Ind 1st Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAD3P	Aor Act Imperative 3rd Plur
+AAD3S	Aor Act Imperative 3rd Sing
+AAI1P	Aor Act Ind 1st Plur
+AAI1S	Aor Act Ind 1st Sing
+AAI2P	Aor Act Ind 2nd Plur
+AAI2S	Aor Act Ind 2nd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+AAN	Aor Act Infin
+AAO1P	Aor Act Opt 1st Plur
+AAO1S	Aor Act Opt 1st Sing
+AAO2S	Aor Act Opt 2nd Sing
+AAO3P	Aor Act Opt 3rd Plur
+AAO3S	Aor Act Opt 3rd Sing
+AAPAPF	Aor Act Part Acc Plur Fem
+AAPAPM	Aor Act Part Acc Plur Masc
+AAPAPN	Aor Act Part Acc Plur Neut
+AAPASF	Aor Act Part Acc Sing Fem
+AAPASM	Aor Act Part Acc Sing Masc
+AAPASN	Aor Act Part Acc Sing Neut
+AAPDPM	Aor Act Part Dat Plur Masc
+AAPDPN	Aor Act Part Dat Plur Neut
+AAPDSM	Aor Act Part Dat Sing Masc
+AAPGPF	Aor Act Part Gen Plur Fem
+AAPGPM	Aor Act Part Gen Plur Masc
+AAPGPN	Aor Act Part Gen Plur Neut
+AAPGSM	Aor Act Part Gen Sing Masc
+AAPGSN	Aor Act Part Gen Sing Neut
+AAPNPF	Aor Act Part Nom Plur Fem
+AAPNPM	Aor Act Part Nom Plur Masc
+AAPNPN	Aor Act Part Nom Plur Neut
+AAPNSF	Aor Act Part Nom Sing Fem
+AAPNSM	Aor Act Part Nom Sing Masc
+AAPNSN	Aor Act Part Nom Sing Neut
+AAPVSF	Aor Act Part Voc Sing Fem
+AAS	Aor Act Subj
+AAS1P	Aor Act Subj 1st Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+AAS3P	Aor Act Subj 3rd Plur
+AAS3S	Aor Act Subj 3rd Sing
+AMD2P	Aor Mid Imperative 2nd Plur
+AMD2S	Aor Mid Imperative 2nd Sing
+AMD3P	Aor Mid Imperative 3rd Plur
+AMD3S	Aor Mid Imperative 3rd Sing
+AMI1P	Aor Mid Ind 1st Plur
+AMI1S	Aor Mid Ind 1st Sing
+AMI2P	Aor Mid Ind 2nd Plur
+AMI2S	Aor Mid Ind 2nd Sing
+AMI3P	Aor Mid Ind 3rd Plur
+AMI3S	Aor Mid Ind 3rd Sing
+AMN	Aor Mid Infin
+AMO1P	Aor Mid Opt 1st Plur
+AMO2S	Aor Mid Opt 2nd Sing
+AMO3P	Aor Mid Opt 3rd Plur
+AMO3S	Aor Mid Opt 3rd Sing
+AMPAPM	Aor Mid Part Acc Plur Masc
+AMPAPN	Aor Mid Part Acc Plur Neut
+AMPASF	Aor Mid Part Acc Sing Fem
+AMPASM	Aor Mid Part Acc Sing Masc
+AMPASN	Aor Mid Part Acc Sing Neut
+AMPDPF	Aor Mid Part Dat Plur Fem
+AMPDSM	Aor Mid Part Dat Sing Masc
+AMPGPM	Aor Mid Part Gen Plur Masc
+AMPGSF	Aor Mid Part Gen Sing Fem
+AMPGSM	Aor Mid Part Gen Sing Masc
+AMPGSN	Aor Mid Part Gen Sing Neut
+AMPNPF	Aor Mid Part Nom Plur Fem
+AMPNPM	Aor Mid Part Nom Plur Masc
+AMPNSF	Aor Mid Part Nom Sing Fem
+AMPNSM	Aor Mid Part Nom Sing Masc
+AMS1P	Aor Mid Subj 1st Plur
+AMS1S	Aor Mid Subj 1st Sing
+AMS2P	Aor Mid Subj 2nd Plur
+AMS2S	Aor Mid Subj 2nd Sing
+AMS3P	Aor Mid Subj 3rd Plur
+AMS3S	Aor Mid Subj 3rd Sing
+APD2P	Aor Pass Imperative 2nd Plur
+APD3S	Aor Pass Imperative 3rd Sing
+API3S	Aor Pass Ind 3rd Sing
+APN	Acc Plur Neut
+APO3P	Aor Pass Opt 3rd Plur
+APO3S	Aor Pass Opt 3rd Sing
+APPASM	Aor Pass Part Acc Sing Masc
+APPDPN	Aor Pass Part Dat Plur Neut
+APPGSF	Aor Pass Part Gen Sing Fem
+APPNSM	Aor Pass Part Nom Sing Masc
+APPNSN	Aor Pass Part Nom Sing Neut
+APS1P	Aor Pass Subj 1st Plur
+APS2P	Aor Pass Subj 2nd Plur
+APS3P	Aor Pass Subj 3rd Plur
+APS3S	Aor Pass Subj 3rd Sing
+IMI3S	Imperf Mid Ind 3rd Sing
+PAI1P	Pres Act Ind 1st Plur
+PAI1S	Pres Act Ind 1st Sing
+PAI3S	Pres Act Ind 3rd Sing
+PAPAPM	Pres Act Part Acc Plur Masc
+PAPNPM	Pres Act Part Nom Plur Masc
+PAS3S	Pres Act Subj 3rd Sing
+AAD1S	Aor Act Imperative 1st Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAI1P	Aor Act Ind 1st Plur
+AAI1S	Aor Act Ind 1st Sing
+AAI2P	Aor Act Ind 2nd Plur
+AAI2S	Aor Act Ind 2nd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+AAN	Aor Act Infin
+AAO3P	Aor Act Opt 3rd Plur
+AAPASF	Aor Act Part Acc Sing Fem
+AAPASM	Aor Act Part Acc Sing Masc
+AAPASN	Aor Act Part Acc Sing Neut
+AAPGSM	Aor Act Part Gen Sing Masc
+AAPNPM	Aor Act Part Nom Plur Masc
+AAPNSM	Aor Act Part Nom Sing Masc
+AAS1P	Aor Act Subj 1st Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS3P	Aor Act Subj 3rd Plur
+AMD2P	Aor Mid Imperative 2nd Plur
+AMI1P	Aor Mid Ind 1st Plur
+AMI1S	Aor Mid Ind 1st Sing
+AMI2P	Aor Mid Ind 2nd Plur
+AMI2S	Aor Mid Ind 2nd Sing
+AMI3P	Aor Mid Ind 3rd Plur
+AMI3S	Aor Mid Ind 3rd Sing
+AMN	Aor Mid Infin
+AMPAPF	Aor Mid Part Acc Plur Fem
+AMPASF	Aor Mid Part Acc Sing Fem
+AMPASN	Aor Mid Part Acc Sing Neut
+AMPGPN	Aor Mid Part Gen Plur Neut
+AMPNPF	Aor Mid Part Nom Plur Fem
+AMPNPM	Aor Mid Part Nom Plur Masc
+API1P	Aor Pass Ind 1st Plur
+API1S	Aor Pass Ind 1st Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+IAI3P	Imperf Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAD3P	Aor Act Imperative 3rd Plur
+AAD3S	Aor Act Imperative 3rd Sing
+AAI1P	Aor Act Ind 1st Plur
+AAI1S	Aor Act Ind 1st Sing
+AAI2P	Aor Act Ind 2nd Plur
+AAI2S	Aor Act Ind 2nd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+AAN	Aor Act Infin
+AAO1P	Aor Act Opt 1st Plur
+AAO1S	Aor Act Opt 1st Sing
+AAO2P	Aor Act Opt 2nd Plur
+AAO2S	Aor Act Opt 2nd Sing
+AAO3P	Aor Act Opt 3rd Plur
+AAO3S	Aor Act Opt 3rd Sing
+AAPAPM	Aor Act Part Acc Plur Masc
+AAPAPN	Aor Act Part Acc Plur Neut
+AAPASF	Aor Act Part Acc Sing Fem
+AAPASM	Aor Act Part Acc Sing Masc
+AAPASN	Aor Act Part Acc Sing Neut
+AAPDPF	Aor Act Part Dat Plur Fem
+AAPDSF	Aor Act Part Dat Sing Fem
+AAPDSM	Aor Act Part Dat Sing Masc
+AAPGPM	Aor Act Part Gen Plur Masc
+AAPGPN	Aor Act Part Gen Plur Neut
+AAPGSF	Aor Act Part Gen Sing Fem
+AAPGSM	Aor Act Part Gen Sing Masc
+AAPGSN	Aor Act Part Gen Sing Neut
+AAPNPF	Aor Act Part Nom Plur Fem
+AAPNPM	Aor Act Part Nom Plur Masc
+AAPNPN	Aor Act Part Nom Plur Neut
+AAPNSF	Aor Act Part Nom Sing Fem
+AAPNSM	Aor Act Part Nom Sing Masc
+AAPNSN	Aor Act Part Nom Sing Neut
+AAS1P	Aor Act Subj 1st Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+AAS3P	Aor Act Subj 3rd Plur
+AAS3S	Aor Act Subj 3rd Sing
+AMD2P	Aor Mid Imperative 2nd Plur
+AMD2S	Aor Mid Imperative 2nd Sing
+AMD3P	Aor Mid Imperative 3rd Plur
+AMD3S	Aor Mid Imperative 3rd Sing
+AMI1P	Aor Mid Ind 1st Plur
+AMI2S	Aor Mid Ind 2nd Sing
+AMI3P	Aor Mid Ind 3rd Plur
+AMI3S	Aor Mid Ind 3rd Sing
+AMN	Aor Mid Infin
+AMO1P	Aor Mid Opt 1st Plur
+AMO1S	Aor Mid Opt 1st Sing
+AMO3P	Aor Mid Opt 3rd Plur
+AMO3S	Aor Mid Opt 3rd Sing
+AMPAPF	Aor Mid Part Acc Plur Fem
+AMPAPM	Aor Mid Part Acc Plur Masc
+AMPAPN	Aor Mid Part Acc Plur Neut
+AMPASF	Aor Mid Part Acc Sing Fem
+AMPASM	Aor Mid Part Acc Sing Masc
+AMPASN	Aor Mid Part Acc Sing Neut
+AMPDPM	Aor Mid Part Dat Plur Masc
+AMPDSM	Aor Mid Part Dat Sing Masc
+AMPGPF	Aor Mid Part Gen Plur Fem
+AMPGPM	Aor Mid Part Gen Plur Masc
+AMPGPN	Aor Mid Part Gen Plur Neut
+AMPGSF	Aor Mid Part Gen Sing Fem
+AMPGSM	Aor Mid Part Gen Sing Masc
+AMPGSN	Aor Mid Part Gen Sing Neut
+AMPNPF	Aor Mid Part Nom Plur Fem
+AMPNPM	Aor Mid Part Nom Plur Masc
+AMPNPN	Aor Mid Part Nom Plur Neut
+AMPNSF	Aor Mid Part Nom Sing Fem
+AMPNSM	Aor Mid Part Nom Sing Masc
+AMPNSN	Aor Mid Part Nom Sing Neut
+AMS1P	Aor Mid Subj 1st Plur
+AMS1S	Aor Mid Subj 1st Sing
+AMS2P	Aor Mid Subj 2nd Plur
+AMS2S	Aor Mid Subj 2nd Sing
+AMS3P	Aor Mid Subj 3rd Plur
+AMS3S	Aor Mid Subj 3rd Sing
+APD2P	Aor Pass Imperative 2nd Plur
+APD2S	Aor Pass Imperative 2nd Sing
+APD3S	Aor Pass Imperative 3rd Sing
+APS2S	Aor Pass Subj 2nd Sing
+IAI3P	Imperf Act Ind 3rd Plur
+PAD2S	Pres Act Imperative 2nd Sing
+PAD3S	Pres Act Imperative 3rd Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAD3P	Aor Act Imperative 3rd Plur
+AAD3S	Aor Act Imperative 3rd Sing
+AAI1P	Aor Act Ind 1st Plur
+AAI1S	Aor Act Ind 1st Sing
+AAI2P	Aor Act Ind 2nd Plur
+AAI2S	Aor Act Ind 2nd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+AAN	Aor Act Infin
+AAPAPM	Aor Act Part Acc Plur Masc
+AAPGPM	Aor Act Part Gen Plur Masc
+AAPGSM	Aor Act Part Gen Sing Masc
+AAPNPM	Aor Act Part Nom Plur Masc
+AAPNSF	Aor Act Part Nom Sing Fem
+AAPNSM	Aor Act Part Nom Sing Masc
+AAS1P	Aor Act Subj 1st Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+AAS3P	Aor Act Subj 3rd Plur
+AAS3S	Aor Act Subj 3rd Sing
+AMI1P	Aor Mid Ind 1st Plur
+AMI1S	Aor Mid Ind 1st Sing
+AMI2P	Aor Mid Ind 2nd Plur
+AMI2S	Aor Mid Ind 2nd Sing
+AMI3P	Aor Mid Ind 3rd Plur
+AMI3S	Aor Mid Ind 3rd Sing
+AMS1P	Aor Mid Subj 1st Plur
+API1P	Aor Pass Ind 1st Plur
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+IMI3P	Imperf Mid Ind 3rd Plur
+XMPNSM	Perf Mid Part Nom Sing Masc
+AAD2S	Aor Act Imperative 2nd Sing
+AAPASN	Aor Act Part Acc Sing Neut
+AMD2P	Aor Mid Imperative 2nd Plur
+AMN	Aor Mid Infin
+AMPNPF	Aor Mid Part Nom Plur Fem
+AMPNSM	Aor Mid Part Nom Sing Masc
+APD2P	Aor Pass Imperative 2nd Plur
+APD2S	Aor Pass Imperative 2nd Sing
+APD3P	Aor Pass Imperative 3rd Plur
+APD3S	Aor Pass Imperative 3rd Sing
+API1P	Aor Pass Ind 1st Plur
+API1S	Aor Pass Ind 1st Sing
+API2P	Aor Pass Ind 2nd Plur
+API2S	Aor Pass Ind 2nd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+APN	Acc Plur Neut
+APO1P	Aor Pass Opt 1st Plur
+APO1S	Aor Pass Opt 1st Sing
+APO2P	Aor Pass Opt 2nd Plur
+APO2S	Aor Pass Opt 2nd Sing
+APO3P	Aor Pass Opt 3rd Plur
+APO3S	Aor Pass Opt 3rd Sing
+APPAPF	Aor Pass Part Acc Plur Fem
+APPAPM	Aor Pass Part Acc Plur Masc
+APPAPN	Aor Pass Part Acc Plur Neut
+APPASF	Aor Pass Part Acc Sing Fem
+APPASM	Aor Pass Part Acc Sing Masc
+APPASN	Aor Pass Part Acc Sing Neut
+APPDPM	Aor Pass Part Dat Plur Masc
+APPDPN	Aor Pass Part Dat Plur Neut
+APPDSF	Aor Pass Part Dat Sing Fem
+APPDSM	Aor Pass Part Dat Sing Masc
+APPGPM	Aor Pass Part Gen Plur Masc
+APPGPN	Aor Pass Part Gen Plur Neut
+APPGSF	Aor Pass Part Gen Sing Fem
+APPGSM	Aor Pass Part Gen Sing Masc
+APPGSN	Aor Pass Part Gen Sing Neut
+APPNPF	Aor Pass Part Nom Plur Fem
+APPNPM	Aor Pass Part Nom Plur Masc
+APPNPN	Aor Pass Part Nom Plur Neut
+APPNSF	Aor Pass Part Nom Sing Fem
+APPNSM	Aor Pass Part Nom Sing Masc
+APPNSN	Aor Pass Part Nom Sing Neut
+APS1P	Aor Pass Subj 1st Plur
+APS1S	Aor Pass Subj 1st Sing
+APS2P	Aor Pass Subj 2nd Plur
+APS2S	Aor Pass Subj 2nd Sing
+APS3P	Aor Pass Subj 3rd Plur
+APS3S	Aor Pass Subj 3rd Sing
+FMI2P	Fut Mid Ind 2nd Plur
+FPI1P	Fut Pass Ind 1st Plur
+FPI1S	Fut Pass Ind 1st Sing
+FPI2P	Fut Pass Ind 2nd Plur
+FPI2S	Fut Pass Ind 2nd Sing
+FPI3P	Fut Pass Ind 3rd Plur
+FPI3S	Fut Pass Ind 3rd Sing
+FPN	Fut Pass Infin
+FPPAPF	Fut Pass Part Acc Plur Fem
+FPPAPN	Fut Pass Part Acc Plur Neut
+FPPDPM	Fut Pass Part Dat Plur Masc
+FPPDPN	Fut Pass Part Dat Plur Neut
+FPPDSM	Fut Pass Part Dat Sing Masc
+FPPGPM	Fut Pass Part Gen Plur Masc
+FPPNSM	Fut Pass Part Nom Sing Masc
+FPPNSN	Fut Pass Part Nom Sing Neut
+FPS2S	Fut Pass Subj 2nd Sing
+FPS3P	Fut Pass Subj 3rd Plur
+PMI3P	Pres Mid Ind 3rd Plur
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+AMI3P	Aor Mid Ind 3rd Plur
+APD2S	Aor Pass Imperative 2nd Sing
+APD3P	Aor Pass Imperative 3rd Plur
+API1P	Aor Pass Ind 1st Plur
+API1S	Aor Pass Ind 1st Sing
+API2P	Aor Pass Ind 2nd Plur
+API2S	Aor Pass Ind 2nd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+APO3P	Aor Pass Opt 3rd Plur
+APPNSF	Aor Pass Part Nom Sing Fem
+FPI3S	Fut Pass Ind 3rd Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAS2P	Aor Act Subj 2nd Plur
+AAS3S	Aor Act Subj 3rd Sing
+AMI3P	Aor Mid Ind 3rd Plur
+AMS3S	Aor Mid Subj 3rd Sing
+APD2P	Aor Pass Imperative 2nd Plur
+APD2S	Aor Pass Imperative 2nd Sing
+APD3P	Aor Pass Imperative 3rd Plur
+APD3S	Aor Pass Imperative 3rd Sing
+API2S	Aor Pass Ind 2nd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+APN	Acc Plur Neut
+APO3P	Aor Pass Opt 3rd Plur
+APO3S	Aor Pass Opt 3rd Sing
+APPAPM	Aor Pass Part Acc Plur Masc
+APPAPN	Aor Pass Part Acc Plur Neut
+APPASF	Aor Pass Part Acc Sing Fem
+APPASM	Aor Pass Part Acc Sing Masc
+APPASN	Aor Pass Part Acc Sing Neut
+APPDPM	Aor Pass Part Dat Plur Masc
+APPGPM	Aor Pass Part Gen Plur Masc
+APPGPN	Aor Pass Part Gen Plur Neut
+APPGSF	Aor Pass Part Gen Sing Fem
+APPGSM	Aor Pass Part Gen Sing Masc
+APPGSN	Aor Pass Part Gen Sing Neut
+APPNPM	Aor Pass Part Nom Plur Masc
+APPNPN	Aor Pass Part Nom Plur Neut
+APPNSF	Aor Pass Part Nom Sing Fem
+APPNSM	Aor Pass Part Nom Sing Masc
+APPNSN	Aor Pass Part Nom Sing Neut
+APS1P	Aor Pass Subj 1st Plur
+APS1S	Aor Pass Subj 1st Sing
+APS2P	Aor Pass Subj 2nd Plur
+APS2S	Aor Pass Subj 2nd Sing
+APS3P	Aor Pass Subj 3rd Plur
+APS3S	Aor Pass Subj 3rd Sing
+FPI1P	Fut Pass Ind 1st Plur
+FPI1S	Fut Pass Ind 1st Sing
+FPI2P	Fut Pass Ind 2nd Plur
+FPI2S	Fut Pass Ind 2nd Sing
+FPI3P	Fut Pass Ind 3rd Plur
+FPI3S	Fut Pass Ind 3rd Sing
+PPPNPN	Pres Pass Part Nom Plur Neut
+AAI3P	Aor Act Ind 3rd Plur
+APD2P	Aor Pass Imperative 2nd Plur
+API1P	Aor Pass Ind 1st Plur
+API1S	Aor Pass Ind 1st Sing
+API2P	Aor Pass Ind 2nd Plur
+API2S	Aor Pass Ind 2nd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+APPAPM	Aor Pass Part Acc Plur Masc
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAD3P	Aor Act Imperative 3rd Plur
+AAN	Aor Act Infin
+AAO3S	Aor Act Opt 3rd Sing
+AAPGPM	Aor Act Part Gen Plur Masc
+AAPNPM	Aor Act Part Nom Plur Masc
+AAPNSF	Aor Act Part Nom Sing Fem
+AAPNSM	Aor Act Part Nom Sing Masc
+AAS1P	Aor Act Subj 1st Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+AAS3P	Aor Act Subj 3rd Plur
+AAS3S	Aor Act Subj 3rd Sing
+AMD2P	Aor Mid Imperative 2nd Plur
+AMD2S	Aor Mid Imperative 2nd Sing
+AMD3S	Aor Mid Imperative 3rd Sing
+AMI3P	Aor Mid Ind 3rd Plur
+AMI3S	Aor Mid Ind 3rd Sing
+AMN	Aor Mid Infin
+AMPAPM	Aor Mid Part Acc Plur Masc
+AMPASM	Aor Mid Part Acc Sing Masc
+AMPASN	Aor Mid Part Acc Sing Neut
+AMPDPM	Aor Mid Part Dat Plur Masc
+AMPGSM	Aor Mid Part Gen Sing Masc
+AMPNPF	Aor Mid Part Nom Plur Fem
+AMPNPM	Aor Mid Part Nom Plur Masc
+AMPNSM	Aor Mid Part Nom Sing Masc
+AMS1P	Aor Mid Subj 1st Plur
+AMS1S	Aor Mid Subj 1st Sing
+AMS2P	Aor Mid Subj 2nd Plur
+AMS3P	Aor Mid Subj 3rd Plur
+AMS3S	Aor Mid Subj 3rd Sing
+APN	Acc Plur Neut
+AAD2S	Aor Act Imperative 2nd Sing
+AAI1P	Aor Act Ind 1st Plur
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+AMI1S	Aor Mid Ind 1st Sing
+AMI2P	Aor Mid Ind 2nd Plur
+AMI2S	Aor Mid Ind 2nd Sing
+AMI3P	Aor Mid Ind 3rd Plur
+AMI3S	Aor Mid Ind 3rd Sing
+API1S	Aor Pass Ind 1st Sing
+API2P	Aor Pass Ind 2nd Plur
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+IAI1S	Imperf Act Ind 1st Sing
+IMI1S	Imperf Mid Ind 1st Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS3S	Aor Act Subj 3rd Sing
+FAD2S	Fut Act Imperative 2nd Sing
+FAI1P	Fut Act Ind 1st Plur
+FAI1S	Fut Act Ind 1st Sing
+FAI2P	Fut Act Ind 2nd Plur
+FAI2S	Fut Act Ind 2nd Sing
+FAI3P	Fut Act Ind 3rd Plur
+FAI3S	Fut Act Ind 3rd Sing
+FAN	Fut Act Infin
+FAO3S	Fut Act Opt 3rd Sing
+FAPAPM	Fut Act Part Acc Plur Masc
+FAPASM	Fut Act Part Acc Sing Masc
+FAPASN	Fut Act Part Acc Sing Neut
+FAPNPM	Fut Act Part Nom Plur Masc
+FAPNSM	Fut Act Part Nom Sing Masc
+FAPNSN	Fut Act Part Nom Sing Neut
+FAS1S	Fut Act Subj 1st Sing
+FMD2P	Fut Mid Imperative 2nd Plur
+FMI1P	Fut Mid Ind 1st Plur
+FMI1S	Fut Mid Ind 1st Sing
+FMI2P	Fut Mid Ind 2nd Plur
+FMI2S	Fut Mid Ind 2nd Sing
+FMI3P	Fut Mid Ind 3rd Plur
+FMI3S	Fut Mid Ind 3rd Sing
+FMN	Fut Mid Infin
+FMO3S	Fut Mid Opt 3rd Sing
+FMPAPM	Fut Mid Part Acc Plur Masc
+FMPAPN	Fut Mid Part Acc Plur Neut
+FMPASF	Fut Mid Part Acc Sing Fem
+FMPASM	Fut Mid Part Acc Sing Masc
+FMPASN	Fut Mid Part Acc Sing Neut
+FMPGPN	Fut Mid Part Gen Plur Neut
+FMPGSF	Fut Mid Part Gen Sing Fem
+FMPGSM	Fut Mid Part Gen Sing Masc
+FMPNPN	Fut Mid Part Nom Plur Neut
+FMPNSM	Fut Mid Part Nom Sing Masc
+FMPNSN	Fut Mid Part Nom Sing Neut
+FMS2S	Fut Mid Subj 2nd Sing
+FPI2S	Fut Pass Ind 2nd Sing
+FPI3P	Fut Pass Ind 3rd Plur
+FPI3S	Fut Pass Ind 3rd Sing
+PAI1S	Pres Act Ind 1st Sing
+PAI2S	Pres Act Ind 2nd Sing
+PAPNSM	Pres Act Part Nom Sing Masc
+FAI1P	Fut Act Ind 1st Plur
+FAI1S	Fut Act Ind 1st Sing
+FAI2P	Fut Act Ind 2nd Plur
+FAI2S	Fut Act Ind 2nd Sing
+FAI3P	Fut Act Ind 3rd Plur
+FAI3S	Fut Act Ind 3rd Sing
+FAN	Fut Act Infin
+FAO3P	Fut Act Opt 3rd Plur
+FAPAPM	Fut Act Part Acc Plur Masc
+FAPNPM	Fut Act Part Nom Plur Masc
+FAPNSF	Fut Act Part Nom Sing Fem
+FAPNSM	Fut Act Part Nom Sing Masc
+FMI1P	Fut Mid Ind 1st Plur
+FMI1S	Fut Mid Ind 1st Sing
+FMI2P	Fut Mid Ind 2nd Plur
+FMI2S	Fut Mid Ind 2nd Sing
+FMI3P	Fut Mid Ind 3rd Plur
+FMI3S	Fut Mid Ind 3rd Sing
+FMO1P	Fut Mid Opt 1st Plur
+FPI1P	Fut Pass Ind 1st Plur
+FPI2P	Fut Pass Ind 2nd Plur
+PAI3P	Pres Act Ind 3rd Plur
+PAI3S	Pres Act Ind 3rd Sing
+FAI1S	Fut Act Ind 1st Sing
+FAI2S	Fut Act Ind 2nd Sing
+FAI3S	Fut Act Ind 3rd Sing
+FAI3P	Fut Act Ind 3rd Plur
+FMI1S	Fut Mid Ind 1st Sing
+FMI2P	Fut Mid Ind 2nd Plur
+FMI2S	Fut Mid Ind 2nd Sing
+FMI3P	Fut Mid Ind 3rd Plur
+FMI3S	Fut Mid Ind 3rd Sing
+FPI3S	Fut Pass Ind 3rd Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAD3P	Aor Act Imperative 3rd Plur
+AAD3S	Aor Act Imperative 3rd Sing
+AAN	Aor Act Infin
+AAO3S	Aor Act Opt 3rd Sing
+AAPAPM	Aor Act Part Acc Plur Masc
+AAPASF	Aor Act Part Acc Sing Fem
+AAPGPF	Aor Act Part Gen Plur Fem
+AAPGPM	Aor Act Part Gen Plur Masc
+AAPGSF	Aor Act Part Gen Sing Fem
+AAPGSM	Aor Act Part Gen Sing Masc
+AAPNPF	Aor Act Part Nom Plur Fem
+AAPNPM	Aor Act Part Nom Plur Masc
+AAPNSF	Aor Act Part Nom Sing Fem
+AAPNSM	Aor Act Part Nom Sing Masc
+AAS1P	Aor Act Subj 1st Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+AAS3P	Aor Act Subj 3rd Plur
+AAS3S	Aor Act Subj 3rd Sing
+AMD2P	Aor Mid Imperative 2nd Plur
+AMN	Aor Mid Infin
+AMPDSF	Aor Mid Part Dat Sing Fem
+AMPNPM	Aor Mid Part Nom Plur Masc
+AMPNSM	Aor Mid Part Nom Sing Masc
+AMS2S	Aor Mid Subj 2nd Sing
+APD2S	Aor Pass Imperative 2nd Sing
+IAI2S	Imperf Act Ind 2nd Sing
+AAI1P	Aor Act Ind 1st Plur
+AAI1S	Aor Act Ind 1st Sing
+AAI2P	Aor Act Ind 2nd Plur
+AAI2S	Aor Act Ind 2nd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+AMI3S	Aor Mid Ind 3rd Sing
+AMPNSF	Aor Mid Part Nom Sing Fem
+IAI3P	Imperf Act Ind 3rd Plur
+XAI1S	Perf Act Ind 1st Sing
+XAPGPM	Perf Act Part Gen Plur Masc
+XMI1S	Perf Mid Ind 1st Sing
+XMI2S	Perf Mid Ind 2nd Sing
+XMI3S	Perf Mid Ind 3rd Sing
+XMN	Perf Mid Infin
+XMPAPF	Perf Mid Part Acc Plur Fem
+XMPAPM	Perf Mid Part Acc Plur Masc
+XMPAPN	Perf Mid Part Acc Plur Neut
+XMPASF	Perf Mid Part Acc Sing Fem
+XMPASM	Perf Mid Part Acc Sing Masc
+XMPASN	Perf Mid Part Acc Sing Neut
+XMPDPF	Perf Mid Part Dat Plur Fem
+XMPDPM	Perf Mid Part Dat Plur Masc
+XMPDPN	Perf Mid Part Dat Plur Neut
+XMPDSM	Perf Mid Part Dat Sing Masc
+XMPGPM	Perf Mid Part Gen Plur Masc
+XMPGSF	Perf Mid Part Gen Sing Fem
+XMPGSM	Perf Mid Part Gen Sing Masc
+XMPNPF	Perf Mid Part Nom Plur Fem
+XMPNPM	Perf Mid Part Nom Plur Masc
+XMPNPN	Perf Mid Part Nom Plur Neut
+XMPNSF	Perf Mid Part Nom Sing Fem
+XMPNSM	Perf Mid Part Nom Sing Masc
+XMPNSN	Perf Mid Part Nom Sing Neut
+XPI2S	Perf Pass Ind 2nd Sing
+XPI3S	Perf Pass Ind 3rd Sing
+XPN	Perf Pass Infin
+XPPAPN	Perf Pass Part Acc Plur Neut
+XPPASF	Perf Pass Part Acc Sing Fem
+XPPASN	Perf Pass Part Acc Sing Neut
+XPPGPM	Perf Pass Part Gen Plur Masc
+XPPGPN	Perf Pass Part Gen Plur Neut
+XPPNPM	Perf Pass Part Nom Plur Masc
+XPPNSF	Perf Pass Part Nom Sing Fem
+XPPNSM	Perf Pass Part Nom Sing Masc
+YMI3S	Pluperf Mid Ind 3rd Sing
+XAPAPN	Perf Act Part Acc Plur Neut
+XMI3S	Perf Mid Ind 3rd Sing
+XMPAPN	Perf Mid Part Acc Plur Neut
+XMPNPF	Perf Mid Part Nom Plur Fem
+XMPNPM	Perf Mid Part Nom Plur Masc
+XMPNSM	Perf Mid Part Nom Sing Masc
+XPPNSM	Perf Pass Part Nom Sing Masc
+YMI3S	Pluperf Mid Ind 3rd Sing
+AMPNPM	Aor Mid Part Nom Plur Masc
+FPI3P	Fut Pass Ind 3rd Plur
+PMPASM	Pres Mid Part Acc Sing Masc
+PMPDPM	Pres Mid Part Dat Plur Masc
+PMPGPM	Pres Mid Part Gen Plur Masc
+PMPGSN	Pres Mid Part Gen Sing Neut
+PMPNPM	Pres Mid Part Nom Plur Masc
+PMPNSM	Pres Mid Part Nom Sing Masc
+PPI3S	Pres Pass Ind 3rd Sing
+PPN	Pres Pass Infin
+PPPASF	Pres Pass Part Acc Sing Fem
+PPPGPM	Pres Pass Part Gen Plur Masc
+PPPGPN	Pres Pass Part Gen Plur Neut
+PPPGSF	Pres Pass Part Gen Sing Fem
+PPPGSM	Pres Pass Part Gen Sing Masc
+XAI1S	Perf Act Ind 1st Sing
+XAPNPM	Perf Act Part Nom Plur Masc
+XMD3P	Perf Mid Imperative 3rd Plur
+XMD3S	Perf Mid Imperative 3rd Sing
+XMI1P	Perf Mid Ind 1st Plur
+XMI1S	Perf Mid Ind 1st Sing
+XMI2P	Perf Mid Ind 2nd Plur
+XMI2S	Perf Mid Ind 2nd Sing
+XMI3P	Perf Mid Ind 3rd Plur
+XMI3S	Perf Mid Ind 3rd Sing
+XMN	Perf Mid Infin
+XMPAPF	Perf Mid Part Acc Plur Fem
+XMPAPM	Perf Mid Part Acc Plur Masc
+XMPAPN	Perf Mid Part Acc Plur Neut
+XMPASF	Perf Mid Part Acc Sing Fem
+XMPASM	Perf Mid Part Acc Sing Masc
+XMPASN	Perf Mid Part Acc Sing Neut
+XMPDPF	Perf Mid Part Dat Plur Fem
+XMPDPM	Perf Mid Part Dat Plur Masc
+XMPDPN	Perf Mid Part Dat Plur Neut
+XMPDSF	Perf Mid Part Dat Sing Fem
+XMPDSM	Perf Mid Part Dat Sing Masc
+XMPDSN	Perf Mid Part Dat Sing Neut
+XMPGPM	Perf Mid Part Gen Plur Masc
+XMPGPN	Perf Mid Part Gen Plur Neut
+XMPGSF	Perf Mid Part Gen Sing Fem
+XMPGSM	Perf Mid Part Gen Sing Masc
+XMPGSN	Perf Mid Part Gen Sing Neut
+XMPNPF	Perf Mid Part Nom Plur Fem
+XMPNPM	Perf Mid Part Nom Plur Masc
+XMPNPN	Perf Mid Part Nom Plur Neut
+XMPNSF	Perf Mid Part Nom Sing Fem
+XMPNSM	Perf Mid Part Nom Sing Masc
+XMPNSN	Perf Mid Part Nom Sing Neut
+XMPVPM	Perf Mid Part Voc Plur Masc
+XMPVSM	Perf Mid Part Voc Sing Masc
+XPD3P	Perf Pass Imperative 3rd Plur
+XPI1P	Perf Pass Ind 1st Plur
+XPI1S	Perf Pass Ind 1st Sing
+XPI2S	Perf Pass Ind 2nd Sing
+XPI3P	Perf Pass Ind 3rd Plur
+XPI3S	Perf Pass Ind 3rd Sing
+XPN	Perf Pass Infin
+XPPAPF	Perf Pass Part Acc Plur Fem
+XPPAPM	Perf Pass Part Acc Plur Masc
+XPPAPN	Perf Pass Part Acc Plur Neut
+XPPASF	Perf Pass Part Acc Sing Fem
+XPPASM	Perf Pass Part Acc Sing Masc
+XPPASN	Perf Pass Part Acc Sing Neut
+XPPDPF	Perf Pass Part Dat Plur Fem
+XPPDPM	Perf Pass Part Dat Plur Masc
+XPPDSF	Perf Pass Part Dat Sing Fem
+XPPDSM	Perf Pass Part Dat Sing Masc
+XPPGPF	Perf Pass Part Gen Plur Fem
+XPPGPM	Perf Pass Part Gen Plur Masc
+XPPGPN	Perf Pass Part Gen Plur Neut
+XPPGSF	Perf Pass Part Gen Sing Fem
+XPPGSM	Perf Pass Part Gen Sing Masc
+XPPNPF	Perf Pass Part Nom Plur Fem
+XPPNPM	Perf Pass Part Nom Plur Masc
+XPPNPN	Perf Pass Part Nom Plur Neut
+XPPNSF	Perf Pass Part Nom Sing Fem
+XPPNSM	Perf Pass Part Nom Sing Masc
+XPPNSN	Perf Pass Part Nom Sing Neut
+YMI3S	Pluperf Mid Ind 3rd Sing
+AMPAPM	Aor Mid Part Acc Plur Masc
+AMPGPN	Aor Mid Part Gen Plur Neut
+XAPNSF	Perf Act Part Nom Sing Fem
+XAPNSN	Perf Act Part Nom Sing Neut
+XMD2P	Perf Mid Imperative 2nd Plur
+XMI1P	Perf Mid Ind 1st Plur
+XMI1S	Perf Mid Ind 1st Sing
+XMI3S	Perf Mid Ind 3rd Sing
+XMN	Perf Mid Infin
+XMPAPM	Perf Mid Part Acc Plur Masc
+XMPAPN	Perf Mid Part Acc Plur Neut
+XMPASM	Perf Mid Part Acc Sing Masc
+XMPASN	Perf Mid Part Acc Sing Neut
+XMPDPF	Perf Mid Part Dat Plur Fem
+XMPGPM	Perf Mid Part Gen Plur Masc
+XMPGSF	Perf Mid Part Gen Sing Fem
+XMPNPF	Perf Mid Part Nom Plur Fem
+XMPNPM	Perf Mid Part Nom Plur Masc
+XMPNPN	Perf Mid Part Nom Plur Neut
+XMPNSF	Perf Mid Part Nom Sing Fem
+XMPNSM	Perf Mid Part Nom Sing Masc
+XMPVSF	Perf Mid Part Voc Sing Fem
+XPI3S	Perf Pass Ind 3rd Sing
+XPPAPN	Perf Pass Part Acc Plur Neut
+XPPASF	Perf Pass Part Acc Sing Fem
+XPPASN	Perf Pass Part Acc Sing Neut
+XPPGPM	Perf Pass Part Gen Plur Masc
+XPPNPF	Perf Pass Part Nom Plur Fem
+XPPNPM	Perf Pass Part Nom Plur Masc
+XPPNSF	Perf Pass Part Nom Sing Fem
+XPPNSM	Perf Pass Part Nom Sing Masc
+XPPNSN	Perf Pass Part Nom Sing Neut
+YMI1S	Pluperf Mid Ind 1st Sing
+YMI3P	Pluperf Mid Ind 3rd Plur
+YMI3S	Pluperf Mid Ind 3rd Sing
+YMPNPM	Pluperf Mid Part Nom Plur Masc
+YMPNSM	Pluperf Mid Part Nom Sing Masc
+YPI3S	Pluperf Pass Ind 3rd Sing
+YPPASM	Pluperf Pass Part Acc Sing Masc
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAD3P	Aor Act Imperative 3rd Plur
+AAD3S	Aor Act Imperative 3rd Sing
+AAN	Aor Act Infin
+AAO2S	Aor Act Opt 2nd Sing
+AAO3S	Aor Act Opt 3rd Sing
+AAPAPM	Aor Act Part Acc Plur Masc
+AAPDSM	Aor Act Part Dat Sing Masc
+AAPGSM	Aor Act Part Gen Sing Masc
+AAPNPM	Aor Act Part Nom Plur Masc
+AAPNSF	Aor Act Part Nom Sing Fem
+AAPNSM	Aor Act Part Nom Sing Masc
+AAS1P	Aor Act Subj 1st Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+AAS3P	Aor Act Subj 3rd Plur
+AAS3S	Aor Act Subj 3rd Sing
+AMD2P	Aor Mid Imperative 2nd Plur
+AMD2S	Aor Mid Imperative 2nd Sing
+AMN	Aor Mid Infin
+AMPNPM	Aor Mid Part Nom Plur Masc
+AMS3S	Aor Mid Subj 3rd Sing
+AAI1P	Aor Act Ind 1st Plur
+AAI3P	Aor Act Ind 3rd Plur
+AMI2P	Aor Mid Ind 2nd Plur
+AMI3P	Aor Mid Ind 3rd Plur
+AMI3S	Aor Mid Ind 3rd Sing
+APN	Acc Plur Neut
+IAI3S	Imperf Act Ind 3rd Sing
+IMI1S	Imperf Mid Ind 1st Sing
+PMPNSM	Pres Mid Part Nom Sing Masc
+PPPASF	Pres Pass Part Acc Sing Fem
+PPPGSM	Pres Pass Part Gen Sing Masc
+XMI1S	Perf Mid Ind 1st Sing
+XMI3S	Perf Mid Ind 3rd Sing
+XMN	Perf Mid Infin
+XMPAPF	Perf Mid Part Acc Plur Fem
+XMPAPM	Perf Mid Part Acc Plur Masc
+XMPAPN	Perf Mid Part Acc Plur Neut
+XMPASF	Perf Mid Part Acc Sing Fem
+XMPASM	Perf Mid Part Acc Sing Masc
+XMPASN	Perf Mid Part Acc Sing Neut
+XMPDPF	Perf Mid Part Dat Plur Fem
+XMPDPM	Perf Mid Part Dat Plur Masc
+XMPDPN	Perf Mid Part Dat Plur Neut
+XMPDSF	Perf Mid Part Dat Sing Fem
+XMPDSN	Perf Mid Part Dat Sing Neut
+XMPGPM	Perf Mid Part Gen Plur Masc
+XMPGPN	Perf Mid Part Gen Plur Neut
+XMPGSF	Perf Mid Part Gen Sing Fem
+XMPGSM	Perf Mid Part Gen Sing Masc
+XMPNPF	Perf Mid Part Nom Plur Fem
+XMPNPM	Perf Mid Part Nom Plur Masc
+XMPNPN	Perf Mid Part Nom Plur Neut
+XMPNSF	Perf Mid Part Nom Sing Fem
+XMPNSM	Perf Mid Part Nom Sing Masc
+XMPNSN	Perf Mid Part Nom Sing Neut
+XPI3S	Perf Pass Ind 3rd Sing
+XPPAPF	Perf Pass Part Acc Plur Fem
+XPPAPM	Perf Pass Part Acc Plur Masc
+XPPAPN	Perf Pass Part Acc Plur Neut
+XPPASF	Perf Pass Part Acc Sing Fem
+XPPASM	Perf Pass Part Acc Sing Masc
+XPPASN	Perf Pass Part Acc Sing Neut
+XPPNPF	Perf Pass Part Nom Plur Fem
+XPPNPM	Perf Pass Part Nom Plur Masc
+XPPNPN	Perf Pass Part Nom Plur Neut
+XPPNSF	Perf Pass Part Nom Sing Fem
+XPPNSM	Perf Pass Part Nom Sing Masc
+XPPNSN	Perf Pass Part Nom Sing Neut
+API3S	Aor Pass Ind 3rd Sing
+XMPNSN	Perf Mid Part Nom Sing Neut
+XPPNPM	Perf Pass Part Nom Plur Masc
+XPPNSF	Perf Pass Part Nom Sing Fem
+YMI3S	Pluperf Mid Ind 3rd Sing
+YMPASN	Pluperf Mid Part Acc Sing Neut
+YMPNSN	Pluperf Mid Part Nom Sing Neut
+YPI3S	Pluperf Pass Ind 3rd Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAS1P	Aor Act Subj 1st Plur
+APD2P	Aor Pass Imperative 2nd Plur
+APD3P	Aor Pass Imperative 3rd Plur
+APD3S	Aor Pass Imperative 3rd Sing
+API1S	Aor Pass Ind 1st Sing
+API2P	Aor Pass Ind 2nd Plur
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+APN	Acc Plur Neut
+APO1P	Aor Pass Opt 1st Plur
+APO3P	Aor Pass Opt 3rd Plur
+APO3S	Aor Pass Opt 3rd Sing
+APPAPM	Aor Pass Part Acc Plur Masc
+APPAPN	Aor Pass Part Acc Plur Neut
+APPASN	Aor Pass Part Acc Sing Neut
+APPGPM	Aor Pass Part Gen Plur Masc
+APPGSF	Aor Pass Part Gen Sing Fem
+APPGSM	Aor Pass Part Gen Sing Masc
+APPGSN	Aor Pass Part Gen Sing Neut
+APPNPM	Aor Pass Part Nom Plur Masc
+APPNPN	Aor Pass Part Nom Plur Neut
+APPNSF	Aor Pass Part Nom Sing Fem
+APPNSM	Aor Pass Part Nom Sing Masc
+APPNSN	Aor Pass Part Nom Sing Neut
+APS1P	Aor Pass Subj 1st Plur
+APS2P	Aor Pass Subj 2nd Plur
+APS2S	Aor Pass Subj 2nd Sing
+APS3P	Aor Pass Subj 3rd Plur
+APS3S	Aor Pass Subj 3rd Sing
+FPI1S	Fut Pass Ind 1st Sing
+FPI2P	Fut Pass Ind 2nd Plur
+FPI2S	Fut Pass Ind 2nd Sing
+FPI3P	Fut Pass Ind 3rd Plur
+FPI3S	Fut Pass Ind 3rd Sing
+FPN	Fut Pass Infin
+FPPAPM	Fut Pass Part Acc Plur Masc
+FPPNPM	Fut Pass Part Nom Plur Masc
+PMI2P	Pres Mid Ind 2nd Plur
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+API1P	Aor Pass Ind 1st Plur
+API1S	Aor Pass Ind 1st Sing
+API2P	Aor Pass Ind 2nd Plur
+API2S	Aor Pass Ind 2nd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAN	Aor Act Infin
+AAS1P	Aor Act Subj 1st Plur
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+AAS3P	Aor Act Subj 3rd Plur
+AMD2P	Aor Mid Imperative 2nd Plur
+AMD2S	Aor Mid Imperative 2nd Sing
+APD2P	Aor Pass Imperative 2nd Plur
+APD2S	Aor Pass Imperative 2nd Sing
+APD3P	Aor Pass Imperative 3rd Plur
+APD3S	Aor Pass Imperative 3rd Sing
+API1S	Aor Pass Ind 1st Sing
+API2S	Aor Pass Ind 2nd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+APN	Acc Plur Neut
+APO1P	Aor Pass Opt 1st Plur
+APO2S	Aor Pass Opt 2nd Sing
+APO3P	Aor Pass Opt 3rd Plur
+APO3S	Aor Pass Opt 3rd Sing
+APPAPM	Aor Pass Part Acc Plur Masc
+APPAPN	Aor Pass Part Acc Plur Neut
+APPASF	Aor Pass Part Acc Sing Fem
+APPASM	Aor Pass Part Acc Sing Masc
+APPASN	Aor Pass Part Acc Sing Neut
+APPDSM	Aor Pass Part Dat Sing Masc
+APPGPM	Aor Pass Part Gen Plur Masc
+APPGPN	Aor Pass Part Gen Plur Neut
+APPGSF	Aor Pass Part Gen Sing Fem
+APPGSM	Aor Pass Part Gen Sing Masc
+APPGSN	Aor Pass Part Gen Sing Neut
+APPNPM	Aor Pass Part Nom Plur Masc
+APPNPN	Aor Pass Part Nom Plur Neut
+APPNSF	Aor Pass Part Nom Sing Fem
+APPNSM	Aor Pass Part Nom Sing Masc
+APPNSN	Aor Pass Part Nom Sing Neut
+APPVSF	Aor Pass Part Voc Sing Fem
+APS1P	Aor Pass Subj 1st Plur
+APS1S	Aor Pass Subj 1st Sing
+APS2P	Aor Pass Subj 2nd Plur
+APS2S	Aor Pass Subj 2nd Sing
+APS3P	Aor Pass Subj 3rd Plur
+APS3S	Aor Pass Subj 3rd Sing
+FAI3S	Fut Act Ind 3rd Sing
+FPI1P	Fut Pass Ind 1st Plur
+FPI1S	Fut Pass Ind 1st Sing
+FPI2P	Fut Pass Ind 2nd Plur
+FPI2S	Fut Pass Ind 2nd Sing
+FPI3P	Fut Pass Ind 3rd Plur
+FPI3S	Fut Pass Ind 3rd Sing
+PPPNSM	Pres Pass Part Nom Sing Masc
+XPPGPN	Perf Pass Part Gen Plur Neut
+XPPNSF	Perf Pass Part Nom Sing Fem
+XPPNSM	Perf Pass Part Nom Sing Masc
+AAI1S	Aor Act Ind 1st Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+AAS1S	Aor Act Subj 1st Sing
+AMI1S	Aor Mid Ind 1st Sing
+AMI3S	Aor Mid Ind 3rd Sing
+API1P	Aor Pass Ind 1st Plur
+API1S	Aor Pass Ind 1st Sing
+API2P	Aor Pass Ind 2nd Plur
+API2S	Aor Pass Ind 2nd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+PPN	Pres Pass Infin
+PPPASM	Pres Pass Part Acc Sing Masc
+XAI3S	Perf Act Ind 3rd Sing
+XAPGSM	Perf Act Part Gen Sing Masc
+XAPNSF	Perf Act Part Nom Sing Fem
+XMI1P	Perf Mid Ind 1st Plur
+XMI1S	Perf Mid Ind 1st Sing
+XMI2S	Perf Mid Ind 2nd Sing
+XMI3S	Perf Mid Ind 3rd Sing
+XMN	Perf Mid Infin
+XMPAPF	Perf Mid Part Acc Plur Fem
+XMPAPM	Perf Mid Part Acc Plur Masc
+XMPAPN	Perf Mid Part Acc Plur Neut
+XMPASF	Perf Mid Part Acc Sing Fem
+XMPASM	Perf Mid Part Acc Sing Masc
+XMPASN	Perf Mid Part Acc Sing Neut
+XMPDPF	Perf Mid Part Dat Plur Fem
+XMPDPM	Perf Mid Part Dat Plur Masc
+XMPDSF	Perf Mid Part Dat Sing Fem
+XMPDSM	Perf Mid Part Dat Sing Masc
+XMPDSN	Perf Mid Part Dat Sing Neut
+XMPGPF	Perf Mid Part Gen Plur Fem
+XMPGPM	Perf Mid Part Gen Plur Masc
+XMPGSF	Perf Mid Part Gen Sing Fem
+XMPGSM	Perf Mid Part Gen Sing Masc
+XMPGSN	Perf Mid Part Gen Sing Neut
+XMPNPF	Perf Mid Part Nom Plur Fem
+XMPNPM	Perf Mid Part Nom Plur Masc
+XMPNPN	Perf Mid Part Nom Plur Neut
+XMPNSF	Perf Mid Part Nom Sing Fem
+XMPNSM	Perf Mid Part Nom Sing Masc
+XMPNSN	Perf Mid Part Nom Sing Neut
+XPI3S	Perf Pass Ind 3rd Sing
+XPPAPF	Perf Pass Part Acc Plur Fem
+XPPAPM	Perf Pass Part Acc Plur Masc
+XPPAPN	Perf Pass Part Acc Plur Neut
+XPPASF	Perf Pass Part Acc Sing Fem
+XPPASM	Perf Pass Part Acc Sing Masc
+XPPASN	Perf Pass Part Acc Sing Neut
+XPPDPM	Perf Pass Part Dat Plur Masc
+XPPDSF	Perf Pass Part Dat Sing Fem
+XPPDSM	Perf Pass Part Dat Sing Masc
+XPPDSN	Perf Pass Part Dat Sing Neut
+XPPGPM	Perf Pass Part Gen Plur Masc
+XPPGPN	Perf Pass Part Gen Plur Neut
+XPPGSF	Perf Pass Part Gen Sing Fem
+XPPGSM	Perf Pass Part Gen Sing Masc
+XPPGSN	Perf Pass Part Gen Sing Neut
+XPPNPF	Perf Pass Part Nom Plur Fem
+XPPNPM	Perf Pass Part Nom Plur Masc
+XPPNPN	Perf Pass Part Nom Plur Neut
+XPPNSF	Perf Pass Part Nom Sing Fem
+XPPNSM	Perf Pass Part Nom Sing Masc
+XPPNSN	Perf Pass Part Nom Sing Neut
+YPI3S	Pluperf Pass Ind 3rd Sing
+AAI3P	Aor Act Ind 3rd Plur
+API3P	Aor Pass Ind 3rd Plur
+XMPASN	Perf Mid Part Acc Sing Neut
+XMPGSM	Perf Mid Part Gen Sing Masc
+XMPNPM	Perf Mid Part Nom Plur Masc
+AAD2S	Aor Act Imperative 2nd Sing
+AMN	Aor Mid Infin
+APD2S	Aor Pass Imperative 2nd Sing
+APD3P	Aor Pass Imperative 3rd Plur
+APD3S	Aor Pass Imperative 3rd Sing
+API3S	Aor Pass Ind 3rd Sing
+APN	Acc Plur Neut
+APO3S	Aor Pass Opt 3rd Sing
+APPAPF	Aor Pass Part Acc Plur Fem
+APPAPM	Aor Pass Part Acc Plur Masc
+APPAPN	Aor Pass Part Acc Plur Neut
+APPASF	Aor Pass Part Acc Sing Fem
+APPASM	Aor Pass Part Acc Sing Masc
+APPASN	Aor Pass Part Acc Sing Neut
+APPDPM	Aor Pass Part Dat Plur Masc
+APPDPN	Aor Pass Part Dat Plur Neut
+APPDSF	Aor Pass Part Dat Sing Fem
+APPDSM	Aor Pass Part Dat Sing Masc
+APPGPM	Aor Pass Part Gen Plur Masc
+APPGSM	Aor Pass Part Gen Sing Masc
+APPNPF	Aor Pass Part Nom Plur Fem
+APPNPM	Aor Pass Part Nom Plur Masc
+APPNSF	Aor Pass Part Nom Sing Fem
+APPNSM	Aor Pass Part Nom Sing Masc
+APPNSN	Aor Pass Part Nom Sing Neut
+APS1P	Aor Pass Subj 1st Plur
+APS1S	Aor Pass Subj 1st Sing
+APS2P	Aor Pass Subj 2nd Plur
+APS2S	Aor Pass Subj 2nd Sing
+APS3P	Aor Pass Subj 3rd Plur
+APS3S	Aor Pass Subj 3rd Sing
+FPI1S	Fut Pass Ind 1st Sing
+FPI2P	Fut Pass Ind 2nd Plur
+FPI2S	Fut Pass Ind 2nd Sing
+FPI3P	Fut Pass Ind 3rd Plur
+FPI3S	Fut Pass Ind 3rd Sing
+PPPASN	Pres Pass Part Acc Sing Neut
+XPPNPF	Perf Pass Part Nom Plur Fem
+AAI3P	Aor Act Ind 3rd Plur
+AMI1S	Aor Mid Ind 1st Sing
+API1P	Aor Pass Ind 1st Plur
+API1S	Aor Pass Ind 1st Sing
+API2S	Aor Pass Ind 2nd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing
+AAD2S	Aor Act Imperative 2nd Sing
+FPI3S	Fut Pass Ind 3rd Sing
+PAI3S	Pres Act Ind 3rd Sing
+PAPAPN	Pres Act Part Acc Plur Neut
+XAD2P	Perf Act Imperative 2nd Plur
+XAD2S	Perf Act Imperative 2nd Sing
+XAD3P	Perf Act Imperative 3rd Plur
+XAD3S	Perf Act Imperative 3rd Sing
+XAI1P	Perf Act Ind 1st Plur
+XAI1S	Perf Act Ind 1st Sing
+XAI2P	Perf Act Ind 2nd Plur
+XAI2S	Perf Act Ind 2nd Sing
+XAI3P	Perf Act Ind 3rd Plur
+XAI3S	Perf Act Ind 3rd Sing
+XAN	Perf Act Infin
+XAO3S	Perf Act Opt 3rd Sing
+XAPAPF	Perf Act Part Acc Plur Fem
+XAPAPM	Perf Act Part Acc Plur Masc
+XAPAPN	Perf Act Part Acc Plur Neut
+XAPASF	Perf Act Part Acc Sing Fem
+XAPASM	Perf Act Part Acc Sing Masc
+XAPASN	Perf Act Part Acc Sing Neut
+XAPDPM	Perf Act Part Dat Plur Masc
+XAPDPN	Perf Act Part Dat Plur Neut
+XAPDSF	Perf Act Part Dat Sing Fem
+XAPDSM	Perf Act Part Dat Sing Masc
+XAPGPF	Perf Act Part Gen Plur Fem
+XAPGPM	Perf Act Part Gen Plur Masc
+XAPGPN	Perf Act Part Gen Plur Neut
+XAPGSF	Perf Act Part Gen Sing Fem
+XAPGSM	Perf Act Part Gen Sing Masc
+XAPGSN	Perf Act Part Gen Sing Neut
+XAPNPF	Perf Act Part Nom Plur Fem
+XAPNPM	Perf Act Part Nom Plur Masc
+XAPNPN	Perf Act Part Nom Plur Neut
+XAPNSF	Perf Act Part Nom Sing Fem
+XAPNSM	Perf Act Part Nom Sing Masc
+XAPNSN	Perf Act Part Nom Sing Neut
+XAPVPM	Perf Act Part Voc Plur Masc
+XAS2P	Perf Act Subj 2nd Plur
+XAS2S	Perf Act Subj 2nd Sing
+XAS3P	Perf Act Subj 3rd Plur
+XMI1S	Perf Mid Ind 1st Sing
+XMI2P	Perf Mid Ind 2nd Plur
+XMI2S	Perf Mid Ind 2nd Sing
+XMI3P	Perf Mid Ind 3rd Plur
+XMI3S	Perf Mid Ind 3rd Sing
+XMN	Perf Mid Infin
+XMPAPM	Perf Mid Part Acc Plur Masc
+XMPAPN	Perf Mid Part Acc Plur Neut
+XMPASN	Perf Mid Part Acc Sing Neut
+XMPDSM	Perf Mid Part Dat Sing Masc
+XMPGPM	Perf Mid Part Gen Plur Masc
+XMPGPN	Perf Mid Part Gen Plur Neut
+XMPGSM	Perf Mid Part Gen Sing Masc
+XMPGSN	Perf Mid Part Gen Sing Neut
+XMPNPF	Perf Mid Part Nom Plur Fem
+XMPNPM	Perf Mid Part Nom Plur Masc
+XMPNSM	Perf Mid Part Nom Sing Masc
+XPI1P	Perf Pass Ind 1st Plur
+XPI3P	Perf Pass Ind 3rd Plur
+XPI3S	Perf Pass Ind 3rd Sing
+XPN	Perf Pass Infin
+XPPAPM	Perf Pass Part Acc Plur Masc
+XPPAPN	Perf Pass Part Acc Plur Neut
+XPPASM	Perf Pass Part Acc Sing Masc
+XPPASN	Perf Pass Part Acc Sing Neut
+XPPDSF	Perf Pass Part Dat Sing Fem
+XPPGPM	Perf Pass Part Gen Plur Masc
+XPPGSF	Perf Pass Part Gen Sing Fem
+XPPGSM	Perf Pass Part Gen Sing Masc
+XPPNPM	Perf Pass Part Nom Plur Masc
+XPPNPN	Perf Pass Part Nom Plur Neut
+XPPNSM	Perf Pass Part Nom Sing Masc
+YAI3P	Pluperf Act Ind 3rd Plur
+YAI3S	Pluperf Act Ind 3rd Sing
+AAI3S	Aor Act Ind 3rd Sing
+AAN	Aor Act Infin
+API3S	Aor Pass Ind 3rd Sing
+PAPGSF	Pres Act Part Gen Sing Fem
+PMI1S	Pres Mid Ind 1st Sing
+PMPNPM	Pres Mid Part Nom Plur Masc
+XAI1P	Perf Act Ind 1st Plur
+XAI1S	Perf Act Ind 1st Sing
+XAI2P	Perf Act Ind 2nd Plur
+XAI2S	Perf Act Ind 2nd Sing
+XAI3P	Perf Act Ind 3rd Plur
+XAI3S	Perf Act Ind 3rd Sing
+XAIASF	Perf Act Ind Acc Sing Fem
+XAN	Perf Act Infin
+XAPAPM	Perf Act Part Acc Plur Masc
+XAPASF	Perf Act Part Acc Sing Fem
+XAPASM	Perf Act Part Acc Sing Masc
+XAPASN	Perf Act Part Acc Sing Neut
+XAPDPM	Perf Act Part Dat Plur Masc
+XAPDPN	Perf Act Part Dat Plur Neut
+XAPDSM	Perf Act Part Dat Sing Masc
+XAPDSN	Perf Act Part Dat Sing Neut
+XAPGPM	Perf Act Part Gen Plur Masc
+XAPGPN	Perf Act Part Gen Plur Neut
+XAPGSF	Perf Act Part Gen Sing Fem
+XAPGSM	Perf Act Part Gen Sing Masc
+XAPGSN	Perf Act Part Gen Sing Neut
+XAPNPF	Perf Act Part Nom Plur Fem
+XAPNPM	Perf Act Part Nom Plur Masc
+XAPNPN	Perf Act Part Nom Plur Neut
+XAPNSF	Perf Act Part Nom Sing Fem
+XAPNSM	Perf Act Part Nom Sing Masc
+XAPNSN	Perf Act Part Nom Sing Neut
+XMI1S	Perf Mid Ind 1st Sing
+XMI3S	Perf Mid Ind 3rd Sing
+XMPAPN	Perf Mid Part Acc Plur Neut
+XMPASF	Perf Mid Part Acc Sing Fem
+XPI3S	Perf Pass Ind 3rd Sing
+XPPAPN	Perf Pass Part Acc Plur Neut
+XPPASM	Perf Pass Part Acc Sing Masc
+XPPNPM	Perf Pass Part Nom Plur Masc
+XPPNSM	Perf Pass Part Nom Sing Masc
+XPS3S	Perf Pass Subj 3rd Sing
+YAI1P	Pluperf Act Ind 1st Plur
+YAI1S	Pluperf Act Ind 1st Sing
+YAI2P	Pluperf Act Ind 2nd Plur
+YAI2S	Pluperf Act Ind 2nd Sing
+YAI3P	Pluperf Act Ind 3rd Plur
+YAI3S	Pluperf Act Ind 3rd Sing
+YPI3S	Pluperf Pass Ind 3rd Sing
+AAD2P	Aor Act Imperative 2nd Plur
+AAD2S	Aor Act Imperative 2nd Sing
+AAD3P	Aor Act Imperative 3rd Plur
+AAD3S	Aor Act Imperative 3rd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAN	Aor Act Infin
+AAO1S	Aor Act Opt 1st Sing
+AAO3S	Aor Act Opt 3rd Sing
+AAPAPN	Aor Act Part Acc Plur Neut
+AAPASN	Aor Act Part Acc Sing Neut
+AAPDSM	Aor Act Part Dat Sing Masc
+AAPGSM	Aor Act Part Gen Sing Masc
+AAPGSN	Aor Act Part Gen Sing Neut
+AAPNPM	Aor Act Part Nom Plur Masc
+AAPNPN	Aor Act Part Nom Plur Neut
+AAPNSF	Aor Act Part Nom Sing Fem
+AAPNSM	Aor Act Part Nom Sing Masc
+AAS1P	Aor Act Subj 1st Plur
+AAS1S	Aor Act Subj 1st Sing
+AAS2P	Aor Act Subj 2nd Plur
+AAS2S	Aor Act Subj 2nd Sing
+AAS3P	Aor Act Subj 3rd Plur
+AAS3S	Aor Act Subj 3rd Sing
+AMI3S	Aor Mid Ind 3rd Sing
+AMPGSM	Aor Mid Part Gen Sing Masc
+AMS2S	Aor Mid Subj 2nd Sing
+AMS3S	Aor Mid Subj 3rd Sing
+APD2P	Aor Pass Imperative 2nd Plur
+APD2S	Aor Pass Imperative 2nd Sing
+APPNSM	Aor Pass Part Nom Sing Masc
+PAPNPM	Pres Act Part Nom Plur Masc
+PAPNSM	Pres Act Part Nom Sing Masc
+AAI1P	Aor Act Ind 1st Plur
+AAI1S	Aor Act Ind 1st Sing
+AAI2P	Aor Act Ind 2nd Plur
+AAI2S	Aor Act Ind 2nd Sing
+AAI3P	Aor Act Ind 3rd Plur
+AAI3S	Aor Act Ind 3rd Sing
+API3P	Aor Pass Ind 3rd Plur
+API3S	Aor Pass Ind 3rd Sing

@@ -1,0 +1,602 @@
+A	Case: accusative
+AAD2P	Tense: aorist｜Voice: active｜Person: second｜Number: plural
+AAD2S	Tense: aorist｜Voice: active｜Person: second｜Number: singular
+AAD3P	Tense: aorist｜Voice: active｜Person: third｜Number: plural
+AAD3S	Tense: aorist｜Voice: active｜Person: third｜Number: singular
+AAI1P	Tense: aorist｜Voice: active｜Person: first｜Number: plural
+AAI1S	Tense: aorist｜Voice: active｜Person: first｜Number: singular
+AAI2P	Tense: aorist｜Voice: active｜Person: second｜Number: plural
+AAI2S	Tense: aorist｜Voice: active｜Person: second｜Number: singular
+AAI3P	Tense: aorist｜Voice: active｜Person: third｜Number: plural
+AAI3S	Tense: aorist｜Voice: active｜Person: third｜Number: singular
+AAN	Tense: aorist｜Voice: active
+AAO1P	Tense: aorist｜Voice: active｜Person: first｜Number: plural
+AAO1S	Tense: aorist｜Voice: active｜Person: first｜Number: singular
+AAO2P	Tense: aorist｜Voice: active｜Person: second｜Number: plural
+AAO2S	Tense: aorist｜Voice: active｜Person: second｜Number: singular
+AAO3P	Tense: aorist｜Voice: active｜Person: third｜Number: plural
+AAO3S	Tense: aorist｜Voice: active｜Person: third｜Number: singular
+AAPAP	Tense: aorist｜Voice: active｜Participle Case: accusative｜Number: plural
+AAPAPF	Tense: aorist｜Voice: active｜Participle Case: accusative｜Number: plural｜Participle Gender: feminine
+AAPAPM	Tense: aorist｜Voice: active｜Participle Case: accusative｜Number: plural｜Participle Gender: masculine
+AAPAPN	Tense: aorist｜Voice: active｜Participle Case: accusative｜Number: plural｜Participle Gender: neuter
+AAPAS	Tense: aorist｜Voice: active｜Participle Case: accusative｜Participle Number: singular
+AAPASF	Tense: aorist｜Voice: active｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: feminine
+AAPASM	Tense: aorist｜Voice: active｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: masculine
+AAPASN	Tense: aorist｜Voice: active｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: neuter
+AAPDP	Tense: aorist｜Voice: active｜Participle Case: dative｜Number: plural
+AAPDPF	Tense: aorist｜Voice: active｜Participle Case: dative｜Number: plural｜Participle Gender: feminine
+AAPDPM	Tense: aorist｜Voice: active｜Participle Case: dative｜Number: plural｜Participle Gender: masculine
+AAPDS	Tense: aorist｜Voice: active｜Participle Case: dative｜Participle Number: singular
+AAPDSF	Tense: aorist｜Voice: active｜Participle Case: dative｜Participle Number: singular｜Participle Gender: feminine
+AAPDSM	Tense: aorist｜Voice: active｜Participle Case: dative｜Participle Number: singular｜Participle Gender: masculine
+AAPGP	Tense: aorist｜Voice: active｜Participle Case: genitive｜Number: plural
+AAPGPM	Tense: aorist｜Voice: active｜Participle Case: genitive｜Number: plural｜Participle Gender: masculine
+AAPGS	Tense: aorist｜Voice: active｜Participle Case: genitive｜Participle Number: singular
+AAPGSF	Tense: aorist｜Voice: active｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: feminine
+AAPGSM	Tense: aorist｜Voice: active｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: masculine
+AAPGSN	Tense: aorist｜Voice: active｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: neuter
+AAPNP	Tense: aorist｜Voice: active｜Participle Case: nominative｜Number: plural
+AAPNPF	Tense: aorist｜Voice: active｜Participle Case: nominative｜Number: plural｜Participle Gender: feminine
+AAPNPM	Tense: aorist｜Voice: active｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+AAPNPN	Tense: aorist｜Voice: active｜Participle Case: nominative｜Number: plural｜Participle Gender: neuter
+AAPNS	Tense: aorist｜Voice: active｜Participle Case: nominative｜Participle Number: singular
+AAPNSF	Tense: aorist｜Voice: active｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: feminine
+AAPNSM	Tense: aorist｜Voice: active｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+AAPNSN	Tense: aorist｜Voice: active｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: neuter
+AAS	Tense: aorist｜Voice: active
+AAS1P	Tense: aorist｜Voice: active｜Person: first｜Number: plural
+AAS1S	Tense: aorist｜Voice: active｜Person: first｜Number: singular
+AAS2P	Tense: aorist｜Voice: active｜Person: second｜Number: plural
+AAS2S	Tense: aorist｜Voice: active｜Person: second｜Number: singular
+AAS3P	Tense: aorist｜Voice: active｜Person: third｜Number: plural
+AAS3S	Tense: aorist｜Voice: active｜Person: third｜Number: singular
+ADF	Case: accusative｜Number: dual｜Gender: feminine
+ADI2P	Tense: aorist｜Person: second｜Number: plural
+ADM	Case: accusative｜Number: dual｜Gender: masculine
+ADN	Case: accusative｜Number: dual｜Gender: neuter
+AMD2P	Tense: aorist｜Voice: middle｜Person: second｜Number: plural
+AMD2S	Tense: aorist｜Voice: middle｜Person: second｜Number: singular
+AMD3P	Tense: aorist｜Voice: middle｜Person: third｜Number: plural
+AMD3S	Tense: aorist｜Voice: middle｜Person: third｜Number: singular
+AMI1P	Tense: aorist｜Voice: middle｜Person: first｜Number: plural
+AMI1S	Tense: aorist｜Voice: middle｜Person: first｜Number: singular
+AMI2P	Tense: aorist｜Voice: middle｜Person: second｜Number: plural
+AMI2S	Tense: aorist｜Voice: middle｜Person: second｜Number: singular
+AMI3P	Tense: aorist｜Voice: middle｜Person: third｜Number: plural
+AMI3S	Tense: aorist｜Voice: middle｜Person: third｜Number: singular
+AMN	Tense: aorist｜Voice: middle
+AMO1S	Tense: aorist｜Voice: middle｜Person: first｜Number: singular
+AMO3P	Tense: aorist｜Voice: middle｜Person: third｜Number: plural
+AMO3S	Tense: aorist｜Voice: middle｜Person: third｜Number: singular
+AMP	Tense: aorist｜Voice: middle
+AMPAP	Tense: aorist｜Voice: middle｜Participle Case: accusative｜Number: plural
+AMPAPM	Tense: aorist｜Voice: middle｜Participle Case: accusative｜Number: plural｜Participle Gender: masculine
+AMPAPN	Tense: aorist｜Voice: middle｜Participle Case: accusative｜Number: plural｜Participle Gender: neuter
+AMPAS	Tense: aorist｜Voice: middle｜Participle Case: accusative｜Participle Number: singular
+AMPASF	Tense: aorist｜Voice: middle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: feminine
+AMPASM	Tense: aorist｜Voice: middle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: masculine
+AMPASN	Tense: aorist｜Voice: middle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: neuter
+AMPDP	Tense: aorist｜Voice: middle｜Participle Case: dative｜Number: plural
+AMPDPM	Tense: aorist｜Voice: middle｜Participle Case: dative｜Number: plural｜Participle Gender: masculine
+AMPDPN	Tense: aorist｜Voice: middle｜Participle Case: dative｜Number: plural｜Participle Gender: neuter
+AMPDS	Tense: aorist｜Voice: middle｜Participle Case: dative｜Participle Number: singular
+AMPGP	Tense: aorist｜Voice: middle｜Participle Case: genitive｜Number: plural
+AMPGPF	Tense: aorist｜Voice: middle｜Participle Case: genitive｜Number: plural｜Participle Gender: feminine
+AMPGPM	Tense: aorist｜Voice: middle｜Participle Case: genitive｜Number: plural｜Participle Gender: masculine
+AMPGPN	Tense: aorist｜Voice: middle｜Participle Case: genitive｜Number: plural｜Participle Gender: neuter
+AMPGS	Tense: aorist｜Voice: middle｜Participle Case: genitive｜Participle Number: singular
+AMPGSF	Tense: aorist｜Voice: middle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: feminine
+AMPGSM	Tense: aorist｜Voice: middle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: masculine
+AMPGSN	Tense: aorist｜Voice: middle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: neuter
+AMPNP	Tense: aorist｜Voice: middle｜Participle Case: nominative｜Number: plural
+AMPNPF	Tense: aorist｜Voice: middle｜Participle Case: nominative｜Number: plural｜Participle Gender: feminine
+AMPNPM	Tense: aorist｜Voice: middle｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+AMPNS	Tense: aorist｜Voice: middle｜Participle Case: nominative｜Participle Number: singular
+AMPNSF	Tense: aorist｜Voice: middle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: feminine
+AMPNSM	Tense: aorist｜Voice: middle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+AMPNSN	Tense: aorist｜Voice: middle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: neuter
+AMS1P	Tense: aorist｜Voice: middle｜Person: first｜Number: plural
+AMS1S	Tense: aorist｜Voice: middle｜Person: first｜Number: singular
+AMS2P	Tense: aorist｜Voice: middle｜Person: second｜Number: plural
+AMS2S	Tense: aorist｜Voice: middle｜Person: second｜Number: singular
+AMS3P	Tense: aorist｜Voice: middle｜Person: third｜Number: plural
+AMS3S	Tense: aorist｜Voice: middle｜Person: third｜Number: singular
+AP	Case: accusative｜Number: plural
+APD2P	Tense: aorist｜Voice: passive｜Person: second｜Number: plural
+APD2S	Tense: aorist｜Voice: passive｜Person: second｜Number: singular
+APD3P	Tense: aorist｜Voice: passive｜Person: third｜Number: plural
+APD3S	Tense: aorist｜Voice: passive｜Person: third｜Number: singular
+APF	Case: accusative｜Number: plural｜Gender: feminine
+APFC	Case: accusative｜Number: plural｜Gender: feminine｜Degree: comparative
+APFS	Case: accusative｜Number: plural｜Gender: feminine｜Degree: superlative
+API1P	Tense: aorist｜Voice: passive｜Person: first｜Number: plural
+API1S	Tense: aorist｜Voice: passive｜Person: first｜Number: singular
+API2P	Tense: aorist｜Voice: passive｜Person: second｜Number: plural
+API2S	Tense: aorist｜Voice: passive｜Person: second｜Number: singular
+API3P	Tense: aorist｜Voice: passive｜Person: third｜Number: plural
+API3S	Tense: aorist｜Voice: passive｜Person: third｜Number: singular
+APM	Case: accusative｜Number: plural｜Gender: masculine
+APMC	Case: accusative｜Number: plural｜Gender: masculine
+APMC	Case: accusative｜Number: plural｜Gender: masculine｜Degree: comparative
+APMS	Case: accusative｜Number: plural｜Gender: masculine｜Degree: superlative
+APN	Case: accusative｜Number: plural｜Gender: neuter
+APN	Tense: aorist｜Voice: passive
+APNC	Case: accusative｜Number: plural｜Gender: neuter｜Degree: comparative
+APNS	Case: accusative｜Number: plural｜Gender: neuter｜Degree: superlative
+APO1S	Tense: aorist｜Voice: passive｜Person: first｜Number: singular
+APO2P	Tense: aorist｜Voice: passive｜Person: second｜Number: plural
+APO3P	Tense: aorist｜Voice: passive｜Person: third｜Number: plural
+APO3S	Tense: aorist｜Voice: passive｜Person: third｜Number: singular
+APP2S	Tense: aorist｜Voice: passive｜Person: second｜Number: singular
+APPAP	Tense: aorist｜Voice: passive｜Participle Case: accusative｜Number: plural
+APPAPM	Tense: aorist｜Voice: passive｜Participle Case: accusative｜Number: plural｜Participle Gender: masculine
+APPAPN	Tense: aorist｜Voice: passive｜Participle Case: accusative｜Number: plural｜Participle Gender: neuter
+APPAS	Tense: aorist｜Voice: passive｜Participle Case: accusative｜Participle Number: singular
+APPASF	Tense: aorist｜Voice: passive｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: feminine
+APPASM	Tense: aorist｜Voice: passive｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: masculine
+APPASN	Tense: aorist｜Voice: passive｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: neuter
+APPDP	Tense: aorist｜Voice: passive｜Participle Case: dative｜Number: plural
+APPDPN	Tense: aorist｜Voice: passive｜Participle Case: dative｜Number: plural｜Participle Gender: neuter
+APPDS	Tense: aorist｜Voice: passive｜Participle Case: dative｜Participle Number: singular
+APPDSF	Tense: aorist｜Voice: passive｜Participle Case: dative｜Participle Number: singular｜Participle Gender: feminine
+APPDSM	Tense: aorist｜Voice: passive｜Participle Case: dative｜Participle Number: singular｜Participle Gender: masculine
+APPDSN	Tense: aorist｜Voice: passive｜Participle Case: dative｜Participle Number: singular｜Participle Gender: neuter
+APPGP	Tense: aorist｜Voice: passive｜Participle Case: genitive｜Number: plural
+APPGPF	Tense: aorist｜Voice: passive｜Participle Case: genitive｜Number: plural｜Participle Gender: feminine
+APPGPM	Tense: aorist｜Voice: passive｜Participle Case: genitive｜Number: plural｜Participle Gender: masculine
+APPGPN	Tense: aorist｜Voice: passive｜Participle Case: genitive｜Number: plural｜Participle Gender: neuter
+APPGS	Tense: aorist｜Voice: passive｜Participle Case: genitive｜Participle Number: singular
+APPGSF	Tense: aorist｜Voice: passive｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: feminine
+APPGSM	Tense: aorist｜Voice: passive｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: masculine
+APPGSN	Tense: aorist｜Voice: passive｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: neuter
+APPNP	Tense: aorist｜Voice: passive｜Participle Case: nominative｜Number: plural
+APPNPF	Tense: aorist｜Voice: passive｜Participle Case: nominative｜Number: plural｜Participle Gender: feminine
+APPNPM	Tense: aorist｜Voice: passive｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+APPNPN	Tense: aorist｜Voice: passive｜Participle Case: nominative｜Number: plural｜Participle Gender: neuter
+APPNS	Tense: aorist｜Voice: passive｜Participle Case: nominative｜Participle Number: singular
+APPNSF	Tense: aorist｜Voice: passive｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: feminine
+APPNSM	Tense: aorist｜Voice: passive｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+APPNSN	Tense: aorist｜Voice: passive｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: neuter
+APS1P	Tense: aorist｜Voice: passive｜Person: first｜Number: plural
+APS1S	Tense: aorist｜Voice: passive｜Person: first｜Number: singular
+APS2P	Tense: aorist｜Voice: passive｜Person: second｜Number: plural
+APS2S	Tense: aorist｜Voice: passive｜Person: second｜Number: singular
+APS3P	Tense: aorist｜Voice: passive｜Person: third｜Number: plural
+APS3S	Tense: aorist｜Voice: passive｜Person: third｜Number: singular
+AS	Case: accusative｜Number: singular
+ASF	Case: accusative｜Number: singular｜Gender: feminine
+ASFC	Case: accusative｜Number: singular｜Gender: feminine｜Degree: comparative
+ASFS	Case: accusative｜Number: singular｜Gender: feminine｜Degree: superlative
+ASM	Case: accusative｜Number: singular｜Gender: masculine
+ASMC	Case: accusative｜Number: singular｜Gender: masculine｜Degree: comparative
+ASMS	Case: accusative｜Number: singular｜Gender: masculine｜Degree: superlative
+ASN	Case: accusative｜Number: singular｜Gender: neuter
+ASNC	Case: accusative｜Number: singular｜Gender: neuter｜Degree: comparative
+ASNS	Case: accusative｜Number: singular｜Gender: neuter｜Degree: superlative
+D	Case: dative
+DP	Case: dative｜Number: plural
+DPF	Case: dative｜Number: plural｜Gender: feminine
+DPFC	Case: dative｜Number: plural｜Gender: feminine｜Degree: comparative
+DPFS	Case: dative｜Number: plural｜Gender: feminine｜Degree: superlative
+DPM	Case: dative｜Number: plural｜Gender: masculine
+DPMC	Case: dative｜Number: plural｜Gender: masculine｜Degree: comparative
+DPMS	Case: dative｜Number: plural｜Gender: masculine｜Degree: superlative
+DPN	Case: dative｜Number: plural｜Gender: neuter
+DPNS	Case: dative｜Number: plural｜Gender: neuter｜Degree: superlative
+DS	Case: dative｜Number: singular
+DSF	Case: dative｜Number: singular｜Gender: feminine
+DSFC	Case: dative｜Number: singular｜Gender: feminine｜Degree: comparative
+DSFS	Case: dative｜Number: singular｜Gender: feminine｜Degree: superlative
+DSM	Case: dative｜Number: singular｜Gender: masculine
+DSMC	Case: dative｜Number: singular｜Gender: masculine｜Degree: comparative
+DSMS	Case: dative｜Number: singular｜Gender: masculine｜Degree: superlative
+DSN	Case: dative｜Number: singular｜Gender: neuter
+DSNC	Case: dative｜Number: singular｜Gender: neuter｜Degree: comparative
+DSNS	Case: dative｜Number: singular｜Gender: neuter｜Degree: superlative
+FAD2S	Tense: future｜Voice: active｜Person: second｜Number: singular
+FAI1P	Tense: future｜Voice: active｜Person: first｜Number: plural
+FAI1S	Tense: future｜Voice: active｜Person: first｜Number: singular
+FAI2P	Tense: future｜Voice: active｜Person: second｜Number: plural
+FAI2S	Tense: future｜Voice: active｜Person: second｜Number: singular
+FAI3P	Tense: future｜Voice: active｜Person: third｜Number: plural
+FAI3S	Tense: future｜Voice: active｜Person: third｜Number: singular
+FAIIS	Tense: future｜Voice: active｜Number: singular
+FAN	Tense: future｜Voice: active
+FAO3S	Tense: future｜Voice: active｜Person: third｜Number: singular
+FAPAPN	Tense: future｜Voice: active｜Participle Case: accusative｜Number: plural｜Participle Gender: neuter
+FAPAS	Tense: future｜Voice: active｜Participle Case: accusative｜Participle Number: singular
+FAPNPM	Tense: future｜Voice: active｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+FAPNS	Tense: future｜Voice: active｜Participle Case: nominative｜Participle Number: singular
+FAPNSM	Tense: future｜Voice: active｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+FM12S	Tense: future｜Voice: middle｜Person: second｜Number: singular
+FMI1P	Tense: future｜Voice: middle｜Person: first｜Number: plural
+FMI1S	Tense: future｜Voice: middle｜Person: first｜Number: singular
+FMI2P	Tense: future｜Voice: middle｜Person: second｜Number: plural
+FMI2S	Tense: future｜Voice: middle｜Person: second｜Number: singular
+FMI3P	Tense: future｜Voice: middle｜Person: third｜Number: plural
+FMI3S	Tense: future｜Voice: middle｜Person: third｜Number: singular
+FMN	Tense: future｜Voice: middle
+FMO3S	Tense: future｜Voice: middle｜Person: third｜Number: singular
+FMPAP	Tense: future｜Voice: middle｜Participle Case: accusative｜Number: plural
+FMPAS	Tense: future｜Voice: middle｜Participle Case: accusative｜Participle Number: singular
+FMPASN	Tense: future｜Voice: middle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: neuter
+FMPGP	Tense: future｜Voice: middle｜Participle Case: genitive｜Number: plural
+FMPGS	Tense: future｜Voice: middle｜Participle Case: genitive｜Participle Number: singular
+FMPNS	Tense: future｜Voice: middle｜Participle Case: nominative｜Participle Number: singular
+FMS2S	Tense: future｜Voice: middle｜Person: second｜Number: singular
+FPI1P	Tense: future｜Voice: passive｜Person: first｜Number: plural
+FPI1S	Tense: future｜Voice: passive｜Person: first｜Number: singular
+FPI2P	Tense: future｜Voice: passive｜Person: second｜Number: plural
+FPI2S	Tense: future｜Voice: passive｜Person: second｜Number: singular
+FPI3P	Tense: future｜Voice: passive｜Person: third｜Number: plural
+FPI3S	Tense: future｜Voice: passive｜Person: third｜Number: singular
+FPN	Tense: future｜Voice: passive
+FPPDS	Tense: future｜Voice: passive｜Participle Case: dative｜Participle Number: singular
+FPPGPN	Tense: future｜Voice: passive｜Participle Case: genitive｜Number: plural｜Participle Gender: neuter
+FPPNP	Tense: future｜Voice: passive｜Participle Case: nominative｜Number: plural
+FPPNS	Tense: future｜Voice: passive｜Participle Case: nominative｜Participle Number: singular
+FPS2S	Tense: future｜Voice: passive｜Person: second｜Number: singular
+G	Case: genitive
+GDF	Case: genitive｜Number: dual｜Gender: feminine
+GDM	Case: genitive｜Number: dual｜Gender: masculine
+GP	Case: genitive｜Number: plural
+GPF	Case: genitive｜Number: plural｜Gender: feminine
+GPFS	Case: genitive｜Number: plural｜Gender: feminine｜Degree: superlative
+GPM	Case: genitive｜Number: plural｜Gender: masculine
+GPMC	Case: genitive｜Number: plural｜Gender: masculine｜Degree: comparative
+GPMS	Case: genitive｜Number: plural｜Gender: masculine｜Degree: superlative
+GPN	Case: genitive｜Number: plural｜Gender: neuter
+GPNC	Case: genitive｜Number: plural｜Gender: neuter｜Degree: comparative
+GPNS	Case: genitive｜Number: plural｜Gender: neuter｜Degree: superlative
+GS	Case: genitive｜Number: singular
+GSF	Case: genitive｜Number: singular｜Gender: feminine
+GSFC	Case: genitive｜Number: singular｜Gender: feminine｜Degree: comparative
+GSFS	Case: genitive｜Number: singular｜Gender: feminine｜Degree: superlative
+GSM	Case: genitive｜Number: singular｜Gender: masculine
+GSMC	Case: genitive｜Number: singular｜Gender: masculine｜Degree: comparative
+GSMS	Case: genitive｜Number: singular｜Gender: masculine｜Degree: superlative
+GSN	Case: genitive｜Number: singular｜Gender: neuter
+GSNC	Case: genitive｜Number: singular｜Gender: neuter｜Degree: comparative
+GSNS	Case: genitive｜Number: singular｜Gender: neuter｜Degree: superlative
+IAI1P	Tense: imperfect｜Voice: active｜Mood: indicative｜Person: first｜Number: plural
+IAI1S	Tense: imperfect｜Voice: active｜Mood: indicative｜Person: first｜Number: singular
+IAI2P	Tense: imperfect｜Voice: active｜Mood: indicative｜Person: second｜Number: plural
+IAI2S	Tense: imperfect｜Voice: active｜Mood: indicative｜Person: second｜Number: singular
+IAI3P	Tense: imperfect｜Voice: active｜Mood: indicative｜Person: third｜Number: plural
+IAI3S	Tense: imperfect｜Voice: active｜Mood: indicative｜Person: third｜Number: singular
+IAS2P	Tense: imperfect｜Voice: active｜Mood: indicative｜Person: second｜Number: plural
+IAS2S	Tense: imperfect｜Voice: active｜Mood: indicative｜Person: second｜Number: singular
+IMI1P	Tense: imperfect｜Voice: middle｜Mood: indicative｜Person: first｜Number: plural
+IMI1S	Tense: imperfect｜Voice: middle｜Mood: indicative｜Person: first｜Number: singular
+IMI2P	Tense: imperfect｜Voice: middle｜Mood: indicative｜Person: second｜Number: plural
+IMI2S	Tense: imperfect｜Voice: middle｜Mood: indicative｜Person: second｜Number: singular
+IMI3P	Tense: imperfect｜Voice: middle｜Mood: indicative｜Person: third｜Number: plural
+IMI3S	Tense: imperfect｜Voice: middle｜Mood: indicative｜Person: third｜Number: singular
+IPI1P	Tense: imperfect｜Voice: passive｜Mood: indicative｜Person: first｜Number: plural
+IPI1S	Tense: imperfect｜Voice: passive｜Mood: indicative｜Person: first｜Number: singular
+IPI2P	Tense: imperfect｜Voice: passive｜Mood: indicative｜Person: second｜Number: plural
+IPI3P	Tense: imperfect｜Voice: passive｜Mood: indicative｜Person: third｜Number: plural
+IPI3S	Tense: imperfect｜Voice: passive｜Mood: indicative｜Person: third｜Number: singular
+N	Case: nominative
+NDF	Case: nominative｜Number: dual｜Gender: feminine
+NDM	Case: nominative｜Number: dual｜Gender: masculine
+NDN	Case: nominative｜Number: dual｜Gender: neuter
+NMS	Case: nominative
+NP	Case: nominative｜Number: plural
+NPF	Case: nominative｜Number: plural｜Gender: feminine
+NPFC	Case: nominative｜Number: plural｜Gender: feminine｜Degree: comparative
+NPFS	Case: nominative｜Number: plural｜Gender: feminine｜Degree: superlative
+NPM	Case: nominative｜Number: plural｜Gender: masculine
+NPMC	Case: nominative｜Number: plural｜Gender: masculine｜Degree: comparative
+NPMS	Case: nominative｜Number: plural｜Gender: masculine｜Degree: superlative
+NPN	Case: nominative｜Number: plural｜Gender: neuter
+NPNC	Case: nominative｜Number: plural｜Gender: neuter｜Degree: comparative
+NPNS	Case: nominative｜Number: plural｜Gender: neuter｜Degree: superlative
+NS	Case: nominative｜Number: singular
+NSF	Case: nominative｜Number: singular｜Gender: feminine
+NSFC	Case: nominative｜Number: singular｜Gender: feminine｜Degree: comparative
+NSFS	Case: nominative｜Number: singular｜Gender: feminine｜Degree: superlative
+NSM	Case: nominative｜Number: singular｜Gender: masculine
+NSMC	Case: nominative｜Number: singular｜Gender: masculine｜Degree: comparative
+NSMS	Case: nominative｜Number: singular｜Gender: masculine｜Degree: superlative
+NSN	Case: nominative｜Number: singular｜Gender: neuter
+NSNC	Case: nominative｜Number: singular｜Gender: neuter｜Degree: comparative
+NSNS	Case: nominative｜Number: singular｜Gender: neuter｜Degree: superlative
+PAD2P	Tense: present｜Voice: active｜Mood: participle｜Person: second｜Number: plural
+PAD2S	Tense: present｜Voice: active｜Mood: participle｜Person: second｜Number: singular
+PAD3P	Tense: present｜Voice: active｜Mood: participle｜Person: third｜Number: plural
+PAD3S	Tense: present｜Voice: active｜Mood: participle｜Person: third｜Number: singular
+PAI1P	Tense: present｜Voice: active｜Mood: participle｜Person: first｜Number: plural
+PAI1S	Tense: present｜Voice: active｜Mood: participle｜Person: first｜Number: singular
+PAI2P	Tense: present｜Voice: active｜Mood: participle｜Person: second｜Number: plural
+PAI2S	Tense: present｜Voice: active｜Mood: participle｜Person: second｜Number: singular
+PAI3P	Tense: present｜Voice: active｜Mood: participle｜Person: third｜Number: plural
+PAI3S	Tense: present｜Voice: active｜Mood: participle｜Person: third｜Number: singular
+PAN	Tense: present｜Voice: active｜Mood: participle
+PAO2P	Tense: present｜Voice: active｜Mood: participle｜Person: second｜Number: plural
+PAO3P	Tense: present｜Voice: active｜Mood: participle｜Person: third｜Number: plural
+PAO3S	Tense: present｜Voice: active｜Mood: participle｜Person: third｜Number: singular
+PAPAP	Tense: present｜Voice: active｜Mood: participle｜Participle Case: accusative｜Number: plural
+PAPAPF	Tense: present｜Voice: active｜Mood: participle｜Participle Case: accusative｜Number: plural｜Participle Gender: feminine
+PAPAPM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: accusative｜Number: plural｜Participle Gender: masculine
+PAPAPN	Tense: present｜Voice: active｜Mood: participle｜Participle Case: accusative｜Number: plural｜Participle Gender: neuter
+PAPAS	Tense: present｜Voice: active｜Mood: participle｜Participle Case: accusative｜Participle Number: singular
+PAPASF	Tense: present｜Voice: active｜Mood: participle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: feminine
+PAPASM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: masculine
+PAPASN	Tense: present｜Voice: active｜Mood: participle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: neuter
+PAPDP	Tense: present｜Voice: active｜Mood: participle｜Participle Case: dative｜Number: plural
+PAPDPF	Tense: present｜Voice: active｜Mood: participle｜Participle Case: dative｜Number: plural｜Participle Gender: feminine
+PAPDPM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: dative｜Number: plural｜Participle Gender: masculine
+PAPDPN	Tense: present｜Voice: active｜Mood: participle｜Participle Case: dative｜Number: plural｜Participle Gender: neuter
+PAPDS	Tense: present｜Voice: active｜Mood: participle｜Participle Case: dative｜Participle Number: singular
+PAPDSF	Tense: present｜Voice: active｜Mood: participle｜Participle Case: dative｜Participle Number: singular｜Participle Gender: feminine
+PAPDSM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: dative｜Participle Number: singular｜Participle Gender: masculine
+PAPDSN	Tense: present｜Voice: active｜Mood: participle｜Participle Case: dative｜Participle Number: singular｜Participle Gender: neuter
+PAPGP	Tense: present｜Voice: active｜Mood: participle｜Participle Case: genitive｜Number: plural
+PAPGPF	Tense: present｜Voice: active｜Mood: participle｜Participle Case: genitive｜Number: plural｜Participle Gender: feminine
+PAPGPM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: genitive｜Number: plural｜Participle Gender: masculine
+PAPGPN	Tense: present｜Voice: active｜Mood: participle｜Participle Case: genitive｜Number: plural｜Participle Gender: neuter
+PAPGS	Tense: present｜Voice: active｜Mood: participle｜Participle Case: genitive｜Participle Number: singular
+PAPGSF	Tense: present｜Voice: active｜Mood: participle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: feminine
+PAPGSM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: masculine
+PAPGSN	Tense: present｜Voice: active｜Mood: participle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: neuter
+PAPNP	Tense: present｜Voice: active｜Mood: participle｜Participle Case: nominative｜Number: plural
+PAPNPF	Tense: present｜Voice: active｜Mood: participle｜Participle Case: nominative｜Number: plural｜Participle Gender: feminine
+PAPNPM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+PAPNPN	Tense: present｜Voice: active｜Mood: participle｜Participle Case: nominative｜Number: plural｜Participle Gender: neuter
+PAPNS	Tense: present｜Voice: active｜Mood: participle｜Participle Case: nominative｜Participle Number: singular
+PAPNSF	Tense: present｜Voice: active｜Mood: participle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: feminine
+PAPNSM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+PAPNSN	Tense: present｜Voice: active｜Mood: participle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: neuter
+PAPVPM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: vocative｜Number: plural｜Participle Gender: masculine
+PAPVS	Tense: present｜Voice: active｜Mood: participle｜Participle Case: vocative｜Participle Number: singular
+PAPVSF	Tense: present｜Voice: active｜Mood: participle｜Participle Case: vocative｜Participle Number: singular｜Participle Gender: feminine
+PAPVSM	Tense: present｜Voice: active｜Mood: participle｜Participle Case: vocative｜Participle Number: singular｜Participle Gender: masculine
+PAS1P	Tense: present｜Voice: active｜Mood: participle｜Person: first｜Number: plural
+PAS1S	Tense: present｜Voice: active｜Mood: participle｜Person: first｜Number: singular
+PAS2P	Tense: present｜Voice: active｜Mood: participle｜Person: second｜Number: plural
+PAS2S	Tense: present｜Voice: active｜Mood: participle｜Person: second｜Number: singular
+PAS3P	Tense: present｜Voice: active｜Mood: participle｜Person: third｜Number: plural
+PAS3S	Tense: present｜Voice: active｜Mood: participle｜Person: third｜Number: singular
+PMD2P	Tense: present｜Voice: middle｜Mood: participle｜Person: second｜Number: plural
+PMD2S	Tense: present｜Voice: middle｜Mood: participle｜Person: second｜Number: singular
+PMD3P	Tense: present｜Voice: middle｜Mood: participle｜Person: third｜Number: plural
+PMD3S	Tense: present｜Voice: middle｜Mood: participle｜Person: third｜Number: singular
+PMI1P	Tense: present｜Voice: middle｜Mood: participle｜Person: first｜Number: plural
+PMI1S	Tense: present｜Voice: middle｜Mood: participle｜Person: first｜Number: singular
+PMI2P	Tense: present｜Voice: middle｜Mood: participle｜Person: second｜Number: plural
+PMI2S	Tense: present｜Voice: middle｜Mood: participle｜Person: second｜Number: singular
+PMI3P	Tense: present｜Voice: middle｜Mood: participle｜Person: third｜Number: plural
+PMI3S	Tense: present｜Voice: middle｜Mood: participle｜Person: third｜Number: singular
+PMN	Tense: present｜Voice: middle｜Mood: participle
+PMO1S	Tense: present｜Voice: middle｜Mood: participle｜Person: first｜Number: singular
+PMO3P	Tense: present｜Voice: middle｜Mood: participle｜Person: third｜Number: plural
+PMO3S	Tense: present｜Voice: middle｜Mood: participle｜Person: third｜Number: singular
+PMP3P	Tense: present｜Voice: middle｜Mood: participle｜Person: third｜Number: plural
+PMPAP	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: accusative｜Number: plural
+PMPAPF	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: accusative｜Number: plural｜Participle Gender: feminine
+PMPAPM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: accusative｜Number: plural｜Participle Gender: masculine
+PMPAPN	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: accusative｜Number: plural｜Participle Gender: neuter
+PMPAS	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: accusative｜Participle Number: singular
+PMPASF	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: feminine
+PMPASM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: masculine
+PMPASN	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: neuter
+PMPDP	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: dative｜Number: plural
+PMPDPF	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: dative｜Number: plural｜Participle Gender: feminine
+PMPDPM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: dative｜Number: plural｜Participle Gender: masculine
+PMPDPN	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: dative｜Number: plural｜Participle Gender: neuter
+PMPDS	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: dative｜Participle Number: singular
+PMPDSF	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: dative｜Participle Number: singular｜Participle Gender: feminine
+PMPDSM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: dative｜Participle Number: singular｜Participle Gender: masculine
+PMPDSN	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: dative｜Participle Number: singular｜Participle Gender: neuter
+PMPGP	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: genitive｜Number: plural
+PMPGPF	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: genitive｜Number: plural｜Participle Gender: feminine
+PMPGPM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: genitive｜Number: plural｜Participle Gender: masculine
+PMPGPN	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: genitive｜Number: plural｜Participle Gender: neuter
+PMPGS	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: genitive｜Participle Number: singular
+PMPGSF	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: feminine
+PMPGSM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: masculine
+PMPGSN	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: neuter
+PMPNP	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: nominative｜Number: plural
+PMPNPF	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: nominative｜Number: plural｜Participle Gender: feminine
+PMPNPM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+PMPNPN	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: nominative｜Number: plural｜Participle Gender: neuter
+PMPNS	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: nominative｜Participle Number: singular
+PMPNSF	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: feminine
+PMPNSM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+PMPNSN	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: neuter
+PMPVP	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: vocative｜Number: plural
+PMPVPM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: vocative｜Number: plural｜Participle Gender: masculine
+PMPVSM	Tense: present｜Voice: middle｜Mood: participle｜Participle Case: vocative｜Participle Number: singular｜Participle Gender: masculine
+PMS1P	Tense: present｜Voice: middle｜Mood: participle｜Person: first｜Number: plural
+PMS1S	Tense: present｜Voice: middle｜Mood: participle｜Person: first｜Number: singular
+PMS2P	Tense: present｜Voice: middle｜Mood: participle｜Person: second｜Number: plural
+PMS2S	Tense: present｜Voice: middle｜Mood: participle｜Person: second｜Number: singular
+PMS3P	Tense: present｜Voice: middle｜Mood: participle｜Person: third｜Number: plural
+PMS3S	Tense: present｜Voice: middle｜Mood: participle｜Person: third｜Number: singular
+PPD2P	Tense: present｜Voice: passive｜Mood: participle｜Person: second｜Number: plural
+PPD2S	Tense: present｜Voice: passive｜Mood: participle｜Person: second｜Number: singular
+PPD3P	Tense: present｜Voice: passive｜Mood: participle｜Person: third｜Number: plural
+PPD3S	Tense: present｜Voice: passive｜Mood: participle｜Person: third｜Number: singular
+PPI1P	Tense: present｜Voice: passive｜Mood: participle｜Person: first｜Number: plural
+PPI1S	Tense: present｜Voice: passive｜Mood: participle｜Person: first｜Number: singular
+PPI2P	Tense: present｜Voice: passive｜Mood: participle｜Person: second｜Number: plural
+PPI2S	Tense: present｜Voice: passive｜Mood: participle｜Person: second｜Number: singular
+PPI3P	Tense: present｜Voice: passive｜Mood: participle｜Person: third｜Number: plural
+PPI3S	Tense: present｜Voice: passive｜Mood: participle｜Person: third｜Number: singular
+PPN	Tense: present｜Voice: passive｜Mood: participle
+PPPAP	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: accusative｜Number: plural
+PPPAPF	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: accusative｜Number: plural｜Participle Gender: feminine
+PPPAPM	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: accusative｜Number: plural｜Participle Gender: masculine
+PPPAPN	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: accusative｜Number: plural｜Participle Gender: neuter
+PPPAS	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: accusative｜Participle Number: singular
+PPPASF	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: feminine
+PPPASM	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: masculine
+PPPASN	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: neuter
+PPPDP	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: dative｜Number: plural
+PPPDPM	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: dative｜Number: plural｜Participle Gender: masculine
+PPPDPN	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: dative｜Number: plural｜Participle Gender: neuter
+PPPDS	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: dative｜Participle Number: singular
+PPPDSF	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: dative｜Participle Number: singular｜Participle Gender: feminine
+PPPDSM	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: dative｜Participle Number: singular｜Participle Gender: masculine
+PPPDSN	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: dative｜Participle Number: singular｜Participle Gender: neuter
+PPPGP	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: genitive｜Number: plural
+PPPGPM	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: genitive｜Number: plural｜Participle Gender: masculine
+PPPGPN	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: genitive｜Number: plural｜Participle Gender: neuter
+PPPGS	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: genitive｜Participle Number: singular
+PPPGSF	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: feminine
+PPPGSM	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: masculine
+PPPGSN	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: neuter
+PPPNP	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: nominative｜Number: plural
+PPPNPF	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: nominative｜Number: plural｜Participle Gender: feminine
+PPPNPM	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+PPPNPN	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: nominative｜Number: plural｜Participle Gender: neuter
+PPPNS	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: nominative｜Participle Number: singular
+PPPNSF	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: feminine
+PPPNSM	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+PPPNSN	Tense: present｜Voice: passive｜Mood: participle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: neuter
+PPS1P	Tense: present｜Voice: passive｜Mood: participle｜Person: first｜Number: plural
+PPS1S	Tense: present｜Voice: passive｜Mood: participle｜Person: first｜Number: singular
+PPS2P	Tense: present｜Voice: passive｜Mood: participle｜Person: second｜Number: plural
+PPS2S	Tense: present｜Voice: passive｜Mood: participle｜Person: second｜Number: singular
+PPS3P	Tense: present｜Voice: passive｜Mood: participle｜Person: third｜Number: plural
+PPS3S	Tense: present｜Voice: passive｜Mood: participle｜Person: third｜Number: singular
+VPF	Case: vocative｜Number: plural｜Gender: feminine
+VPM	Case: vocative｜Number: plural｜Gender: masculine
+VPMC	Case: vocative｜Number: plural｜Gender: masculine｜Degree: comparative
+VPN	Case: vocative｜Number: plural｜Gender: neuter
+VS	Case: vocative｜Number: singular
+VSF	Case: vocative｜Number: singular｜Gender: feminine
+VSM	Case: vocative｜Number: singular｜Gender: masculine
+VSMS	Case: vocative｜Number: singular｜Gender: masculine｜Degree: superlative
+VSN	Case: vocative｜Number: singular｜Gender: neuter
+VXI1S	Person: first｜Number: singular
+X	Part of speech: particle
+XAD2P	Tense: perfect｜Voice: active｜Person: second｜Number: plural
+XAD2S	Tense: perfect｜Voice: active｜Person: second｜Number: singular
+XAD3P	Tense: perfect｜Voice: active｜Person: third｜Number: plural
+XAD3S	Tense: perfect｜Voice: active｜Person: third｜Number: singular
+XAI1P	Tense: perfect｜Voice: active｜Person: first｜Number: plural
+XAI1S	Tense: perfect｜Voice: active｜Person: first｜Number: singular
+XAI2P	Tense: perfect｜Voice: active｜Person: second｜Number: plural
+XAI2S	Tense: perfect｜Voice: active｜Person: second｜Number: singular
+XAI3P	Tense: perfect｜Voice: active｜Person: third｜Number: plural
+XAI3S	Tense: perfect｜Voice: active｜Person: third｜Number: singular
+XAN	Tense: perfect｜Voice: active
+XAO3S	Tense: perfect｜Voice: active｜Person: third｜Number: singular
+XAPAP	Tense: perfect｜Voice: active｜Participle Case: accusative｜Number: plural
+XAPAPM	Tense: perfect｜Voice: active｜Participle Case: accusative｜Number: plural｜Participle Gender: masculine
+XAPAPN	Tense: perfect｜Voice: active｜Participle Case: accusative｜Number: plural｜Participle Gender: neuter
+XAPAS	Tense: perfect｜Voice: active｜Participle Case: accusative｜Participle Number: singular
+XAPASF	Tense: perfect｜Voice: active｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: feminine
+XAPASM	Tense: perfect｜Voice: active｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: masculine
+XAPASN	Tense: perfect｜Voice: active｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: neuter
+XAPDP	Tense: perfect｜Voice: active｜Participle Case: dative｜Number: plural
+XAPDPM	Tense: perfect｜Voice: active｜Participle Case: dative｜Number: plural｜Participle Gender: masculine
+XAPDS	Tense: perfect｜Voice: active｜Participle Case: dative｜Participle Number: singular
+XAPDSM	Tense: perfect｜Voice: active｜Participle Case: dative｜Participle Number: singular｜Participle Gender: masculine
+XAPDSN	Tense: perfect｜Voice: active｜Participle Case: dative｜Participle Number: singular｜Participle Gender: neuter
+XAPGP	Tense: perfect｜Voice: active｜Participle Case: genitive｜Number: plural
+XAPGPM	Tense: perfect｜Voice: active｜Participle Case: genitive｜Number: plural｜Participle Gender: masculine
+XAPGPN	Tense: perfect｜Voice: active｜Participle Case: genitive｜Number: plural｜Participle Gender: neuter
+XAPGS	Tense: perfect｜Voice: active｜Participle Case: genitive｜Participle Number: singular
+XAPGSF	Tense: perfect｜Voice: active｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: feminine
+XAPGSM	Tense: perfect｜Voice: active｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: masculine
+XAPNP	Tense: perfect｜Voice: active｜Participle Case: nominative｜Number: plural
+XAPNPF	Tense: perfect｜Voice: active｜Participle Case: nominative｜Number: plural｜Participle Gender: feminine
+XAPNPM	Tense: perfect｜Voice: active｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+XAPNPN	Tense: perfect｜Voice: active｜Participle Case: nominative｜Number: plural｜Participle Gender: neuter
+XAPNS	Tense: perfect｜Voice: active｜Participle Case: nominative｜Participle Number: singular
+XAPNSF	Tense: perfect｜Voice: active｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: feminine
+XAPNSM	Tense: perfect｜Voice: active｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+XAPNSN	Tense: perfect｜Voice: active｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: neuter
+XAPVP	Tense: perfect｜Voice: active｜Participle Case: vocative｜Number: plural
+XAS1P	Tense: perfect｜Voice: active｜Person: first｜Number: plural
+XAS1S	Tense: perfect｜Voice: active｜Person: first｜Number: singular
+XAS2P	Tense: perfect｜Voice: active｜Person: second｜Number: plural
+XAS2S	Tense: perfect｜Voice: active｜Person: second｜Number: singular
+XMD2P	Tense: perfect｜Voice: middle｜Person: second｜Number: plural
+XMD3P	Tense: perfect｜Voice: middle｜Person: third｜Number: plural
+XMD3S	Tense: perfect｜Voice: middle｜Person: third｜Number: singular
+XMI1P	Tense: perfect｜Voice: middle｜Person: first｜Number: plural
+XMI1S	Tense: perfect｜Voice: middle｜Person: first｜Number: singular
+XMI2P	Tense: perfect｜Voice: middle｜Person: second｜Number: plural
+XMI2S	Tense: perfect｜Voice: middle｜Person: second｜Number: singular
+XMI3P	Tense: perfect｜Voice: middle｜Person: third｜Number: plural
+XMI3S	Tense: perfect｜Voice: middle｜Person: third｜Number: singular
+XMINP	Tense: perfect｜Voice: middle｜Participle Case: nominative｜Number: plural
+XMN	Tense: perfect｜Voice: middle
+XMPAP	Tense: perfect｜Voice: middle｜Participle Case: accusative｜Number: plural
+XMPAPM	Tense: perfect｜Voice: middle｜Participle Case: accusative｜Number: plural｜Participle Gender: masculine
+XMPAS	Tense: perfect｜Voice: middle｜Participle Case: accusative｜Participle Number: singular
+XMPASF	Tense: perfect｜Voice: middle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: feminine
+XMPASM	Tense: perfect｜Voice: middle｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: masculine
+XMPDP	Tense: perfect｜Voice: middle｜Participle Case: dative｜Number: plural
+XMPDPF	Tense: perfect｜Voice: middle｜Participle Case: dative｜Number: plural｜Participle Gender: feminine
+XMPDPM	Tense: perfect｜Voice: middle｜Participle Case: dative｜Number: plural｜Participle Gender: masculine
+XMPDS	Tense: perfect｜Voice: middle｜Participle Case: dative｜Participle Number: singular
+XMPGP	Tense: perfect｜Voice: middle｜Participle Case: genitive｜Number: plural
+XMPGPM	Tense: perfect｜Voice: middle｜Participle Case: genitive｜Number: plural｜Participle Gender: masculine
+XMPGS	Tense: perfect｜Voice: middle｜Participle Case: genitive｜Participle Number: singular
+XMPGSF	Tense: perfect｜Voice: middle｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: feminine
+XMPNP	Tense: perfect｜Voice: middle｜Participle Case: nominative｜Number: plural
+XMPNPM	Tense: perfect｜Voice: middle｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+XMPNS	Tense: perfect｜Voice: middle｜Participle Case: nominative｜Participle Number: singular
+XMPNSF	Tense: perfect｜Voice: middle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: feminine
+XMPNSM	Tense: perfect｜Voice: middle｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+XMPVSF	Tense: perfect｜Voice: middle｜Participle Case: vocative｜Participle Number: singular｜Participle Gender: feminine
+XPD2S	Tense: perfect｜Voice: passive｜Person: second｜Number: singular
+XPI1P	Tense: perfect｜Voice: passive｜Person: first｜Number: plural
+XPI1S	Tense: perfect｜Voice: passive｜Person: first｜Number: singular
+XPI2P	Tense: perfect｜Voice: passive｜Person: second｜Number: plural
+XPI2S	Tense: perfect｜Voice: passive｜Person: second｜Number: singular
+XPI3P	Tense: perfect｜Voice: passive｜Person: third｜Number: plural
+XPI3S	Tense: perfect｜Voice: passive｜Person: third｜Number: singular
+XPN	Tense: perfect｜Voice: passive
+XPP2S	Tense: perfect｜Voice: passive｜Person: second｜Number: singular
+XPPAP	Tense: perfect｜Voice: passive｜Participle Case: accusative｜Number: plural
+XPPAPF	Tense: perfect｜Voice: passive｜Participle Case: accusative｜Number: plural｜Participle Gender: feminine
+XPPAPM	Tense: perfect｜Voice: passive｜Participle Case: accusative｜Number: plural｜Participle Gender: masculine
+XPPAPN	Tense: perfect｜Voice: passive｜Participle Case: accusative｜Number: plural｜Participle Gender: neuter
+XPPAS	Tense: perfect｜Voice: passive｜Participle Case: accusative｜Participle Number: singular
+XPPASF	Tense: perfect｜Voice: passive｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: feminine
+XPPASM	Tense: perfect｜Voice: passive｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: masculine
+XPPASN	Tense: perfect｜Voice: passive｜Participle Case: accusative｜Participle Number: singular｜Participle Gender: neuter
+XPPDP	Tense: perfect｜Voice: passive｜Participle Case: dative｜Number: plural
+XPPDPM	Tense: perfect｜Voice: passive｜Participle Case: dative｜Number: plural｜Participle Gender: masculine
+XPPDPN	Tense: perfect｜Voice: passive｜Participle Case: dative｜Number: plural｜Participle Gender: neuter
+XPPDS	Tense: perfect｜Voice: passive｜Participle Case: dative｜Participle Number: singular
+XPPDSF	Tense: perfect｜Voice: passive｜Participle Case: dative｜Participle Number: singular｜Participle Gender: feminine
+XPPDSM	Tense: perfect｜Voice: passive｜Participle Case: dative｜Participle Number: singular｜Participle Gender: masculine
+XPPDSN	Tense: perfect｜Voice: passive｜Participle Case: dative｜Participle Number: singular｜Participle Gender: neuter
+XPPGP	Tense: perfect｜Voice: passive｜Participle Case: genitive｜Number: plural
+XPPGPF	Tense: perfect｜Voice: passive｜Participle Case: genitive｜Number: plural｜Participle Gender: feminine
+XPPGPM	Tense: perfect｜Voice: passive｜Participle Case: genitive｜Number: plural｜Participle Gender: masculine
+XPPGPN	Tense: perfect｜Voice: passive｜Participle Case: genitive｜Number: plural｜Participle Gender: neuter
+XPPGS	Tense: perfect｜Voice: passive｜Participle Case: genitive｜Participle Number: singular
+XPPGSF	Tense: perfect｜Voice: passive｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: feminine
+XPPGSM	Tense: perfect｜Voice: passive｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: masculine
+XPPGSN	Tense: perfect｜Voice: passive｜Participle Case: genitive｜Participle Number: singular｜Participle Gender: neuter
+XPPNP	Tense: perfect｜Voice: passive｜Participle Case: nominative｜Number: plural
+XPPNPF	Tense: perfect｜Voice: passive｜Participle Case: nominative｜Number: plural｜Participle Gender: feminine
+XPPNPM	Tense: perfect｜Voice: passive｜Participle Case: nominative｜Number: plural｜Participle Gender: masculine
+XPPNPN	Tense: perfect｜Voice: passive｜Participle Case: nominative｜Number: plural｜Participle Gender: neuter
+XPPNS	Tense: perfect｜Voice: passive｜Participle Case: nominative｜Participle Number: singular
+XPPNSF	Tense: perfect｜Voice: passive｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: feminine
+XPPNSM	Tense: perfect｜Voice: passive｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: masculine
+XPPNSN	Tense: perfect｜Voice: passive｜Participle Case: nominative｜Participle Number: singular｜Participle Gender: neuter
+XPPVPM	Tense: perfect｜Voice: passive｜Participle Case: vocative｜Number: plural｜Participle Gender: masculine
+XPPVSF	Tense: perfect｜Voice: passive｜Participle Case: vocative｜Participle Number: singular｜Participle Gender: feminine
+XPPVSM	Tense: perfect｜Voice: passive｜Participle Case: vocative｜Participle Number: singular｜Participle Gender: masculine
+YAI1S	Tense: pluperfect｜Voice: active｜Person: first｜Number: singular
+YAI2P	Tense: pluperfect｜Voice: active｜Person: second｜Number: plural
+YAI2S	Tense: pluperfect｜Voice: active｜Person: second｜Number: singular
+YAI3P	Tense: pluperfect｜Voice: active｜Person: third｜Number: plural
+YAI3S	Tense: pluperfect｜Voice: active｜Person: third｜Number: singular
+YMI3P	Tense: pluperfect｜Voice: middle｜Person: third｜Number: plural
+YMI3S	Tense: pluperfect｜Voice: middle｜Person: third｜Number: singular
+YMPAS	Tense: pluperfect｜Voice: middle｜Participle Case: accusative｜Participle Number: singular
+YMPNP	Tense: pluperfect｜Voice: middle｜Participle Case: nominative｜Number: plural
+YMPNS	Tense: pluperfect｜Voice: middle｜Participle Case: nominative｜Participle Number: singular
+YPI3S	Tense: pluperfect｜Voice: passive｜Person: third｜Number: singular

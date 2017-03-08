@@ -1,0 +1,117 @@
+A	adjective
+A1	adjective, 1st declension, -οσ/-α/-ον pattern endings
+A1A	adjective, 1st declension, -οσ/-η/-ον pattern endings
+A1ACNSM	adjective, 1st declension, -οσ/-η/-ον pattern endings
+A1B	adjective, 1st declension, -οσ/-οσ/-ον pattern endings
+A1C	adjective, 1st declension, -ουσ/-ουσ/-ουν pattern endings
+A1P	adjective, 1st declension, -οσ/-α/-ον pattern endings
+A1S	adjective, 1st declension, nominative ending in -α, stem ending in -η
+A3	adjective, 3rd declension pattern endings
+A3C	adjective, 3rd declension pattern endings
+A3E	adjective, 3rd declension pattern endings
+A3G	adjective, 3rd declension pattern endings
+A3H	adjective, 3rd declension pattern endings
+A3L	adjective, 3rd declension pattern endings
+A3N	adjective, 3rd declension pattern endings
+A3P	adjective, 3rd declension pattern endings
+A3S	adjective, 3rd declension pattern endings
+A3U	adjective, 3rd declension pattern endings
+AS	adjective
+C	conjunction
+D	adverb
+I	interjection
+M	indeclinable number
+M3M	indeclinable number
+N	noun, indeclinable proper noun
+N1	noun, 1st declension, feminine ending in -η
+N1A	noun, 1st declension, feminine with stem ending in -α
+N1M	noun, 1st declension, masculine with nominative ending in -ησ
+N1S	noun, 1st declension, feminine with stem ending in -η and nominative ending in -α
+N1T	noun, 1st declension, masculine with nominative ending in -ασ
+N2	noun, 2nd declension, masculine or feminine
+N2C	noun, 2nd declension, masculine or feminine
+N2E	noun, 2nd declension, masculine or feminine
+N2N	noun, 2nd declension, neuters ending in -ον
+N3	noun, 3rd declension
+N3B	noun, 3rd declension
+N3D	noun, 3rd declension
+N3E	noun, 3rd declension
+N3G	noun, 3rd declension
+N3H	noun, 3rd declension
+N3I	noun, 3rd declension
+N3K	noun, 3rd declension
+N3M	noun, 3rd declension
+N3N	noun, 3rd declension
+N3P	noun, 3rd declension
+N3R	noun, 3rd declension
+N3T	noun, 3rd declension
+N3U	noun, 3rd declension
+N3V	noun, 3rd declension
+N3W	noun, 3rd declension
+N3X	noun, 3rd declension
+N22	noun, 2nd declension, masculine or feminine
+NS	noun, indeclinable proper noun
+P	prepostition
+RA	pronoun, relative
+RD	pronoun, relative
+RI	pronoun, relative
+RP	pronoun, relative
+RR	pronoun, relative
+RX	pronoun, relative
+V	verb
+V1	verb, progressive, regular present
+V1I	verb, progressive, regular present, augmented
+V2	verb, progressive, contracts in -εω
+V2I	verb, progressive, contracts in -εω, augmented
+V3	verb, progressive, contracts in -αω
+V3I	verb, progressive, contracts in -αω, augmented
+V4	verb, progressive, contracts in -οω
+V4I	verb, progressive, contracts in -οω, augmented
+V5	verb, progressive, regular -μι verb
+V5I	verb, progressive, regular -μι verb, augmented
+V6	verb, progressive, -α stem -μι verb
+V6I	verb, progressive, -α stem -μι verb, augmented
+V7	verb, progressive, -ε stem -μι verb
+V7I	verb, progressive, -ε stem -μι verb, augmented
+V8	verb, progressive, -ο stem -μι verb
+V8I	verb, progressive, -ο stem -μι verb, augmented
+V9	verb, progressive, εἰμί and εἰ̂μι
+V9I	verb, progressive, εἰμί and εἰ̂μι, augmented
+VA	verb, 1st aorist active
+VAI	verb, 1st aorist active, augmented
+VB	verb, 2nd aorist active #1
+VBI	verb, 2nd aorist active #1, augmented
+VC	verb, #1 aorist & future passive (Q-type)
+VCI	verb, #1 aorist & future passive (Q-type), augmented
+VD	verb, #2 aorist & future passive (non-Q)
+VDI	verb, #2 aorist & future passive (non-Q), augmented
+VE	verb, aorist, -ε stem -μι verb
+VEI	verb, aorist, -ε stem -μι verb, augmented
+VF	verb, regular future
+VF2	verb, future, liquid type (+ζ)
+VF3	verb, future, ἐλαύνω type
+VFI	verb, regular future
+VFX	verb, future perfect
+VH	verb, aorist, -ο stem -μι verb
+VHI	verb, aorist, -ο stem -μι verb, augmented
+VK	verb, guttural perfect middle
+VKI	verb, guttural perfect middle, pluperfect augmented
+VM	verb, perfect middle
+VMI	verb, perfect middle, pluperfect augmented
+VO	verb, aorist, -ο stem -μι verb
+VOI	verb, aorist, -ο stem -μι verb, augmented
+VP	verb, labial perfect middle
+VPI	verb, labial perfect middle, pluperfect augmented
+VQ	verb, guttural aorist & future passive
+VQI	verb, guttural aorist & future passive, augmented
+VS	verb, dental aorist & future passive (+ζ)
+VSI	verb, dental aorist & future passive (+ζ), augmented
+VT	verb, dental perfect middle (+ζ)
+VTI	verb, dental perfect middle (+ζ), pluperfect augmented
+VV	verb, labial aorist & future passive
+VVI	verb, labial aorist & future passive, augmented
+VX	verb, perfect active
+VXI	verb, perfect active, pluperfect augmented
+VZ	verb, 2nd aorist active #2(irregular)
+VZI	verb, 2nd aorist active #2(irregular), augmented
+X	particle
