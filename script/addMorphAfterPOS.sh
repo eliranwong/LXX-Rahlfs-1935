@@ -299,6 +299,7 @@ s/『NDF』/Nom Dual Fem/g
 s/『NDM』/Nom Dual Masc/g
 s/『NDN』/Nom Dual Neut/g
 s/『NM』/Nom Masc/g
+s/『N M』/Nom Masc/g
 s/『NP』/Nom Plur/g
 s/『NPF』/Nom Plur Fem/g
 s/『NPFC』/Nom Plur Fem Compar/g

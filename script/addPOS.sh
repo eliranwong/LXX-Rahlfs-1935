@@ -25,13 +25,14 @@ s/「ASH」/adjective/g
 s/「C」/conjunction/g
 s/「C\+D」/conjunction \+ adverb/g
 s/「C\+R」/conjunction \+ pronoun/g
+s/「C\+RD」/conjunction \+ pronoun, demonstrative/g
 s/「C\+RP」/conjunction \+ pronoun, relative/g
 s/「C\+X」/conjunction \+ particle/g
 s/「D」/adverb/g
 s/「I」/interjection/g
 s/「M」/indeclinable number/g
 s/「M3M」/indeclinable number/g
-s/「N」/noun, indeclinable proper noun/g
+s/「N」/noun/g
 s/「N1」/noun, 1st declension, feminine ending in -η/g
 s/「N1A」/noun, 1st declension, feminine with stem ending in -α/g
 s/「N1M」/noun, 1st declension, masculine with nominative ending in -ησ/g
