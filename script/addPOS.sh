@@ -23,10 +23,10 @@ s/「AA」/adjective/g
 s/「AS」/adjective/g
 s/「ASH」/adjective/g
 s/「C」/conjunction/g
-s/「C+D」/conjunction + adverb/g
-s/「C+R」/conjunction + pronoun/g
-s/「C+RP」/conjunction + pronoun, relative/g
-s/「C+X」/conjunction + particle/g
+s/「C\+D」/conjunction \+ adverb/g
+s/「C\+R」/conjunction \+ pronoun/g
+s/「C\+RP」/conjunction \+ pronoun, relative/g
+s/「C\+X」/conjunction \+ particle/g
 s/「D」/adverb/g
 s/「I」/interjection/g
 s/「M」/indeclinable number/g
@@ -63,16 +63,16 @@ s/「N3X」/noun, 3rd declension/g
 s/「N22」/noun, 2nd declension, masculine or feminine/g
 s/「NS」/noun, indeclinable proper noun/g
 s/「P」/preposition/g
-s/「P+A」/preposition + adjective/g
-s/「P+X」/preposition + particle/g
+s/「P\+A」/preposition \+ adjective/g
+s/「P\+X」/preposition \+ particle/g
 s/「RA」/pronoun, article/g
-s/「RA+A」/pronoun, article + adjective/g
-s/「RA+N」/pronoun, article + noun/g
+s/「RA\+A」/pronoun, article \+ adjective/g
+s/「RA\+N」/pronoun, article \+ noun/g
 s/「RD」/pronoun, demonstrative/g
-s/「RD+N」/pronoun, demonstrative + noun/g
+s/「RD\+N」/pronoun, demonstrative \+ noun/g
 s/「RI」/pronoun, interrogative\/indefinite/g
 s/「RP」/pronoun, personal\/possessive/g
-s/「RP+X」/pronoun, personal\/possessive + particle/g
+s/「RP\+X」/pronoun, personal\/possessive \+ particle/g
 s/「RR」/pronoun, relative/g
 s/「RX」/pronoun, relative, ὅστις/g
 s/「V」/verb/g
@@ -107,7 +107,7 @@ s/「VE」/verb, aorist, -ε stem -μι verb/g
 s/「VE1」/verb, ???/g
 s/「VEI」/verb, aorist, -ε stem -μι verb, augmented/g
 s/「VF」/verb, regular future/g
-s/「VF2」/verb, future, liquid type (+ζ)/g
+s/「VF2」/verb, future, liquid type (\+ζ)/g
 s/「VF3」/verb, future, ἐλαύνω type/g
 s/「VFI」/verb, regular future/g
 s/「VFX」/verb, future perfect/g
@@ -124,10 +124,10 @@ s/「VP」/verb, labial perfect middle/g
 s/「VPI」/verb, labial perfect middle, pluperfect augmented/g
 s/「VQ」/verb, guttural aorist \& future passive/g
 s/「VQI」/verb, guttural aorist \& future passive, augmented/g
-s/「VS」/verb, dental aorist \& future passive (+ζ)/g
-s/「VSI」/verb, dental aorist \& future passive (+ζ), augmented/g
-s/「VT」/verb, dental perfect middle (+ζ)/g
-s/「VTI」/verb, dental perfect middle (+ζ), pluperfect augmented/g
+s/「VS」/verb, dental aorist \& future passive (\+ζ)/g
+s/「VSI」/verb, dental aorist \& future passive (\+ζ), augmented/g
+s/「VT」/verb, dental perfect middle (\+ζ)/g
+s/「VTI」/verb, dental perfect middle (\+ζ), pluperfect augmented/g
 s/「VV」/verb, labial aorist \& future passive/g
 s/「VVI」/verb, labial aorist \& future passive, augmented/g
 s/「VX」/verb, perfect active/g

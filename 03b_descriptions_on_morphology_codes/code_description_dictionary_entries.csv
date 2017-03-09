@@ -418,17 +418,17 @@ AA.ASM	adjective	Acc Sing Masc
 AS.ASN	adjective	Acc Sing Neut
 ASH.NPM	adjective	Nom Plur Masc
 C	conjunction	
-C+D	「C+D」	
-C+R.AS	「C+R」	Acc Sing
-C+R.DPM	「C+R」	Dat Plur Masc
-C+R.DS	「C+R」	Dat Sing
-C+R.GS	「C+R」	Gen Sing
-C+R.GSM	「C+R」	Gen Sing Masc
-C+R.NPM	「C+R」	Nom Plur Masc
-C+R.NS	「C+R」	Nom Sing
-C+R.NSM	「C+R」	Nom Sing Masc
-C+RP.NS	「C+RP」	Nom Sing
-C+X	「C+X」	
+C+D	conjunction + adverb	
+C+R.AS	conjunction + pronoun	Acc Sing
+C+R.DPM	conjunction + pronoun	Dat Plur Masc
+C+R.DS	conjunction + pronoun	Dat Sing
+C+R.GS	conjunction + pronoun	Gen Sing
+C+R.GSM	conjunction + pronoun	Gen Sing Masc
+C+R.NPM	conjunction + pronoun	Nom Plur Masc
+C+R.NS	conjunction + pronoun	Nom Sing
+C+R.NSM	conjunction + pronoun	Nom Sing Masc
+C+RP.NS	conjunction + pronoun, relative	Nom Sing
+C+X	conjunction + particle	
 D	adverb	
 D.APN	adverb	Acc Plur Neut
 D.DSF	adverb	Dat Sing Fem
@@ -969,8 +969,8 @@ N3X.NSF	noun, 3rd declension	Nom Sing Fem
 N3X.NSM	noun, 3rd declension	Nom Sing Masc
 NS.GSM	noun, indeclinable proper noun	Gen Sing Masc
 P	preposition	
-P+A.ASM	「P+A」	Acc Sing Masc
-P+X	「P+X」	
+P+A.ASM	preposition + adjective	Acc Sing Masc
+P+X	preposition + particle	
 RA.APF	pronoun, article	Acc Plur Fem
 RA.APM	pronoun, article	Acc Plur Masc
 RA.APN	pronoun, article	Acc Plur Neut
@@ -1004,8 +1004,8 @@ RA.VPN	pronoun, article	Voc Plur Neut
 RA.VSF	pronoun, article	Voc Sing Fem
 RA.VSM	pronoun, article	Voc Sing Masc
 RA.VSN	pronoun, article	Voc Sing Neut
-RA+A.APN	「RA+A」	Acc Plur Neut
-RA+N.ASN	「RA+N」	Acc Sing Neut
+RA+A.APN	pronoun, article + adjective	Acc Plur Neut
+RA+N.ASN	pronoun, article + noun	Acc Sing Neut
 RD.APF	pronoun, demonstrative	Acc Plur Fem
 RD.APM	pronoun, demonstrative	Acc Plur Masc
 RD.APN	pronoun, demonstrative	Acc Plur Neut
@@ -1031,7 +1031,7 @@ RD.NPN	pronoun, demonstrative	Nom Plur Neut
 RD.NSF	pronoun, demonstrative	Nom Sing Fem
 RD.NSM	pronoun, demonstrative	Nom Sing Masc
 RD.NSN	pronoun, demonstrative	Nom Sing Neut
-RD+N.GSM	「RD+N」	Gen Sing Masc
+RD+N.GSM	pronoun, demonstrative + noun	Gen Sing Masc
 RI	pronoun, interrogative/indefinite	
 RI.APF	pronoun, interrogative/indefinite	Acc Plur Fem
 RI.APM	pronoun, interrogative/indefinite	Acc Plur Masc
@@ -1085,7 +1085,7 @@ RP.NS	pronoun, personal/possessive	Nom Sing
 RP.NSF	pronoun, personal/possessive	Nom Sing Fem
 RP.NSM	pronoun, personal/possessive	Nom Sing Masc
 RP.VS	pronoun, personal/possessive	Voc Sing
-RP+X.NS	「RP+X」	Nom Sing
+RP+X.NS	pronoun, personal/possessive + particle	Nom Sing
 RR.APF	pronoun, relative	Acc Plur Fem
 RR.APM	pronoun, relative	Acc Plur Masc
 RR.APN	pronoun, relative	Acc Plur Neut
@@ -1996,6 +1996,7 @@ VAI.API3P	verb, 1st aorist active, augmented	Aor Pass Ind 3rd Plur
 VAI.API3S	verb, 1st aorist active, augmented	Aor Pass Ind 3rd Sing
 VAI.IAI3P	verb, 1st aorist active, augmented	Imperf Act Ind 3rd Plur
 VAI.PAI3S	verb, 1st aorist active, augmented	Pres Act Ind 3rd Sing
+VAI.PAPNSF	verb, 1st aorist active, augmented	Pres Act Part Nom Sing Fem
 VB.AAD2P	verb, 2nd aorist active #1	Aor Act Imperative 2nd Plur
 VB.AAD2S	verb, 2nd aorist active #1	Aor Act Imperative 2nd Sing
 VB.AAD3P	verb, 2nd aorist active #1	Aor Act Imperative 3rd Plur
