@@ -2122,144 +2122,144 @@ s/『VBI\.API1P』/verb, 2nd aorist active \#1, augmented, Aor Pass Ind 1st Plur
 s/『VBI\.API3P』/verb, 2nd aorist active \#1, augmented, Aor Pass Ind 3rd Plur/g
 s/『VBI\.API3S』/verb, 2nd aorist active \#1, augmented, Aor Pass Ind 3rd Sing/g
 s/『VBI\.IMI3P』/verb, 2nd aorist active \#1, augmented, Imperf Mid Ind 3rd Plur/g
-s/『VC\.AAD2S』/verb, \#1 aorist & future passive (Q-type), Aor Act Imperative 2nd Sing/g
-s/『VC\.AAPASN』/verb, \#1 aorist & future passive (Q-type), Aor Act Part Acc Sing Neut/g
-s/『VC\.AMD2P』/verb, \#1 aorist & future passive (Q-type), Aor Mid Imperative 2nd Plur/g
-s/『VC\.AMN』/verb, \#1 aorist & future passive (Q-type), Aor Mid Infin/g
-s/『VC\.AMPNPF』/verb, \#1 aorist & future passive (Q-type), Aor Mid Part Nom Plur Fem/g
-s/『VC\.AMPNSM』/verb, \#1 aorist & future passive (Q-type), Aor Mid Part Nom Sing Masc/g
-s/『VC\.APD2P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Imperative 2nd Plur/g
-s/『VC\.APD2S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Imperative 2nd Sing/g
-s/『VC\.APD3P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Imperative 3rd Plur/g
-s/『VC\.APD3S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Imperative 3rd Sing/g
-s/『VC\.API1P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Ind 1st Plur/g
-s/『VC\.API1S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Ind 1st Sing/g
-s/『VC\.API2P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Ind 2nd Plur/g
-s/『VC\.API2S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Ind 2nd Sing/g
-s/『VC\.API3P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Ind 3rd Plur/g
-s/『VC\.API3S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Ind 3rd Sing/g
-s/『VC\.APN』/verb, \#1 aorist & future passive (Q-type), Acc Plur Neut/g
-s/『VC\.APO1P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Opt 1st Plur/g
-s/『VC\.APO1S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Opt 1st Sing/g
-s/『VC\.APO2P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Opt 2nd Plur/g
-s/『VC\.APO2S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Opt 2nd Sing/g
-s/『VC\.APO3P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Opt 3rd Plur/g
-s/『VC\.APO3S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Opt 3rd Sing/g
-s/『VC\.APP2S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part 2nd Sing/g
-s/『VC\.APPAPF』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Acc Plur Fem/g
-s/『VC\.APPAPM』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Acc Plur Masc/g
-s/『VC\.APPAPN』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Acc Plur Neut/g
-s/『VC\.APPASF』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Acc Sing Fem/g
-s/『VC\.APPASM』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Acc Sing Masc/g
-s/『VC\.APPASN』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Acc Sing Neut/g
-s/『VC\.APPDPM』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Dat Plur Masc/g
-s/『VC\.APPDPN』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Dat Plur Neut/g
-s/『VC\.APPDSF』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Dat Sing Fem/g
-s/『VC\.APPDSM』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Dat Sing Masc/g
-s/『VC\.APPGPM』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Gen Plur Masc/g
-s/『VC\.APPGPN』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Gen Plur Neut/g
-s/『VC\.APPGSF』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Gen Sing Fem/g
-s/『VC\.APPGSM』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Gen Sing Masc/g
-s/『VC\.APPGSN』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Gen Sing Neut/g
-s/『VC\.APPNPF』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Nom Plur Fem/g
-s/『VC\.APPNPM』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Nom Plur Masc/g
-s/『VC\.APPNPN』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Nom Plur Neut/g
-s/『VC\.APPNSF』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Nom Sing Fem/g
-s/『VC\.APPNSM』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Nom Sing Masc/g
-s/『VC\.APPNSN』/verb, \#1 aorist & future passive (Q-type), Aor Pass Part Nom Sing Neut/g
-s/『VC\.APS1P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Subj 1st Plur/g
-s/『VC\.APS1S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Subj 1st Sing/g
-s/『VC\.APS2P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Subj 2nd Plur/g
-s/『VC\.APS2S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Subj 2nd Sing/g
-s/『VC\.APS3P』/verb, \#1 aorist & future passive (Q-type), Aor Pass Subj 3rd Plur/g
-s/『VC\.APS3S』/verb, \#1 aorist & future passive (Q-type), Aor Pass Subj 3rd Sing/g
-s/『VC\.FMI2P』/verb, \#1 aorist & future passive (Q-type), Fut Mid Ind 2nd Plur/g
-s/『VC\.FPI1P』/verb, \#1 aorist & future passive (Q-type), Fut Pass Ind 1st Plur/g
-s/『VC\.FPI1S』/verb, \#1 aorist & future passive (Q-type), Fut Pass Ind 1st Sing/g
-s/『VC\.FPI2P』/verb, \#1 aorist & future passive (Q-type), Fut Pass Ind 2nd Plur/g
-s/『VC\.FPI2S』/verb, \#1 aorist & future passive (Q-type), Fut Pass Ind 2nd Sing/g
-s/『VC\.FPI3P』/verb, \#1 aorist & future passive (Q-type), Fut Pass Ind 3rd Plur/g
-s/『VC\.FPI3S』/verb, \#1 aorist & future passive (Q-type), Fut Pass Ind 3rd Sing/g
-s/『VC\.FPN』/verb, \#1 aorist & future passive (Q-type), Fut Pass Infin/g
-s/『VC\.FPPAPF』/verb, \#1 aorist & future passive (Q-type), Fut Pass Part Acc Plur Fem/g
-s/『VC\.FPPAPN』/verb, \#1 aorist & future passive (Q-type), Fut Pass Part Acc Plur Neut/g
-s/『VC\.FPPDPM』/verb, \#1 aorist & future passive (Q-type), Fut Pass Part Dat Plur Masc/g
-s/『VC\.FPPDPN』/verb, \#1 aorist & future passive (Q-type), Fut Pass Part Dat Plur Neut/g
-s/『VC\.FPPDSM』/verb, \#1 aorist & future passive (Q-type), Fut Pass Part Dat Sing Masc/g
-s/『VC\.FPPGPM』/verb, \#1 aorist & future passive (Q-type), Fut Pass Part Gen Plur Masc/g
-s/『VC\.FPPNSM』/verb, \#1 aorist & future passive (Q-type), Fut Pass Part Nom Sing Masc/g
-s/『VC\.FPPNSN』/verb, \#1 aorist & future passive (Q-type), Fut Pass Part Nom Sing Neut/g
-s/『VC\.FPS2S』/verb, \#1 aorist & future passive (Q-type), Fut Pass Subj 2nd Sing/g
-s/『VC\.FPS3P』/verb, \#1 aorist & future passive (Q-type), Fut Pass Subj 3rd Plur/g
-s/『VC\.PMI3P』/verb, \#1 aorist & future passive (Q-type), Pres Mid Ind 3rd Plur/g
-s/『VCI\.AAI3P』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Act Ind 3rd Plur/g
-s/『VCI\.AAI3S』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Act Ind 3rd Sing/g
-s/『VCI\.AAP3S』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Act Part 3rd Sing/g
-s/『VCI\.AMI3P』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Mid Ind 3rd Plur/g
-s/『VCI\.APD2S』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Imperative 2nd Sing/g
-s/『VCI\.APD3P』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Imperative 3rd Plur/g
-s/『VCI\.API1P』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Ind 1st Plur/g
-s/『VCI\.API1S』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Ind 1st Sing/g
-s/『VCI\.API2P』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Ind 2nd Plur/g
-s/『VCI\.API2S』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Ind 2nd Sing/g
-s/『VCI\.API3P』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Ind 3rd Plur/g
-s/『VCI\.API3S』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Ind 3rd Sing/g
-s/『VCI\.APO3P』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Opt 3rd Plur/g
-s/『VCI\.APPNSF』/verb, \#1 aorist & future passive (Q-type), augmented, Aor Pass Part Nom Sing Fem/g
-s/『VCI\.FPI3S』/verb, \#1 aorist & future passive (Q-type), augmented, Fut Pass Ind 3rd Sing/g
-s/『VD\.AAD2P』/verb, \#2 aorist & future passive (non-Q), Aor Act Imperative 2nd Plur/g
-s/『VD\.AAS2P』/verb, \#2 aorist & future passive (non-Q), Aor Act Subj 2nd Plur/g
-s/『VD\.AAS3S』/verb, \#2 aorist & future passive (non-Q), Aor Act Subj 3rd Sing/g
-s/『VD\.AMI3P』/verb, \#2 aorist & future passive (non-Q), Aor Mid Ind 3rd Plur/g
-s/『VD\.AMS3S』/verb, \#2 aorist & future passive (non-Q), Aor Mid Subj 3rd Sing/g
-s/『VD\.APD2P』/verb, \#2 aorist & future passive (non-Q), Aor Pass Imperative 2nd Plur/g
-s/『VD\.APD2S』/verb, \#2 aorist & future passive (non-Q), Aor Pass Imperative 2nd Sing/g
-s/『VD\.APD3P』/verb, \#2 aorist & future passive (non-Q), Aor Pass Imperative 3rd Plur/g
-s/『VD\.APD3S』/verb, \#2 aorist & future passive (non-Q), Aor Pass Imperative 3rd Sing/g
-s/『VD\.API2S』/verb, \#2 aorist & future passive (non-Q), Aor Pass Ind 2nd Sing/g
-s/『VD\.API3P』/verb, \#2 aorist & future passive (non-Q), Aor Pass Ind 3rd Plur/g
-s/『VD\.API3S』/verb, \#2 aorist & future passive (non-Q), Aor Pass Ind 3rd Sing/g
-s/『VD\.APN』/verb, \#2 aorist & future passive (non-Q), Acc Plur Neut/g
-s/『VD\.APO3P』/verb, \#2 aorist & future passive (non-Q), Aor Pass Opt 3rd Plur/g
-s/『VD\.APO3S』/verb, \#2 aorist & future passive (non-Q), Aor Pass Opt 3rd Sing/g
-s/『VD\.APPAPM』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Acc Plur Masc/g
-s/『VD\.APPAPN』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Acc Plur Neut/g
-s/『VD\.APPASF』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Acc Sing Fem/g
-s/『VD\.APPASM』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Acc Sing Masc/g
-s/『VD\.APPASN』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Acc Sing Neut/g
-s/『VD\.APPDPM』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Dat Plur Masc/g
-s/『VD\.APPGPM』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Gen Plur Masc/g
-s/『VD\.APPGPN』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Gen Plur Neut/g
-s/『VD\.APPGSF』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Gen Sing Fem/g
-s/『VD\.APPGSM』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Gen Sing Masc/g
-s/『VD\.APPGSN』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Gen Sing Neut/g
-s/『VD\.APPNPM』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Nom Plur Masc/g
-s/『VD\.APPNPN』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Nom Plur Neut/g
-s/『VD\.APPNSF』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Nom Sing Fem/g
-s/『VD\.APPNSM』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Nom Sing Masc/g
-s/『VD\.APPNSN』/verb, \#2 aorist & future passive (non-Q), Aor Pass Part Nom Sing Neut/g
-s/『VD\.APS1P』/verb, \#2 aorist & future passive (non-Q), Aor Pass Subj 1st Plur/g
-s/『VD\.APS1S』/verb, \#2 aorist & future passive (non-Q), Aor Pass Subj 1st Sing/g
-s/『VD\.APS2P』/verb, \#2 aorist & future passive (non-Q), Aor Pass Subj 2nd Plur/g
-s/『VD\.APS2S』/verb, \#2 aorist & future passive (non-Q), Aor Pass Subj 2nd Sing/g
-s/『VD\.APS3P』/verb, \#2 aorist & future passive (non-Q), Aor Pass Subj 3rd Plur/g
-s/『VD\.APS3S』/verb, \#2 aorist & future passive (non-Q), Aor Pass Subj 3rd Sing/g
-s/『VD\.FPI1P』/verb, \#2 aorist & future passive (non-Q), Fut Pass Ind 1st Plur/g
-s/『VD\.FPI1S』/verb, \#2 aorist & future passive (non-Q), Fut Pass Ind 1st Sing/g
-s/『VD\.FPI2P』/verb, \#2 aorist & future passive (non-Q), Fut Pass Ind 2nd Plur/g
-s/『VD\.FPI2S』/verb, \#2 aorist & future passive (non-Q), Fut Pass Ind 2nd Sing/g
-s/『VD\.FPI3P』/verb, \#2 aorist & future passive (non-Q), Fut Pass Ind 3rd Plur/g
-s/『VD\.FPI3S』/verb, \#2 aorist & future passive (non-Q), Fut Pass Ind 3rd Sing/g
-s/『VD\.PPPNPN』/verb, \#2 aorist & future passive (non-Q), Pres Pass Part Nom Plur Neut/g
-s/『VDI\.AAI3P』/verb, \#2 aorist & future passive (non-Q), augmented, Aor Act Ind 3rd Plur/g
-s/『VDI\.APD2P』/verb, \#2 aorist & future passive (non-Q), augmented, Aor Pass Imperative 2nd Plur/g
-s/『VDI\.API1P』/verb, \#2 aorist & future passive (non-Q), augmented, Aor Pass Ind 1st Plur/g
-s/『VDI\.API1S』/verb, \#2 aorist & future passive (non-Q), augmented, Aor Pass Ind 1st Sing/g
-s/『VDI\.API2P』/verb, \#2 aorist & future passive (non-Q), augmented, Aor Pass Ind 2nd Plur/g
-s/『VDI\.API2S』/verb, \#2 aorist & future passive (non-Q), augmented, Aor Pass Ind 2nd Sing/g
-s/『VDI\.API3P』/verb, \#2 aorist & future passive (non-Q), augmented, Aor Pass Ind 3rd Plur/g
-s/『VDI\.API3S』/verb, \#2 aorist & future passive (non-Q), augmented, Aor Pass Ind 3rd Sing/g
-s/『VDI\.APPAPM』/verb, \#2 aorist & future passive (non-Q), augmented, Aor Pass Part Acc Plur Masc/g
+s/『VC\.AAD2S』/verb, \#1 aorist \& future passive (Q-type), Aor Act Imperative 2nd Sing/g
+s/『VC\.AAPASN』/verb, \#1 aorist \& future passive (Q-type), Aor Act Part Acc Sing Neut/g
+s/『VC\.AMD2P』/verb, \#1 aorist \& future passive (Q-type), Aor Mid Imperative 2nd Plur/g
+s/『VC\.AMN』/verb, \#1 aorist \& future passive (Q-type), Aor Mid Infin/g
+s/『VC\.AMPNPF』/verb, \#1 aorist \& future passive (Q-type), Aor Mid Part Nom Plur Fem/g
+s/『VC\.AMPNSM』/verb, \#1 aorist \& future passive (Q-type), Aor Mid Part Nom Sing Masc/g
+s/『VC\.APD2P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Imperative 2nd Plur/g
+s/『VC\.APD2S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Imperative 2nd Sing/g
+s/『VC\.APD3P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Imperative 3rd Plur/g
+s/『VC\.APD3S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Imperative 3rd Sing/g
+s/『VC\.API1P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Ind 1st Plur/g
+s/『VC\.API1S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Ind 1st Sing/g
+s/『VC\.API2P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Ind 2nd Plur/g
+s/『VC\.API2S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Ind 2nd Sing/g
+s/『VC\.API3P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Ind 3rd Plur/g
+s/『VC\.API3S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Ind 3rd Sing/g
+s/『VC\.APN』/verb, \#1 aorist \& future passive (Q-type), Acc Plur Neut/g
+s/『VC\.APO1P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Opt 1st Plur/g
+s/『VC\.APO1S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Opt 1st Sing/g
+s/『VC\.APO2P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Opt 2nd Plur/g
+s/『VC\.APO2S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Opt 2nd Sing/g
+s/『VC\.APO3P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Opt 3rd Plur/g
+s/『VC\.APO3S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Opt 3rd Sing/g
+s/『VC\.APP2S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part 2nd Sing/g
+s/『VC\.APPAPF』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Acc Plur Fem/g
+s/『VC\.APPAPM』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Acc Plur Masc/g
+s/『VC\.APPAPN』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Acc Plur Neut/g
+s/『VC\.APPASF』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Acc Sing Fem/g
+s/『VC\.APPASM』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Acc Sing Masc/g
+s/『VC\.APPASN』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Acc Sing Neut/g
+s/『VC\.APPDPM』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Dat Plur Masc/g
+s/『VC\.APPDPN』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Dat Plur Neut/g
+s/『VC\.APPDSF』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Dat Sing Fem/g
+s/『VC\.APPDSM』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Dat Sing Masc/g
+s/『VC\.APPGPM』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Gen Plur Masc/g
+s/『VC\.APPGPN』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Gen Plur Neut/g
+s/『VC\.APPGSF』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Gen Sing Fem/g
+s/『VC\.APPGSM』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Gen Sing Masc/g
+s/『VC\.APPGSN』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Gen Sing Neut/g
+s/『VC\.APPNPF』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Nom Plur Fem/g
+s/『VC\.APPNPM』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Nom Plur Masc/g
+s/『VC\.APPNPN』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Nom Plur Neut/g
+s/『VC\.APPNSF』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Nom Sing Fem/g
+s/『VC\.APPNSM』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Nom Sing Masc/g
+s/『VC\.APPNSN』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Part Nom Sing Neut/g
+s/『VC\.APS1P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Subj 1st Plur/g
+s/『VC\.APS1S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Subj 1st Sing/g
+s/『VC\.APS2P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Subj 2nd Plur/g
+s/『VC\.APS2S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Subj 2nd Sing/g
+s/『VC\.APS3P』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Subj 3rd Plur/g
+s/『VC\.APS3S』/verb, \#1 aorist \& future passive (Q-type), Aor Pass Subj 3rd Sing/g
+s/『VC\.FMI2P』/verb, \#1 aorist \& future passive (Q-type), Fut Mid Ind 2nd Plur/g
+s/『VC\.FPI1P』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Ind 1st Plur/g
+s/『VC\.FPI1S』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Ind 1st Sing/g
+s/『VC\.FPI2P』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Ind 2nd Plur/g
+s/『VC\.FPI2S』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Ind 2nd Sing/g
+s/『VC\.FPI3P』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Ind 3rd Plur/g
+s/『VC\.FPI3S』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Ind 3rd Sing/g
+s/『VC\.FPN』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Infin/g
+s/『VC\.FPPAPF』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Part Acc Plur Fem/g
+s/『VC\.FPPAPN』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Part Acc Plur Neut/g
+s/『VC\.FPPDPM』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Part Dat Plur Masc/g
+s/『VC\.FPPDPN』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Part Dat Plur Neut/g
+s/『VC\.FPPDSM』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Part Dat Sing Masc/g
+s/『VC\.FPPGPM』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Part Gen Plur Masc/g
+s/『VC\.FPPNSM』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Part Nom Sing Masc/g
+s/『VC\.FPPNSN』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Part Nom Sing Neut/g
+s/『VC\.FPS2S』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Subj 2nd Sing/g
+s/『VC\.FPS3P』/verb, \#1 aorist \& future passive (Q-type), Fut Pass Subj 3rd Plur/g
+s/『VC\.PMI3P』/verb, \#1 aorist \& future passive (Q-type), Pres Mid Ind 3rd Plur/g
+s/『VCI\.AAI3P』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Act Ind 3rd Plur/g
+s/『VCI\.AAI3S』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Act Ind 3rd Sing/g
+s/『VCI\.AAP3S』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Act Part 3rd Sing/g
+s/『VCI\.AMI3P』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Mid Ind 3rd Plur/g
+s/『VCI\.APD2S』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Imperative 2nd Sing/g
+s/『VCI\.APD3P』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Imperative 3rd Plur/g
+s/『VCI\.API1P』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Ind 1st Plur/g
+s/『VCI\.API1S』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Ind 1st Sing/g
+s/『VCI\.API2P』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Ind 2nd Plur/g
+s/『VCI\.API2S』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Ind 2nd Sing/g
+s/『VCI\.API3P』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Ind 3rd Plur/g
+s/『VCI\.API3S』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Ind 3rd Sing/g
+s/『VCI\.APO3P』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Opt 3rd Plur/g
+s/『VCI\.APPNSF』/verb, \#1 aorist \& future passive (Q-type), augmented, Aor Pass Part Nom Sing Fem/g
+s/『VCI\.FPI3S』/verb, \#1 aorist \& future passive (Q-type), augmented, Fut Pass Ind 3rd Sing/g
+s/『VD\.AAD2P』/verb, \#2 aorist \& future passive (non-Q), Aor Act Imperative 2nd Plur/g
+s/『VD\.AAS2P』/verb, \#2 aorist \& future passive (non-Q), Aor Act Subj 2nd Plur/g
+s/『VD\.AAS3S』/verb, \#2 aorist \& future passive (non-Q), Aor Act Subj 3rd Sing/g
+s/『VD\.AMI3P』/verb, \#2 aorist \& future passive (non-Q), Aor Mid Ind 3rd Plur/g
+s/『VD\.AMS3S』/verb, \#2 aorist \& future passive (non-Q), Aor Mid Subj 3rd Sing/g
+s/『VD\.APD2P』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Imperative 2nd Plur/g
+s/『VD\.APD2S』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Imperative 2nd Sing/g
+s/『VD\.APD3P』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Imperative 3rd Plur/g
+s/『VD\.APD3S』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Imperative 3rd Sing/g
+s/『VD\.API2S』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Ind 2nd Sing/g
+s/『VD\.API3P』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Ind 3rd Plur/g
+s/『VD\.API3S』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Ind 3rd Sing/g
+s/『VD\.APN』/verb, \#2 aorist \& future passive (non-Q), Acc Plur Neut/g
+s/『VD\.APO3P』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Opt 3rd Plur/g
+s/『VD\.APO3S』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Opt 3rd Sing/g
+s/『VD\.APPAPM』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Acc Plur Masc/g
+s/『VD\.APPAPN』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Acc Plur Neut/g
+s/『VD\.APPASF』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Acc Sing Fem/g
+s/『VD\.APPASM』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Acc Sing Masc/g
+s/『VD\.APPASN』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Acc Sing Neut/g
+s/『VD\.APPDPM』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Dat Plur Masc/g
+s/『VD\.APPGPM』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Gen Plur Masc/g
+s/『VD\.APPGPN』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Gen Plur Neut/g
+s/『VD\.APPGSF』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Gen Sing Fem/g
+s/『VD\.APPGSM』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Gen Sing Masc/g
+s/『VD\.APPGSN』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Gen Sing Neut/g
+s/『VD\.APPNPM』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Nom Plur Masc/g
+s/『VD\.APPNPN』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Nom Plur Neut/g
+s/『VD\.APPNSF』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Nom Sing Fem/g
+s/『VD\.APPNSM』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Nom Sing Masc/g
+s/『VD\.APPNSN』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Part Nom Sing Neut/g
+s/『VD\.APS1P』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Subj 1st Plur/g
+s/『VD\.APS1S』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Subj 1st Sing/g
+s/『VD\.APS2P』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Subj 2nd Plur/g
+s/『VD\.APS2S』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Subj 2nd Sing/g
+s/『VD\.APS3P』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Subj 3rd Plur/g
+s/『VD\.APS3S』/verb, \#2 aorist \& future passive (non-Q), Aor Pass Subj 3rd Sing/g
+s/『VD\.FPI1P』/verb, \#2 aorist \& future passive (non-Q), Fut Pass Ind 1st Plur/g
+s/『VD\.FPI1S』/verb, \#2 aorist \& future passive (non-Q), Fut Pass Ind 1st Sing/g
+s/『VD\.FPI2P』/verb, \#2 aorist \& future passive (non-Q), Fut Pass Ind 2nd Plur/g
+s/『VD\.FPI2S』/verb, \#2 aorist \& future passive (non-Q), Fut Pass Ind 2nd Sing/g
+s/『VD\.FPI3P』/verb, \#2 aorist \& future passive (non-Q), Fut Pass Ind 3rd Plur/g
+s/『VD\.FPI3S』/verb, \#2 aorist \& future passive (non-Q), Fut Pass Ind 3rd Sing/g
+s/『VD\.PPPNPN』/verb, \#2 aorist \& future passive (non-Q), Pres Pass Part Nom Plur Neut/g
+s/『VDI\.AAI3P』/verb, \#2 aorist \& future passive (non-Q), augmented, Aor Act Ind 3rd Plur/g
+s/『VDI\.APD2P』/verb, \#2 aorist \& future passive (non-Q), augmented, Aor Pass Imperative 2nd Plur/g
+s/『VDI\.API1P』/verb, \#2 aorist \& future passive (non-Q), augmented, Aor Pass Ind 1st Plur/g
+s/『VDI\.API1S』/verb, \#2 aorist \& future passive (non-Q), augmented, Aor Pass Ind 1st Sing/g
+s/『VDI\.API2P』/verb, \#2 aorist \& future passive (non-Q), augmented, Aor Pass Ind 2nd Plur/g
+s/『VDI\.API2S』/verb, \#2 aorist \& future passive (non-Q), augmented, Aor Pass Ind 2nd Sing/g
+s/『VDI\.API3P』/verb, \#2 aorist \& future passive (non-Q), augmented, Aor Pass Ind 3rd Plur/g
+s/『VDI\.API3S』/verb, \#2 aorist \& future passive (non-Q), augmented, Aor Pass Ind 3rd Sing/g
+s/『VDI\.APPAPM』/verb, \#2 aorist \& future passive (non-Q), augmented, Aor Pass Part Acc Plur Masc/g
 s/『VE\.AAD2P』/verb, aorist, -ε stem -μι verb, Aor Act Imperative 2nd Plur/g
 s/『VE\.AAD2S』/verb, aorist, -ε stem -μι verb, Aor Act Imperative 2nd Sing/g
 s/『VE\.AAD3P』/verb, aorist, -ε stem -μι verb, Aor Act Imperative 3rd Plur/g
@@ -2675,121 +2675,121 @@ s/『VPI\.YMI3S』/verb, labial perfect middle, pluperfect augmented, Pluperf Mi
 s/『VPI\.YMPASN』/verb, labial perfect middle, pluperfect augmented, Pluperf Mid Part Acc Sing Neut/g
 s/『VPI\.YMPNSN』/verb, labial perfect middle, pluperfect augmented, Pluperf Mid Part Nom Sing Neut/g
 s/『VPI\.YPI3S』/verb, labial perfect middle, pluperfect augmented, Pluperf Pass Ind 3rd Sing/g
-s/『VQ\.AAD2P』/verb, guttural aorist & future passive, Aor Act Imperative 2nd Plur/g
-s/『VQ\.AAS1P』/verb, guttural aorist & future passive, Aor Act Subj 1st Plur/g
-s/『VQ\.APD2P』/verb, guttural aorist & future passive, Aor Pass Imperative 2nd Plur/g
-s/『VQ\.APD3P』/verb, guttural aorist & future passive, Aor Pass Imperative 3rd Plur/g
-s/『VQ\.APD3S』/verb, guttural aorist & future passive, Aor Pass Imperative 3rd Sing/g
-s/『VQ\.API1S』/verb, guttural aorist & future passive, Aor Pass Ind 1st Sing/g
-s/『VQ\.API2P』/verb, guttural aorist & future passive, Aor Pass Ind 2nd Plur/g
-s/『VQ\.API3P』/verb, guttural aorist & future passive, Aor Pass Ind 3rd Plur/g
-s/『VQ\.API3S』/verb, guttural aorist & future passive, Aor Pass Ind 3rd Sing/g
-s/『VQ\.APN』/verb, guttural aorist & future passive, Acc Plur Neut/g
-s/『VQ\.APO1P』/verb, guttural aorist & future passive, Aor Pass Opt 1st Plur/g
-s/『VQ\.APO3P』/verb, guttural aorist & future passive, Aor Pass Opt 3rd Plur/g
-s/『VQ\.APO3S』/verb, guttural aorist & future passive, Aor Pass Opt 3rd Sing/g
-s/『VQ\.APPAPM』/verb, guttural aorist & future passive, Aor Pass Part Acc Plur Masc/g
-s/『VQ\.APPAPN』/verb, guttural aorist & future passive, Aor Pass Part Acc Plur Neut/g
-s/『VQ\.APPASN』/verb, guttural aorist & future passive, Aor Pass Part Acc Sing Neut/g
-s/『VQ\.APPGPM』/verb, guttural aorist & future passive, Aor Pass Part Gen Plur Masc/g
-s/『VQ\.APPGSF』/verb, guttural aorist & future passive, Aor Pass Part Gen Sing Fem/g
-s/『VQ\.APPGSM』/verb, guttural aorist & future passive, Aor Pass Part Gen Sing Masc/g
-s/『VQ\.APPGSN』/verb, guttural aorist & future passive, Aor Pass Part Gen Sing Neut/g
-s/『VQ\.APPNPM』/verb, guttural aorist & future passive, Aor Pass Part Nom Plur Masc/g
-s/『VQ\.APPNPN』/verb, guttural aorist & future passive, Aor Pass Part Nom Plur Neut/g
-s/『VQ\.APPNSF』/verb, guttural aorist & future passive, Aor Pass Part Nom Sing Fem/g
-s/『VQ\.APPNSM』/verb, guttural aorist & future passive, Aor Pass Part Nom Sing Masc/g
-s/『VQ\.APPNSN』/verb, guttural aorist & future passive, Aor Pass Part Nom Sing Neut/g
-s/『VQ\.APS1P』/verb, guttural aorist & future passive, Aor Pass Subj 1st Plur/g
-s/『VQ\.APS2P』/verb, guttural aorist & future passive, Aor Pass Subj 2nd Plur/g
-s/『VQ\.APS2S』/verb, guttural aorist & future passive, Aor Pass Subj 2nd Sing/g
-s/『VQ\.APS3P』/verb, guttural aorist & future passive, Aor Pass Subj 3rd Plur/g
-s/『VQ\.APS3S』/verb, guttural aorist & future passive, Aor Pass Subj 3rd Sing/g
-s/『VQ\.FPI1S』/verb, guttural aorist & future passive, Fut Pass Ind 1st Sing/g
-s/『VQ\.FPI2P』/verb, guttural aorist & future passive, Fut Pass Ind 2nd Plur/g
-s/『VQ\.FPI2S』/verb, guttural aorist & future passive, Fut Pass Ind 2nd Sing/g
-s/『VQ\.FPI3P』/verb, guttural aorist & future passive, Fut Pass Ind 3rd Plur/g
-s/『VQ\.FPI3S』/verb, guttural aorist & future passive, Fut Pass Ind 3rd Sing/g
-s/『VQ\.FPN』/verb, guttural aorist & future passive, Fut Pass Infin/g
-s/『VQ\.FPPAPM』/verb, guttural aorist & future passive, Fut Pass Part Acc Plur Masc/g
-s/『VQ\.FPPNPM』/verb, guttural aorist & future passive, Fut Pass Part Nom Plur Masc/g
-s/『VQ\.PMI2P』/verb, guttural aorist & future passive, Pres Mid Ind 2nd Plur/g
-s/『VQI\.AAI3P』/verb, guttural aorist & future passive, augmented, Aor Act Ind 3rd Plur/g
-s/『VQI\.AAI3S』/verb, guttural aorist & future passive, augmented, Aor Act Ind 3rd Sing/g
-s/『VQI\.API1P』/verb, guttural aorist & future passive, augmented, Aor Pass Ind 1st Plur/g
-s/『VQI\.API1S』/verb, guttural aorist & future passive, augmented, Aor Pass Ind 1st Sing/g
-s/『VQI\.API2P』/verb, guttural aorist & future passive, augmented, Aor Pass Ind 2nd Plur/g
-s/『VQI\.API2S』/verb, guttural aorist & future passive, augmented, Aor Pass Ind 2nd Sing/g
-s/『VQI\.API3P』/verb, guttural aorist & future passive, augmented, Aor Pass Ind 3rd Plur/g
-s/『VQI\.API3S』/verb, guttural aorist & future passive, augmented, Aor Pass Ind 3rd Sing/g
-s/『VS\.AAD2P』/verb, dental aorist & future passive (\+ζ), Aor Act Imperative 2nd Plur/g
-s/『VS\.AAD2S』/verb, dental aorist & future passive (\+ζ), Aor Act Imperative 2nd Sing/g
-s/『VS\.AAN』/verb, dental aorist & future passive (\+ζ), Aor Act Infin/g
-s/『VS\.AAS1P』/verb, dental aorist & future passive (\+ζ), Aor Act Subj 1st Plur/g
-s/『VS\.AAS2P』/verb, dental aorist & future passive (\+ζ), Aor Act Subj 2nd Plur/g
-s/『VS\.AAS2S』/verb, dental aorist & future passive (\+ζ), Aor Act Subj 2nd Sing/g
-s/『VS\.AAS3P』/verb, dental aorist & future passive (\+ζ), Aor Act Subj 3rd Plur/g
-s/『VS\.AMD2P』/verb, dental aorist & future passive (\+ζ), Aor Mid Imperative 2nd Plur/g
-s/『VS\.AMD2S』/verb, dental aorist & future passive (\+ζ), Aor Mid Imperative 2nd Sing/g
-s/『VS\.APD2P』/verb, dental aorist & future passive (\+ζ), Aor Pass Imperative 2nd Plur/g
-s/『VS\.APD2S』/verb, dental aorist & future passive (\+ζ), Aor Pass Imperative 2nd Sing/g
-s/『VS\.APD3P』/verb, dental aorist & future passive (\+ζ), Aor Pass Imperative 3rd Plur/g
-s/『VS\.APD3S』/verb, dental aorist & future passive (\+ζ), Aor Pass Imperative 3rd Sing/g
-s/『VS\.API1S』/verb, dental aorist & future passive (\+ζ), Aor Pass Ind 1st Sing/g
-s/『VS\.API2S』/verb, dental aorist & future passive (\+ζ), Aor Pass Ind 2nd Sing/g
-s/『VS\.API3P』/verb, dental aorist & future passive (\+ζ), Aor Pass Ind 3rd Plur/g
-s/『VS\.API3S』/verb, dental aorist & future passive (\+ζ), Aor Pass Ind 3rd Sing/g
-s/『VS\.APN』/verb, dental aorist & future passive (\+ζ), Acc Plur Neut/g
-s/『VS\.APO1P』/verb, dental aorist & future passive (\+ζ), Aor Pass Opt 1st Plur/g
-s/『VS\.APO2S』/verb, dental aorist & future passive (\+ζ), Aor Pass Opt 2nd Sing/g
-s/『VS\.APO3P』/verb, dental aorist & future passive (\+ζ), Aor Pass Opt 3rd Plur/g
-s/『VS\.APO3S』/verb, dental aorist & future passive (\+ζ), Aor Pass Opt 3rd Sing/g
-s/『VS\.APPAPM』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Acc Plur Masc/g
-s/『VS\.APPAPN』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Acc Plur Neut/g
-s/『VS\.APPASF』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Acc Sing Fem/g
-s/『VS\.APPASM』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Acc Sing Masc/g
-s/『VS\.APPASN』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Acc Sing Neut/g
-s/『VS\.APPDSM』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Dat Sing Masc/g
-s/『VS\.APPGPM』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Gen Plur Masc/g
-s/『VS\.APPGPN』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Gen Plur Neut/g
-s/『VS\.APPGSF』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Gen Sing Fem/g
-s/『VS\.APPGSM』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Gen Sing Masc/g
-s/『VS\.APPGSN』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Gen Sing Neut/g
-s/『VS\.APPNPM』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Nom Plur Masc/g
-s/『VS\.APPNPN』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Nom Plur Neut/g
-s/『VS\.APPNSF』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Nom Sing Fem/g
-s/『VS\.APPNSM』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Nom Sing Masc/g
-s/『VS\.APPNSN』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Nom Sing Neut/g
-s/『VS\.APPVSF』/verb, dental aorist & future passive (\+ζ), Aor Pass Part Voc Sing Fem/g
-s/『VS\.APS1P』/verb, dental aorist & future passive (\+ζ), Aor Pass Subj 1st Plur/g
-s/『VS\.APS1S』/verb, dental aorist & future passive (\+ζ), Aor Pass Subj 1st Sing/g
-s/『VS\.APS2P』/verb, dental aorist & future passive (\+ζ), Aor Pass Subj 2nd Plur/g
-s/『VS\.APS2S』/verb, dental aorist & future passive (\+ζ), Aor Pass Subj 2nd Sing/g
-s/『VS\.APS3P』/verb, dental aorist & future passive (\+ζ), Aor Pass Subj 3rd Plur/g
-s/『VS\.APS3S』/verb, dental aorist & future passive (\+ζ), Aor Pass Subj 3rd Sing/g
-s/『VS\.FAI3S』/verb, dental aorist & future passive (\+ζ), Fut Act Ind 3rd Sing/g
-s/『VS\.FPI1P』/verb, dental aorist & future passive (\+ζ), Fut Pass Ind 1st Plur/g
-s/『VS\.FPI1S』/verb, dental aorist & future passive (\+ζ), Fut Pass Ind 1st Sing/g
-s/『VS\.FPI2P』/verb, dental aorist & future passive (\+ζ), Fut Pass Ind 2nd Plur/g
-s/『VS\.FPI2S』/verb, dental aorist & future passive (\+ζ), Fut Pass Ind 2nd Sing/g
-s/『VS\.FPI3P』/verb, dental aorist & future passive (\+ζ), Fut Pass Ind 3rd Plur/g
-s/『VS\.FPI3S』/verb, dental aorist & future passive (\+ζ), Fut Pass Ind 3rd Sing/g
-s/『VS\.PPPNSM』/verb, dental aorist & future passive (\+ζ), Pres Pass Part Nom Sing Masc/g
-s/『VS\.XPPGPN』/verb, dental aorist & future passive (\+ζ), Perf Pass Part Gen Plur Neut/g
-s/『VS\.XPPNSF』/verb, dental aorist & future passive (\+ζ), Perf Pass Part Nom Sing Fem/g
-s/『VS\.XPPNSM』/verb, dental aorist & future passive (\+ζ), Perf Pass Part Nom Sing Masc/g
-s/『VSI\.AAI1S』/verb, dental aorist & future passive (\+ζ), augmented, Aor Act Ind 1st Sing/g
-s/『VSI\.AAI3P』/verb, dental aorist & future passive (\+ζ), augmented, Aor Act Ind 3rd Plur/g
-s/『VSI\.AAI3S』/verb, dental aorist & future passive (\+ζ), augmented, Aor Act Ind 3rd Sing/g
-s/『VSI\.AAS1S』/verb, dental aorist & future passive (\+ζ), augmented, Aor Act Subj 1st Sing/g
-s/『VSI\.AMI1S』/verb, dental aorist & future passive (\+ζ), augmented, Aor Mid Ind 1st Sing/g
-s/『VSI\.AMI3S』/verb, dental aorist & future passive (\+ζ), augmented, Aor Mid Ind 3rd Sing/g
-s/『VSI\.API1P』/verb, dental aorist & future passive (\+ζ), augmented, Aor Pass Ind 1st Plur/g
-s/『VSI\.API1S』/verb, dental aorist & future passive (\+ζ), augmented, Aor Pass Ind 1st Sing/g
-s/『VSI\.API2P』/verb, dental aorist & future passive (\+ζ), augmented, Aor Pass Ind 2nd Plur/g
-s/『VSI\.API2S』/verb, dental aorist & future passive (\+ζ), augmented, Aor Pass Ind 2nd Sing/g
-s/『VSI\.API3P』/verb, dental aorist & future passive (\+ζ), augmented, Aor Pass Ind 3rd Plur/g
-s/『VSI\.API3S』/verb, dental aorist & future passive (\+ζ), augmented, Aor Pass Ind 3rd Sing/g
+s/『VQ\.AAD2P』/verb, guttural aorist \& future passive, Aor Act Imperative 2nd Plur/g
+s/『VQ\.AAS1P』/verb, guttural aorist \& future passive, Aor Act Subj 1st Plur/g
+s/『VQ\.APD2P』/verb, guttural aorist \& future passive, Aor Pass Imperative 2nd Plur/g
+s/『VQ\.APD3P』/verb, guttural aorist \& future passive, Aor Pass Imperative 3rd Plur/g
+s/『VQ\.APD3S』/verb, guttural aorist \& future passive, Aor Pass Imperative 3rd Sing/g
+s/『VQ\.API1S』/verb, guttural aorist \& future passive, Aor Pass Ind 1st Sing/g
+s/『VQ\.API2P』/verb, guttural aorist \& future passive, Aor Pass Ind 2nd Plur/g
+s/『VQ\.API3P』/verb, guttural aorist \& future passive, Aor Pass Ind 3rd Plur/g
+s/『VQ\.API3S』/verb, guttural aorist \& future passive, Aor Pass Ind 3rd Sing/g
+s/『VQ\.APN』/verb, guttural aorist \& future passive, Acc Plur Neut/g
+s/『VQ\.APO1P』/verb, guttural aorist \& future passive, Aor Pass Opt 1st Plur/g
+s/『VQ\.APO3P』/verb, guttural aorist \& future passive, Aor Pass Opt 3rd Plur/g
+s/『VQ\.APO3S』/verb, guttural aorist \& future passive, Aor Pass Opt 3rd Sing/g
+s/『VQ\.APPAPM』/verb, guttural aorist \& future passive, Aor Pass Part Acc Plur Masc/g
+s/『VQ\.APPAPN』/verb, guttural aorist \& future passive, Aor Pass Part Acc Plur Neut/g
+s/『VQ\.APPASN』/verb, guttural aorist \& future passive, Aor Pass Part Acc Sing Neut/g
+s/『VQ\.APPGPM』/verb, guttural aorist \& future passive, Aor Pass Part Gen Plur Masc/g
+s/『VQ\.APPGSF』/verb, guttural aorist \& future passive, Aor Pass Part Gen Sing Fem/g
+s/『VQ\.APPGSM』/verb, guttural aorist \& future passive, Aor Pass Part Gen Sing Masc/g
+s/『VQ\.APPGSN』/verb, guttural aorist \& future passive, Aor Pass Part Gen Sing Neut/g
+s/『VQ\.APPNPM』/verb, guttural aorist \& future passive, Aor Pass Part Nom Plur Masc/g
+s/『VQ\.APPNPN』/verb, guttural aorist \& future passive, Aor Pass Part Nom Plur Neut/g
+s/『VQ\.APPNSF』/verb, guttural aorist \& future passive, Aor Pass Part Nom Sing Fem/g
+s/『VQ\.APPNSM』/verb, guttural aorist \& future passive, Aor Pass Part Nom Sing Masc/g
+s/『VQ\.APPNSN』/verb, guttural aorist \& future passive, Aor Pass Part Nom Sing Neut/g
+s/『VQ\.APS1P』/verb, guttural aorist \& future passive, Aor Pass Subj 1st Plur/g
+s/『VQ\.APS2P』/verb, guttural aorist \& future passive, Aor Pass Subj 2nd Plur/g
+s/『VQ\.APS2S』/verb, guttural aorist \& future passive, Aor Pass Subj 2nd Sing/g
+s/『VQ\.APS3P』/verb, guttural aorist \& future passive, Aor Pass Subj 3rd Plur/g
+s/『VQ\.APS3S』/verb, guttural aorist \& future passive, Aor Pass Subj 3rd Sing/g
+s/『VQ\.FPI1S』/verb, guttural aorist \& future passive, Fut Pass Ind 1st Sing/g
+s/『VQ\.FPI2P』/verb, guttural aorist \& future passive, Fut Pass Ind 2nd Plur/g
+s/『VQ\.FPI2S』/verb, guttural aorist \& future passive, Fut Pass Ind 2nd Sing/g
+s/『VQ\.FPI3P』/verb, guttural aorist \& future passive, Fut Pass Ind 3rd Plur/g
+s/『VQ\.FPI3S』/verb, guttural aorist \& future passive, Fut Pass Ind 3rd Sing/g
+s/『VQ\.FPN』/verb, guttural aorist \& future passive, Fut Pass Infin/g
+s/『VQ\.FPPAPM』/verb, guttural aorist \& future passive, Fut Pass Part Acc Plur Masc/g
+s/『VQ\.FPPNPM』/verb, guttural aorist \& future passive, Fut Pass Part Nom Plur Masc/g
+s/『VQ\.PMI2P』/verb, guttural aorist \& future passive, Pres Mid Ind 2nd Plur/g
+s/『VQI\.AAI3P』/verb, guttural aorist \& future passive, augmented, Aor Act Ind 3rd Plur/g
+s/『VQI\.AAI3S』/verb, guttural aorist \& future passive, augmented, Aor Act Ind 3rd Sing/g
+s/『VQI\.API1P』/verb, guttural aorist \& future passive, augmented, Aor Pass Ind 1st Plur/g
+s/『VQI\.API1S』/verb, guttural aorist \& future passive, augmented, Aor Pass Ind 1st Sing/g
+s/『VQI\.API2P』/verb, guttural aorist \& future passive, augmented, Aor Pass Ind 2nd Plur/g
+s/『VQI\.API2S』/verb, guttural aorist \& future passive, augmented, Aor Pass Ind 2nd Sing/g
+s/『VQI\.API3P』/verb, guttural aorist \& future passive, augmented, Aor Pass Ind 3rd Plur/g
+s/『VQI\.API3S』/verb, guttural aorist \& future passive, augmented, Aor Pass Ind 3rd Sing/g
+s/『VS\.AAD2P』/verb, dental aorist \& future passive (\+ζ), Aor Act Imperative 2nd Plur/g
+s/『VS\.AAD2S』/verb, dental aorist \& future passive (\+ζ), Aor Act Imperative 2nd Sing/g
+s/『VS\.AAN』/verb, dental aorist \& future passive (\+ζ), Aor Act Infin/g
+s/『VS\.AAS1P』/verb, dental aorist \& future passive (\+ζ), Aor Act Subj 1st Plur/g
+s/『VS\.AAS2P』/verb, dental aorist \& future passive (\+ζ), Aor Act Subj 2nd Plur/g
+s/『VS\.AAS2S』/verb, dental aorist \& future passive (\+ζ), Aor Act Subj 2nd Sing/g
+s/『VS\.AAS3P』/verb, dental aorist \& future passive (\+ζ), Aor Act Subj 3rd Plur/g
+s/『VS\.AMD2P』/verb, dental aorist \& future passive (\+ζ), Aor Mid Imperative 2nd Plur/g
+s/『VS\.AMD2S』/verb, dental aorist \& future passive (\+ζ), Aor Mid Imperative 2nd Sing/g
+s/『VS\.APD2P』/verb, dental aorist \& future passive (\+ζ), Aor Pass Imperative 2nd Plur/g
+s/『VS\.APD2S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Imperative 2nd Sing/g
+s/『VS\.APD3P』/verb, dental aorist \& future passive (\+ζ), Aor Pass Imperative 3rd Plur/g
+s/『VS\.APD3S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Imperative 3rd Sing/g
+s/『VS\.API1S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Ind 1st Sing/g
+s/『VS\.API2S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Ind 2nd Sing/g
+s/『VS\.API3P』/verb, dental aorist \& future passive (\+ζ), Aor Pass Ind 3rd Plur/g
+s/『VS\.API3S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Ind 3rd Sing/g
+s/『VS\.APN』/verb, dental aorist \& future passive (\+ζ), Acc Plur Neut/g
+s/『VS\.APO1P』/verb, dental aorist \& future passive (\+ζ), Aor Pass Opt 1st Plur/g
+s/『VS\.APO2S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Opt 2nd Sing/g
+s/『VS\.APO3P』/verb, dental aorist \& future passive (\+ζ), Aor Pass Opt 3rd Plur/g
+s/『VS\.APO3S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Opt 3rd Sing/g
+s/『VS\.APPAPM』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Acc Plur Masc/g
+s/『VS\.APPAPN』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Acc Plur Neut/g
+s/『VS\.APPASF』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Acc Sing Fem/g
+s/『VS\.APPASM』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Acc Sing Masc/g
+s/『VS\.APPASN』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Acc Sing Neut/g
+s/『VS\.APPDSM』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Dat Sing Masc/g
+s/『VS\.APPGPM』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Gen Plur Masc/g
+s/『VS\.APPGPN』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Gen Plur Neut/g
+s/『VS\.APPGSF』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Gen Sing Fem/g
+s/『VS\.APPGSM』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Gen Sing Masc/g
+s/『VS\.APPGSN』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Gen Sing Neut/g
+s/『VS\.APPNPM』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Nom Plur Masc/g
+s/『VS\.APPNPN』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Nom Plur Neut/g
+s/『VS\.APPNSF』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Nom Sing Fem/g
+s/『VS\.APPNSM』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Nom Sing Masc/g
+s/『VS\.APPNSN』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Nom Sing Neut/g
+s/『VS\.APPVSF』/verb, dental aorist \& future passive (\+ζ), Aor Pass Part Voc Sing Fem/g
+s/『VS\.APS1P』/verb, dental aorist \& future passive (\+ζ), Aor Pass Subj 1st Plur/g
+s/『VS\.APS1S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Subj 1st Sing/g
+s/『VS\.APS2P』/verb, dental aorist \& future passive (\+ζ), Aor Pass Subj 2nd Plur/g
+s/『VS\.APS2S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Subj 2nd Sing/g
+s/『VS\.APS3P』/verb, dental aorist \& future passive (\+ζ), Aor Pass Subj 3rd Plur/g
+s/『VS\.APS3S』/verb, dental aorist \& future passive (\+ζ), Aor Pass Subj 3rd Sing/g
+s/『VS\.FAI3S』/verb, dental aorist \& future passive (\+ζ), Fut Act Ind 3rd Sing/g
+s/『VS\.FPI1P』/verb, dental aorist \& future passive (\+ζ), Fut Pass Ind 1st Plur/g
+s/『VS\.FPI1S』/verb, dental aorist \& future passive (\+ζ), Fut Pass Ind 1st Sing/g
+s/『VS\.FPI2P』/verb, dental aorist \& future passive (\+ζ), Fut Pass Ind 2nd Plur/g
+s/『VS\.FPI2S』/verb, dental aorist \& future passive (\+ζ), Fut Pass Ind 2nd Sing/g
+s/『VS\.FPI3P』/verb, dental aorist \& future passive (\+ζ), Fut Pass Ind 3rd Plur/g
+s/『VS\.FPI3S』/verb, dental aorist \& future passive (\+ζ), Fut Pass Ind 3rd Sing/g
+s/『VS\.PPPNSM』/verb, dental aorist \& future passive (\+ζ), Pres Pass Part Nom Sing Masc/g
+s/『VS\.XPPGPN』/verb, dental aorist \& future passive (\+ζ), Perf Pass Part Gen Plur Neut/g
+s/『VS\.XPPNSF』/verb, dental aorist \& future passive (\+ζ), Perf Pass Part Nom Sing Fem/g
+s/『VS\.XPPNSM』/verb, dental aorist \& future passive (\+ζ), Perf Pass Part Nom Sing Masc/g
+s/『VSI\.AAI1S』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Act Ind 1st Sing/g
+s/『VSI\.AAI3P』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Act Ind 3rd Plur/g
+s/『VSI\.AAI3S』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Act Ind 3rd Sing/g
+s/『VSI\.AAS1S』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Act Subj 1st Sing/g
+s/『VSI\.AMI1S』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Mid Ind 1st Sing/g
+s/『VSI\.AMI3S』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Mid Ind 3rd Sing/g
+s/『VSI\.API1P』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Pass Ind 1st Plur/g
+s/『VSI\.API1S』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Pass Ind 1st Sing/g
+s/『VSI\.API2P』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Pass Ind 2nd Plur/g
+s/『VSI\.API2S』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Pass Ind 2nd Sing/g
+s/『VSI\.API3P』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Pass Ind 3rd Plur/g
+s/『VSI\.API3S』/verb, dental aorist \& future passive (\+ζ), augmented, Aor Pass Ind 3rd Sing/g
 s/『VT\.PPN』/verb, dental perfect middle (\+ζ), Pres Pass Infin/g
 s/『VT\.PPPASM』/verb, dental perfect middle (\+ζ), Pres Pass Part Acc Sing Masc/g
 s/『VT\.XAI3S』/verb, dental perfect middle (\+ζ), Perf Act Ind 3rd Sing/g
@@ -2850,52 +2850,52 @@ s/『VTI\.API3P』/verb, dental perfect middle (\+ζ), pluperfect augmented, Aor
 s/『VTI\.XMPASN』/verb, dental perfect middle (\+ζ), pluperfect augmented, Perf Mid Part Acc Sing Neut/g
 s/『VTI\.XMPGSM』/verb, dental perfect middle (\+ζ), pluperfect augmented, Perf Mid Part Gen Sing Masc/g
 s/『VTI\.XMPNPM』/verb, dental perfect middle (\+ζ), pluperfect augmented, Perf Mid Part Nom Plur Masc/g
-s/『VV\.AAD2S』/verb, labial aorist & future passive, Aor Act Imperative 2nd Sing/g
-s/『VV\.AMN』/verb, labial aorist & future passive, Aor Mid Infin/g
-s/『VV\.APD2S』/verb, labial aorist & future passive, Aor Pass Imperative 2nd Sing/g
-s/『VV\.APD3P』/verb, labial aorist & future passive, Aor Pass Imperative 3rd Plur/g
-s/『VV\.APD3S』/verb, labial aorist & future passive, Aor Pass Imperative 3rd Sing/g
-s/『VV\.API3P』/verb, labial aorist & future passive, Aor Pass Ind 3rd Plur/g
-s/『VV\.API3S』/verb, labial aorist & future passive, Aor Pass Ind 3rd Sing/g
-s/『VV\.APN』/verb, labial aorist & future passive, Acc Plur Neut/g
-s/『VV\.APO3S』/verb, labial aorist & future passive, Aor Pass Opt 3rd Sing/g
-s/『VV\.APPAPF』/verb, labial aorist & future passive, Aor Pass Part Acc Plur Fem/g
-s/『VV\.APPAPM』/verb, labial aorist & future passive, Aor Pass Part Acc Plur Masc/g
-s/『VV\.APPAPN』/verb, labial aorist & future passive, Aor Pass Part Acc Plur Neut/g
-s/『VV\.APPASF』/verb, labial aorist & future passive, Aor Pass Part Acc Sing Fem/g
-s/『VV\.APPASM』/verb, labial aorist & future passive, Aor Pass Part Acc Sing Masc/g
-s/『VV\.APPASN』/verb, labial aorist & future passive, Aor Pass Part Acc Sing Neut/g
-s/『VV\.APPDPM』/verb, labial aorist & future passive, Aor Pass Part Dat Plur Masc/g
-s/『VV\.APPDPN』/verb, labial aorist & future passive, Aor Pass Part Dat Plur Neut/g
-s/『VV\.APPDSF』/verb, labial aorist & future passive, Aor Pass Part Dat Sing Fem/g
-s/『VV\.APPDSM』/verb, labial aorist & future passive, Aor Pass Part Dat Sing Masc/g
-s/『VV\.APPGPM』/verb, labial aorist & future passive, Aor Pass Part Gen Plur Masc/g
-s/『VV\.APPGSM』/verb, labial aorist & future passive, Aor Pass Part Gen Sing Masc/g
-s/『VV\.APPNPF』/verb, labial aorist & future passive, Aor Pass Part Nom Plur Fem/g
-s/『VV\.APPNPM』/verb, labial aorist & future passive, Aor Pass Part Nom Plur Masc/g
-s/『VV\.APPNSF』/verb, labial aorist & future passive, Aor Pass Part Nom Sing Fem/g
-s/『VV\.APPNSM』/verb, labial aorist & future passive, Aor Pass Part Nom Sing Masc/g
-s/『VV\.APPNSN』/verb, labial aorist & future passive, Aor Pass Part Nom Sing Neut/g
-s/『VV\.APS1P』/verb, labial aorist & future passive, Aor Pass Subj 1st Plur/g
-s/『VV\.APS1S』/verb, labial aorist & future passive, Aor Pass Subj 1st Sing/g
-s/『VV\.APS2P』/verb, labial aorist & future passive, Aor Pass Subj 2nd Plur/g
-s/『VV\.APS2S』/verb, labial aorist & future passive, Aor Pass Subj 2nd Sing/g
-s/『VV\.APS3P』/verb, labial aorist & future passive, Aor Pass Subj 3rd Plur/g
-s/『VV\.APS3S』/verb, labial aorist & future passive, Aor Pass Subj 3rd Sing/g
-s/『VV\.FPI1S』/verb, labial aorist & future passive, Fut Pass Ind 1st Sing/g
-s/『VV\.FPI2P』/verb, labial aorist & future passive, Fut Pass Ind 2nd Plur/g
-s/『VV\.FPI2S』/verb, labial aorist & future passive, Fut Pass Ind 2nd Sing/g
-s/『VV\.FPI3P』/verb, labial aorist & future passive, Fut Pass Ind 3rd Plur/g
-s/『VV\.FPI3S』/verb, labial aorist & future passive, Fut Pass Ind 3rd Sing/g
-s/『VV\.PPPASN』/verb, labial aorist & future passive, Pres Pass Part Acc Sing Neut/g
-s/『VV\.XPPNPF』/verb, labial aorist & future passive, Perf Pass Part Nom Plur Fem/g
-s/『VVI\.AAI3P』/verb, labial aorist & future passive, augmented, Aor Act Ind 3rd Plur/g
-s/『VVI\.AMI1S』/verb, labial aorist & future passive, augmented, Aor Mid Ind 1st Sing/g
-s/『VVI\.API1P』/verb, labial aorist & future passive, augmented, Aor Pass Ind 1st Plur/g
-s/『VVI\.API1S』/verb, labial aorist & future passive, augmented, Aor Pass Ind 1st Sing/g
-s/『VVI\.API2S』/verb, labial aorist & future passive, augmented, Aor Pass Ind 2nd Sing/g
-s/『VVI\.API3P』/verb, labial aorist & future passive, augmented, Aor Pass Ind 3rd Plur/g
-s/『VVI\.API3S』/verb, labial aorist & future passive, augmented, Aor Pass Ind 3rd Sing/g
+s/『VV\.AAD2S』/verb, labial aorist \& future passive, Aor Act Imperative 2nd Sing/g
+s/『VV\.AMN』/verb, labial aorist \& future passive, Aor Mid Infin/g
+s/『VV\.APD2S』/verb, labial aorist \& future passive, Aor Pass Imperative 2nd Sing/g
+s/『VV\.APD3P』/verb, labial aorist \& future passive, Aor Pass Imperative 3rd Plur/g
+s/『VV\.APD3S』/verb, labial aorist \& future passive, Aor Pass Imperative 3rd Sing/g
+s/『VV\.API3P』/verb, labial aorist \& future passive, Aor Pass Ind 3rd Plur/g
+s/『VV\.API3S』/verb, labial aorist \& future passive, Aor Pass Ind 3rd Sing/g
+s/『VV\.APN』/verb, labial aorist \& future passive, Acc Plur Neut/g
+s/『VV\.APO3S』/verb, labial aorist \& future passive, Aor Pass Opt 3rd Sing/g
+s/『VV\.APPAPF』/verb, labial aorist \& future passive, Aor Pass Part Acc Plur Fem/g
+s/『VV\.APPAPM』/verb, labial aorist \& future passive, Aor Pass Part Acc Plur Masc/g
+s/『VV\.APPAPN』/verb, labial aorist \& future passive, Aor Pass Part Acc Plur Neut/g
+s/『VV\.APPASF』/verb, labial aorist \& future passive, Aor Pass Part Acc Sing Fem/g
+s/『VV\.APPASM』/verb, labial aorist \& future passive, Aor Pass Part Acc Sing Masc/g
+s/『VV\.APPASN』/verb, labial aorist \& future passive, Aor Pass Part Acc Sing Neut/g
+s/『VV\.APPDPM』/verb, labial aorist \& future passive, Aor Pass Part Dat Plur Masc/g
+s/『VV\.APPDPN』/verb, labial aorist \& future passive, Aor Pass Part Dat Plur Neut/g
+s/『VV\.APPDSF』/verb, labial aorist \& future passive, Aor Pass Part Dat Sing Fem/g
+s/『VV\.APPDSM』/verb, labial aorist \& future passive, Aor Pass Part Dat Sing Masc/g
+s/『VV\.APPGPM』/verb, labial aorist \& future passive, Aor Pass Part Gen Plur Masc/g
+s/『VV\.APPGSM』/verb, labial aorist \& future passive, Aor Pass Part Gen Sing Masc/g
+s/『VV\.APPNPF』/verb, labial aorist \& future passive, Aor Pass Part Nom Plur Fem/g
+s/『VV\.APPNPM』/verb, labial aorist \& future passive, Aor Pass Part Nom Plur Masc/g
+s/『VV\.APPNSF』/verb, labial aorist \& future passive, Aor Pass Part Nom Sing Fem/g
+s/『VV\.APPNSM』/verb, labial aorist \& future passive, Aor Pass Part Nom Sing Masc/g
+s/『VV\.APPNSN』/verb, labial aorist \& future passive, Aor Pass Part Nom Sing Neut/g
+s/『VV\.APS1P』/verb, labial aorist \& future passive, Aor Pass Subj 1st Plur/g
+s/『VV\.APS1S』/verb, labial aorist \& future passive, Aor Pass Subj 1st Sing/g
+s/『VV\.APS2P』/verb, labial aorist \& future passive, Aor Pass Subj 2nd Plur/g
+s/『VV\.APS2S』/verb, labial aorist \& future passive, Aor Pass Subj 2nd Sing/g
+s/『VV\.APS3P』/verb, labial aorist \& future passive, Aor Pass Subj 3rd Plur/g
+s/『VV\.APS3S』/verb, labial aorist \& future passive, Aor Pass Subj 3rd Sing/g
+s/『VV\.FPI1S』/verb, labial aorist \& future passive, Fut Pass Ind 1st Sing/g
+s/『VV\.FPI2P』/verb, labial aorist \& future passive, Fut Pass Ind 2nd Plur/g
+s/『VV\.FPI2S』/verb, labial aorist \& future passive, Fut Pass Ind 2nd Sing/g
+s/『VV\.FPI3P』/verb, labial aorist \& future passive, Fut Pass Ind 3rd Plur/g
+s/『VV\.FPI3S』/verb, labial aorist \& future passive, Fut Pass Ind 3rd Sing/g
+s/『VV\.PPPASN』/verb, labial aorist \& future passive, Pres Pass Part Acc Sing Neut/g
+s/『VV\.XPPNPF』/verb, labial aorist \& future passive, Perf Pass Part Nom Plur Fem/g
+s/『VVI\.AAI3P』/verb, labial aorist \& future passive, augmented, Aor Act Ind 3rd Plur/g
+s/『VVI\.AMI1S』/verb, labial aorist \& future passive, augmented, Aor Mid Ind 1st Sing/g
+s/『VVI\.API1P』/verb, labial aorist \& future passive, augmented, Aor Pass Ind 1st Plur/g
+s/『VVI\.API1S』/verb, labial aorist \& future passive, augmented, Aor Pass Ind 1st Sing/g
+s/『VVI\.API2S』/verb, labial aorist \& future passive, augmented, Aor Pass Ind 2nd Sing/g
+s/『VVI\.API3P』/verb, labial aorist \& future passive, augmented, Aor Pass Ind 3rd Plur/g
+s/『VVI\.API3S』/verb, labial aorist \& future passive, augmented, Aor Pass Ind 3rd Sing/g
 s/『VX\.AAD2S』/verb, perfect active, Aor Act Imperative 2nd Sing/g
 s/『VX\.FPI3S』/verb, perfect active, Fut Pass Ind 3rd Sing/g
 s/『VX\.PAI3S』/verb, perfect active, Pres Act Ind 3rd Sing/g
