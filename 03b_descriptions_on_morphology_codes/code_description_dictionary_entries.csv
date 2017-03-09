@@ -1,0 +1,801 @@
+A	adjective
+A.APF	adjective, Acc Plur Fem
+A.APFC	adjective, Acc Plur Fem Compar
+A.APFS	adjective, Acc Plur Fem Superlative
+A.APM	adjective, Acc Plur Masc
+A.APMC	adjective, Acc Plur Masc Compar
+A.APMS	adjective, Acc Plur Masc Superlative
+A.APN	adjective, Acc Plur Neut
+A.APNC	adjective, Acc Plur Neut Compar
+A.APNS	adjective, Acc Plur Neut Superlative
+A.ASF	adjective, Acc Sing Fem
+A.ASFC	adjective, Acc Sing Fem Compar
+A.ASFS	adjective, Acc Sing Fem Superlative
+A.ASM	adjective, Acc Sing Masc
+A.ASMC	adjective, Acc Sing Masc Compar
+A.ASMS	adjective, Acc Sing Masc Superlative
+A.ASN	adjective, Acc Sing Neut
+A.ASNC	adjective, Acc Sing Neut Compar
+A.ASNS	adjective, Acc Sing Neut Superlative
+A.B	adjective, 
+A.D	adjective, Dat
+A.DP	adjective, Dat Plur
+A.DPF	adjective, Dat Plur Fem
+A.DPFS	adjective, Dat Plur Fem Superlative
+A.DPM	adjective, Dat Plur Masc
+A.DPMC	adjective, Dat Plur Masc Compar
+A.DPMS	adjective, Dat Plur Masc Superlative
+A.DPN	adjective, Dat Plur Neut
+A.DPNS	adjective, Dat Plur Neut Superlative
+A.DS	adjective, Dat Sing
+A.DSF	adjective, Dat Sing Fem
+A.DSFC	adjective, Dat Sing Fem Compar
+A.DSFS	adjective, Dat Sing Fem Superlative
+A.DSM	adjective, Dat Sing Masc
+A.DSMC	adjective, Dat Sing Masc Compar
+A.DSMS	adjective, Dat Sing Masc Superlative
+A.DSN	adjective, Dat Sing Neut
+A.DSNS	adjective, Dat Sing Neut Superlative
+A.GPF	adjective, Gen Plur Fem
+A.GPFC	adjective, Gen Plur Fem Compar
+A.GPFS	adjective, Gen Plur Fem Superlative
+A.GPM	adjective, Gen Plur Masc
+A.GPMC	adjective, Gen Plur Masc Compar
+A.GPMS	adjective, Gen Plur Masc Superlative
+A.GPN	adjective, Gen Plur Neut
+A.GPNC	adjective, Gen Plur Neut Compar
+A.GPNS	adjective, Gen Plur Neut Superlative
+A.GSF	adjective, Gen Sing Fem
+A.GSFC	adjective, Gen Sing Fem Compar
+A.GSFS	adjective, Gen Sing Fem Superlative
+A.GSM	adjective, Gen Sing Masc
+A.GSMC	adjective, Gen Sing Masc Compar
+A.GSMS	adjective, Gen Sing Masc Superlative
+A.GSN	adjective, Gen Sing Neut
+A.GSNC	adjective, Gen Sing Neut Compar
+A.GSNS	adjective, Gen Sing Neut Superlative
+A.NPF	adjective, Nom Plur Fem
+A.NPFC	adjective, Nom Plur Fem Compar
+A.NPFS	adjective, Nom Plur Fem Superlative
+A.NPM	adjective, Nom Plur Masc
+A.NPMC	adjective, Nom Plur Masc Compar
+A.NPMS	adjective, Nom Plur Masc Superlative
+A.NPN	adjective, Nom Plur Neut
+A.NPNC	adjective, Nom Plur Neut Compar
+A.NPNS	adjective, Nom Plur Neut Superlative
+A.NSF	adjective, Nom Sing Fem
+A.NSFC	adjective, Nom Sing Fem Compar
+A.NSFS	adjective, Nom Sing Fem Superlative
+A.NSM	adjective, Nom Sing Masc
+A.NSMC	adjective, Nom Sing Masc Compar
+A.NSMS	adjective, Nom Sing Masc Superlative
+A.NSN	adjective, Nom Sing Neut
+A.NSNC	adjective, Nom Sing Neut Compar
+A.NSNS	adjective, Nom Sing Neut Superlative
+A.P	adjective, Pres
+A.VPM	adjective, Voc Plur Masc
+A.VPN	adjective, Voc Plur Neut
+A.VPNS	adjective, Voc Plur Neut Superlative
+A.VSF	adjective, Voc Sing Fem
+A.VSM	adjective, Voc Sing Masc
+A.VSMC	adjective, Voc Sing Masc Compar
+A.VSMS	adjective, Voc Sing Masc Superlative
+A.VSN	adjective, Voc Sing Neut
+A1P	adjective, 1st declension, -οσ/-α/-ον pattern endings
+A3	adjective, 3rd declension pattern endings
+C	conjunction
+C+D	conjunction + adverb
+C+RD.DPM	conjunction + pronoun, demonstrative, Dat Plur Masc
+C+RD.GSM	conjunction + pronoun, demonstrative, Gen Sing Masc
+C+RD.NPM	conjunction + pronoun, demonstrative, Nom Plur Masc
+C+RP.AS	conjunction + pronoun, relative, Acc Sing
+C+RP.DS	conjunction + pronoun, relative, Dat Sing
+C+RP.GS	conjunction + pronoun, relative, Gen Sing
+C+RP.NS	conjunction + pronoun, relative, Nom Sing
+C+RP.NSM	conjunction + pronoun, relative, Nom Sing Masc
+C+X	conjunction + particle
+D	adverb
+D.APN	adverb, Acc Plur Neut
+D.DSF	adverb, Dat Sing Fem
+D.P	adverb, Pres
+I	interjection
+M	indeclinable number
+M.ADF	indeclinable number, Acc Dual Fem
+M.ADM	indeclinable number, Acc Dual Masc
+M.ADN	indeclinable number, Acc Dual Neut
+M.APF	indeclinable number, Acc Plur Fem
+M.APM	indeclinable number, Acc Plur Masc
+M.ASN	indeclinable number, Acc Sing Neut
+M.DP	indeclinable number, Dat Plur
+M.DPF	indeclinable number, Dat Plur Fem
+M.DPM	indeclinable number, Dat Plur Masc
+M.DPN	indeclinable number, Dat Plur Neut
+M.DS	indeclinable number, Dat Sing
+M.DSF	indeclinable number, Dat Sing Fem
+M.GDF	indeclinable number, Gen Dual Fem
+M.GDM	indeclinable number, Gen Dual Masc
+M.GDN	indeclinable number, Gen Dual Neut
+M.GPF	indeclinable number, Gen Plur Fem
+M.GSF	indeclinable number, Gen Sing Fem
+M.GSM	indeclinable number, Gen Sing Masc
+M.NDF	indeclinable number, Nom Dual Fem
+M.NDM	indeclinable number, Nom Dual Masc
+M.NDN	indeclinable number, Nom Dual Neut
+M.NPF	indeclinable number, Nom Plur Fem
+M.NPM	indeclinable number, Nom Plur Masc
+M.NSM	indeclinable number, Nom Sing Masc
+M3M.ASN	indeclinable number, Acc Sing Neut
+M3M.NPN	indeclinable number, Nom Plur Neut
+N	noun
+N.A	noun, Acc
+N.AAN	noun, Aor Act Infin
+N.AP	noun, Acc Plur
+N.APF	noun, Acc Plur Fem
+N.APM	noun, Acc Plur Masc
+N.APMC	noun, Acc Plur Masc Compar
+N.APN	noun, Acc Plur Neut
+N.AS	noun, Acc Sing
+N.ASF	noun, Acc Sing Fem
+N.ASM	noun, Acc Sing Masc
+N.ASN	noun, Acc Sing Neut
+N.D	noun, Dat
+N.DP	noun, Dat Plur
+N.DPF	noun, Dat Plur Fem
+N.DPM	noun, Dat Plur Masc
+N.DPN	noun, Dat Plur Neut
+N.DS	noun, Dat Sing
+N.DSF	noun, Dat Sing Fem
+N.DSM	noun, Dat Sing Masc
+N.DSN	noun, Dat Sing Neut
+N.G	noun, Gen
+N.G/D	noun, Gen/Dat
+N.GP	noun, Gen Plur
+N.GPF	noun, Gen Plur Fem
+N.GPM	noun, Gen Plur Masc
+N.GPMS	noun, Gen Plur Masc Superlative
+N.GPN	noun, Gen Plur Neut
+N.GS	noun, Gen Sing
+N.GSF	noun, Gen Sing Fem
+N.GSM	noun, Gen Sing Masc
+N.GSN	noun, Gen Sing Neut
+N.N	noun, Nom
+N.N M	noun, Nom Masc
+N.NP	noun, Nom Plur
+N.NPF	noun, Nom Plur Fem
+N.NPM	noun, Nom Plur Masc
+N.NPN	noun, Nom Plur Neut
+N.NS	noun, Nom Sing
+N.NSF	noun, Nom Sing Fem
+N.NSM	noun, Nom Sing Masc
+N.NSN	noun, Nom Sing Neut
+N.S	noun, Sing
+N.SF	noun, Sing Fem
+N.SM	noun, Sing Masc
+N.SN	noun, Sing Neut
+N.VPF	noun, Voc Plur Fem
+N.VPM	noun, Voc Plur Masc
+N.VPN	noun, Voc Plur Neut
+N.VS	noun, Voc Sing
+N.VSF	noun, Voc Sing Fem
+N.VSM	noun, Voc Sing Masc
+N.VSN	noun, Voc Sing Neut
+P	preposition
+P+A.ASM	preposition + adjective, Acc Sing Masc
+P+X	preposition + particle
+RA.APF	pronoun, article, Acc Plur Fem
+RA.APM	pronoun, article, Acc Plur Masc
+RA.APN	pronoun, article, Acc Plur Neut
+RA.ASF	pronoun, article, Acc Sing Fem
+RA.ASM	pronoun, article, Acc Sing Masc
+RA.ASN	pronoun, article, Acc Sing Neut
+RA.DP	pronoun, article, Dat Plur
+RA.DPF	pronoun, article, Dat Plur Fem
+RA.DPM	pronoun, article, Dat Plur Masc
+RA.DPN	pronoun, article, Dat Plur Neut
+RA.DS	pronoun, article, Dat Sing
+RA.DSF	pronoun, article, Dat Sing Fem
+RA.DSM	pronoun, article, Dat Sing Masc
+RA.DSN	pronoun, article, Dat Sing Neut
+RA.GP	pronoun, article, Gen Plur
+RA.GPF	pronoun, article, Gen Plur Fem
+RA.GPM	pronoun, article, Gen Plur Masc
+RA.GPN	pronoun, article, Gen Plur Neut
+RA.GS	pronoun, article, Gen Sing
+RA.GSF	pronoun, article, Gen Sing Fem
+RA.GSM	pronoun, article, Gen Sing Masc
+RA.GSN	pronoun, article, Gen Sing Neut
+RA.NPF	pronoun, article, Nom Plur Fem
+RA.NPM	pronoun, article, Nom Plur Masc
+RA.NPN	pronoun, article, Nom Plur Neut
+RA.NSF	pronoun, article, Nom Sing Fem
+RA.NSM	pronoun, article, Nom Sing Masc
+RA.NSN	pronoun, article, Nom Sing Neut
+RA.VPM	pronoun, article, Voc Plur Masc
+RA.VPN	pronoun, article, Voc Plur Neut
+RA.VSF	pronoun, article, Voc Sing Fem
+RA.VSM	pronoun, article, Voc Sing Masc
+RA.VSN	pronoun, article, Voc Sing Neut
+RA+A	pronoun, article + adjective
+RA+A.ASN	pronoun, article + adjective, Acc Sing Neut
+RD.APF	pronoun, demonstrative, Acc Plur Fem
+RD.APM	pronoun, demonstrative, Acc Plur Masc
+RD.APN	pronoun, demonstrative, Acc Plur Neut
+RD.ASF	pronoun, demonstrative, Acc Sing Fem
+RD.ASM	pronoun, demonstrative, Acc Sing Masc
+RD.ASN	pronoun, demonstrative, Acc Sing Neut
+RD.DPF	pronoun, demonstrative, Dat Plur Fem
+RD.DPM	pronoun, demonstrative, Dat Plur Masc
+RD.DPN	pronoun, demonstrative, Dat Plur Neut
+RD.DSF	pronoun, demonstrative, Dat Sing Fem
+RD.DSM	pronoun, demonstrative, Dat Sing Masc
+RD.DSN	pronoun, demonstrative, Dat Sing Neut
+RD.GPF	pronoun, demonstrative, Gen Plur Fem
+RD.GPM	pronoun, demonstrative, Gen Plur Masc
+RD.GPN	pronoun, demonstrative, Gen Plur Neut
+RD.GS	pronoun, demonstrative, Gen Sing
+RD.GSF	pronoun, demonstrative, Gen Sing Fem
+RD.GSM	pronoun, demonstrative, Gen Sing Masc
+RD.GSN	pronoun, demonstrative, Gen Sing Neut
+RD.NPF	pronoun, demonstrative, Nom Plur Fem
+RD.NPM	pronoun, demonstrative, Nom Plur Masc
+RD.NPN	pronoun, demonstrative, Nom Plur Neut
+RD.NSF	pronoun, demonstrative, Nom Sing Fem
+RD.NSM	pronoun, demonstrative, Nom Sing Masc
+RD.NSN	pronoun, demonstrative, Nom Sing Neut
+RD+N.GSM	pronoun, demonstrative + noun, Gen Sing Masc
+RI	pronoun, interrogative/indefinite
+RI.APF	pronoun, interrogative/indefinite, Acc Plur Fem
+RI.APM	pronoun, interrogative/indefinite, Acc Plur Masc
+RI.APN	pronoun, interrogative/indefinite, Acc Plur Neut
+RI.AS	pronoun, interrogative/indefinite, Acc Sing
+RI.ASF	pronoun, interrogative/indefinite, Acc Sing Fem
+RI.ASM	pronoun, interrogative/indefinite, Acc Sing Masc
+RI.ASN	pronoun, interrogative/indefinite, Acc Sing Neut
+RI.D	pronoun, interrogative/indefinite, Dat
+RI.DPN	pronoun, interrogative/indefinite, Dat Plur Neut
+RI.DSF	pronoun, interrogative/indefinite, Dat Sing Fem
+RI.DSM	pronoun, interrogative/indefinite, Dat Sing Masc
+RI.DSN	pronoun, interrogative/indefinite, Dat Sing Neut
+RI.GPM	pronoun, interrogative/indefinite, Gen Plur Masc
+RI.GPN	pronoun, interrogative/indefinite, Gen Plur Neut
+RI.GS	pronoun, interrogative/indefinite, Gen Sing
+RI.GSF	pronoun, interrogative/indefinite, Gen Sing Fem
+RI.GSM	pronoun, interrogative/indefinite, Gen Sing Masc
+RI.GSN	pronoun, interrogative/indefinite, Gen Sing Neut
+RI.NPF	pronoun, interrogative/indefinite, Nom Plur Fem
+RI.NPM	pronoun, interrogative/indefinite, Nom Plur Masc
+RI.NPN	pronoun, interrogative/indefinite, Nom Plur Neut
+RI.NS	pronoun, interrogative/indefinite, Nom Sing
+RI.NSF	pronoun, interrogative/indefinite, Nom Sing Fem
+RI.NSM	pronoun, interrogative/indefinite, Nom Sing Masc
+RI.NSN	pronoun, interrogative/indefinite, Nom Sing Neut
+RP.AP	pronoun, personal/possessive, Acc Plur
+RP.APF	pronoun, personal/possessive, Acc Plur Fem
+RP.APM	pronoun, personal/possessive, Acc Plur Masc
+RP.APN	pronoun, personal/possessive, Acc Plur Neut
+RP.AS	pronoun, personal/possessive, Acc Sing
+RP.ASF	pronoun, personal/possessive, Acc Sing Fem
+RP.ASM	pronoun, personal/possessive, Acc Sing Masc
+RP.ASN	pronoun, personal/possessive, Acc Sing Neut
+RP.DP	pronoun, personal/possessive, Dat Plur
+RP.DPF	pronoun, personal/possessive, Dat Plur Fem
+RP.DPM	pronoun, personal/possessive, Dat Plur Masc
+RP.DS	pronoun, personal/possessive, Dat Sing
+RP.DSF	pronoun, personal/possessive, Dat Sing Fem
+RP.DSM	pronoun, personal/possessive, Dat Sing Masc
+RP.GP	pronoun, personal/possessive, Gen Plur
+RP.GPF	pronoun, personal/possessive, Gen Plur Fem
+RP.GPM	pronoun, personal/possessive, Gen Plur Masc
+RP.GS	pronoun, personal/possessive, Gen Sing
+RP.GSF	pronoun, personal/possessive, Gen Sing Fem
+RP.GSM	pronoun, personal/possessive, Gen Sing Masc
+RP.NP	pronoun, personal/possessive, Nom Plur
+RP.NPM	pronoun, personal/possessive, Nom Plur Masc
+RP.NPN	pronoun, personal/possessive, Nom Plur Neut
+RP.NS	pronoun, personal/possessive, Nom Sing
+RP.NSF	pronoun, personal/possessive, Nom Sing Fem
+RP.NSM	pronoun, personal/possessive, Nom Sing Masc
+RP.VS	pronoun, personal/possessive, Voc Sing
+RP+X.NS	pronoun, personal/possessive + particle, Nom Sing
+RR.APF	pronoun, relative, Acc Plur Fem
+RR.APM	pronoun, relative, Acc Plur Masc
+RR.APN	pronoun, relative, Acc Plur Neut
+RR.ASF	pronoun, relative, Acc Sing Fem
+RR.ASM	pronoun, relative, Acc Sing Masc
+RR.ASN	pronoun, relative, Acc Sing Neut
+RR.DPF	pronoun, relative, Dat Plur Fem
+RR.DPM	pronoun, relative, Dat Plur Masc
+RR.DPN	pronoun, relative, Dat Plur Neut
+RR.DSF	pronoun, relative, Dat Sing Fem
+RR.DSM	pronoun, relative, Dat Sing Masc
+RR.DSN	pronoun, relative, Dat Sing Neut
+RR.GPF	pronoun, relative, Gen Plur Fem
+RR.GPM	pronoun, relative, Gen Plur Masc
+RR.GPN	pronoun, relative, Gen Plur Neut
+RR.GSF	pronoun, relative, Gen Sing Fem
+RR.GSM	pronoun, relative, Gen Sing Masc
+RR.GSN	pronoun, relative, Gen Sing Neut
+RR.NPF	pronoun, relative, Nom Plur Fem
+RR.NPM	pronoun, relative, Nom Plur Masc
+RR.NPN	pronoun, relative, Nom Plur Neut
+RR.NSF	pronoun, relative, Nom Sing Fem
+RR.NSM	pronoun, relative, Nom Sing Masc
+RR.NSN	pronoun, relative, Nom Sing Neut
+RX.GSM	pronoun, relative, ὅστις, Gen Sing Masc
+RX.GSN	pronoun, relative, ὅστις, Gen Sing Neut
+RX.NPF	pronoun, relative, ὅστις, Nom Plur Fem
+RX.NPM	pronoun, relative, ὅστις, Nom Plur Masc
+RX.NSF	pronoun, relative, ὅστις, Nom Sing Fem
+RX.NSM	pronoun, relative, ὅστις, Nom Sing Masc
+RX.NSN	pronoun, relative, ὅστις, Nom Sing Neut
+V.AAD1S	verb, Aor Act Imperative 1st Sing
+V.AAD2P	verb, Aor Act Imperative 2nd Plur
+V.AAD2S	verb, Aor Act Imperative 2nd Sing
+V.AAD3P	verb, Aor Act Imperative 3rd Plur
+V.AAD3S	verb, Aor Act Imperative 3rd Sing
+V.AAI1P	verb, Aor Act Ind 1st Plur
+V.AAI1S	verb, Aor Act Ind 1st Sing
+V.AAI2P	verb, Aor Act Ind 2nd Plur
+V.AAI2S	verb, Aor Act Ind 2nd Sing
+V.AAI3P	verb, Aor Act Ind 3rd Plur
+V.AAI3S	verb, Aor Act Ind 3rd Sing
+V.AAN	verb, Aor Act Infin
+V.AAO1P	verb, Aor Act Opt 1st Plur
+V.AAO1S	verb, Aor Act Opt 1st Sing
+V.AAO2P	verb, Aor Act Opt 2nd Plur
+V.AAO2S	verb, Aor Act Opt 2nd Sing
+V.AAO3P	verb, Aor Act Opt 3rd Plur
+V.AAO3S	verb, Aor Act Opt 3rd Sing
+V.AAP3S	verb, Aor Act Part 3rd Sing
+V.AAPAPF	verb, Aor Act Part Acc Plur Fem
+V.AAPAPM	verb, Aor Act Part Acc Plur Masc
+V.AAPAPN	verb, Aor Act Part Acc Plur Neut
+V.AAPASF	verb, Aor Act Part Acc Sing Fem
+V.AAPASM	verb, Aor Act Part Acc Sing Masc
+V.AAPASN	verb, Aor Act Part Acc Sing Neut
+V.AAPDPF	verb, Aor Act Part Dat Plur Fem
+V.AAPDPM	verb, Aor Act Part Dat Plur Masc
+V.AAPDPN	verb, Aor Act Part Dat Plur Neut
+V.AAPDSF	verb, Aor Act Part Dat Sing Fem
+V.AAPDSM	verb, Aor Act Part Dat Sing Masc
+V.AAPGPF	verb, Aor Act Part Gen Plur Fem
+V.AAPGPM	verb, Aor Act Part Gen Plur Masc
+V.AAPGPN	verb, Aor Act Part Gen Plur Neut
+V.AAPGSF	verb, Aor Act Part Gen Sing Fem
+V.AAPGSM	verb, Aor Act Part Gen Sing Masc
+V.AAPGSN	verb, Aor Act Part Gen Sing Neut
+V.AAPNPF	verb, Aor Act Part Nom Plur Fem
+V.AAPNPM	verb, Aor Act Part Nom Plur Masc
+V.AAPNPN	verb, Aor Act Part Nom Plur Neut
+V.AAPNSF	verb, Aor Act Part Nom Sing Fem
+V.AAPNSM	verb, Aor Act Part Nom Sing Masc
+V.AAPNSN	verb, Aor Act Part Nom Sing Neut
+V.AAPVSF	verb, Aor Act Part Voc Sing Fem
+V.AAS	verb, Aor Act Subj
+V.AAS1P	verb, Aor Act Subj 1st Plur
+V.AAS1S	verb, Aor Act Subj 1st Sing
+V.AAS2P	verb, Aor Act Subj 2nd Plur
+V.AAS2S	verb, Aor Act Subj 2nd Sing
+V.AAS3P	verb, Aor Act Subj 3rd Plur
+V.AAS3S	verb, Aor Act Subj 3rd Sing
+V.AI3P	verb, Fut Act Ind 3rd Plur
+V.AMD2P	verb, Aor Mid Imperative 2nd Plur
+V.AMD2S	verb, Aor Mid Imperative 2nd Sing
+V.AMD3P	verb, Aor Mid Imperative 3rd Plur
+V.AMD3S	verb, Aor Mid Imperative 3rd Sing
+V.AMI1P	verb, Aor Mid Ind 1st Plur
+V.AMI1S	verb, Aor Mid Ind 1st Sing
+V.AMI2P	verb, Aor Mid Ind 2nd Plur
+V.AMI2S	verb, Aor Mid Ind 2nd Sing
+V.AMI3P	verb, Aor Mid Ind 3rd Plur
+V.AMI3S	verb, Aor Mid Ind 3rd Sing
+V.AMN	verb, Aor Mid Infin
+V.AMO1P	verb, Aor Mid Opt 1st Plur
+V.AMO1S	verb, Aor Mid Opt 1st Sing
+V.AMO2S	verb, Aor Mid Opt 2nd Sing
+V.AMO3P	verb, Aor Mid Opt 3rd Plur
+V.AMO3S	verb, Aor Mid Opt 3rd Sing
+V.AMP	verb, Aor Mid Part
+V.AMPAPF	verb, Aor Mid Part Acc Plur Fem
+V.AMPAPM	verb, Aor Mid Part Acc Plur Masc
+V.AMPAPN	verb, Aor Mid Part Acc Plur Neut
+V.AMPASF	verb, Aor Mid Part Acc Sing Fem
+V.AMPASM	verb, Aor Mid Part Acc Sing Masc
+V.AMPASN	verb, Aor Mid Part Acc Sing Neut
+V.AMPDPM	verb, Aor Mid Part Dat Plur Masc
+V.AMPDSM	verb, Aor Mid Part Dat Sing Masc
+V.AMPGPF	verb, Aor Mid Part Gen Plur Fem
+V.AMPGPM	verb, Aor Mid Part Gen Plur Masc
+V.AMPGPN	verb, Aor Mid Part Gen Plur Neut
+V.AMPGSF	verb, Aor Mid Part Gen Sing Fem
+V.AMPGSM	verb, Aor Mid Part Gen Sing Masc
+V.AMPGSN	verb, Aor Mid Part Gen Sing Neut
+V.AMPNPF	verb, Aor Mid Part Nom Plur Fem
+V.AMPNPM	verb, Aor Mid Part Nom Plur Masc
+V.AMPNPN	verb, Aor Mid Part Nom Plur Neut
+V.AMPNSF	verb, Aor Mid Part Nom Sing Fem
+V.AMPNSM	verb, Aor Mid Part Nom Sing Masc
+V.AMPNSN	verb, Aor Mid Part Nom Sing Neut
+V.AMS1P	verb, Aor Mid Subj 1st Plur
+V.AMS1S	verb, Aor Mid Subj 1st Sing
+V.AMS2P	verb, Aor Mid Subj 2nd Plur
+V.AMS2S	verb, Aor Mid Subj 2nd Sing
+V.AMS3P	verb, Aor Mid Subj 3rd Plur
+V.AMS3S	verb, Aor Mid Subj 3rd Sing
+V.APD2P	verb, Aor Pass Imperative 2nd Plur
+V.APD2S	verb, Aor Pass Imperative 2nd Sing
+V.APD3P	verb, Aor Pass Imperative 3rd Plur
+V.APD3S	verb, Aor Pass Imperative 3rd Sing
+V.API1P	verb, Aor Pass Ind 1st Plur
+V.API1S	verb, Aor Pass Ind 1st Sing
+V.API2P	verb, Aor Pass Ind 2nd Plur
+V.API2S	verb, Aor Pass Ind 2nd Sing
+V.API3P	verb, Aor Pass Ind 3rd Plur
+V.API3S	verb, Aor Pass Ind 3rd Sing
+V.APN	verb, Acc Plur Neut
+V.APO1P	verb, Aor Pass Opt 1st Plur
+V.APO1S	verb, Aor Pass Opt 1st Sing
+V.APO2P	verb, Aor Pass Opt 2nd Plur
+V.APO2S	verb, Aor Pass Opt 2nd Sing
+V.APO3P	verb, Aor Pass Opt 3rd Plur
+V.APO3S	verb, Aor Pass Opt 3rd Sing
+V.APP2S	verb, Aor Pass Part 2nd Sing
+V.APPAPF	verb, Aor Pass Part Acc Plur Fem
+V.APPAPM	verb, Aor Pass Part Acc Plur Masc
+V.APPAPN	verb, Aor Pass Part Acc Plur Neut
+V.APPASF	verb, Aor Pass Part Acc Sing Fem
+V.APPASM	verb, Aor Pass Part Acc Sing Masc
+V.APPASN	verb, Aor Pass Part Acc Sing Neut
+V.APPDPM	verb, Aor Pass Part Dat Plur Masc
+V.APPDPN	verb, Aor Pass Part Dat Plur Neut
+V.APPDSF	verb, Aor Pass Part Dat Sing Fem
+V.APPDSM	verb, Aor Pass Part Dat Sing Masc
+V.APPGPM	verb, Aor Pass Part Gen Plur Masc
+V.APPGPN	verb, Aor Pass Part Gen Plur Neut
+V.APPGSF	verb, Aor Pass Part Gen Sing Fem
+V.APPGSM	verb, Aor Pass Part Gen Sing Masc
+V.APPGSN	verb, Aor Pass Part Gen Sing Neut
+V.APPNPF	verb, Aor Pass Part Nom Plur Fem
+V.APPNPM	verb, Aor Pass Part Nom Plur Masc
+V.APPNPN	verb, Aor Pass Part Nom Plur Neut
+V.APPNSF	verb, Aor Pass Part Nom Sing Fem
+V.APPNSM	verb, Aor Pass Part Nom Sing Masc
+V.APPNSN	verb, Aor Pass Part Nom Sing Neut
+V.APPVSF	verb, Aor Pass Part Voc Sing Fem
+V.APS1P	verb, Aor Pass Subj 1st Plur
+V.APS1S	verb, Aor Pass Subj 1st Sing
+V.APS2P	verb, Aor Pass Subj 2nd Plur
+V.APS2S	verb, Aor Pass Subj 2nd Sing
+V.APS3P	verb, Aor Pass Subj 3rd Plur
+V.APS3S	verb, Aor Pass Subj 3rd Sing
+V.FAD2S	verb, Fut Act Imperative 2nd Sing
+V.FAI1P	verb, Fut Act Ind 1st Plur
+V.FAI1S	verb, Fut Act Ind 1st Sing
+V.FAI2P	verb, Fut Act Ind 2nd Plur
+V.FAI2S	verb, Fut Act Ind 2nd Sing
+V.FAI3P	verb, Fut Act Ind 3rd Plur
+V.FAI3S	verb, Fut Act Ind 3rd Sing
+V.FAN	verb, Fut Act Infin
+V.FAO3P	verb, Fut Act Opt 3rd Plur
+V.FAO3S	verb, Fut Act Opt 3rd Sing
+V.FAPAPM	verb, Fut Act Part Acc Plur Masc
+V.FAPASM	verb, Fut Act Part Acc Sing Masc
+V.FAPASN	verb, Fut Act Part Acc Sing Neut
+V.FAPNPM	verb, Fut Act Part Nom Plur Masc
+V.FAPNSF	verb, Fut Act Part Nom Sing Fem
+V.FAPNSM	verb, Fut Act Part Nom Sing Masc
+V.FAPNSN	verb, Fut Act Part Nom Sing Neut
+V.FAS1S	verb, Fut Act Subj 1st Sing
+V.FMD2P	verb, Fut Mid Imperative 2nd Plur
+V.FMI1P	verb, Fut Mid Ind 1st Plur
+V.FMI1S	verb, Fut Mid Ind 1st Sing
+V.FMI2P	verb, Fut Mid Ind 2nd Plur
+V.FMI2S	verb, Fut Mid Ind 2nd Sing
+V.FMI3P	verb, Fut Mid Ind 3rd Plur
+V.FMI3S	verb, Fut Mid Ind 3rd Sing
+V.FMN	verb, Fut Mid Infin
+V.FMO1P	verb, Fut Mid Opt 1st Plur
+V.FMO3S	verb, Fut Mid Opt 3rd Sing
+V.FMPAPM	verb, Fut Mid Part Acc Plur Masc
+V.FMPAPN	verb, Fut Mid Part Acc Plur Neut
+V.FMPASF	verb, Fut Mid Part Acc Sing Fem
+V.FMPASM	verb, Fut Mid Part Acc Sing Masc
+V.FMPASN	verb, Fut Mid Part Acc Sing Neut
+V.FMPGPN	verb, Fut Mid Part Gen Plur Neut
+V.FMPGSF	verb, Fut Mid Part Gen Sing Fem
+V.FMPGSM	verb, Fut Mid Part Gen Sing Masc
+V.FMPNPN	verb, Fut Mid Part Nom Plur Neut
+V.FMPNSM	verb, Fut Mid Part Nom Sing Masc
+V.FMPNSN	verb, Fut Mid Part Nom Sing Neut
+V.FMS2S	verb, Fut Mid Subj 2nd Sing
+V.FPI1P	verb, Fut Pass Ind 1st Plur
+V.FPI1S	verb, Fut Pass Ind 1st Sing
+V.FPI2P	verb, Fut Pass Ind 2nd Plur
+V.FPI2S	verb, Fut Pass Ind 2nd Sing
+V.FPI3P	verb, Fut Pass Ind 3rd Plur
+V.FPI3S	verb, Fut Pass Ind 3rd Sing
+V.FPN	verb, Fut Pass Infin
+V.FPPAPF	verb, Fut Pass Part Acc Plur Fem
+V.FPPAPM	verb, Fut Pass Part Acc Plur Masc
+V.FPPAPN	verb, Fut Pass Part Acc Plur Neut
+V.FPPDPM	verb, Fut Pass Part Dat Plur Masc
+V.FPPDPN	verb, Fut Pass Part Dat Plur Neut
+V.FPPDSM	verb, Fut Pass Part Dat Sing Masc
+V.FPPGPM	verb, Fut Pass Part Gen Plur Masc
+V.FPPNPM	verb, Fut Pass Part Nom Plur Masc
+V.FPPNSM	verb, Fut Pass Part Nom Sing Masc
+V.FPPNSN	verb, Fut Pass Part Nom Sing Neut
+V.FPS2S	verb, Fut Pass Subj 2nd Sing
+V.FPS3P	verb, Fut Pass Subj 3rd Plur
+V.IAI1P	verb, Imperf Act Ind 1st Plur
+V.IAI1S	verb, Imperf Act Ind 1st Sing
+V.IAI2P	verb, Imperf Act Ind 2nd Plur
+V.IAI2S	verb, Imperf Act Ind 2nd Sing
+V.IAI3P	verb, Imperf Act Ind 3rd Plur
+V.IAI3S	verb, Imperf Act Ind 3rd Sing
+V.IAS2P	verb, Imperf Act Subj 2nd Plur
+V.IAS2S	verb, Imperf Act Subj 2nd Sing
+V.IMI1P	verb, Imperf Mid Ind 1st Plur
+V.IMI1S	verb, Imperf Mid Ind 1st Sing
+V.IMI2P	verb, Imperf Mid Ind 2nd Plur
+V.IMI2S	verb, Imperf Mid Ind 2nd Sing
+V.IMI3P	verb, Imperf Mid Ind 3rd Plur
+V.IMI3S	verb, Imperf Mid Ind 3rd Sing
+V.IPI3P	verb, Imperf Pass Ind 3rd Plur
+V.IPI3S	verb, Imperf Pass Ind 3rd Sing
+V.PAD2P	verb, Pres Act Imperative 2nd Plur
+V.PAD2S	verb, Pres Act Imperative 2nd Sing
+V.PAD3P	verb, Pres Act Imperative 3rd Plur
+V.PAD3S	verb, Pres Act Imperative 3rd Sing
+V.PAI	verb, Pres Act Ind
+V.PAI1P	verb, Pres Act Ind 1st Plur
+V.PAI1S	verb, Pres Act Ind 1st Sing
+V.PAI2P	verb, Pres Act Ind 2nd Plur
+V.PAI2S	verb, Pres Act Ind 2nd Sing
+V.PAI3P	verb, Pres Act Ind 3rd Plur
+V.PAI3S	verb, Pres Act Ind 3rd Sing
+V.PAN	verb, Pres Act Infin
+V.PAO1S	verb, Pres Act Opt 1st Sing
+V.PAO2P	verb, Pres Act Opt 2nd Plur
+V.PAO3P	verb, Pres Act Opt 3rd Plur
+V.PAO3S	verb, Pres Act Opt 3rd Sing
+V.PAPAPF	verb, Pres Act Part Acc Plur Fem
+V.PAPAPM	verb, Pres Act Part Acc Plur Masc
+V.PAPAPN	verb, Pres Act Part Acc Plur Neut
+V.PAPASF	verb, Pres Act Part Acc Sing Fem
+V.PAPASM	verb, Pres Act Part Acc Sing Masc
+V.PAPASN	verb, Pres Act Part Acc Sing Neut
+V.PAPDPF	verb, Pres Act Part Dat Plur Fem
+V.PAPDPM	verb, Pres Act Part Dat Plur Masc
+V.PAPDPN	verb, Pres Act Part Dat Plur Neut
+V.PAPDSF	verb, Pres Act Part Dat Sing Fem
+V.PAPDSM	verb, Pres Act Part Dat Sing Masc
+V.PAPDSN	verb, Pres Act Part Dat Sing Neut
+V.PAPGPF	verb, Pres Act Part Gen Plur Fem
+V.PAPGPM	verb, Pres Act Part Gen Plur Masc
+V.PAPGPN	verb, Pres Act Part Gen Plur Neut
+V.PAPGSF	verb, Pres Act Part Gen Sing Fem
+V.PAPGSM	verb, Pres Act Part Gen Sing Masc
+V.PAPGSN	verb, Pres Act Part Gen Sing Neut
+V.PAPNPF	verb, Pres Act Part Nom Plur Fem
+V.PAPNPM	verb, Pres Act Part Nom Plur Masc
+V.PAPNPN	verb, Pres Act Part Nom Plur Neut
+V.PAPNSF	verb, Pres Act Part Nom Sing Fem
+V.PAPNSM	verb, Pres Act Part Nom Sing Masc
+V.PAPNSN	verb, Pres Act Part Nom Sing Neut
+V.PAPVPM	verb, Pres Act Part Voc Plur Masc
+V.PAPVSF	verb, Pres Act Part Voc Sing Fem
+V.PAPVSM	verb, Pres Act Part Voc Sing Masc
+V.PAS1P	verb, Pres Act Subj 1st Plur
+V.PAS1S	verb, Pres Act Subj 1st Sing
+V.PAS2P	verb, Pres Act Subj 2nd Plur
+V.PAS2S	verb, Pres Act Subj 2nd Sing
+V.PAS3P	verb, Pres Act Subj 3rd Plur
+V.PAS3S	verb, Pres Act Subj 3rd Sing
+V.PMD2P	verb, Pres Mid Imperative 2nd Plur
+V.PMD2S	verb, Pres Mid Imperative 2nd Sing
+V.PMD3P	verb, Pres Mid Imperative 3rd Plur
+V.PMD3S	verb, Pres Mid Imperative 3rd Sing
+V.PMI1P	verb, Pres Mid Ind 1st Plur
+V.PMI1S	verb, Pres Mid Ind 1st Sing
+V.PMI2P	verb, Pres Mid Ind 2nd Plur
+V.PMI2S	verb, Pres Mid Ind 2nd Sing
+V.PMI3P	verb, Pres Mid Ind 3rd Plur
+V.PMI3S	verb, Pres Mid Ind 3rd Sing
+V.PMN	verb, Pres Mid Infin
+V.PMO1S	verb, Pres Mid Opt 1st Sing
+V.PMO2S	verb, Pres Mid Opt 2nd Sing
+V.PMO3P	verb, Pres Mid Opt 3rd Plur
+V.PMO3S	verb, Pres Mid Opt 3rd Sing
+V.PMP3P	verb, Pres Mid Part 3rd Plur
+V.PMPAPF	verb, Pres Mid Part Acc Plur Fem
+V.PMPAPM	verb, Pres Mid Part Acc Plur Masc
+V.PMPAPN	verb, Pres Mid Part Acc Plur Neut
+V.PMPASF	verb, Pres Mid Part Acc Sing Fem
+V.PMPASM	verb, Pres Mid Part Acc Sing Masc
+V.PMPASN	verb, Pres Mid Part Acc Sing Neut
+V.PMPDPF	verb, Pres Mid Part Dat Plur Fem
+V.PMPDPM	verb, Pres Mid Part Dat Plur Masc
+V.PMPDPN	verb, Pres Mid Part Dat Plur Neut
+V.PMPDSF	verb, Pres Mid Part Dat Sing Fem
+V.PMPDSM	verb, Pres Mid Part Dat Sing Masc
+V.PMPDSN	verb, Pres Mid Part Dat Sing Neut
+V.PMPGPF	verb, Pres Mid Part Gen Plur Fem
+V.PMPGPM	verb, Pres Mid Part Gen Plur Masc
+V.PMPGPN	verb, Pres Mid Part Gen Plur Neut
+V.PMPGSF	verb, Pres Mid Part Gen Sing Fem
+V.PMPGSM	verb, Pres Mid Part Gen Sing Masc
+V.PMPGSN	verb, Pres Mid Part Gen Sing Neut
+V.PMPNDM	verb, Pres Mid Part Nom Dual Masc
+V.PMPNPF	verb, Pres Mid Part Nom Plur Fem
+V.PMPNPM	verb, Pres Mid Part Nom Plur Masc
+V.PMPNPN	verb, Pres Mid Part Nom Plur Neut
+V.PMPNSF	verb, Pres Mid Part Nom Sing Fem
+V.PMPNSM	verb, Pres Mid Part Nom Sing Masc
+V.PMPNSN	verb, Pres Mid Part Nom Sing Neut
+V.PMPVPM	verb, Pres Mid Part Voc Plur Masc
+V.PMPVPN	verb, Pres Mid Part Voc Plur Neut
+V.PMPVSM	verb, Pres Mid Part Voc Sing Masc
+V.PMS1P	verb, Pres Mid Subj 1st Plur
+V.PMS1S	verb, Pres Mid Subj 1st Sing
+V.PMS2P	verb, Pres Mid Subj 2nd Plur
+V.PMS2S	verb, Pres Mid Subj 2nd Sing
+V.PMS3P	verb, Pres Mid Subj 3rd Plur
+V.PMS3S	verb, Pres Mid Subj 3rd Sing
+V.PPD2S	verb, Pres Pass Imperative 2nd Sing
+V.PPD3P	verb, Pres Pass Imperative 3rd Plur
+V.PPD3S	verb, Pres Pass Imperative 3rd Sing
+V.PPI1P	verb, Pres Pass Ind 1st Plur
+V.PPI1S	verb, Pres Pass Ind 1st Sing
+V.PPI2P	verb, Pres Pass Ind 2nd Plur
+V.PPI2S	verb, Pres Pass Ind 2nd Sing
+V.PPI3P	verb, Pres Pass Ind 3rd Plur
+V.PPI3S	verb, Pres Pass Ind 3rd Sing
+V.PPN	verb, Pres Pass Infin
+V.PPPAPF	verb, Pres Pass Part Acc Plur Fem
+V.PPPAPM	verb, Pres Pass Part Acc Plur Masc
+V.PPPAPN	verb, Pres Pass Part Acc Plur Neut
+V.PPPASF	verb, Pres Pass Part Acc Sing Fem
+V.PPPASM	verb, Pres Pass Part Acc Sing Masc
+V.PPPASN	verb, Pres Pass Part Acc Sing Neut
+V.PPPDPM	verb, Pres Pass Part Dat Plur Masc
+V.PPPDSM	verb, Pres Pass Part Dat Sing Masc
+V.PPPDSN	verb, Pres Pass Part Dat Sing Neut
+V.PPPGPF	verb, Pres Pass Part Gen Plur Fem
+V.PPPGPM	verb, Pres Pass Part Gen Plur Masc
+V.PPPGPN	verb, Pres Pass Part Gen Plur Neut
+V.PPPGSF	verb, Pres Pass Part Gen Sing Fem
+V.PPPGSM	verb, Pres Pass Part Gen Sing Masc
+V.PPPGSN	verb, Pres Pass Part Gen Sing Neut
+V.PPPNPF	verb, Pres Pass Part Nom Plur Fem
+V.PPPNPM	verb, Pres Pass Part Nom Plur Masc
+V.PPPNPN	verb, Pres Pass Part Nom Plur Neut
+V.PPPNSF	verb, Pres Pass Part Nom Sing Fem
+V.PPPNSM	verb, Pres Pass Part Nom Sing Masc
+V.PPPNSN	verb, Pres Pass Part Nom Sing Neut
+V.PPS2S	verb, Pres Pass Subj 2nd Sing
+V.PPS3S	verb, Pres Pass Subj 3rd Sing
+V.XAD2P	verb, Perf Act Imperative 2nd Plur
+V.XAD2S	verb, Perf Act Imperative 2nd Sing
+V.XAD3P	verb, Perf Act Imperative 3rd Plur
+V.XAD3S	verb, Perf Act Imperative 3rd Sing
+V.XAI1P	verb, Perf Act Ind 1st Plur
+V.XAI1S	verb, Perf Act Ind 1st Sing
+V.XAI2P	verb, Perf Act Ind 2nd Plur
+V.XAI2S	verb, Perf Act Ind 2nd Sing
+V.XAI3P	verb, Perf Act Ind 3rd Plur
+V.XAI3S	verb, Perf Act Ind 3rd Sing
+V.XAN	verb, Perf Act Infin
+V.XAO3S	verb, Perf Act Opt 3rd Sing
+V.XAPAPF	verb, Perf Act Part Acc Plur Fem
+V.XAPAPM	verb, Perf Act Part Acc Plur Masc
+V.XAPAPN	verb, Perf Act Part Acc Plur Neut
+V.XAPASF	verb, Perf Act Part Acc Sing Fem
+V.XAPASM	verb, Perf Act Part Acc Sing Masc
+V.XAPASN	verb, Perf Act Part Acc Sing Neut
+V.XAPDPM	verb, Perf Act Part Dat Plur Masc
+V.XAPDPN	verb, Perf Act Part Dat Plur Neut
+V.XAPDSF	verb, Perf Act Part Dat Sing Fem
+V.XAPDSM	verb, Perf Act Part Dat Sing Masc
+V.XAPDSN	verb, Perf Act Part Dat Sing Neut
+V.XAPGPF	verb, Perf Act Part Gen Plur Fem
+V.XAPGPM	verb, Perf Act Part Gen Plur Masc
+V.XAPGPN	verb, Perf Act Part Gen Plur Neut
+V.XAPGSF	verb, Perf Act Part Gen Sing Fem
+V.XAPGSM	verb, Perf Act Part Gen Sing Masc
+V.XAPGSN	verb, Perf Act Part Gen Sing Neut
+V.XAPNPF	verb, Perf Act Part Nom Plur Fem
+V.XAPNPM	verb, Perf Act Part Nom Plur Masc
+V.XAPNPN	verb, Perf Act Part Nom Plur Neut
+V.XAPNSF	verb, Perf Act Part Nom Sing Fem
+V.XAPNSM	verb, Perf Act Part Nom Sing Masc
+V.XAPNSN	verb, Perf Act Part Nom Sing Neut
+V.XAPVPM	verb, Perf Act Part Voc Plur Masc
+V.XAS2P	verb, Perf Act Subj 2nd Plur
+V.XAS2S	verb, Perf Act Subj 2nd Sing
+V.XAS3P	verb, Perf Act Subj 3rd Plur
+V.XMD2P	verb, Perf Mid Imperative 2nd Plur
+V.XMD3P	verb, Perf Mid Imperative 3rd Plur
+V.XMD3S	verb, Perf Mid Imperative 3rd Sing
+V.XMI1P	verb, Perf Mid Ind 1st Plur
+V.XMI1S	verb, Perf Mid Ind 1st Sing
+V.XMI2P	verb, Perf Mid Ind 2nd Plur
+V.XMI2S	verb, Perf Mid Ind 2nd Sing
+V.XMI3P	verb, Perf Mid Ind 3rd Plur
+V.XMI3S	verb, Perf Mid Ind 3rd Sing
+V.XMN	verb, Perf Mid Infin
+V.XMPAPF	verb, Perf Mid Part Acc Plur Fem
+V.XMPAPM	verb, Perf Mid Part Acc Plur Masc
+V.XMPAPN	verb, Perf Mid Part Acc Plur Neut
+V.XMPASF	verb, Perf Mid Part Acc Sing Fem
+V.XMPASM	verb, Perf Mid Part Acc Sing Masc
+V.XMPASN	verb, Perf Mid Part Acc Sing Neut
+V.XMPDPF	verb, Perf Mid Part Dat Plur Fem
+V.XMPDPM	verb, Perf Mid Part Dat Plur Masc
+V.XMPDPN	verb, Perf Mid Part Dat Plur Neut
+V.XMPDSF	verb, Perf Mid Part Dat Sing Fem
+V.XMPDSM	verb, Perf Mid Part Dat Sing Masc
+V.XMPDSN	verb, Perf Mid Part Dat Sing Neut
+V.XMPGPF	verb, Perf Mid Part Gen Plur Fem
+V.XMPGPM	verb, Perf Mid Part Gen Plur Masc
+V.XMPGPN	verb, Perf Mid Part Gen Plur Neut
+V.XMPGSF	verb, Perf Mid Part Gen Sing Fem
+V.XMPGSM	verb, Perf Mid Part Gen Sing Masc
+V.XMPGSN	verb, Perf Mid Part Gen Sing Neut
+V.XMPNPF	verb, Perf Mid Part Nom Plur Fem
+V.XMPNPM	verb, Perf Mid Part Nom Plur Masc
+V.XMPNPN	verb, Perf Mid Part Nom Plur Neut
+V.XMPNSF	verb, Perf Mid Part Nom Sing Fem
+V.XMPNSM	verb, Perf Mid Part Nom Sing Masc
+V.XMPNSN	verb, Perf Mid Part Nom Sing Neut
+V.XMPVPM	verb, Perf Mid Part Voc Plur Masc
+V.XMPVSF	verb, Perf Mid Part Voc Sing Fem
+V.XMPVSM	verb, Perf Mid Part Voc Sing Masc
+V.XPD3P	verb, Perf Pass Imperative 3rd Plur
+V.XPI1P	verb, Perf Pass Ind 1st Plur
+V.XPI1S	verb, Perf Pass Ind 1st Sing
+V.XPI2S	verb, Perf Pass Ind 2nd Sing
+V.XPI3P	verb, Perf Pass Ind 3rd Plur
+V.XPI3S	verb, Perf Pass Ind 3rd Sing
+V.XPN	verb, Perf Pass Infin
+V.XPP2S	verb, Perf Pass Ind 2nd Sing
+V.XPPAPF	verb, Perf Pass Part Acc Plur Fem
+V.XPPAPM	verb, Perf Pass Part Acc Plur Masc
+V.XPPAPN	verb, Perf Pass Part Acc Plur Neut
+V.XPPASF	verb, Perf Pass Part Acc Sing Fem
+V.XPPASM	verb, Perf Pass Part Acc Sing Masc
+V.XPPASN	verb, Perf Pass Part Acc Sing Neut
+V.XPPDPF	verb, Perf Pass Part Dat Plur Fem
+V.XPPDPM	verb, Perf Pass Part Dat Plur Masc
+V.XPPDSF	verb, Perf Pass Part Dat Sing Fem
+V.XPPDSM	verb, Perf Pass Part Dat Sing Masc
+V.XPPDSN	verb, Perf Pass Part Dat Sing Neut
+V.XPPGPF	verb, Perf Pass Part Gen Plur Fem
+V.XPPGPM	verb, Perf Pass Part Gen Plur Masc
+V.XPPGPN	verb, Perf Pass Part Gen Plur Neut
+V.XPPGSF	verb, Perf Pass Part Gen Sing Fem
+V.XPPGSM	verb, Perf Pass Part Gen Sing Masc
+V.XPPGSN	verb, Perf Pass Part Gen Sing Neut
+V.XPPNPF	verb, Perf Pass Part Nom Plur Fem
+V.XPPNPM	verb, Perf Pass Part Nom Plur Masc
+V.XPPNPN	verb, Perf Pass Part Nom Plur Neut
+V.XPPNSF	verb, Perf Pass Part Nom Sing Fem
+V.XPPNSM	verb, Perf Pass Part Nom Sing Masc
+V.XPPNSN	verb, Perf Pass Part Nom Sing Neut
+V.XPS3S	verb, Perf Pass Subj 3rd Sing
+V.YAI1P	verb, Pluperf Act Ind 1st Plur
+V.YAI1S	verb, Pluperf Act Ind 1st Sing
+V.YAI2P	verb, Pluperf Act Ind 2nd Plur
+V.YAI2S	verb, Pluperf Act Ind 2nd Sing
+V.YAI3P	verb, Pluperf Act Ind 3rd Plur
+V.YAI3S	verb, Pluperf Act Ind 3rd Sing
+V.YMI1S	verb, Pluperf Mid Ind 1st Sing
+V.YMI3P	verb, Pluperf Mid Ind 3rd Plur
+V.YMI3S	verb, Pluperf Mid Ind 3rd Sing
+V.YMPASN	verb, Pluperf Mid Part Acc Sing Neut
+V.YMPNPM	verb, Pluperf Mid Part Nom Plur Masc
+V.YMPNSM	verb, Pluperf Mid Part Nom Sing Masc
+V.YMPNSN	verb, Pluperf Mid Part Nom Sing Neut
+V.YPI3S	verb, Pluperf Pass Ind 3rd Sing
+V.ZMI3S	verb, Fut Pass Ind 3rd Sing
+X	particle
