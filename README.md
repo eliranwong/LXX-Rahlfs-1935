@@ -12,10 +12,11 @@
 06. generate a dataset on English gloss for the whole text<br />
 07. integrate data on Strong's number available at <a href='https://github.com/openscriptures/GreekResources'>Open Scriptures Septuagint Project</a><br />
 08. work out differences between LXX and KJV versifications<br />
-09. compile a LXX analytical lexicon based on all data available in this repository<br />
+09a. compile a LXX analytical lexicon based on all data available in this repository<br />
+09b. bridging lexeme data between Septuagint (LXX-Rahlfs-1935) and Greek New Testament (SBLGNT)<br />
+10. create end-users file for use in bible software(s) / application(s)<br />
 - relate CCAT data with ETCBC data on Hebrew bible<br />
 - generate a sqlite database<br />
-- create end-users file for use in bible software(s) / application(s)<br />
 <br />
 <b>License:</b><br />
 main text used in this project is a derivative work sourced from website below:<br /> http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/<br />
