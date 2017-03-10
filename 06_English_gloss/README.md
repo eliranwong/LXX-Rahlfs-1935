@@ -7,7 +7,7 @@ There are no more than two meanings are selected for each Greek word, where ther
 Therefore, users have to be aware that the set of glossaries here is for quick reference only.  
 Please consult full entries in related lexicons for further study.<br>
 <br>
-In case someone interested in how this set of glossary come from, building blocks of its development are listed below:<br>
+In case someone is interested in how this set of glossary come from, building blocks of its development are listed below:<br>
 <br>
 1. started with brief definitions for some (not all) Greek words in <a href='https://github.com/openscriptures/GreekResources'>Open Scripture Septuagint Project</a>.<br>
 2. glossaries taken from LJS, MLJS with based on mapping data in <a href='https://github.com/openscriptures/GreekResources'>Open Scripture Septuagint Project</a>.<br>
