@@ -49,4 +49,4 @@ Special thanks to Robert Kraft and his associate, who spent time to take a look 
 quoted words of Robert Kraft "I see no problem with you working with the public materials, as you have been doing ... much of the CCAT material is also derivative (from TLG, e.g.) and with various permissions (from UBS, e.g.), which deserve to be acknowledged ..."<br />
 TLG - <a href='http://stephanus.tlg.uci.edu/'>THESAURUS LINGUAE GRAECAE</a><br />
 UBS - <a href='https://www.unitedbiblesocieties.org/'>United Bible Societies</a><br />
-Special thanks to Jonathan Robie, who advise on license matter and advertise this repository at his <a href='http://biblicalhumanities.org/dashboard/'>dashboard</a>.
+Special thanks to Jonathan Robie, who advised on licensing and listed this repository at <a href='http://biblicalhumanities.org/dashboard/'>the biblicalhumanities dashboard</a>.
