@@ -21,12 +21,12 @@
 <b>A derivative work based on CCAT data:</b><br />
 main text used in this project is a derivative work sourced from website below:<br /> http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/<br />
 <br />
-As a measure to control access of data related to CCAT materials, readers have to agree sending CCAT user declaration before downloading any data from this repository.  Please do not download if you do not agree.
-<br /><br />
 Due to the restrictive nature of the CCAT license, the original text
 of the Septuagint (in betacode format) may be downloaded from the CCAT website
 [here](http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/).<br />
 <br />
+As a measure to control access of data related to CCAT materials, readers have to agree sending CCAT user declaration before downloading any data from this repository.  Please do not download if you do not agree.
+<br /><br />
 Please read below for descriptions on original materials:<br />
 <br />
 CATSS LXX = The computer form prepared by the TLG (Thesaurus 
