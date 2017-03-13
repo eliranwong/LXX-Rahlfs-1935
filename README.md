@@ -50,5 +50,5 @@ quoted words of Robert Kraft "I see no problem with you working with the public 
 TLG - <a href='http://stephanus.tlg.uci.edu/'>THESAURUS LINGUAE GRAECAE</a><br />
 UBS - <a href='https://www.unitedbiblesocieties.org/'>United Bible Societies</a><br />
 Special thanks to Jonathan Robie, who advised on licensing and listed this repository at <a href='http://biblicalhumanities.org/dashboard/'>the biblicalhumanities dashboard</a>.<br />
-Special thanks to <a href='http://jtauber.com'>James Tauber</a>, who is working on <a href='https://github.com/jtauber/greek-inflexion/tree/lxx'>corrections of morphology of LXX</a>.<br />
+Special thanks to <a href='http://jtauber.com'>James Tauber</a>, who is working on <a href='https://github.com/jtauber/greek-inflexion/tree/lxx'>corrections of LXX morphology</a>.<br />
 Special thanks to David Troidl, who shares data on Septuagint at <a href='https://github.com/openscriptures/GreekResources'>Open Scriptures Septuagint Project</a>.
