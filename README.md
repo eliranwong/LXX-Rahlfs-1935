@@ -45,7 +45,7 @@ http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/0-user-declarat
 <br />
 <br />
 <b>Acknowledgments:</b><br />
-Special thanks to Robert Kraft and his associate, who spent time to take a look at this website and advise on acknowledgements.<br />
+Special thanks to <a href='http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/'>Robert Kraft</a> and his associate, who spent time to take a look at this website and advise on acknowledgements.<br />
 quoted words of Robert Kraft "I see no problem with you working with the public materials, as you have been doing ... much of the CCAT material is also derivative (from TLG, e.g.) and with various permissions (from UBS, e.g.), which deserve to be acknowledged ..."<br />
 TLG - <a href='http://stephanus.tlg.uci.edu/'>THESAURUS LINGUAE GRAECAE</a><br />
 UBS - <a href='https://www.unitedbiblesocieties.org/'>United Bible Societies</a><br />
