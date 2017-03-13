@@ -18,7 +18,7 @@
 - relate CCAT data with ETCBC data on Hebrew bible<br />
 - generate a sqlite database<br />
 <br />
-<b>License:</b><br />
+<b>A derivative work based on CCAT data:</b><br />
 main text used in this project is a derivative work sourced from website below:<br /> http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/<br />
 <br />
 As a measure to control access of data related to CCAT materials, readers have to agree sending CCAT user declaration before downloading any data from this repository.  Please do not download if you do not agree.
