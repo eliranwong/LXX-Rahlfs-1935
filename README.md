@@ -36,8 +36,17 @@ of California, Irvine, with further verification and adaptation
 Gšttingen editions that have appeared since 1935. <br />
 <br />
 LXXM = The morphologically analyzed text of CATSS LXX prepared by CATSS
-under the direction of R. Kraft (Philadelphia team). <br />
+under the direction of R. Kraft (Philadelphia team).
+<br />
 <br />
 <b>Requirement for use of original CATSS data:</b><br />
 users or receiptents of original CATSS data have to fill in user declaration available in CATSS website listed below and send to CATSS:<br />
 http://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/0-user-declaration.txt
+<br />
+<br />
+<b>Acknowledgments:</b><br />
+Special thanks to Robert Kraft and his associate, who spent time to take a look at this website and advise on acknowledgements.<br />
+quoted words from Robert Kraft "I see no problem with you working with the public materials, as you have been doing ... much of the CCAT material is also derivative (from TLG, e.g.) and with various permissions (from UBS, e.g.), which deserve to be acknowledged ..."<br />
+TLG - <a href='http://stephanus.tlg.uci.edu/'>THESAURUS LINGUAE GRAECAE</a><br />
+UBS - <a href='https://www.unitedbiblesocieties.org/'>United Bible Societies</a><br />
+Special thanks to Jonathan Robie, who advise on license matter and advertise this repository at his <a href='http://biblicalhumanities.org/dashboard/'>dashboard</a>.
