@@ -1,0 +1,54 @@
+#ccccff	10	Gen	Genesis
+#ccccff	20	Exod	Exodus
+#ccccff	30	Lev	Leviticus
+#ccccff	40	Num	Numbers
+#ccccff	50	Deut	Deuteronomy
+#ffcc99	60	JoshB	Joshua B
+#ffcc99	70	JudgB	Judges B
+#ffcc99	80	Ruth	Ruth
+#ffcc99	90	1Sam	1 Samuel (1 Kingdoms)
+#ffcc99	100	2Sam	2 Samuel (2 Kingdoms)
+#ffcc99	110	1Kgs	1 Kings (3 Kingdoms)
+#ffcc99	120	2Kgs	2 Kings (4 Kingdoms)
+#ffcc99	130	1Chr	1 Chronicles
+#ffcc99	140	2Chr	2 Chronicles
+#ffcc99	150	Ezra	Ezra (Esdras B/II: 1-10)
+#ffcc99	160	Neh	Nehemiah (Esdras B/II: 11-23)
+#ffcc99	190	Esth	Esther (with additions)
+#66ff99	220	Job	Job
+#66ff99	230	Ps	Psalms
+#66ff99	240	Prov	Proverbs
+#66ff99	250	Qoh	Ecclesiastes (Preacher)
+#66ff99	260	Cant	Canticle (Song of Solomon)
+#ff9fb4	290	Isa	Isaiah
+#ff9fb4	300	Jer	Jeremiah
+#ff9fb4	310	Lam	Lamentations (Threni)
+#ff9fb4	330	Ezek	Ezekiel
+#ff9fb4	340	DanOG	Daniel LXX
+#ffff99	350	Hos	Hosea
+#ffff99	360	Joel	Joel
+#ffff99	370	Amos	Amos
+#ffff99	380	Obad	Obadiah
+#ffff99	390	Jonah	Jonah
+#ffff99	400	Mic	Micah
+#ffff99	410	Nah	Nahum
+#ffff99	420	Hab	Habakkuk
+#ffff99	430	Zeph	Zephaniah
+#ffff99	440	Hag	Haggai
+#ffff99	450	Zech	Zechariah
+#ffff99	460	Mal	Malachi
+#C0C0C0	165	1Esdr	Esdras A/I
+#C0C0C0	170	TobBA	Tobit BA
+#C0C0C0	180	Jdt	Judith
+#C0C0C0	232	PsSol	Psalms of Solomon
+#C0C0C0	462	1Mac	I Maccabees
+#C0C0C0	464	2Mac	II Maccabees
+#C0C0C0	466	3Mac	III Maccabees
+#C0C0C0	467	4Mac	IV Maccabees
+#C0C0C0	270	Wis	Wisdom of Solomon
+#C0C0C0	280	Sir	Wisdom of Sirach
+#C0C0C0	315	EpJer	Epistle of Jeremiah
+#C0C0C0	320	Bar	Baruch
+#C0C0C0	325	SusOG	Susanna LXX
+#C0C0C0	345	BelOG	Bel LXX
+#C0C0C0	800	Od	Odes

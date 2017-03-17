@@ -14,7 +14,8 @@
 08. work out differences between LXX and KJV versifications<br />
 09a. compile a LXX analytical lexicon based on all data available in this repository<br />
 09b. bridging lexeme data between Septuagint (LXX-Rahlfs-1935) and Greek New Testament (SBLGNT)<br />
-10. create end-users file for use in bible software(s) / application(s)<br />
+10. clause annotations<br />
+11. create end-users file for use in bible software(s) / application(s)<br />
 - relate CCAT data with ETCBC data on Hebrew bible<br />
 - generate a sqlite database<br />
 <br />
